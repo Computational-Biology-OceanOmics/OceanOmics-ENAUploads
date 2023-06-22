@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="receipt.xsl"?>
+<RECEIPT receiptDate="2023-06-20T05:48:27.269+01:00" submissionFile="submission.xml" success="true">
+     <PROJECT accession="PRJEB63306" alias="OceanOmics" status="PUBLIC"/>
+     <SUBMISSION accession="ERA24206281" alias="SUBMISSION-20-06-2023-05:48:27:149"/>
+     <MESSAGES>
+          <INFO>All objects in this submission are set to public status (RELEASE).</INFO>
+     </MESSAGES>
+     <ACTIONS>ADD</ACTIONS>
+     <ACTIONS>RELEASE</ACTIONS>
+</RECEIPT>
