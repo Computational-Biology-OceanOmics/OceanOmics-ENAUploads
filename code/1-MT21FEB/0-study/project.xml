@@ -1,0 +1,9 @@
+<PROJECT_SET>
+   <PROJECT alias="MT21FEB">
+      <TITLE>FLO-OceanOmics Montebello Islands eDNA sequencing</TITLE>
+      <DESCRIPTION>Sequencing eDNA (partial 12S rRNA and 16S rRNA) from water samples around the Montebello Islands. When using this data, please acknowledge the Minderoo Foundation using this text in your Acknowledgments section: 'We would like to thank the Minderoo Foundation for sequencing reads deposited in (Project ID)'.</DESCRIPTION>
+      <SUBMISSION_PROJECT>
+         <SEQUENCING_PROJECT/>
+      </SUBMISSION_PROJECT>
+   </PROJECT>
+</PROJECT_SET>
