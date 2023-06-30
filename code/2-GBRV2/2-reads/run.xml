@@ -1,0 +1,981 @@
+<RUN_SET>
+	<RUN alias="run_16S_1_1D">
+		<EXPERIMENT_REF refname="16S_1_1D"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="1_1D_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="d6c523ecd962dc23d937566809fa6b77"/>
+				<FILE filename="1_1D_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="d2c84da29d13541428f2e959dbb74b97"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_1_1S">
+		<EXPERIMENT_REF refname="16S_1_1S"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="1_1S_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="8d40d9faa28f39e6c595d4d7a8d6c5bb"/>
+				<FILE filename="1_1S_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="029d6ff6241e13a2f80d98d39380f3af"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_1_2D">
+		<EXPERIMENT_REF refname="16S_1_2D"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="1_2D_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="d78fc458e1779fc2a555620000d70da7"/>
+				<FILE filename="1_2D_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="babd7d37c5d8c75eb4f012c6bd650fdd"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_1_2S">
+		<EXPERIMENT_REF refname="16S_1_2S"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="1_2S_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="771427012599065fa92a799d54a55ab6"/>
+				<FILE filename="1_2S_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="928a560de77c882bdf5a4cba3ad9aec7"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_1_3D">
+		<EXPERIMENT_REF refname="16S_1_3D"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="1_3D_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="8406937c370bda377b72c8f800bdc441"/>
+				<FILE filename="1_3D_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="1b4271ced5b072ec2f37195567e56de0"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_1_3S">
+		<EXPERIMENT_REF refname="16S_1_3S"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="1_3S_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="e7909a5987319d7f6ece276a55069eb7"/>
+				<FILE filename="1_3S_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="4601fddff85e5afcec47c78ae1d7290e"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_1_4D">
+		<EXPERIMENT_REF refname="16S_1_4D"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="1_4D_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="4114033e2e4799d396d01436a5ca6bbd"/>
+				<FILE filename="1_4D_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="1f74d580d66731cb58daa73459aa6eaf"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_1_4S">
+		<EXPERIMENT_REF refname="16S_1_4S"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="1_4S_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="157e259acaf985c2eba08996b0f732f6"/>
+				<FILE filename="1_4S_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="fd99892a55b2e9fceed0258d8526f606"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_10_1D">
+		<EXPERIMENT_REF refname="16S_10_1D"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="10_1D_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="2446040e2e80d8596534373ab4f30dbd"/>
+				<FILE filename="10_1D_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="b86f804398e8c75e4fa10a3403fd9bb9"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_10_1S">
+		<EXPERIMENT_REF refname="16S_10_1S"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="10_1S_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="0daf4a9fcd88cad72876a848ce8725fc"/>
+				<FILE filename="10_1S_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="b721e78ce6e683c7b84bdaf1c80b9454"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_10_2D">
+		<EXPERIMENT_REF refname="16S_10_2D"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="10_2D_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="f690ab214803fce4c97ea3e33dcbb3a1"/>
+				<FILE filename="10_2D_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="7e9f9bce68fb2a8ba74a2c098a801691"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_10_2S">
+		<EXPERIMENT_REF refname="16S_10_2S"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="10_2S_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="2934e818875aa395344d94d5f36a4813"/>
+				<FILE filename="10_2S_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="6480242bbc15b7df0a625c60ab9aabd9"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_10_3D">
+		<EXPERIMENT_REF refname="16S_10_3D"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="10_3D_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="cb18d65d45fa0bfc278c575b2018dabf"/>
+				<FILE filename="10_3D_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="2637b6e06b0bfdd0f6fc9be5d27bb399"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_10_3S">
+		<EXPERIMENT_REF refname="16S_10_3S"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="10_3S_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="d58ee9764410294ca1da96834836936b"/>
+				<FILE filename="10_3S_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="258fe4f12d9a7e3601e4b9eb5e408cbb"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_10_4S">
+		<EXPERIMENT_REF refname="16S_10_4S"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="10_4S_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="35279df6ddfa27878eaa919f2491c41c"/>
+				<FILE filename="10_4S_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="8cd1a4ddf5f04780a516a753fc05f828"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_11_1D">
+		<EXPERIMENT_REF refname="16S_11_1D"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="11_1D_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="9d642d4e66ed6d40b278f48394ae8cd2"/>
+				<FILE filename="11_1D_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="1706867c2968294d1cef6190b5b9f3e8"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_11_1S">
+		<EXPERIMENT_REF refname="16S_11_1S"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="11_1S_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="cc73d99ca224c601402a77823c631708"/>
+				<FILE filename="11_1S_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="47d01f77bb18b4b0bdeb55bfa74219e4"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_11_2D">
+		<EXPERIMENT_REF refname="16S_11_2D"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="11_2D_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="92109a92854268ed60ccc3167eff0b51"/>
+				<FILE filename="11_2D_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="133a598a79f3b454f47f2eeb5da3802d"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_11_2S">
+		<EXPERIMENT_REF refname="16S_11_2S"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="11_2S_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="c43f5a7c14d03d44cf99089c149bf948"/>
+				<FILE filename="11_2S_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="82e3bbb3569307645efb900f74fb28da"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_11_3D">
+		<EXPERIMENT_REF refname="16S_11_3D"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="11_3D_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="49dde3053ccc608f7f28cc3ada55d2e1"/>
+				<FILE filename="11_3D_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="a1633ae9e22f8fd9edc1637e9efa0d31"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_11_4D">
+		<EXPERIMENT_REF refname="16S_11_4D"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="11_4D_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="a9d965b63a707038784d7e74c38a3225"/>
+				<FILE filename="11_4D_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="9b0d2f5f7fe42872b45252ceb06e1400"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_11_4S">
+		<EXPERIMENT_REF refname="16S_11_4S"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="11_4S_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="e18abcc06af5e76b75ecb5cd8df293bd"/>
+				<FILE filename="11_4S_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="58c60da1cebdc12053d5e2963f502bb5"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_2_1D">
+		<EXPERIMENT_REF refname="16S_2_1D"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="2_1D_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="e7dd040ae870cc35f77fcaca2f0ac9d0"/>
+				<FILE filename="2_1D_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="9523ae73efef2ae0e1acd8d1b390373d"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_2_1S">
+		<EXPERIMENT_REF refname="16S_2_1S"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="2_1S_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="0aecc34c9c45309230582a008d2dccaa"/>
+				<FILE filename="2_1S_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="378df1244f5544e2b7eccc6963b37e89"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_2_2D">
+		<EXPERIMENT_REF refname="16S_2_2D"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="2_2D_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="8f68ddebebd0f19b4f2cda59fe4c7402"/>
+				<FILE filename="2_2D_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="f2768d1170cf09ce41ca3618607eebcf"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_2_2S">
+		<EXPERIMENT_REF refname="16S_2_2S"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="2_2S_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="6d13682101690890b70a46bf8e59ad9f"/>
+				<FILE filename="2_2S_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="8f4d0df679fd3ce8e7079ccd9c2d6f9c"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_2_3D">
+		<EXPERIMENT_REF refname="16S_2_3D"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="2_3D_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="e9cdb8a82570eae5ac0391740f6435bf"/>
+				<FILE filename="2_3D_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="3737a3b3114ac671b3f42e1c72921944"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_2_3S">
+		<EXPERIMENT_REF refname="16S_2_3S"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="2_3S_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="69cf778decdfa25ea6c745fc5d8fd3b1"/>
+				<FILE filename="2_3S_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="5f8e65491535f0c6441688adee8e6cad"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_2_4D">
+		<EXPERIMENT_REF refname="16S_2_4D"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="2_4D_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="7bf87539248f374e30037cfa5951e234"/>
+				<FILE filename="2_4D_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="cf3cbf47bb2dc04a87f2bc63f098c2a6"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_2_4S">
+		<EXPERIMENT_REF refname="16S_2_4S"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="2_4S_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="9645b0279258d57d43a11ac6a273d23a"/>
+				<FILE filename="2_4S_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="8e0d5afdaf19fc23e637bcc498049542"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_3_1D">
+		<EXPERIMENT_REF refname="16S_3_1D"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="3_1D_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="493d2c3c04507a8aa298a794dc2c83fb"/>
+				<FILE filename="3_1D_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="1844fe4b0f29f3d2ba41bd313d8fa9a5"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_3_1S">
+		<EXPERIMENT_REF refname="16S_3_1S"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="3_1S_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="c77ad4ebd1640a0847162856838aaa74"/>
+				<FILE filename="3_1S_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="ecc529143e38af3684038ba9777aa577"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_3_2D">
+		<EXPERIMENT_REF refname="16S_3_2D"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="3_2D_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="c2be78d20ddd45c7587eb36e780a5832"/>
+				<FILE filename="3_2D_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="d36fe3740b994230ffc4a121a39f9e81"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_3_2S">
+		<EXPERIMENT_REF refname="16S_3_2S"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="3_2S_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="df5db0b89348f17f4a9b6d1471cfa2a4"/>
+				<FILE filename="3_2S_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="b36dbe35890bffe476a7aba948bd7215"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_3_3D">
+		<EXPERIMENT_REF refname="16S_3_3D"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="3_3D_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="8f188218b469982d3b8d65460e8e9039"/>
+				<FILE filename="3_3D_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="1d32feda7fa0be0e706383c7df38016d"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_3_3S">
+		<EXPERIMENT_REF refname="16S_3_3S"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="3_3S_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="1d4b8fbf5d8fea85828e62e95fc6cb26"/>
+				<FILE filename="3_3S_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="0b767e5c20f2b53540fd50e384bc70fd"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_3_4D">
+		<EXPERIMENT_REF refname="16S_3_4D"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="3_4D_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="0127d5a10c357046c8c9bbdefde2b0a5"/>
+				<FILE filename="3_4D_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="ef07a4746aa0a36ef3e5350f1b2d0618"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_3_4S">
+		<EXPERIMENT_REF refname="16S_3_4S"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="3_4S_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="2f24c764f1c92a005879a721541356e3"/>
+				<FILE filename="3_4S_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="e3648198d1529691c82a436af6190c1f"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_4_1D">
+		<EXPERIMENT_REF refname="16S_4_1D"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="4_1D_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="08ffae6e62771ba2b0f052bcd0879687"/>
+				<FILE filename="4_1D_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="18b1162c2a8761800c7368ed9057eeed"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_4_1S">
+		<EXPERIMENT_REF refname="16S_4_1S"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="4_1S_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="fb2926278cd9266e576d77e2db55735e"/>
+				<FILE filename="4_1S_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="deb24fef8c1d15b73e7c998699638517"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_4_2D">
+		<EXPERIMENT_REF refname="16S_4_2D"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="4_2D_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="025f2a675c67f6ceecbdf45f788b6d5a"/>
+				<FILE filename="4_2D_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="746231c57d43f6316bec957a169587ef"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_4_2S">
+		<EXPERIMENT_REF refname="16S_4_2S"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="4_2S_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="4878412ac84d2a1b42f9d869030510ac"/>
+				<FILE filename="4_2S_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="bffdec2116fa4ad2719ba532db94df41"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_4_3D">
+		<EXPERIMENT_REF refname="16S_4_3D"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="4_3D_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="e829c98d9f4d3133db1bedf757e15996"/>
+				<FILE filename="4_3D_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="8721c8641ac92a8b7e8db44f0ee26a2b"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_4_3S">
+		<EXPERIMENT_REF refname="16S_4_3S"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="4_3S_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="27588da3738edf26e3d0aa052a32c86d"/>
+				<FILE filename="4_3S_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="006e7bd40b7feba127dff96b3f676d91"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_4_4D">
+		<EXPERIMENT_REF refname="16S_4_4D"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="4_4D_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="c6fdc38c15e6e6f496643adcf6e860eb"/>
+				<FILE filename="4_4D_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="c77183b3f9ea56a459a759397a499a8c"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_4_4S">
+		<EXPERIMENT_REF refname="16S_4_4S"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="4_4S_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="33b6765b16cf1358e987949b6793dee3"/>
+				<FILE filename="4_4S_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="a824f53b6213b39a0cdd60c58f296cfd"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_5_1D">
+		<EXPERIMENT_REF refname="16S_5_1D"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="5_1D_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="3d62fd26553af588d4781f7410adaee9"/>
+				<FILE filename="5_1D_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="f15fd7d90141be4ad899f337b44ff96f"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_5_1S">
+		<EXPERIMENT_REF refname="16S_5_1S"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="5_1S_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="18e34405dd3265c07ddaadb94455b6ba"/>
+				<FILE filename="5_1S_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="00b90f5fa422e3bfd35766b9f58e056d"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_5_2D">
+		<EXPERIMENT_REF refname="16S_5_2D"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="5_2D_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="acde9061f7325d57fcedece0301cca60"/>
+				<FILE filename="5_2D_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="5a5a74a6236758aabdec80db644b355f"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_5_2S">
+		<EXPERIMENT_REF refname="16S_5_2S"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="5_2S_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="b8365ad3f30ed9c3a3a2db6cea4191cd"/>
+				<FILE filename="5_2S_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="b2ae2a43072e8c47607e1adcf44746cf"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_5_3D">
+		<EXPERIMENT_REF refname="16S_5_3D"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="5_3D_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="38c745127ef238ba3e3de525fdadf483"/>
+				<FILE filename="5_3D_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="eef00ea6e01349e258c05c002ccca322"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_5_3S">
+		<EXPERIMENT_REF refname="16S_5_3S"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="5_3S_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="01bb5c34db9f12524761cd84afcf7d83"/>
+				<FILE filename="5_3S_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="7fc684f89d787e593ba4d9ffae44a7cc"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_5_4D">
+		<EXPERIMENT_REF refname="16S_5_4D"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="5_4D_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="e6feefff989041d3d861a91caa80d487"/>
+				<FILE filename="5_4D_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="f3dfa7c1e5d3d3bdaafb069bee333a9b"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_5_4S">
+		<EXPERIMENT_REF refname="16S_5_4S"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="5_4S_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="da5ddf066c7132f57f9793981fde9949"/>
+				<FILE filename="5_4S_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="0ce53623a0873fee3755e3d2dc91ff5d"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_6_1D">
+		<EXPERIMENT_REF refname="16S_6_1D"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="6_1D_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="9c140f5d71c6f4b04e05651e7a4f3603"/>
+				<FILE filename="6_1D_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="73498fc5613ed14fa10427c8cbeb486a"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_6_1S">
+		<EXPERIMENT_REF refname="16S_6_1S"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="6_1S_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="96a4c83a8042a65d1dfa6473a9976106"/>
+				<FILE filename="6_1S_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="fc757709ab3c3102a25a00b357f9c413"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_6_2D">
+		<EXPERIMENT_REF refname="16S_6_2D"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="6_2D_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="58aeb0ed8a683c000c8b07b05acd3c2c"/>
+				<FILE filename="6_2D_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="7d0a41089eade53daecf6f4ffe0eaebb"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_6_2S">
+		<EXPERIMENT_REF refname="16S_6_2S"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="6_2S_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="d4709bb337ed0019be4cb5292fa4095e"/>
+				<FILE filename="6_2S_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="818e490498ccc34c91e51c3d37583f77"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_6_3D">
+		<EXPERIMENT_REF refname="16S_6_3D"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="6_3D_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="82ee70ec5fc6bc76288da4f894cfac91"/>
+				<FILE filename="6_3D_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="08d31f757f1ed258ec56fdcb1c8fccdc"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_6_3S">
+		<EXPERIMENT_REF refname="16S_6_3S"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="6_3S_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="bf755a36ebb8fd9bd1e63c0ca1dc91ae"/>
+				<FILE filename="6_3S_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="6dd074b0fcd118f9ddf0fde25537bbf0"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_6_4D">
+		<EXPERIMENT_REF refname="16S_6_4D"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="6_4D_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="f8c93653a55393607accfa55b0d5d548"/>
+				<FILE filename="6_4D_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="d68c346e74f00ee4811418d2cc61b3d5"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_6_4S">
+		<EXPERIMENT_REF refname="16S_6_4S"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="6_4S_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="3005e72307af5d609e933b33a79a60ea"/>
+				<FILE filename="6_4S_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="7540a88f6cb7e71b15ce2ff79ecc5b3c"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_7_1D">
+		<EXPERIMENT_REF refname="16S_7_1D"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="7_1D_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="c6b7d714cf3ce2b4506eb4df88483a08"/>
+				<FILE filename="7_1D_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="7e7d20e2627b73d2e20b0df3a9bfe781"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_7_1S">
+		<EXPERIMENT_REF refname="16S_7_1S"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="7_1S_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="3b18b3d49f92c394edc1108a4dcc4764"/>
+				<FILE filename="7_1S_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="a1e87b8c14a489e681c5a50a1d7d0aea"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_7_2D">
+		<EXPERIMENT_REF refname="16S_7_2D"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="7_2D_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="cd78a255484effb011f476ed117c7260"/>
+				<FILE filename="7_2D_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="4f7e35b1f43857a6689a172192c41289"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_7_2S">
+		<EXPERIMENT_REF refname="16S_7_2S"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="7_2S_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="2b9eb8a224840a960e164a1cb9a13182"/>
+				<FILE filename="7_2S_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="63e757fa40f987969763ec5fe8008db0"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_7_3D">
+		<EXPERIMENT_REF refname="16S_7_3D"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="7_3D_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="cae1c96164bc3de604937afcb198f885"/>
+				<FILE filename="7_3D_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="f79ab8ae6b597e49d63db704e74e6c58"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_7_3S">
+		<EXPERIMENT_REF refname="16S_7_3S"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="7_3S_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="63f6fce0086c60d2c45a8cb528e44f27"/>
+				<FILE filename="7_3S_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="c943c8538f85586b7369d133581eada1"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_7_4D">
+		<EXPERIMENT_REF refname="16S_7_4D"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="7_4D_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="83727696025dfea238fb76da4a3414a1"/>
+				<FILE filename="7_4D_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="bc2ffbc65b8c3fc2335bb064a53bb327"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_7_4S">
+		<EXPERIMENT_REF refname="16S_7_4S"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="7_4S_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="6579a0d1e385d9372cd58316dbf1b098"/>
+				<FILE filename="7_4S_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="4b3d2bc56b9d890a0414f25d6d9f3d30"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_8_1D">
+		<EXPERIMENT_REF refname="16S_8_1D"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="8_1D_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="ff44e91122e26ebc3e93c5e6bc6041e3"/>
+				<FILE filename="8_1D_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="c7fb822da673f67604b54c443982798e"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_8_1S">
+		<EXPERIMENT_REF refname="16S_8_1S"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="8_1S_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="41530a2d6207959aceebb53a884097fa"/>
+				<FILE filename="8_1S_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="0dcd47bbb7d038ec197fbddf92106e58"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_8_2D">
+		<EXPERIMENT_REF refname="16S_8_2D"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="8_2D_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="ad91599fee1e004dcdbe5a35ff354811"/>
+				<FILE filename="8_2D_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="c9e0216fce8adbab33d36191df091677"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_8_2S">
+		<EXPERIMENT_REF refname="16S_8_2S"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="8_2S_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="041ac51818e294bb69a5669d37b432de"/>
+				<FILE filename="8_2S_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="ba8b848b802c4a0fc6b4d95447946dfe"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_8_3D">
+		<EXPERIMENT_REF refname="16S_8_3D"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="8_3D_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="752db9c7204d44f723eb6ccd3b8162b3"/>
+				<FILE filename="8_3D_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="28146a3404023e8b36515394f1a10a76"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_8_3S">
+		<EXPERIMENT_REF refname="16S_8_3S"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="8_3S_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="1c8de0ffcb1d803893588c14abcfebc8"/>
+				<FILE filename="8_3S_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="ec15db9dc0ef64fc437dfc9785300ebc"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_8_4D">
+		<EXPERIMENT_REF refname="16S_8_4D"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="8_4D_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="e870c8a0855c7f49fcc8109ac678692d"/>
+				<FILE filename="8_4D_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="9f9bc735fbf41b3b359d13f64327c9af"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_8_4S">
+		<EXPERIMENT_REF refname="16S_8_4S"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="8_4S_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="99cf30fa9493956e5ca6036326310be5"/>
+				<FILE filename="8_4S_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="fa4ed2671f3f53a46b71029827053278"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_9_1D">
+		<EXPERIMENT_REF refname="16S_9_1D"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="9_1D_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="7362d75d0d4d0aa792c7ff514052a685"/>
+				<FILE filename="9_1D_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="9ab27db47ba80de26ab02eaecb280173"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_9_1S">
+		<EXPERIMENT_REF refname="16S_9_1S"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="9_1S_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="f3ccfe67edc3231024fcdd08622b9b28"/>
+				<FILE filename="9_1S_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="7c07dff00b7401bc9c1844532d51541d"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_9_2D">
+		<EXPERIMENT_REF refname="16S_9_2D"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="9_2D_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="d4f7aca953b0e1c19ec2030e7b7b218a"/>
+				<FILE filename="9_2D_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="8cd07c272ca9c7dd384efff08ac6f749"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_9_2S">
+		<EXPERIMENT_REF refname="16S_9_2S"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="9_2S_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="7122542285a0038d27d52d66597366d5"/>
+				<FILE filename="9_2S_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="d5f61c8cecc90f36ccc12b2dbea6c059"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_9_3D">
+		<EXPERIMENT_REF refname="16S_9_3D"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="9_3D_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="f807c9a1b5c407501bf6c372c3b13249"/>
+				<FILE filename="9_3D_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="cd6ad5e391a81a1de86f739e4adaffbd"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_9_3S">
+		<EXPERIMENT_REF refname="16S_9_3S"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="9_3S_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="1ae3d72b7a65b7ebede7a609cd9d4855"/>
+				<FILE filename="9_3S_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="cb9823840ae79be68e4eb2cf83e695a2"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_9_4D">
+		<EXPERIMENT_REF refname="16S_9_4D"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="9_4D_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="8c949de96a4a0f058bc5e492f441c628"/>
+				<FILE filename="9_4D_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="5303c2082744c334622febb33487c712"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_9_4S">
+		<EXPERIMENT_REF refname="16S_9_4S"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="9_4S_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="2e6c7bb1afa457ed3c36241c7d3b9acc"/>
+				<FILE filename="9_4S_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="32cb184589b4ca85b8d2376b9a0b5028"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_EBpool">
+		<EXPERIMENT_REF refname="16S_EBpool"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="EBpool_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="a0080b3798b349daef772806a391a6db"/>
+				<FILE filename="EBpool_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="fbb1823bc445e64b0db67922e8a75981"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_FCpool">
+		<EXPERIMENT_REF refname="16S_FCpool"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="FCpool_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="a2824f6285831a577795bae780bb9d66"/>
+				<FILE filename="FCpool_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="b8ef0c4555e543df24743b480c7f390a"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_NTC">
+		<EXPERIMENT_REF refname="16S_NTC"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="NTC_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="e0794212635d81a59a908032748b7908"/>
+				<FILE filename="NTC_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="1b6400ad4040d0a98d5b9bf815b9f52f"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+</RUN_SET>

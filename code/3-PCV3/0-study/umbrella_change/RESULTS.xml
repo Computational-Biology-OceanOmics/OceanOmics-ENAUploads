@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="receipt.xsl"?>
-<RECEIPT receiptDate="2023-06-30T03:41:48.700+01:00" submissionFile="update.xml" success="true">
+<RECEIPT receiptDate="2023-06-30T03:11:28.967+01:00" submissionFile="update.xml" success="true">
      <PROJECT accession="PRJEB63306" alias="OceanOmics" status="PUBLIC"/>
-     <SUBMISSION accession="" alias="SUBMISSION-30-06-2023-03:41:48:635"/>
+     <SUBMISSION accession="" alias="SUBMISSION-30-06-2023-03:11:28:906"/>
      <MESSAGES>
           <INFO>The XML md5 checksum for the object being updated has not changed. No update required for PRJEB63306.</INFO>
      </MESSAGES>

@@ -1,0 +1,6144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SAMPLE_SET>
+	<SAMPLE alias="1_1D" center_name="Minderoo Foundation">
+	<TITLE>Metagenome or environmental sample from marine metagenome</TITLE>
+	<SAMPLE_NAME>
+		<TAXON_ID>408172</TAXON_ID>
+		<SCIENTIFIC_NAME>marine metagenome</SCIENTIFIC_NAME>
+		<COMMON_NAME></COMMON_NAME>
+	</SAMPLE_NAME>
+	<DESCRIPTION>Llewellyn</DESCRIPTION>
+	<SAMPLE_ATTRIBUTES>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>collection date</TAG>
+			<VALUE>not collected</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>filtration_device</TAG>
+			<VALUE>Grover pump</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environmental package</TAG>
+			<VALUE>water</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>rel_to_oxygen</TAG>
+			<VALUE>aerobe</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>replicate_id</TAG>
+			<VALUE>NA</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>organism</TAG>
+			<VALUE>marine metagenome</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (country and/or sea)</TAG>
+			<VALUE>Pacific Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geo_loc_name</TAG>
+			<VALUE>Australia: Pacific Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>control_sample</TAG>
+			<VALUE>FALSE</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>isolation_source</TAG>
+			<VALUE>Ocean water sample</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (latitude)</TAG>
+			<VALUE>-23.70585</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (longitude)</TAG>
+			<VALUE>152.15565</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environment (biome)</TAG>
+			<VALUE>marine</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>ENA-CHECKLIST</TAG>
+			<VALUE>ERC000011</VALUE>
+		</SAMPLE_ATTRIBUTE>
+	</SAMPLE_ATTRIBUTES>
+	</SAMPLE>
+	<SAMPLE alias="1_1S" center_name="Minderoo Foundation">
+	<TITLE>Metagenome or environmental sample from marine metagenome</TITLE>
+	<SAMPLE_NAME>
+		<TAXON_ID>408172</TAXON_ID>
+		<SCIENTIFIC_NAME>marine metagenome</SCIENTIFIC_NAME>
+		<COMMON_NAME></COMMON_NAME>
+	</SAMPLE_NAME>
+	<DESCRIPTION>Llewellyn</DESCRIPTION>
+	<SAMPLE_ATTRIBUTES>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>collection date</TAG>
+			<VALUE>not collected</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>filtration_device</TAG>
+			<VALUE>Grover pump</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environmental package</TAG>
+			<VALUE>water</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>rel_to_oxygen</TAG>
+			<VALUE>aerobe</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>replicate_id</TAG>
+			<VALUE>NA</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>organism</TAG>
+			<VALUE>marine metagenome</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (country and/or sea)</TAG>
+			<VALUE>Pacific Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geo_loc_name</TAG>
+			<VALUE>Australia: Pacific Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>control_sample</TAG>
+			<VALUE>FALSE</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>isolation_source</TAG>
+			<VALUE>Ocean water sample</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (latitude)</TAG>
+			<VALUE>-23.70585</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (longitude)</TAG>
+			<VALUE>152.15565</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environment (biome)</TAG>
+			<VALUE>marine</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>ENA-CHECKLIST</TAG>
+			<VALUE>ERC000011</VALUE>
+		</SAMPLE_ATTRIBUTE>
+	</SAMPLE_ATTRIBUTES>
+	</SAMPLE>
+	<SAMPLE alias="1_2D" center_name="Minderoo Foundation">
+	<TITLE>Metagenome or environmental sample from marine metagenome</TITLE>
+	<SAMPLE_NAME>
+		<TAXON_ID>408172</TAXON_ID>
+		<SCIENTIFIC_NAME>marine metagenome</SCIENTIFIC_NAME>
+		<COMMON_NAME></COMMON_NAME>
+	</SAMPLE_NAME>
+	<DESCRIPTION>Llewellyn</DESCRIPTION>
+	<SAMPLE_ATTRIBUTES>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>collection date</TAG>
+			<VALUE>not collected</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>filtration_device</TAG>
+			<VALUE>Grover pump</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environmental package</TAG>
+			<VALUE>water</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>rel_to_oxygen</TAG>
+			<VALUE>aerobe</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>replicate_id</TAG>
+			<VALUE>NA</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>organism</TAG>
+			<VALUE>marine metagenome</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (country and/or sea)</TAG>
+			<VALUE>Pacific Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geo_loc_name</TAG>
+			<VALUE>Australia: Pacific Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>control_sample</TAG>
+			<VALUE>FALSE</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>isolation_source</TAG>
+			<VALUE>Ocean water sample</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (latitude)</TAG>
+			<VALUE>-23.70585</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (longitude)</TAG>
+			<VALUE>152.15565</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environment (biome)</TAG>
+			<VALUE>marine</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>ENA-CHECKLIST</TAG>
+			<VALUE>ERC000011</VALUE>
+		</SAMPLE_ATTRIBUTE>
+	</SAMPLE_ATTRIBUTES>
+	</SAMPLE>
+	<SAMPLE alias="1_2S" center_name="Minderoo Foundation">
+	<TITLE>Metagenome or environmental sample from marine metagenome</TITLE>
+	<SAMPLE_NAME>
+		<TAXON_ID>408172</TAXON_ID>
+		<SCIENTIFIC_NAME>marine metagenome</SCIENTIFIC_NAME>
+		<COMMON_NAME></COMMON_NAME>
+	</SAMPLE_NAME>
+	<DESCRIPTION>Llewellyn</DESCRIPTION>
+	<SAMPLE_ATTRIBUTES>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>collection date</TAG>
+			<VALUE>not collected</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>filtration_device</TAG>
+			<VALUE>Grover pump</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environmental package</TAG>
+			<VALUE>water</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>rel_to_oxygen</TAG>
+			<VALUE>aerobe</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>replicate_id</TAG>
+			<VALUE>NA</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>organism</TAG>
+			<VALUE>marine metagenome</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (country and/or sea)</TAG>
+			<VALUE>Pacific Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geo_loc_name</TAG>
+			<VALUE>Australia: Pacific Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>control_sample</TAG>
+			<VALUE>FALSE</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>isolation_source</TAG>
+			<VALUE>Ocean water sample</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (latitude)</TAG>
+			<VALUE>-23.70585</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (longitude)</TAG>
+			<VALUE>152.15565</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environment (biome)</TAG>
+			<VALUE>marine</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>ENA-CHECKLIST</TAG>
+			<VALUE>ERC000011</VALUE>
+		</SAMPLE_ATTRIBUTE>
+	</SAMPLE_ATTRIBUTES>
+	</SAMPLE>
+	<SAMPLE alias="1_3D" center_name="Minderoo Foundation">
+	<TITLE>Metagenome or environmental sample from marine metagenome</TITLE>
+	<SAMPLE_NAME>
+		<TAXON_ID>408172</TAXON_ID>
+		<SCIENTIFIC_NAME>marine metagenome</SCIENTIFIC_NAME>
+		<COMMON_NAME></COMMON_NAME>
+	</SAMPLE_NAME>
+	<DESCRIPTION>Llewellyn</DESCRIPTION>
+	<SAMPLE_ATTRIBUTES>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>collection date</TAG>
+			<VALUE>not collected</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>filtration_device</TAG>
+			<VALUE>Grover pump</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environmental package</TAG>
+			<VALUE>water</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>rel_to_oxygen</TAG>
+			<VALUE>aerobe</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>replicate_id</TAG>
+			<VALUE>NA</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>organism</TAG>
+			<VALUE>marine metagenome</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (country and/or sea)</TAG>
+			<VALUE>Pacific Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geo_loc_name</TAG>
+			<VALUE>Australia: Pacific Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>control_sample</TAG>
+			<VALUE>FALSE</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>isolation_source</TAG>
+			<VALUE>Ocean water sample</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (latitude)</TAG>
+			<VALUE>-23.70585</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (longitude)</TAG>
+			<VALUE>152.15565</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environment (biome)</TAG>
+			<VALUE>marine</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>ENA-CHECKLIST</TAG>
+			<VALUE>ERC000011</VALUE>
+		</SAMPLE_ATTRIBUTE>
+	</SAMPLE_ATTRIBUTES>
+	</SAMPLE>
+	<SAMPLE alias="1_3S" center_name="Minderoo Foundation">
+	<TITLE>Metagenome or environmental sample from marine metagenome</TITLE>
+	<SAMPLE_NAME>
+		<TAXON_ID>408172</TAXON_ID>
+		<SCIENTIFIC_NAME>marine metagenome</SCIENTIFIC_NAME>
+		<COMMON_NAME></COMMON_NAME>
+	</SAMPLE_NAME>
+	<DESCRIPTION>Llewellyn</DESCRIPTION>
+	<SAMPLE_ATTRIBUTES>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>collection date</TAG>
+			<VALUE>not collected</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>filtration_device</TAG>
+			<VALUE>Grover pump</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environmental package</TAG>
+			<VALUE>water</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>rel_to_oxygen</TAG>
+			<VALUE>aerobe</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>replicate_id</TAG>
+			<VALUE>NA</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>organism</TAG>
+			<VALUE>marine metagenome</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (country and/or sea)</TAG>
+			<VALUE>Pacific Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geo_loc_name</TAG>
+			<VALUE>Australia: Pacific Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>control_sample</TAG>
+			<VALUE>FALSE</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>isolation_source</TAG>
+			<VALUE>Ocean water sample</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (latitude)</TAG>
+			<VALUE>-23.70585</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (longitude)</TAG>
+			<VALUE>152.15565</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environment (biome)</TAG>
+			<VALUE>marine</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>ENA-CHECKLIST</TAG>
+			<VALUE>ERC000011</VALUE>
+		</SAMPLE_ATTRIBUTE>
+	</SAMPLE_ATTRIBUTES>
+	</SAMPLE>
+	<SAMPLE alias="1_4D" center_name="Minderoo Foundation">
+	<TITLE>Metagenome or environmental sample from marine metagenome</TITLE>
+	<SAMPLE_NAME>
+		<TAXON_ID>408172</TAXON_ID>
+		<SCIENTIFIC_NAME>marine metagenome</SCIENTIFIC_NAME>
+		<COMMON_NAME></COMMON_NAME>
+	</SAMPLE_NAME>
+	<DESCRIPTION>Llewellyn</DESCRIPTION>
+	<SAMPLE_ATTRIBUTES>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>collection date</TAG>
+			<VALUE>not collected</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>filtration_device</TAG>
+			<VALUE>Grover pump</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environmental package</TAG>
+			<VALUE>water</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>rel_to_oxygen</TAG>
+			<VALUE>aerobe</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>replicate_id</TAG>
+			<VALUE>NA</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>organism</TAG>
+			<VALUE>marine metagenome</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (country and/or sea)</TAG>
+			<VALUE>Pacific Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geo_loc_name</TAG>
+			<VALUE>Australia: Pacific Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>control_sample</TAG>
+			<VALUE>FALSE</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>isolation_source</TAG>
+			<VALUE>Ocean water sample</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (latitude)</TAG>
+			<VALUE>-23.70585</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (longitude)</TAG>
+			<VALUE>152.15565</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environment (biome)</TAG>
+			<VALUE>marine</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>ENA-CHECKLIST</TAG>
+			<VALUE>ERC000011</VALUE>
+		</SAMPLE_ATTRIBUTE>
+	</SAMPLE_ATTRIBUTES>
+	</SAMPLE>
+	<SAMPLE alias="1_4S" center_name="Minderoo Foundation">
+	<TITLE>Metagenome or environmental sample from marine metagenome</TITLE>
+	<SAMPLE_NAME>
+		<TAXON_ID>408172</TAXON_ID>
+		<SCIENTIFIC_NAME>marine metagenome</SCIENTIFIC_NAME>
+		<COMMON_NAME></COMMON_NAME>
+	</SAMPLE_NAME>
+	<DESCRIPTION>Llewellyn</DESCRIPTION>
+	<SAMPLE_ATTRIBUTES>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>collection date</TAG>
+			<VALUE>not collected</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>filtration_device</TAG>
+			<VALUE>Grover pump</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environmental package</TAG>
+			<VALUE>water</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>rel_to_oxygen</TAG>
+			<VALUE>aerobe</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>replicate_id</TAG>
+			<VALUE>NA</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>organism</TAG>
+			<VALUE>marine metagenome</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (country and/or sea)</TAG>
+			<VALUE>Pacific Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geo_loc_name</TAG>
+			<VALUE>Australia: Pacific Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>control_sample</TAG>
+			<VALUE>FALSE</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>isolation_source</TAG>
+			<VALUE>Ocean water sample</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (latitude)</TAG>
+			<VALUE>-23.70585</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (longitude)</TAG>
+			<VALUE>152.15565</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environment (biome)</TAG>
+			<VALUE>marine</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>ENA-CHECKLIST</TAG>
+			<VALUE>ERC000011</VALUE>
+		</SAMPLE_ATTRIBUTE>
+	</SAMPLE_ATTRIBUTES>
+	</SAMPLE>
+	<SAMPLE alias="10_1D" center_name="Minderoo Foundation">
+	<TITLE>Metagenome or environmental sample from marine metagenome</TITLE>
+	<SAMPLE_NAME>
+		<TAXON_ID>408172</TAXON_ID>
+		<SCIENTIFIC_NAME>marine metagenome</SCIENTIFIC_NAME>
+		<COMMON_NAME></COMMON_NAME>
+	</SAMPLE_NAME>
+	<DESCRIPTION>Fairfax</DESCRIPTION>
+	<SAMPLE_ATTRIBUTES>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>collection date</TAG>
+			<VALUE>not collected</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>filtration_device</TAG>
+			<VALUE>Grover pump</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environmental package</TAG>
+			<VALUE>water</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>rel_to_oxygen</TAG>
+			<VALUE>aerobe</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>replicate_id</TAG>
+			<VALUE>NA</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>organism</TAG>
+			<VALUE>marine metagenome</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (country and/or sea)</TAG>
+			<VALUE>Pacific Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geo_loc_name</TAG>
+			<VALUE>Australia: Pacific Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>control_sample</TAG>
+			<VALUE>FALSE</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>isolation_source</TAG>
+			<VALUE>Ocean water sample</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (latitude)</TAG>
+			<VALUE>-23.86095</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (longitude)</TAG>
+			<VALUE>152.3619667</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environment (biome)</TAG>
+			<VALUE>marine</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>ENA-CHECKLIST</TAG>
+			<VALUE>ERC000011</VALUE>
+		</SAMPLE_ATTRIBUTE>
+	</SAMPLE_ATTRIBUTES>
+	</SAMPLE>
+	<SAMPLE alias="10_1S" center_name="Minderoo Foundation">
+	<TITLE>Metagenome or environmental sample from marine metagenome</TITLE>
+	<SAMPLE_NAME>
+		<TAXON_ID>408172</TAXON_ID>
+		<SCIENTIFIC_NAME>marine metagenome</SCIENTIFIC_NAME>
+		<COMMON_NAME></COMMON_NAME>
+	</SAMPLE_NAME>
+	<DESCRIPTION>Fairfax</DESCRIPTION>
+	<SAMPLE_ATTRIBUTES>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>collection date</TAG>
+			<VALUE>not collected</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>filtration_device</TAG>
+			<VALUE>Grover pump</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environmental package</TAG>
+			<VALUE>water</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>rel_to_oxygen</TAG>
+			<VALUE>aerobe</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>replicate_id</TAG>
+			<VALUE>NA</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>organism</TAG>
+			<VALUE>marine metagenome</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (country and/or sea)</TAG>
+			<VALUE>Pacific Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geo_loc_name</TAG>
+			<VALUE>Australia: Pacific Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>control_sample</TAG>
+			<VALUE>FALSE</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>isolation_source</TAG>
+			<VALUE>Ocean water sample</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (latitude)</TAG>
+			<VALUE>-23.86095</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (longitude)</TAG>
+			<VALUE>152.3619667</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environment (biome)</TAG>
+			<VALUE>marine</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>ENA-CHECKLIST</TAG>
+			<VALUE>ERC000011</VALUE>
+		</SAMPLE_ATTRIBUTE>
+	</SAMPLE_ATTRIBUTES>
+	</SAMPLE>
+	<SAMPLE alias="10_2D" center_name="Minderoo Foundation">
+	<TITLE>Metagenome or environmental sample from marine metagenome</TITLE>
+	<SAMPLE_NAME>
+		<TAXON_ID>408172</TAXON_ID>
+		<SCIENTIFIC_NAME>marine metagenome</SCIENTIFIC_NAME>
+		<COMMON_NAME></COMMON_NAME>
+	</SAMPLE_NAME>
+	<DESCRIPTION>Fairfax</DESCRIPTION>
+	<SAMPLE_ATTRIBUTES>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>collection date</TAG>
+			<VALUE>not collected</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>filtration_device</TAG>
+			<VALUE>Grover pump</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environmental package</TAG>
+			<VALUE>water</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>rel_to_oxygen</TAG>
+			<VALUE>aerobe</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>replicate_id</TAG>
+			<VALUE>NA</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>organism</TAG>
+			<VALUE>marine metagenome</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (country and/or sea)</TAG>
+			<VALUE>Pacific Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geo_loc_name</TAG>
+			<VALUE>Australia: Pacific Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>control_sample</TAG>
+			<VALUE>FALSE</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>isolation_source</TAG>
+			<VALUE>Ocean water sample</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (latitude)</TAG>
+			<VALUE>-23.86095</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (longitude)</TAG>
+			<VALUE>152.3619667</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environment (biome)</TAG>
+			<VALUE>marine</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>ENA-CHECKLIST</TAG>
+			<VALUE>ERC000011</VALUE>
+		</SAMPLE_ATTRIBUTE>
+	</SAMPLE_ATTRIBUTES>
+	</SAMPLE>
+	<SAMPLE alias="10_2S" center_name="Minderoo Foundation">
+	<TITLE>Metagenome or environmental sample from marine metagenome</TITLE>
+	<SAMPLE_NAME>
+		<TAXON_ID>408172</TAXON_ID>
+		<SCIENTIFIC_NAME>marine metagenome</SCIENTIFIC_NAME>
+		<COMMON_NAME></COMMON_NAME>
+	</SAMPLE_NAME>
+	<DESCRIPTION>Fairfax</DESCRIPTION>
+	<SAMPLE_ATTRIBUTES>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>collection date</TAG>
+			<VALUE>not collected</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>filtration_device</TAG>
+			<VALUE>Grover pump</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environmental package</TAG>
+			<VALUE>water</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>rel_to_oxygen</TAG>
+			<VALUE>aerobe</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>replicate_id</TAG>
+			<VALUE>NA</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>organism</TAG>
+			<VALUE>marine metagenome</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (country and/or sea)</TAG>
+			<VALUE>Pacific Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geo_loc_name</TAG>
+			<VALUE>Australia: Pacific Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>control_sample</TAG>
+			<VALUE>FALSE</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>isolation_source</TAG>
+			<VALUE>Ocean water sample</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (latitude)</TAG>
+			<VALUE>-23.86095</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (longitude)</TAG>
+			<VALUE>152.3619667</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environment (biome)</TAG>
+			<VALUE>marine</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>ENA-CHECKLIST</TAG>
+			<VALUE>ERC000011</VALUE>
+		</SAMPLE_ATTRIBUTE>
+	</SAMPLE_ATTRIBUTES>
+	</SAMPLE>
+	<SAMPLE alias="10_3D" center_name="Minderoo Foundation">
+	<TITLE>Metagenome or environmental sample from marine metagenome</TITLE>
+	<SAMPLE_NAME>
+		<TAXON_ID>408172</TAXON_ID>
+		<SCIENTIFIC_NAME>marine metagenome</SCIENTIFIC_NAME>
+		<COMMON_NAME></COMMON_NAME>
+	</SAMPLE_NAME>
+	<DESCRIPTION>Fairfax</DESCRIPTION>
+	<SAMPLE_ATTRIBUTES>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>collection date</TAG>
+			<VALUE>not collected</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>filtration_device</TAG>
+			<VALUE>Grover pump</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environmental package</TAG>
+			<VALUE>water</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>rel_to_oxygen</TAG>
+			<VALUE>aerobe</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>replicate_id</TAG>
+			<VALUE>NA</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>organism</TAG>
+			<VALUE>marine metagenome</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (country and/or sea)</TAG>
+			<VALUE>Pacific Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geo_loc_name</TAG>
+			<VALUE>Australia: Pacific Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>control_sample</TAG>
+			<VALUE>FALSE</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>isolation_source</TAG>
+			<VALUE>Ocean water sample</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (latitude)</TAG>
+			<VALUE>-23.86095</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (longitude)</TAG>
+			<VALUE>152.3619667</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environment (biome)</TAG>
+			<VALUE>marine</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>ENA-CHECKLIST</TAG>
+			<VALUE>ERC000011</VALUE>
+		</SAMPLE_ATTRIBUTE>
+	</SAMPLE_ATTRIBUTES>
+	</SAMPLE>
+	<SAMPLE alias="10_3S" center_name="Minderoo Foundation">
+	<TITLE>Metagenome or environmental sample from marine metagenome</TITLE>
+	<SAMPLE_NAME>
+		<TAXON_ID>408172</TAXON_ID>
+		<SCIENTIFIC_NAME>marine metagenome</SCIENTIFIC_NAME>
+		<COMMON_NAME></COMMON_NAME>
+	</SAMPLE_NAME>
+	<DESCRIPTION>Fairfax</DESCRIPTION>
+	<SAMPLE_ATTRIBUTES>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>collection date</TAG>
+			<VALUE>not collected</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>filtration_device</TAG>
+			<VALUE>Grover pump</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environmental package</TAG>
+			<VALUE>water</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>rel_to_oxygen</TAG>
+			<VALUE>aerobe</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>replicate_id</TAG>
+			<VALUE>NA</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>organism</TAG>
+			<VALUE>marine metagenome</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (country and/or sea)</TAG>
+			<VALUE>Pacific Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geo_loc_name</TAG>
+			<VALUE>Australia: Pacific Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>control_sample</TAG>
+			<VALUE>FALSE</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>isolation_source</TAG>
+			<VALUE>Ocean water sample</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (latitude)</TAG>
+			<VALUE>-23.86095</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (longitude)</TAG>
+			<VALUE>152.3619667</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environment (biome)</TAG>
+			<VALUE>marine</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>ENA-CHECKLIST</TAG>
+			<VALUE>ERC000011</VALUE>
+		</SAMPLE_ATTRIBUTE>
+	</SAMPLE_ATTRIBUTES>
+	</SAMPLE>
+	<SAMPLE alias="10_4S" center_name="Minderoo Foundation">
+	<TITLE>Metagenome or environmental sample from marine metagenome</TITLE>
+	<SAMPLE_NAME>
+		<TAXON_ID>408172</TAXON_ID>
+		<SCIENTIFIC_NAME>marine metagenome</SCIENTIFIC_NAME>
+		<COMMON_NAME></COMMON_NAME>
+	</SAMPLE_NAME>
+	<DESCRIPTION>Fairfax</DESCRIPTION>
+	<SAMPLE_ATTRIBUTES>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>collection date</TAG>
+			<VALUE>not collected</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>filtration_device</TAG>
+			<VALUE>Grover pump</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environmental package</TAG>
+			<VALUE>water</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>rel_to_oxygen</TAG>
+			<VALUE>aerobe</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>replicate_id</TAG>
+			<VALUE>NA</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>organism</TAG>
+			<VALUE>marine metagenome</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (country and/or sea)</TAG>
+			<VALUE>Pacific Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geo_loc_name</TAG>
+			<VALUE>Australia: Pacific Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>control_sample</TAG>
+			<VALUE>FALSE</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>isolation_source</TAG>
+			<VALUE>Ocean water sample</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (latitude)</TAG>
+			<VALUE>-23.86095</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (longitude)</TAG>
+			<VALUE>152.3619667</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environment (biome)</TAG>
+			<VALUE>marine</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>ENA-CHECKLIST</TAG>
+			<VALUE>ERC000011</VALUE>
+		</SAMPLE_ATTRIBUTE>
+	</SAMPLE_ATTRIBUTES>
+	</SAMPLE>
+	<SAMPLE alias="11_1D" center_name="Minderoo Foundation">
+	<TITLE>Metagenome or environmental sample from marine metagenome</TITLE>
+	<SAMPLE_NAME>
+		<TAXON_ID>408172</TAXON_ID>
+		<SCIENTIFIC_NAME>marine metagenome</SCIENTIFIC_NAME>
+		<COMMON_NAME></COMMON_NAME>
+	</SAMPLE_NAME>
+	<DESCRIPTION>Fairfax</DESCRIPTION>
+	<SAMPLE_ATTRIBUTES>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>collection date</TAG>
+			<VALUE>not collected</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>filtration_device</TAG>
+			<VALUE>Grover pump</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environmental package</TAG>
+			<VALUE>water</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>rel_to_oxygen</TAG>
+			<VALUE>aerobe</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>replicate_id</TAG>
+			<VALUE>NA</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>organism</TAG>
+			<VALUE>marine metagenome</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (country and/or sea)</TAG>
+			<VALUE>Pacific Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geo_loc_name</TAG>
+			<VALUE>Australia: Pacific Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>control_sample</TAG>
+			<VALUE>FALSE</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>isolation_source</TAG>
+			<VALUE>Ocean water sample</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (latitude)</TAG>
+			<VALUE>-23.85763333</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (longitude)</TAG>
+			<VALUE>152.3612667</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environment (biome)</TAG>
+			<VALUE>marine</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>ENA-CHECKLIST</TAG>
+			<VALUE>ERC000011</VALUE>
+		</SAMPLE_ATTRIBUTE>
+	</SAMPLE_ATTRIBUTES>
+	</SAMPLE>
+	<SAMPLE alias="11_1S" center_name="Minderoo Foundation">
+	<TITLE>Metagenome or environmental sample from marine metagenome</TITLE>
+	<SAMPLE_NAME>
+		<TAXON_ID>408172</TAXON_ID>
+		<SCIENTIFIC_NAME>marine metagenome</SCIENTIFIC_NAME>
+		<COMMON_NAME></COMMON_NAME>
+	</SAMPLE_NAME>
+	<DESCRIPTION>Fairfax</DESCRIPTION>
+	<SAMPLE_ATTRIBUTES>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>collection date</TAG>
+			<VALUE>not collected</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>filtration_device</TAG>
+			<VALUE>Grover pump</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environmental package</TAG>
+			<VALUE>water</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>rel_to_oxygen</TAG>
+			<VALUE>aerobe</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>replicate_id</TAG>
+			<VALUE>NA</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>organism</TAG>
+			<VALUE>marine metagenome</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (country and/or sea)</TAG>
+			<VALUE>Pacific Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geo_loc_name</TAG>
+			<VALUE>Australia: Pacific Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>control_sample</TAG>
+			<VALUE>FALSE</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>isolation_source</TAG>
+			<VALUE>Ocean water sample</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (latitude)</TAG>
+			<VALUE>-23.85763333</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (longitude)</TAG>
+			<VALUE>152.3612667</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environment (biome)</TAG>
+			<VALUE>marine</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>ENA-CHECKLIST</TAG>
+			<VALUE>ERC000011</VALUE>
+		</SAMPLE_ATTRIBUTE>
+	</SAMPLE_ATTRIBUTES>
+	</SAMPLE>
+	<SAMPLE alias="11_2D" center_name="Minderoo Foundation">
+	<TITLE>Metagenome or environmental sample from marine metagenome</TITLE>
+	<SAMPLE_NAME>
+		<TAXON_ID>408172</TAXON_ID>
+		<SCIENTIFIC_NAME>marine metagenome</SCIENTIFIC_NAME>
+		<COMMON_NAME></COMMON_NAME>
+	</SAMPLE_NAME>
+	<DESCRIPTION>Fairfax</DESCRIPTION>
+	<SAMPLE_ATTRIBUTES>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>collection date</TAG>
+			<VALUE>not collected</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>filtration_device</TAG>
+			<VALUE>Grover pump</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environmental package</TAG>
+			<VALUE>water</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>rel_to_oxygen</TAG>
+			<VALUE>aerobe</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>replicate_id</TAG>
+			<VALUE>NA</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>organism</TAG>
+			<VALUE>marine metagenome</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (country and/or sea)</TAG>
+			<VALUE>Pacific Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geo_loc_name</TAG>
+			<VALUE>Australia: Pacific Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>control_sample</TAG>
+			<VALUE>FALSE</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>isolation_source</TAG>
+			<VALUE>Ocean water sample</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (latitude)</TAG>
+			<VALUE>-23.85763333</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (longitude)</TAG>
+			<VALUE>152.3612667</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environment (biome)</TAG>
+			<VALUE>marine</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>ENA-CHECKLIST</TAG>
+			<VALUE>ERC000011</VALUE>
+		</SAMPLE_ATTRIBUTE>
+	</SAMPLE_ATTRIBUTES>
+	</SAMPLE>
+	<SAMPLE alias="11_2S" center_name="Minderoo Foundation">
+	<TITLE>Metagenome or environmental sample from marine metagenome</TITLE>
+	<SAMPLE_NAME>
+		<TAXON_ID>408172</TAXON_ID>
+		<SCIENTIFIC_NAME>marine metagenome</SCIENTIFIC_NAME>
+		<COMMON_NAME></COMMON_NAME>
+	</SAMPLE_NAME>
+	<DESCRIPTION>Fairfax</DESCRIPTION>
+	<SAMPLE_ATTRIBUTES>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>collection date</TAG>
+			<VALUE>not collected</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>filtration_device</TAG>
+			<VALUE>Grover pump</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environmental package</TAG>
+			<VALUE>water</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>rel_to_oxygen</TAG>
+			<VALUE>aerobe</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>replicate_id</TAG>
+			<VALUE>NA</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>organism</TAG>
+			<VALUE>marine metagenome</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (country and/or sea)</TAG>
+			<VALUE>Pacific Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geo_loc_name</TAG>
+			<VALUE>Australia: Pacific Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>control_sample</TAG>
+			<VALUE>FALSE</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>isolation_source</TAG>
+			<VALUE>Ocean water sample</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (latitude)</TAG>
+			<VALUE>-23.85763333</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (longitude)</TAG>
+			<VALUE>152.3612667</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environment (biome)</TAG>
+			<VALUE>marine</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>ENA-CHECKLIST</TAG>
+			<VALUE>ERC000011</VALUE>
+		</SAMPLE_ATTRIBUTE>
+	</SAMPLE_ATTRIBUTES>
+	</SAMPLE>
+	<SAMPLE alias="11_3D" center_name="Minderoo Foundation">
+	<TITLE>Metagenome or environmental sample from marine metagenome</TITLE>
+	<SAMPLE_NAME>
+		<TAXON_ID>408172</TAXON_ID>
+		<SCIENTIFIC_NAME>marine metagenome</SCIENTIFIC_NAME>
+		<COMMON_NAME></COMMON_NAME>
+	</SAMPLE_NAME>
+	<DESCRIPTION>Fairfax</DESCRIPTION>
+	<SAMPLE_ATTRIBUTES>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>collection date</TAG>
+			<VALUE>not collected</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>filtration_device</TAG>
+			<VALUE>Grover pump</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environmental package</TAG>
+			<VALUE>water</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>rel_to_oxygen</TAG>
+			<VALUE>aerobe</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>replicate_id</TAG>
+			<VALUE>NA</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>organism</TAG>
+			<VALUE>marine metagenome</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (country and/or sea)</TAG>
+			<VALUE>Pacific Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geo_loc_name</TAG>
+			<VALUE>Australia: Pacific Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>control_sample</TAG>
+			<VALUE>FALSE</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>isolation_source</TAG>
+			<VALUE>Ocean water sample</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (latitude)</TAG>
+			<VALUE>-23.85763333</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (longitude)</TAG>
+			<VALUE>152.3612667</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environment (biome)</TAG>
+			<VALUE>marine</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>ENA-CHECKLIST</TAG>
+			<VALUE>ERC000011</VALUE>
+		</SAMPLE_ATTRIBUTE>
+	</SAMPLE_ATTRIBUTES>
+	</SAMPLE>
+	<SAMPLE alias="11_4D" center_name="Minderoo Foundation">
+	<TITLE>Metagenome or environmental sample from marine metagenome</TITLE>
+	<SAMPLE_NAME>
+		<TAXON_ID>408172</TAXON_ID>
+		<SCIENTIFIC_NAME>marine metagenome</SCIENTIFIC_NAME>
+		<COMMON_NAME></COMMON_NAME>
+	</SAMPLE_NAME>
+	<DESCRIPTION>Fairfax</DESCRIPTION>
+	<SAMPLE_ATTRIBUTES>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>collection date</TAG>
+			<VALUE>not collected</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>filtration_device</TAG>
+			<VALUE>Grover pump</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environmental package</TAG>
+			<VALUE>water</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>rel_to_oxygen</TAG>
+			<VALUE>aerobe</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>replicate_id</TAG>
+			<VALUE>NA</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>organism</TAG>
+			<VALUE>marine metagenome</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (country and/or sea)</TAG>
+			<VALUE>Pacific Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geo_loc_name</TAG>
+			<VALUE>Australia: Pacific Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>control_sample</TAG>
+			<VALUE>FALSE</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>isolation_source</TAG>
+			<VALUE>Ocean water sample</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (latitude)</TAG>
+			<VALUE>-23.85763333</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (longitude)</TAG>
+			<VALUE>152.3612667</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environment (biome)</TAG>
+			<VALUE>marine</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>ENA-CHECKLIST</TAG>
+			<VALUE>ERC000011</VALUE>
+		</SAMPLE_ATTRIBUTE>
+	</SAMPLE_ATTRIBUTES>
+	</SAMPLE>
+	<SAMPLE alias="11_4S" center_name="Minderoo Foundation">
+	<TITLE>Metagenome or environmental sample from marine metagenome</TITLE>
+	<SAMPLE_NAME>
+		<TAXON_ID>408172</TAXON_ID>
+		<SCIENTIFIC_NAME>marine metagenome</SCIENTIFIC_NAME>
+		<COMMON_NAME></COMMON_NAME>
+	</SAMPLE_NAME>
+	<DESCRIPTION>Fairfax</DESCRIPTION>
+	<SAMPLE_ATTRIBUTES>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>collection date</TAG>
+			<VALUE>not collected</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>filtration_device</TAG>
+			<VALUE>Grover pump</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environmental package</TAG>
+			<VALUE>water</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>rel_to_oxygen</TAG>
+			<VALUE>aerobe</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>replicate_id</TAG>
+			<VALUE>NA</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>organism</TAG>
+			<VALUE>marine metagenome</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (country and/or sea)</TAG>
+			<VALUE>Pacific Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geo_loc_name</TAG>
+			<VALUE>Australia: Pacific Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>control_sample</TAG>
+			<VALUE>FALSE</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>isolation_source</TAG>
+			<VALUE>Ocean water sample</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (latitude)</TAG>
+			<VALUE>-23.85763333</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (longitude)</TAG>
+			<VALUE>152.3612667</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environment (biome)</TAG>
+			<VALUE>marine</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>ENA-CHECKLIST</TAG>
+			<VALUE>ERC000011</VALUE>
+		</SAMPLE_ATTRIBUTE>
+	</SAMPLE_ATTRIBUTES>
+	</SAMPLE>
+	<SAMPLE alias="2_1D" center_name="Minderoo Foundation">
+	<TITLE>Metagenome or environmental sample from marine metagenome</TITLE>
+	<SAMPLE_NAME>
+		<TAXON_ID>408172</TAXON_ID>
+		<SCIENTIFIC_NAME>marine metagenome</SCIENTIFIC_NAME>
+		<COMMON_NAME></COMMON_NAME>
+	</SAMPLE_NAME>
+	<DESCRIPTION>Llewellyn</DESCRIPTION>
+	<SAMPLE_ATTRIBUTES>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>collection date</TAG>
+			<VALUE>not collected</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>filtration_device</TAG>
+			<VALUE>Grover pump</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environmental package</TAG>
+			<VALUE>water</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>rel_to_oxygen</TAG>
+			<VALUE>aerobe</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>replicate_id</TAG>
+			<VALUE>NA</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>organism</TAG>
+			<VALUE>marine metagenome</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (country and/or sea)</TAG>
+			<VALUE>Pacific Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geo_loc_name</TAG>
+			<VALUE>Australia: Pacific Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>control_sample</TAG>
+			<VALUE>FALSE</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>isolation_source</TAG>
+			<VALUE>Ocean water sample</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (latitude)</TAG>
+			<VALUE>-23.70666667</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (longitude)</TAG>
+			<VALUE>152.1564667</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environment (biome)</TAG>
+			<VALUE>marine</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>ENA-CHECKLIST</TAG>
+			<VALUE>ERC000011</VALUE>
+		</SAMPLE_ATTRIBUTE>
+	</SAMPLE_ATTRIBUTES>
+	</SAMPLE>
+	<SAMPLE alias="2_1S" center_name="Minderoo Foundation">
+	<TITLE>Metagenome or environmental sample from marine metagenome</TITLE>
+	<SAMPLE_NAME>
+		<TAXON_ID>408172</TAXON_ID>
+		<SCIENTIFIC_NAME>marine metagenome</SCIENTIFIC_NAME>
+		<COMMON_NAME></COMMON_NAME>
+	</SAMPLE_NAME>
+	<DESCRIPTION>Llewellyn</DESCRIPTION>
+	<SAMPLE_ATTRIBUTES>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>collection date</TAG>
+			<VALUE>not collected</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>filtration_device</TAG>
+			<VALUE>Grover pump</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environmental package</TAG>
+			<VALUE>water</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>rel_to_oxygen</TAG>
+			<VALUE>aerobe</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>replicate_id</TAG>
+			<VALUE>NA</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>organism</TAG>
+			<VALUE>marine metagenome</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (country and/or sea)</TAG>
+			<VALUE>Pacific Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geo_loc_name</TAG>
+			<VALUE>Australia: Pacific Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>control_sample</TAG>
+			<VALUE>FALSE</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>isolation_source</TAG>
+			<VALUE>Ocean water sample</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (latitude)</TAG>
+			<VALUE>-23.70666667</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (longitude)</TAG>
+			<VALUE>152.1564667</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environment (biome)</TAG>
+			<VALUE>marine</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>ENA-CHECKLIST</TAG>
+			<VALUE>ERC000011</VALUE>
+		</SAMPLE_ATTRIBUTE>
+	</SAMPLE_ATTRIBUTES>
+	</SAMPLE>
+	<SAMPLE alias="2_2D" center_name="Minderoo Foundation">
+	<TITLE>Metagenome or environmental sample from marine metagenome</TITLE>
+	<SAMPLE_NAME>
+		<TAXON_ID>408172</TAXON_ID>
+		<SCIENTIFIC_NAME>marine metagenome</SCIENTIFIC_NAME>
+		<COMMON_NAME></COMMON_NAME>
+	</SAMPLE_NAME>
+	<DESCRIPTION>Llewellyn</DESCRIPTION>
+	<SAMPLE_ATTRIBUTES>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>collection date</TAG>
+			<VALUE>not collected</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>filtration_device</TAG>
+			<VALUE>Grover pump</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environmental package</TAG>
+			<VALUE>water</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>rel_to_oxygen</TAG>
+			<VALUE>aerobe</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>replicate_id</TAG>
+			<VALUE>NA</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>organism</TAG>
+			<VALUE>marine metagenome</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (country and/or sea)</TAG>
+			<VALUE>Pacific Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geo_loc_name</TAG>
+			<VALUE>Australia: Pacific Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>control_sample</TAG>
+			<VALUE>FALSE</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>isolation_source</TAG>
+			<VALUE>Ocean water sample</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (latitude)</TAG>
+			<VALUE>-23.70666667</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (longitude)</TAG>
+			<VALUE>152.1564667</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environment (biome)</TAG>
+			<VALUE>marine</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>ENA-CHECKLIST</TAG>
+			<VALUE>ERC000011</VALUE>
+		</SAMPLE_ATTRIBUTE>
+	</SAMPLE_ATTRIBUTES>
+	</SAMPLE>
+	<SAMPLE alias="2_2S" center_name="Minderoo Foundation">
+	<TITLE>Metagenome or environmental sample from marine metagenome</TITLE>
+	<SAMPLE_NAME>
+		<TAXON_ID>408172</TAXON_ID>
+		<SCIENTIFIC_NAME>marine metagenome</SCIENTIFIC_NAME>
+		<COMMON_NAME></COMMON_NAME>
+	</SAMPLE_NAME>
+	<DESCRIPTION>Llewellyn</DESCRIPTION>
+	<SAMPLE_ATTRIBUTES>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>collection date</TAG>
+			<VALUE>not collected</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>filtration_device</TAG>
+			<VALUE>Grover pump</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environmental package</TAG>
+			<VALUE>water</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>rel_to_oxygen</TAG>
+			<VALUE>aerobe</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>replicate_id</TAG>
+			<VALUE>NA</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>organism</TAG>
+			<VALUE>marine metagenome</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (country and/or sea)</TAG>
+			<VALUE>Pacific Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geo_loc_name</TAG>
+			<VALUE>Australia: Pacific Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>control_sample</TAG>
+			<VALUE>FALSE</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>isolation_source</TAG>
+			<VALUE>Ocean water sample</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (latitude)</TAG>
+			<VALUE>-23.70666667</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (longitude)</TAG>
+			<VALUE>152.1564667</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environment (biome)</TAG>
+			<VALUE>marine</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>ENA-CHECKLIST</TAG>
+			<VALUE>ERC000011</VALUE>
+		</SAMPLE_ATTRIBUTE>
+	</SAMPLE_ATTRIBUTES>
+	</SAMPLE>
+	<SAMPLE alias="2_3D" center_name="Minderoo Foundation">
+	<TITLE>Metagenome or environmental sample from marine metagenome</TITLE>
+	<SAMPLE_NAME>
+		<TAXON_ID>408172</TAXON_ID>
+		<SCIENTIFIC_NAME>marine metagenome</SCIENTIFIC_NAME>
+		<COMMON_NAME></COMMON_NAME>
+	</SAMPLE_NAME>
+	<DESCRIPTION>Llewellyn</DESCRIPTION>
+	<SAMPLE_ATTRIBUTES>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>collection date</TAG>
+			<VALUE>not collected</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>filtration_device</TAG>
+			<VALUE>Grover pump</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environmental package</TAG>
+			<VALUE>water</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>rel_to_oxygen</TAG>
+			<VALUE>aerobe</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>replicate_id</TAG>
+			<VALUE>NA</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>organism</TAG>
+			<VALUE>marine metagenome</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (country and/or sea)</TAG>
+			<VALUE>Pacific Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geo_loc_name</TAG>
+			<VALUE>Australia: Pacific Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>control_sample</TAG>
+			<VALUE>FALSE</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>isolation_source</TAG>
+			<VALUE>Ocean water sample</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (latitude)</TAG>
+			<VALUE>-23.70666667</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (longitude)</TAG>
+			<VALUE>152.1564667</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environment (biome)</TAG>
+			<VALUE>marine</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>ENA-CHECKLIST</TAG>
+			<VALUE>ERC000011</VALUE>
+		</SAMPLE_ATTRIBUTE>
+	</SAMPLE_ATTRIBUTES>
+	</SAMPLE>
+	<SAMPLE alias="2_3S" center_name="Minderoo Foundation">
+	<TITLE>Metagenome or environmental sample from marine metagenome</TITLE>
+	<SAMPLE_NAME>
+		<TAXON_ID>408172</TAXON_ID>
+		<SCIENTIFIC_NAME>marine metagenome</SCIENTIFIC_NAME>
+		<COMMON_NAME></COMMON_NAME>
+	</SAMPLE_NAME>
+	<DESCRIPTION>Llewellyn</DESCRIPTION>
+	<SAMPLE_ATTRIBUTES>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>collection date</TAG>
+			<VALUE>not collected</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>filtration_device</TAG>
+			<VALUE>Grover pump</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environmental package</TAG>
+			<VALUE>water</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>rel_to_oxygen</TAG>
+			<VALUE>aerobe</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>replicate_id</TAG>
+			<VALUE>NA</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>organism</TAG>
+			<VALUE>marine metagenome</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (country and/or sea)</TAG>
+			<VALUE>Pacific Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geo_loc_name</TAG>
+			<VALUE>Australia: Pacific Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>control_sample</TAG>
+			<VALUE>FALSE</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>isolation_source</TAG>
+			<VALUE>Ocean water sample</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (latitude)</TAG>
+			<VALUE>-23.70666667</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (longitude)</TAG>
+			<VALUE>152.1564667</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environment (biome)</TAG>
+			<VALUE>marine</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>ENA-CHECKLIST</TAG>
+			<VALUE>ERC000011</VALUE>
+		</SAMPLE_ATTRIBUTE>
+	</SAMPLE_ATTRIBUTES>
+	</SAMPLE>
+	<SAMPLE alias="2_4D" center_name="Minderoo Foundation">
+	<TITLE>Metagenome or environmental sample from marine metagenome</TITLE>
+	<SAMPLE_NAME>
+		<TAXON_ID>408172</TAXON_ID>
+		<SCIENTIFIC_NAME>marine metagenome</SCIENTIFIC_NAME>
+		<COMMON_NAME></COMMON_NAME>
+	</SAMPLE_NAME>
+	<DESCRIPTION>Llewellyn</DESCRIPTION>
+	<SAMPLE_ATTRIBUTES>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>collection date</TAG>
+			<VALUE>not collected</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>filtration_device</TAG>
+			<VALUE>Grover pump</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environmental package</TAG>
+			<VALUE>water</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>rel_to_oxygen</TAG>
+			<VALUE>aerobe</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>replicate_id</TAG>
+			<VALUE>NA</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>organism</TAG>
+			<VALUE>marine metagenome</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (country and/or sea)</TAG>
+			<VALUE>Pacific Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geo_loc_name</TAG>
+			<VALUE>Australia: Pacific Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>control_sample</TAG>
+			<VALUE>FALSE</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>isolation_source</TAG>
+			<VALUE>Ocean water sample</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (latitude)</TAG>
+			<VALUE>-23.70666667</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (longitude)</TAG>
+			<VALUE>152.1564667</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environment (biome)</TAG>
+			<VALUE>marine</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>ENA-CHECKLIST</TAG>
+			<VALUE>ERC000011</VALUE>
+		</SAMPLE_ATTRIBUTE>
+	</SAMPLE_ATTRIBUTES>
+	</SAMPLE>
+	<SAMPLE alias="2_4S" center_name="Minderoo Foundation">
+	<TITLE>Metagenome or environmental sample from marine metagenome</TITLE>
+	<SAMPLE_NAME>
+		<TAXON_ID>408172</TAXON_ID>
+		<SCIENTIFIC_NAME>marine metagenome</SCIENTIFIC_NAME>
+		<COMMON_NAME></COMMON_NAME>
+	</SAMPLE_NAME>
+	<DESCRIPTION>Llewellyn</DESCRIPTION>
+	<SAMPLE_ATTRIBUTES>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>collection date</TAG>
+			<VALUE>not collected</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>filtration_device</TAG>
+			<VALUE>Grover pump</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environmental package</TAG>
+			<VALUE>water</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>rel_to_oxygen</TAG>
+			<VALUE>aerobe</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>replicate_id</TAG>
+			<VALUE>NA</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>organism</TAG>
+			<VALUE>marine metagenome</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (country and/or sea)</TAG>
+			<VALUE>Pacific Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geo_loc_name</TAG>
+			<VALUE>Australia: Pacific Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>control_sample</TAG>
+			<VALUE>FALSE</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>isolation_source</TAG>
+			<VALUE>Ocean water sample</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (latitude)</TAG>
+			<VALUE>-23.70666667</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (longitude)</TAG>
+			<VALUE>152.1564667</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environment (biome)</TAG>
+			<VALUE>marine</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>ENA-CHECKLIST</TAG>
+			<VALUE>ERC000011</VALUE>
+		</SAMPLE_ATTRIBUTE>
+	</SAMPLE_ATTRIBUTES>
+	</SAMPLE>
+	<SAMPLE alias="3_1D" center_name="Minderoo Foundation">
+	<TITLE>Metagenome or environmental sample from marine metagenome</TITLE>
+	<SAMPLE_NAME>
+		<TAXON_ID>408172</TAXON_ID>
+		<SCIENTIFIC_NAME>marine metagenome</SCIENTIFIC_NAME>
+		<COMMON_NAME></COMMON_NAME>
+	</SAMPLE_NAME>
+	<DESCRIPTION>Llewellyn</DESCRIPTION>
+	<SAMPLE_ATTRIBUTES>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>collection date</TAG>
+			<VALUE>not collected</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>filtration_device</TAG>
+			<VALUE>Grover pump</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environmental package</TAG>
+			<VALUE>water</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>rel_to_oxygen</TAG>
+			<VALUE>aerobe</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>replicate_id</TAG>
+			<VALUE>NA</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>organism</TAG>
+			<VALUE>marine metagenome</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (country and/or sea)</TAG>
+			<VALUE>Pacific Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geo_loc_name</TAG>
+			<VALUE>Australia: Pacific Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>control_sample</TAG>
+			<VALUE>FALSE</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>isolation_source</TAG>
+			<VALUE>Ocean water sample</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (latitude)</TAG>
+			<VALUE>-23.709</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (longitude)</TAG>
+			<VALUE>152.1570667</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environment (biome)</TAG>
+			<VALUE>marine</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>ENA-CHECKLIST</TAG>
+			<VALUE>ERC000011</VALUE>
+		</SAMPLE_ATTRIBUTE>
+	</SAMPLE_ATTRIBUTES>
+	</SAMPLE>
+	<SAMPLE alias="3_1S" center_name="Minderoo Foundation">
+	<TITLE>Metagenome or environmental sample from marine metagenome</TITLE>
+	<SAMPLE_NAME>
+		<TAXON_ID>408172</TAXON_ID>
+		<SCIENTIFIC_NAME>marine metagenome</SCIENTIFIC_NAME>
+		<COMMON_NAME></COMMON_NAME>
+	</SAMPLE_NAME>
+	<DESCRIPTION>Llewellyn</DESCRIPTION>
+	<SAMPLE_ATTRIBUTES>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>collection date</TAG>
+			<VALUE>not collected</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>filtration_device</TAG>
+			<VALUE>Grover pump</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environmental package</TAG>
+			<VALUE>water</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>rel_to_oxygen</TAG>
+			<VALUE>aerobe</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>replicate_id</TAG>
+			<VALUE>NA</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>organism</TAG>
+			<VALUE>marine metagenome</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (country and/or sea)</TAG>
+			<VALUE>Pacific Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geo_loc_name</TAG>
+			<VALUE>Australia: Pacific Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>control_sample</TAG>
+			<VALUE>FALSE</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>isolation_source</TAG>
+			<VALUE>Ocean water sample</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (latitude)</TAG>
+			<VALUE>-23.709</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (longitude)</TAG>
+			<VALUE>152.1570667</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environment (biome)</TAG>
+			<VALUE>marine</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>ENA-CHECKLIST</TAG>
+			<VALUE>ERC000011</VALUE>
+		</SAMPLE_ATTRIBUTE>
+	</SAMPLE_ATTRIBUTES>
+	</SAMPLE>
+	<SAMPLE alias="3_2D" center_name="Minderoo Foundation">
+	<TITLE>Metagenome or environmental sample from marine metagenome</TITLE>
+	<SAMPLE_NAME>
+		<TAXON_ID>408172</TAXON_ID>
+		<SCIENTIFIC_NAME>marine metagenome</SCIENTIFIC_NAME>
+		<COMMON_NAME></COMMON_NAME>
+	</SAMPLE_NAME>
+	<DESCRIPTION>Llewellyn</DESCRIPTION>
+	<SAMPLE_ATTRIBUTES>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>collection date</TAG>
+			<VALUE>not collected</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>filtration_device</TAG>
+			<VALUE>Grover pump</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environmental package</TAG>
+			<VALUE>water</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>rel_to_oxygen</TAG>
+			<VALUE>aerobe</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>replicate_id</TAG>
+			<VALUE>NA</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>organism</TAG>
+			<VALUE>marine metagenome</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (country and/or sea)</TAG>
+			<VALUE>Pacific Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geo_loc_name</TAG>
+			<VALUE>Australia: Pacific Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>control_sample</TAG>
+			<VALUE>FALSE</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>isolation_source</TAG>
+			<VALUE>Ocean water sample</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (latitude)</TAG>
+			<VALUE>-23.709</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (longitude)</TAG>
+			<VALUE>152.1570667</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environment (biome)</TAG>
+			<VALUE>marine</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>ENA-CHECKLIST</TAG>
+			<VALUE>ERC000011</VALUE>
+		</SAMPLE_ATTRIBUTE>
+	</SAMPLE_ATTRIBUTES>
+	</SAMPLE>
+	<SAMPLE alias="3_2S" center_name="Minderoo Foundation">
+	<TITLE>Metagenome or environmental sample from marine metagenome</TITLE>
+	<SAMPLE_NAME>
+		<TAXON_ID>408172</TAXON_ID>
+		<SCIENTIFIC_NAME>marine metagenome</SCIENTIFIC_NAME>
+		<COMMON_NAME></COMMON_NAME>
+	</SAMPLE_NAME>
+	<DESCRIPTION>Llewellyn</DESCRIPTION>
+	<SAMPLE_ATTRIBUTES>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>collection date</TAG>
+			<VALUE>not collected</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>filtration_device</TAG>
+			<VALUE>Grover pump</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environmental package</TAG>
+			<VALUE>water</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>rel_to_oxygen</TAG>
+			<VALUE>aerobe</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>replicate_id</TAG>
+			<VALUE>NA</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>organism</TAG>
+			<VALUE>marine metagenome</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (country and/or sea)</TAG>
+			<VALUE>Pacific Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geo_loc_name</TAG>
+			<VALUE>Australia: Pacific Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>control_sample</TAG>
+			<VALUE>FALSE</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>isolation_source</TAG>
+			<VALUE>Ocean water sample</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (latitude)</TAG>
+			<VALUE>-23.709</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (longitude)</TAG>
+			<VALUE>152.1570667</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environment (biome)</TAG>
+			<VALUE>marine</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>ENA-CHECKLIST</TAG>
+			<VALUE>ERC000011</VALUE>
+		</SAMPLE_ATTRIBUTE>
+	</SAMPLE_ATTRIBUTES>
+	</SAMPLE>
+	<SAMPLE alias="3_3D" center_name="Minderoo Foundation">
+	<TITLE>Metagenome or environmental sample from marine metagenome</TITLE>
+	<SAMPLE_NAME>
+		<TAXON_ID>408172</TAXON_ID>
+		<SCIENTIFIC_NAME>marine metagenome</SCIENTIFIC_NAME>
+		<COMMON_NAME></COMMON_NAME>
+	</SAMPLE_NAME>
+	<DESCRIPTION>Llewellyn</DESCRIPTION>
+	<SAMPLE_ATTRIBUTES>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>collection date</TAG>
+			<VALUE>not collected</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>filtration_device</TAG>
+			<VALUE>Grover pump</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environmental package</TAG>
+			<VALUE>water</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>rel_to_oxygen</TAG>
+			<VALUE>aerobe</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>replicate_id</TAG>
+			<VALUE>NA</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>organism</TAG>
+			<VALUE>marine metagenome</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (country and/or sea)</TAG>
+			<VALUE>Pacific Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geo_loc_name</TAG>
+			<VALUE>Australia: Pacific Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>control_sample</TAG>
+			<VALUE>FALSE</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>isolation_source</TAG>
+			<VALUE>Ocean water sample</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (latitude)</TAG>
+			<VALUE>-23.709</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (longitude)</TAG>
+			<VALUE>152.1570667</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environment (biome)</TAG>
+			<VALUE>marine</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>ENA-CHECKLIST</TAG>
+			<VALUE>ERC000011</VALUE>
+		</SAMPLE_ATTRIBUTE>
+	</SAMPLE_ATTRIBUTES>
+	</SAMPLE>
+	<SAMPLE alias="3_3S" center_name="Minderoo Foundation">
+	<TITLE>Metagenome or environmental sample from marine metagenome</TITLE>
+	<SAMPLE_NAME>
+		<TAXON_ID>408172</TAXON_ID>
+		<SCIENTIFIC_NAME>marine metagenome</SCIENTIFIC_NAME>
+		<COMMON_NAME></COMMON_NAME>
+	</SAMPLE_NAME>
+	<DESCRIPTION>Llewellyn</DESCRIPTION>
+	<SAMPLE_ATTRIBUTES>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>collection date</TAG>
+			<VALUE>not collected</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>filtration_device</TAG>
+			<VALUE>Grover pump</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environmental package</TAG>
+			<VALUE>water</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>rel_to_oxygen</TAG>
+			<VALUE>aerobe</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>replicate_id</TAG>
+			<VALUE>NA</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>organism</TAG>
+			<VALUE>marine metagenome</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (country and/or sea)</TAG>
+			<VALUE>Pacific Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geo_loc_name</TAG>
+			<VALUE>Australia: Pacific Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>control_sample</TAG>
+			<VALUE>FALSE</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>isolation_source</TAG>
+			<VALUE>Ocean water sample</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (latitude)</TAG>
+			<VALUE>-23.709</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (longitude)</TAG>
+			<VALUE>152.1570667</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environment (biome)</TAG>
+			<VALUE>marine</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>ENA-CHECKLIST</TAG>
+			<VALUE>ERC000011</VALUE>
+		</SAMPLE_ATTRIBUTE>
+	</SAMPLE_ATTRIBUTES>
+	</SAMPLE>
+	<SAMPLE alias="3_4D" center_name="Minderoo Foundation">
+	<TITLE>Metagenome or environmental sample from marine metagenome</TITLE>
+	<SAMPLE_NAME>
+		<TAXON_ID>408172</TAXON_ID>
+		<SCIENTIFIC_NAME>marine metagenome</SCIENTIFIC_NAME>
+		<COMMON_NAME></COMMON_NAME>
+	</SAMPLE_NAME>
+	<DESCRIPTION>Llewellyn</DESCRIPTION>
+	<SAMPLE_ATTRIBUTES>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>collection date</TAG>
+			<VALUE>not collected</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>filtration_device</TAG>
+			<VALUE>Grover pump</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environmental package</TAG>
+			<VALUE>water</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>rel_to_oxygen</TAG>
+			<VALUE>aerobe</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>replicate_id</TAG>
+			<VALUE>NA</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>organism</TAG>
+			<VALUE>marine metagenome</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (country and/or sea)</TAG>
+			<VALUE>Pacific Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geo_loc_name</TAG>
+			<VALUE>Australia: Pacific Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>control_sample</TAG>
+			<VALUE>FALSE</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>isolation_source</TAG>
+			<VALUE>Ocean water sample</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (latitude)</TAG>
+			<VALUE>-23.709</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (longitude)</TAG>
+			<VALUE>152.1570667</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environment (biome)</TAG>
+			<VALUE>marine</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>ENA-CHECKLIST</TAG>
+			<VALUE>ERC000011</VALUE>
+		</SAMPLE_ATTRIBUTE>
+	</SAMPLE_ATTRIBUTES>
+	</SAMPLE>
+	<SAMPLE alias="3_4S" center_name="Minderoo Foundation">
+	<TITLE>Metagenome or environmental sample from marine metagenome</TITLE>
+	<SAMPLE_NAME>
+		<TAXON_ID>408172</TAXON_ID>
+		<SCIENTIFIC_NAME>marine metagenome</SCIENTIFIC_NAME>
+		<COMMON_NAME></COMMON_NAME>
+	</SAMPLE_NAME>
+	<DESCRIPTION>Llewellyn</DESCRIPTION>
+	<SAMPLE_ATTRIBUTES>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>collection date</TAG>
+			<VALUE>not collected</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>filtration_device</TAG>
+			<VALUE>Grover pump</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environmental package</TAG>
+			<VALUE>water</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>rel_to_oxygen</TAG>
+			<VALUE>aerobe</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>replicate_id</TAG>
+			<VALUE>NA</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>organism</TAG>
+			<VALUE>marine metagenome</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (country and/or sea)</TAG>
+			<VALUE>Pacific Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geo_loc_name</TAG>
+			<VALUE>Australia: Pacific Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>control_sample</TAG>
+			<VALUE>FALSE</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>isolation_source</TAG>
+			<VALUE>Ocean water sample</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (latitude)</TAG>
+			<VALUE>-23.709</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (longitude)</TAG>
+			<VALUE>152.1570667</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environment (biome)</TAG>
+			<VALUE>marine</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>ENA-CHECKLIST</TAG>
+			<VALUE>ERC000011</VALUE>
+		</SAMPLE_ATTRIBUTE>
+	</SAMPLE_ATTRIBUTES>
+	</SAMPLE>
+	<SAMPLE alias="4_1D" center_name="Minderoo Foundation">
+	<TITLE>Metagenome or environmental sample from marine metagenome</TITLE>
+	<SAMPLE_NAME>
+		<TAXON_ID>408172</TAXON_ID>
+		<SCIENTIFIC_NAME>marine metagenome</SCIENTIFIC_NAME>
+		<COMMON_NAME></COMMON_NAME>
+	</SAMPLE_NAME>
+	<DESCRIPTION>Hoskin</DESCRIPTION>
+	<SAMPLE_ATTRIBUTES>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>collection date</TAG>
+			<VALUE>not collected</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>filtration_device</TAG>
+			<VALUE>Grover pump</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environmental package</TAG>
+			<VALUE>water</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>rel_to_oxygen</TAG>
+			<VALUE>aerobe</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>replicate_id</TAG>
+			<VALUE>NA</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>organism</TAG>
+			<VALUE>marine metagenome</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (country and/or sea)</TAG>
+			<VALUE>Pacific Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geo_loc_name</TAG>
+			<VALUE>Australia: Pacific Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>control_sample</TAG>
+			<VALUE>FALSE</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>isolation_source</TAG>
+			<VALUE>Ocean water sample</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (latitude)</TAG>
+			<VALUE>-23.81066667</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (longitude)</TAG>
+			<VALUE>152.2838667</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environment (biome)</TAG>
+			<VALUE>marine</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>ENA-CHECKLIST</TAG>
+			<VALUE>ERC000011</VALUE>
+		</SAMPLE_ATTRIBUTE>
+	</SAMPLE_ATTRIBUTES>
+	</SAMPLE>
+	<SAMPLE alias="4_1S" center_name="Minderoo Foundation">
+	<TITLE>Metagenome or environmental sample from marine metagenome</TITLE>
+	<SAMPLE_NAME>
+		<TAXON_ID>408172</TAXON_ID>
+		<SCIENTIFIC_NAME>marine metagenome</SCIENTIFIC_NAME>
+		<COMMON_NAME></COMMON_NAME>
+	</SAMPLE_NAME>
+	<DESCRIPTION>Hoskin</DESCRIPTION>
+	<SAMPLE_ATTRIBUTES>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>collection date</TAG>
+			<VALUE>not collected</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>filtration_device</TAG>
+			<VALUE>Grover pump</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environmental package</TAG>
+			<VALUE>water</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>rel_to_oxygen</TAG>
+			<VALUE>aerobe</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>replicate_id</TAG>
+			<VALUE>NA</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>organism</TAG>
+			<VALUE>marine metagenome</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (country and/or sea)</TAG>
+			<VALUE>Pacific Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geo_loc_name</TAG>
+			<VALUE>Australia: Pacific Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>control_sample</TAG>
+			<VALUE>FALSE</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>isolation_source</TAG>
+			<VALUE>Ocean water sample</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (latitude)</TAG>
+			<VALUE>-23.81066667</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (longitude)</TAG>
+			<VALUE>152.2838667</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environment (biome)</TAG>
+			<VALUE>marine</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>ENA-CHECKLIST</TAG>
+			<VALUE>ERC000011</VALUE>
+		</SAMPLE_ATTRIBUTE>
+	</SAMPLE_ATTRIBUTES>
+	</SAMPLE>
+	<SAMPLE alias="4_2D" center_name="Minderoo Foundation">
+	<TITLE>Metagenome or environmental sample from marine metagenome</TITLE>
+	<SAMPLE_NAME>
+		<TAXON_ID>408172</TAXON_ID>
+		<SCIENTIFIC_NAME>marine metagenome</SCIENTIFIC_NAME>
+		<COMMON_NAME></COMMON_NAME>
+	</SAMPLE_NAME>
+	<DESCRIPTION>Hoskin</DESCRIPTION>
+	<SAMPLE_ATTRIBUTES>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>collection date</TAG>
+			<VALUE>not collected</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>filtration_device</TAG>
+			<VALUE>Grover pump</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environmental package</TAG>
+			<VALUE>water</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>rel_to_oxygen</TAG>
+			<VALUE>aerobe</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>replicate_id</TAG>
+			<VALUE>NA</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>organism</TAG>
+			<VALUE>marine metagenome</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (country and/or sea)</TAG>
+			<VALUE>Pacific Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geo_loc_name</TAG>
+			<VALUE>Australia: Pacific Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>control_sample</TAG>
+			<VALUE>FALSE</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>isolation_source</TAG>
+			<VALUE>Ocean water sample</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (latitude)</TAG>
+			<VALUE>-23.81066667</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (longitude)</TAG>
+			<VALUE>152.2838667</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environment (biome)</TAG>
+			<VALUE>marine</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>ENA-CHECKLIST</TAG>
+			<VALUE>ERC000011</VALUE>
+		</SAMPLE_ATTRIBUTE>
+	</SAMPLE_ATTRIBUTES>
+	</SAMPLE>
+	<SAMPLE alias="4_2S" center_name="Minderoo Foundation">
+	<TITLE>Metagenome or environmental sample from marine metagenome</TITLE>
+	<SAMPLE_NAME>
+		<TAXON_ID>408172</TAXON_ID>
+		<SCIENTIFIC_NAME>marine metagenome</SCIENTIFIC_NAME>
+		<COMMON_NAME></COMMON_NAME>
+	</SAMPLE_NAME>
+	<DESCRIPTION>Hoskin</DESCRIPTION>
+	<SAMPLE_ATTRIBUTES>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>collection date</TAG>
+			<VALUE>not collected</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>filtration_device</TAG>
+			<VALUE>Grover pump</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environmental package</TAG>
+			<VALUE>water</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>rel_to_oxygen</TAG>
+			<VALUE>aerobe</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>replicate_id</TAG>
+			<VALUE>NA</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>organism</TAG>
+			<VALUE>marine metagenome</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (country and/or sea)</TAG>
+			<VALUE>Pacific Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geo_loc_name</TAG>
+			<VALUE>Australia: Pacific Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>control_sample</TAG>
+			<VALUE>FALSE</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>isolation_source</TAG>
+			<VALUE>Ocean water sample</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (latitude)</TAG>
+			<VALUE>-23.81066667</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (longitude)</TAG>
+			<VALUE>152.2838667</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environment (biome)</TAG>
+			<VALUE>marine</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>ENA-CHECKLIST</TAG>
+			<VALUE>ERC000011</VALUE>
+		</SAMPLE_ATTRIBUTE>
+	</SAMPLE_ATTRIBUTES>
+	</SAMPLE>
+	<SAMPLE alias="4_3D" center_name="Minderoo Foundation">
+	<TITLE>Metagenome or environmental sample from marine metagenome</TITLE>
+	<SAMPLE_NAME>
+		<TAXON_ID>408172</TAXON_ID>
+		<SCIENTIFIC_NAME>marine metagenome</SCIENTIFIC_NAME>
+		<COMMON_NAME></COMMON_NAME>
+	</SAMPLE_NAME>
+	<DESCRIPTION>Hoskin</DESCRIPTION>
+	<SAMPLE_ATTRIBUTES>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>collection date</TAG>
+			<VALUE>not collected</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>filtration_device</TAG>
+			<VALUE>Grover pump</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environmental package</TAG>
+			<VALUE>water</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>rel_to_oxygen</TAG>
+			<VALUE>aerobe</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>replicate_id</TAG>
+			<VALUE>NA</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>organism</TAG>
+			<VALUE>marine metagenome</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (country and/or sea)</TAG>
+			<VALUE>Pacific Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geo_loc_name</TAG>
+			<VALUE>Australia: Pacific Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>control_sample</TAG>
+			<VALUE>FALSE</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>isolation_source</TAG>
+			<VALUE>Ocean water sample</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (latitude)</TAG>
+			<VALUE>-23.81066667</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (longitude)</TAG>
+			<VALUE>152.2838667</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environment (biome)</TAG>
+			<VALUE>marine</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>ENA-CHECKLIST</TAG>
+			<VALUE>ERC000011</VALUE>
+		</SAMPLE_ATTRIBUTE>
+	</SAMPLE_ATTRIBUTES>
+	</SAMPLE>
+	<SAMPLE alias="4_3S" center_name="Minderoo Foundation">
+	<TITLE>Metagenome or environmental sample from marine metagenome</TITLE>
+	<SAMPLE_NAME>
+		<TAXON_ID>408172</TAXON_ID>
+		<SCIENTIFIC_NAME>marine metagenome</SCIENTIFIC_NAME>
+		<COMMON_NAME></COMMON_NAME>
+	</SAMPLE_NAME>
+	<DESCRIPTION>Hoskin</DESCRIPTION>
+	<SAMPLE_ATTRIBUTES>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>collection date</TAG>
+			<VALUE>not collected</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>filtration_device</TAG>
+			<VALUE>Grover pump</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environmental package</TAG>
+			<VALUE>water</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>rel_to_oxygen</TAG>
+			<VALUE>aerobe</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>replicate_id</TAG>
+			<VALUE>NA</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>organism</TAG>
+			<VALUE>marine metagenome</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (country and/or sea)</TAG>
+			<VALUE>Pacific Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geo_loc_name</TAG>
+			<VALUE>Australia: Pacific Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>control_sample</TAG>
+			<VALUE>FALSE</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>isolation_source</TAG>
+			<VALUE>Ocean water sample</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (latitude)</TAG>
+			<VALUE>-23.81066667</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (longitude)</TAG>
+			<VALUE>152.2838667</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environment (biome)</TAG>
+			<VALUE>marine</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>ENA-CHECKLIST</TAG>
+			<VALUE>ERC000011</VALUE>
+		</SAMPLE_ATTRIBUTE>
+	</SAMPLE_ATTRIBUTES>
+	</SAMPLE>
+	<SAMPLE alias="4_4D" center_name="Minderoo Foundation">
+	<TITLE>Metagenome or environmental sample from marine metagenome</TITLE>
+	<SAMPLE_NAME>
+		<TAXON_ID>408172</TAXON_ID>
+		<SCIENTIFIC_NAME>marine metagenome</SCIENTIFIC_NAME>
+		<COMMON_NAME></COMMON_NAME>
+	</SAMPLE_NAME>
+	<DESCRIPTION>Hoskin</DESCRIPTION>
+	<SAMPLE_ATTRIBUTES>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>collection date</TAG>
+			<VALUE>not collected</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>filtration_device</TAG>
+			<VALUE>Grover pump</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environmental package</TAG>
+			<VALUE>water</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>rel_to_oxygen</TAG>
+			<VALUE>aerobe</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>replicate_id</TAG>
+			<VALUE>NA</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>organism</TAG>
+			<VALUE>marine metagenome</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (country and/or sea)</TAG>
+			<VALUE>Pacific Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geo_loc_name</TAG>
+			<VALUE>Australia: Pacific Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>control_sample</TAG>
+			<VALUE>FALSE</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>isolation_source</TAG>
+			<VALUE>Ocean water sample</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (latitude)</TAG>
+			<VALUE>-23.81066667</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (longitude)</TAG>
+			<VALUE>152.2838667</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environment (biome)</TAG>
+			<VALUE>marine</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>ENA-CHECKLIST</TAG>
+			<VALUE>ERC000011</VALUE>
+		</SAMPLE_ATTRIBUTE>
+	</SAMPLE_ATTRIBUTES>
+	</SAMPLE>
+	<SAMPLE alias="4_4S" center_name="Minderoo Foundation">
+	<TITLE>Metagenome or environmental sample from marine metagenome</TITLE>
+	<SAMPLE_NAME>
+		<TAXON_ID>408172</TAXON_ID>
+		<SCIENTIFIC_NAME>marine metagenome</SCIENTIFIC_NAME>
+		<COMMON_NAME></COMMON_NAME>
+	</SAMPLE_NAME>
+	<DESCRIPTION>Hoskin</DESCRIPTION>
+	<SAMPLE_ATTRIBUTES>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>collection date</TAG>
+			<VALUE>not collected</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>filtration_device</TAG>
+			<VALUE>Grover pump</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environmental package</TAG>
+			<VALUE>water</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>rel_to_oxygen</TAG>
+			<VALUE>aerobe</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>replicate_id</TAG>
+			<VALUE>NA</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>organism</TAG>
+			<VALUE>marine metagenome</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (country and/or sea)</TAG>
+			<VALUE>Pacific Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geo_loc_name</TAG>
+			<VALUE>Australia: Pacific Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>control_sample</TAG>
+			<VALUE>FALSE</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>isolation_source</TAG>
+			<VALUE>Ocean water sample</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (latitude)</TAG>
+			<VALUE>-23.81066667</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (longitude)</TAG>
+			<VALUE>152.2838667</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environment (biome)</TAG>
+			<VALUE>marine</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>ENA-CHECKLIST</TAG>
+			<VALUE>ERC000011</VALUE>
+		</SAMPLE_ATTRIBUTE>
+	</SAMPLE_ATTRIBUTES>
+	</SAMPLE>
+	<SAMPLE alias="5_1D" center_name="Minderoo Foundation">
+	<TITLE>Metagenome or environmental sample from marine metagenome</TITLE>
+	<SAMPLE_NAME>
+		<TAXON_ID>408172</TAXON_ID>
+		<SCIENTIFIC_NAME>marine metagenome</SCIENTIFIC_NAME>
+		<COMMON_NAME></COMMON_NAME>
+	</SAMPLE_NAME>
+	<DESCRIPTION>Hoskin</DESCRIPTION>
+	<SAMPLE_ATTRIBUTES>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>collection date</TAG>
+			<VALUE>not collected</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>filtration_device</TAG>
+			<VALUE>Grover pump</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environmental package</TAG>
+			<VALUE>water</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>rel_to_oxygen</TAG>
+			<VALUE>aerobe</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>replicate_id</TAG>
+			<VALUE>NA</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>organism</TAG>
+			<VALUE>marine metagenome</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (country and/or sea)</TAG>
+			<VALUE>Pacific Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geo_loc_name</TAG>
+			<VALUE>Australia: Pacific Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>control_sample</TAG>
+			<VALUE>FALSE</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>isolation_source</TAG>
+			<VALUE>Ocean water sample</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (latitude)</TAG>
+			<VALUE>-23.81208333</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (longitude)</TAG>
+			<VALUE>152.28275</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environment (biome)</TAG>
+			<VALUE>marine</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>ENA-CHECKLIST</TAG>
+			<VALUE>ERC000011</VALUE>
+		</SAMPLE_ATTRIBUTE>
+	</SAMPLE_ATTRIBUTES>
+	</SAMPLE>
+	<SAMPLE alias="5_1S" center_name="Minderoo Foundation">
+	<TITLE>Metagenome or environmental sample from marine metagenome</TITLE>
+	<SAMPLE_NAME>
+		<TAXON_ID>408172</TAXON_ID>
+		<SCIENTIFIC_NAME>marine metagenome</SCIENTIFIC_NAME>
+		<COMMON_NAME></COMMON_NAME>
+	</SAMPLE_NAME>
+	<DESCRIPTION>Hoskin</DESCRIPTION>
+	<SAMPLE_ATTRIBUTES>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>collection date</TAG>
+			<VALUE>not collected</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>filtration_device</TAG>
+			<VALUE>Grover pump</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environmental package</TAG>
+			<VALUE>water</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>rel_to_oxygen</TAG>
+			<VALUE>aerobe</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>replicate_id</TAG>
+			<VALUE>NA</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>organism</TAG>
+			<VALUE>marine metagenome</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (country and/or sea)</TAG>
+			<VALUE>Pacific Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geo_loc_name</TAG>
+			<VALUE>Australia: Pacific Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>control_sample</TAG>
+			<VALUE>FALSE</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>isolation_source</TAG>
+			<VALUE>Ocean water sample</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (latitude)</TAG>
+			<VALUE>-23.81208333</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (longitude)</TAG>
+			<VALUE>152.28275</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environment (biome)</TAG>
+			<VALUE>marine</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>ENA-CHECKLIST</TAG>
+			<VALUE>ERC000011</VALUE>
+		</SAMPLE_ATTRIBUTE>
+	</SAMPLE_ATTRIBUTES>
+	</SAMPLE>
+	<SAMPLE alias="5_2D" center_name="Minderoo Foundation">
+	<TITLE>Metagenome or environmental sample from marine metagenome</TITLE>
+	<SAMPLE_NAME>
+		<TAXON_ID>408172</TAXON_ID>
+		<SCIENTIFIC_NAME>marine metagenome</SCIENTIFIC_NAME>
+		<COMMON_NAME></COMMON_NAME>
+	</SAMPLE_NAME>
+	<DESCRIPTION>Hoskin</DESCRIPTION>
+	<SAMPLE_ATTRIBUTES>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>collection date</TAG>
+			<VALUE>not collected</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>filtration_device</TAG>
+			<VALUE>Grover pump</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environmental package</TAG>
+			<VALUE>water</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>rel_to_oxygen</TAG>
+			<VALUE>aerobe</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>replicate_id</TAG>
+			<VALUE>NA</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>organism</TAG>
+			<VALUE>marine metagenome</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (country and/or sea)</TAG>
+			<VALUE>Pacific Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geo_loc_name</TAG>
+			<VALUE>Australia: Pacific Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>control_sample</TAG>
+			<VALUE>FALSE</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>isolation_source</TAG>
+			<VALUE>Ocean water sample</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (latitude)</TAG>
+			<VALUE>-23.81208333</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (longitude)</TAG>
+			<VALUE>152.28275</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environment (biome)</TAG>
+			<VALUE>marine</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>ENA-CHECKLIST</TAG>
+			<VALUE>ERC000011</VALUE>
+		</SAMPLE_ATTRIBUTE>
+	</SAMPLE_ATTRIBUTES>
+	</SAMPLE>
+	<SAMPLE alias="5_2S" center_name="Minderoo Foundation">
+	<TITLE>Metagenome or environmental sample from marine metagenome</TITLE>
+	<SAMPLE_NAME>
+		<TAXON_ID>408172</TAXON_ID>
+		<SCIENTIFIC_NAME>marine metagenome</SCIENTIFIC_NAME>
+		<COMMON_NAME></COMMON_NAME>
+	</SAMPLE_NAME>
+	<DESCRIPTION>Hoskin</DESCRIPTION>
+	<SAMPLE_ATTRIBUTES>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>collection date</TAG>
+			<VALUE>not collected</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>filtration_device</TAG>
+			<VALUE>Grover pump</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environmental package</TAG>
+			<VALUE>water</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>rel_to_oxygen</TAG>
+			<VALUE>aerobe</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>replicate_id</TAG>
+			<VALUE>NA</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>organism</TAG>
+			<VALUE>marine metagenome</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (country and/or sea)</TAG>
+			<VALUE>Pacific Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geo_loc_name</TAG>
+			<VALUE>Australia: Pacific Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>control_sample</TAG>
+			<VALUE>FALSE</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>isolation_source</TAG>
+			<VALUE>Ocean water sample</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (latitude)</TAG>
+			<VALUE>-23.81208333</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (longitude)</TAG>
+			<VALUE>152.28275</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environment (biome)</TAG>
+			<VALUE>marine</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>ENA-CHECKLIST</TAG>
+			<VALUE>ERC000011</VALUE>
+		</SAMPLE_ATTRIBUTE>
+	</SAMPLE_ATTRIBUTES>
+	</SAMPLE>
+	<SAMPLE alias="5_3D" center_name="Minderoo Foundation">
+	<TITLE>Metagenome or environmental sample from marine metagenome</TITLE>
+	<SAMPLE_NAME>
+		<TAXON_ID>408172</TAXON_ID>
+		<SCIENTIFIC_NAME>marine metagenome</SCIENTIFIC_NAME>
+		<COMMON_NAME></COMMON_NAME>
+	</SAMPLE_NAME>
+	<DESCRIPTION>Hoskin</DESCRIPTION>
+	<SAMPLE_ATTRIBUTES>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>collection date</TAG>
+			<VALUE>not collected</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>filtration_device</TAG>
+			<VALUE>Grover pump</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environmental package</TAG>
+			<VALUE>water</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>rel_to_oxygen</TAG>
+			<VALUE>aerobe</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>replicate_id</TAG>
+			<VALUE>NA</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>organism</TAG>
+			<VALUE>marine metagenome</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (country and/or sea)</TAG>
+			<VALUE>Pacific Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geo_loc_name</TAG>
+			<VALUE>Australia: Pacific Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>control_sample</TAG>
+			<VALUE>FALSE</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>isolation_source</TAG>
+			<VALUE>Ocean water sample</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (latitude)</TAG>
+			<VALUE>-23.81208333</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (longitude)</TAG>
+			<VALUE>152.28275</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environment (biome)</TAG>
+			<VALUE>marine</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>ENA-CHECKLIST</TAG>
+			<VALUE>ERC000011</VALUE>
+		</SAMPLE_ATTRIBUTE>
+	</SAMPLE_ATTRIBUTES>
+	</SAMPLE>
+	<SAMPLE alias="5_3S" center_name="Minderoo Foundation">
+	<TITLE>Metagenome or environmental sample from marine metagenome</TITLE>
+	<SAMPLE_NAME>
+		<TAXON_ID>408172</TAXON_ID>
+		<SCIENTIFIC_NAME>marine metagenome</SCIENTIFIC_NAME>
+		<COMMON_NAME></COMMON_NAME>
+	</SAMPLE_NAME>
+	<DESCRIPTION>Hoskin</DESCRIPTION>
+	<SAMPLE_ATTRIBUTES>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>collection date</TAG>
+			<VALUE>not collected</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>filtration_device</TAG>
+			<VALUE>Grover pump</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environmental package</TAG>
+			<VALUE>water</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>rel_to_oxygen</TAG>
+			<VALUE>aerobe</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>replicate_id</TAG>
+			<VALUE>NA</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>organism</TAG>
+			<VALUE>marine metagenome</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (country and/or sea)</TAG>
+			<VALUE>Pacific Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geo_loc_name</TAG>
+			<VALUE>Australia: Pacific Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>control_sample</TAG>
+			<VALUE>FALSE</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>isolation_source</TAG>
+			<VALUE>Ocean water sample</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (latitude)</TAG>
+			<VALUE>-23.81208333</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (longitude)</TAG>
+			<VALUE>152.28275</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environment (biome)</TAG>
+			<VALUE>marine</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>ENA-CHECKLIST</TAG>
+			<VALUE>ERC000011</VALUE>
+		</SAMPLE_ATTRIBUTE>
+	</SAMPLE_ATTRIBUTES>
+	</SAMPLE>
+	<SAMPLE alias="5_4D" center_name="Minderoo Foundation">
+	<TITLE>Metagenome or environmental sample from marine metagenome</TITLE>
+	<SAMPLE_NAME>
+		<TAXON_ID>408172</TAXON_ID>
+		<SCIENTIFIC_NAME>marine metagenome</SCIENTIFIC_NAME>
+		<COMMON_NAME></COMMON_NAME>
+	</SAMPLE_NAME>
+	<DESCRIPTION>Hoskin</DESCRIPTION>
+	<SAMPLE_ATTRIBUTES>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>collection date</TAG>
+			<VALUE>not collected</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>filtration_device</TAG>
+			<VALUE>Grover pump</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environmental package</TAG>
+			<VALUE>water</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>rel_to_oxygen</TAG>
+			<VALUE>aerobe</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>replicate_id</TAG>
+			<VALUE>NA</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>organism</TAG>
+			<VALUE>marine metagenome</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (country and/or sea)</TAG>
+			<VALUE>Pacific Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geo_loc_name</TAG>
+			<VALUE>Australia: Pacific Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>control_sample</TAG>
+			<VALUE>FALSE</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>isolation_source</TAG>
+			<VALUE>Ocean water sample</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (latitude)</TAG>
+			<VALUE>-23.81208333</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (longitude)</TAG>
+			<VALUE>152.28275</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environment (biome)</TAG>
+			<VALUE>marine</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>ENA-CHECKLIST</TAG>
+			<VALUE>ERC000011</VALUE>
+		</SAMPLE_ATTRIBUTE>
+	</SAMPLE_ATTRIBUTES>
+	</SAMPLE>
+	<SAMPLE alias="5_4S" center_name="Minderoo Foundation">
+	<TITLE>Metagenome or environmental sample from marine metagenome</TITLE>
+	<SAMPLE_NAME>
+		<TAXON_ID>408172</TAXON_ID>
+		<SCIENTIFIC_NAME>marine metagenome</SCIENTIFIC_NAME>
+		<COMMON_NAME></COMMON_NAME>
+	</SAMPLE_NAME>
+	<DESCRIPTION>Hoskin</DESCRIPTION>
+	<SAMPLE_ATTRIBUTES>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>collection date</TAG>
+			<VALUE>not collected</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>filtration_device</TAG>
+			<VALUE>Grover pump</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environmental package</TAG>
+			<VALUE>water</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>rel_to_oxygen</TAG>
+			<VALUE>aerobe</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>replicate_id</TAG>
+			<VALUE>NA</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>organism</TAG>
+			<VALUE>marine metagenome</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (country and/or sea)</TAG>
+			<VALUE>Pacific Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geo_loc_name</TAG>
+			<VALUE>Australia: Pacific Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>control_sample</TAG>
+			<VALUE>FALSE</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>isolation_source</TAG>
+			<VALUE>Ocean water sample</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (latitude)</TAG>
+			<VALUE>-23.81208333</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (longitude)</TAG>
+			<VALUE>152.28275</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environment (biome)</TAG>
+			<VALUE>marine</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>ENA-CHECKLIST</TAG>
+			<VALUE>ERC000011</VALUE>
+		</SAMPLE_ATTRIBUTE>
+	</SAMPLE_ATTRIBUTES>
+	</SAMPLE>
+	<SAMPLE alias="6_1D" center_name="Minderoo Foundation">
+	<TITLE>Metagenome or environmental sample from marine metagenome</TITLE>
+	<SAMPLE_NAME>
+		<TAXON_ID>408172</TAXON_ID>
+		<SCIENTIFIC_NAME>marine metagenome</SCIENTIFIC_NAME>
+		<COMMON_NAME></COMMON_NAME>
+	</SAMPLE_NAME>
+	<DESCRIPTION>Hoskin</DESCRIPTION>
+	<SAMPLE_ATTRIBUTES>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>collection date</TAG>
+			<VALUE>not collected</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>filtration_device</TAG>
+			<VALUE>Grover pump</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environmental package</TAG>
+			<VALUE>water</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>rel_to_oxygen</TAG>
+			<VALUE>aerobe</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>replicate_id</TAG>
+			<VALUE>NA</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>organism</TAG>
+			<VALUE>marine metagenome</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (country and/or sea)</TAG>
+			<VALUE>Pacific Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geo_loc_name</TAG>
+			<VALUE>Australia: Pacific Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>control_sample</TAG>
+			<VALUE>FALSE</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>isolation_source</TAG>
+			<VALUE>Ocean water sample</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (latitude)</TAG>
+			<VALUE>-23.81511667</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (longitude)</TAG>
+			<VALUE>152.2813833</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environment (biome)</TAG>
+			<VALUE>marine</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>ENA-CHECKLIST</TAG>
+			<VALUE>ERC000011</VALUE>
+		</SAMPLE_ATTRIBUTE>
+	</SAMPLE_ATTRIBUTES>
+	</SAMPLE>
+	<SAMPLE alias="6_1S" center_name="Minderoo Foundation">
+	<TITLE>Metagenome or environmental sample from marine metagenome</TITLE>
+	<SAMPLE_NAME>
+		<TAXON_ID>408172</TAXON_ID>
+		<SCIENTIFIC_NAME>marine metagenome</SCIENTIFIC_NAME>
+		<COMMON_NAME></COMMON_NAME>
+	</SAMPLE_NAME>
+	<DESCRIPTION>Hoskin</DESCRIPTION>
+	<SAMPLE_ATTRIBUTES>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>collection date</TAG>
+			<VALUE>not collected</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>filtration_device</TAG>
+			<VALUE>Grover pump</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environmental package</TAG>
+			<VALUE>water</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>rel_to_oxygen</TAG>
+			<VALUE>aerobe</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>replicate_id</TAG>
+			<VALUE>NA</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>organism</TAG>
+			<VALUE>marine metagenome</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (country and/or sea)</TAG>
+			<VALUE>Pacific Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geo_loc_name</TAG>
+			<VALUE>Australia: Pacific Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>control_sample</TAG>
+			<VALUE>FALSE</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>isolation_source</TAG>
+			<VALUE>Ocean water sample</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (latitude)</TAG>
+			<VALUE>-23.81511667</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (longitude)</TAG>
+			<VALUE>152.2813833</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environment (biome)</TAG>
+			<VALUE>marine</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>ENA-CHECKLIST</TAG>
+			<VALUE>ERC000011</VALUE>
+		</SAMPLE_ATTRIBUTE>
+	</SAMPLE_ATTRIBUTES>
+	</SAMPLE>
+	<SAMPLE alias="6_2D" center_name="Minderoo Foundation">
+	<TITLE>Metagenome or environmental sample from marine metagenome</TITLE>
+	<SAMPLE_NAME>
+		<TAXON_ID>408172</TAXON_ID>
+		<SCIENTIFIC_NAME>marine metagenome</SCIENTIFIC_NAME>
+		<COMMON_NAME></COMMON_NAME>
+	</SAMPLE_NAME>
+	<DESCRIPTION>Hoskin</DESCRIPTION>
+	<SAMPLE_ATTRIBUTES>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>collection date</TAG>
+			<VALUE>not collected</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>filtration_device</TAG>
+			<VALUE>Grover pump</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environmental package</TAG>
+			<VALUE>water</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>rel_to_oxygen</TAG>
+			<VALUE>aerobe</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>replicate_id</TAG>
+			<VALUE>NA</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>organism</TAG>
+			<VALUE>marine metagenome</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (country and/or sea)</TAG>
+			<VALUE>Pacific Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geo_loc_name</TAG>
+			<VALUE>Australia: Pacific Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>control_sample</TAG>
+			<VALUE>FALSE</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>isolation_source</TAG>
+			<VALUE>Ocean water sample</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (latitude)</TAG>
+			<VALUE>-23.81511667</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (longitude)</TAG>
+			<VALUE>152.2813833</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environment (biome)</TAG>
+			<VALUE>marine</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>ENA-CHECKLIST</TAG>
+			<VALUE>ERC000011</VALUE>
+		</SAMPLE_ATTRIBUTE>
+	</SAMPLE_ATTRIBUTES>
+	</SAMPLE>
+	<SAMPLE alias="6_2S" center_name="Minderoo Foundation">
+	<TITLE>Metagenome or environmental sample from marine metagenome</TITLE>
+	<SAMPLE_NAME>
+		<TAXON_ID>408172</TAXON_ID>
+		<SCIENTIFIC_NAME>marine metagenome</SCIENTIFIC_NAME>
+		<COMMON_NAME></COMMON_NAME>
+	</SAMPLE_NAME>
+	<DESCRIPTION>Hoskin</DESCRIPTION>
+	<SAMPLE_ATTRIBUTES>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>collection date</TAG>
+			<VALUE>not collected</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>filtration_device</TAG>
+			<VALUE>Grover pump</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environmental package</TAG>
+			<VALUE>water</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>rel_to_oxygen</TAG>
+			<VALUE>aerobe</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>replicate_id</TAG>
+			<VALUE>NA</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>organism</TAG>
+			<VALUE>marine metagenome</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (country and/or sea)</TAG>
+			<VALUE>Pacific Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geo_loc_name</TAG>
+			<VALUE>Australia: Pacific Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>control_sample</TAG>
+			<VALUE>FALSE</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>isolation_source</TAG>
+			<VALUE>Ocean water sample</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (latitude)</TAG>
+			<VALUE>-23.81511667</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (longitude)</TAG>
+			<VALUE>152.2813833</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environment (biome)</TAG>
+			<VALUE>marine</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>ENA-CHECKLIST</TAG>
+			<VALUE>ERC000011</VALUE>
+		</SAMPLE_ATTRIBUTE>
+	</SAMPLE_ATTRIBUTES>
+	</SAMPLE>
+	<SAMPLE alias="6_3D" center_name="Minderoo Foundation">
+	<TITLE>Metagenome or environmental sample from marine metagenome</TITLE>
+	<SAMPLE_NAME>
+		<TAXON_ID>408172</TAXON_ID>
+		<SCIENTIFIC_NAME>marine metagenome</SCIENTIFIC_NAME>
+		<COMMON_NAME></COMMON_NAME>
+	</SAMPLE_NAME>
+	<DESCRIPTION>Hoskin</DESCRIPTION>
+	<SAMPLE_ATTRIBUTES>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>collection date</TAG>
+			<VALUE>not collected</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>filtration_device</TAG>
+			<VALUE>Grover pump</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environmental package</TAG>
+			<VALUE>water</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>rel_to_oxygen</TAG>
+			<VALUE>aerobe</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>replicate_id</TAG>
+			<VALUE>NA</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>organism</TAG>
+			<VALUE>marine metagenome</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (country and/or sea)</TAG>
+			<VALUE>Pacific Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geo_loc_name</TAG>
+			<VALUE>Australia: Pacific Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>control_sample</TAG>
+			<VALUE>FALSE</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>isolation_source</TAG>
+			<VALUE>Ocean water sample</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (latitude)</TAG>
+			<VALUE>-23.81511667</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (longitude)</TAG>
+			<VALUE>152.2813833</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environment (biome)</TAG>
+			<VALUE>marine</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>ENA-CHECKLIST</TAG>
+			<VALUE>ERC000011</VALUE>
+		</SAMPLE_ATTRIBUTE>
+	</SAMPLE_ATTRIBUTES>
+	</SAMPLE>
+	<SAMPLE alias="6_3S" center_name="Minderoo Foundation">
+	<TITLE>Metagenome or environmental sample from marine metagenome</TITLE>
+	<SAMPLE_NAME>
+		<TAXON_ID>408172</TAXON_ID>
+		<SCIENTIFIC_NAME>marine metagenome</SCIENTIFIC_NAME>
+		<COMMON_NAME></COMMON_NAME>
+	</SAMPLE_NAME>
+	<DESCRIPTION>Hoskin</DESCRIPTION>
+	<SAMPLE_ATTRIBUTES>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>collection date</TAG>
+			<VALUE>not collected</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>filtration_device</TAG>
+			<VALUE>Grover pump</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environmental package</TAG>
+			<VALUE>water</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>rel_to_oxygen</TAG>
+			<VALUE>aerobe</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>replicate_id</TAG>
+			<VALUE>NA</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>organism</TAG>
+			<VALUE>marine metagenome</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (country and/or sea)</TAG>
+			<VALUE>Pacific Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geo_loc_name</TAG>
+			<VALUE>Australia: Pacific Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>control_sample</TAG>
+			<VALUE>FALSE</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>isolation_source</TAG>
+			<VALUE>Ocean water sample</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (latitude)</TAG>
+			<VALUE>-23.81511667</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (longitude)</TAG>
+			<VALUE>152.2813833</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environment (biome)</TAG>
+			<VALUE>marine</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>ENA-CHECKLIST</TAG>
+			<VALUE>ERC000011</VALUE>
+		</SAMPLE_ATTRIBUTE>
+	</SAMPLE_ATTRIBUTES>
+	</SAMPLE>
+	<SAMPLE alias="6_4D" center_name="Minderoo Foundation">
+	<TITLE>Metagenome or environmental sample from marine metagenome</TITLE>
+	<SAMPLE_NAME>
+		<TAXON_ID>408172</TAXON_ID>
+		<SCIENTIFIC_NAME>marine metagenome</SCIENTIFIC_NAME>
+		<COMMON_NAME></COMMON_NAME>
+	</SAMPLE_NAME>
+	<DESCRIPTION>Hoskin</DESCRIPTION>
+	<SAMPLE_ATTRIBUTES>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>collection date</TAG>
+			<VALUE>not collected</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>filtration_device</TAG>
+			<VALUE>Grover pump</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environmental package</TAG>
+			<VALUE>water</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>rel_to_oxygen</TAG>
+			<VALUE>aerobe</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>replicate_id</TAG>
+			<VALUE>NA</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>organism</TAG>
+			<VALUE>marine metagenome</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (country and/or sea)</TAG>
+			<VALUE>Pacific Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geo_loc_name</TAG>
+			<VALUE>Australia: Pacific Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>control_sample</TAG>
+			<VALUE>FALSE</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>isolation_source</TAG>
+			<VALUE>Ocean water sample</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (latitude)</TAG>
+			<VALUE>-23.81511667</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (longitude)</TAG>
+			<VALUE>152.2813833</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environment (biome)</TAG>
+			<VALUE>marine</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>ENA-CHECKLIST</TAG>
+			<VALUE>ERC000011</VALUE>
+		</SAMPLE_ATTRIBUTE>
+	</SAMPLE_ATTRIBUTES>
+	</SAMPLE>
+	<SAMPLE alias="6_4S" center_name="Minderoo Foundation">
+	<TITLE>Metagenome or environmental sample from marine metagenome</TITLE>
+	<SAMPLE_NAME>
+		<TAXON_ID>408172</TAXON_ID>
+		<SCIENTIFIC_NAME>marine metagenome</SCIENTIFIC_NAME>
+		<COMMON_NAME></COMMON_NAME>
+	</SAMPLE_NAME>
+	<DESCRIPTION>Hoskin</DESCRIPTION>
+	<SAMPLE_ATTRIBUTES>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>collection date</TAG>
+			<VALUE>not collected</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>filtration_device</TAG>
+			<VALUE>Grover pump</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environmental package</TAG>
+			<VALUE>water</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>rel_to_oxygen</TAG>
+			<VALUE>aerobe</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>replicate_id</TAG>
+			<VALUE>NA</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>organism</TAG>
+			<VALUE>marine metagenome</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (country and/or sea)</TAG>
+			<VALUE>Pacific Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geo_loc_name</TAG>
+			<VALUE>Australia: Pacific Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>control_sample</TAG>
+			<VALUE>FALSE</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>isolation_source</TAG>
+			<VALUE>Ocean water sample</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (latitude)</TAG>
+			<VALUE>-23.81511667</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (longitude)</TAG>
+			<VALUE>152.2813833</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environment (biome)</TAG>
+			<VALUE>marine</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>ENA-CHECKLIST</TAG>
+			<VALUE>ERC000011</VALUE>
+		</SAMPLE_ATTRIBUTE>
+	</SAMPLE_ATTRIBUTES>
+	</SAMPLE>
+	<SAMPLE alias="7_1D" center_name="Minderoo Foundation">
+	<TITLE>Metagenome or environmental sample from marine metagenome</TITLE>
+	<SAMPLE_NAME>
+		<TAXON_ID>408172</TAXON_ID>
+		<SCIENTIFIC_NAME>marine metagenome</SCIENTIFIC_NAME>
+		<COMMON_NAME></COMMON_NAME>
+	</SAMPLE_NAME>
+	<DESCRIPTION>Lady Musgrave</DESCRIPTION>
+	<SAMPLE_ATTRIBUTES>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>collection date</TAG>
+			<VALUE>not collected</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>filtration_device</TAG>
+			<VALUE>Grover pump</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environmental package</TAG>
+			<VALUE>water</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>rel_to_oxygen</TAG>
+			<VALUE>aerobe</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>replicate_id</TAG>
+			<VALUE>NA</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>organism</TAG>
+			<VALUE>marine metagenome</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (country and/or sea)</TAG>
+			<VALUE>Pacific Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geo_loc_name</TAG>
+			<VALUE>Australia: Pacific Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>control_sample</TAG>
+			<VALUE>FALSE</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>isolation_source</TAG>
+			<VALUE>Ocean water sample</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (latitude)</TAG>
+			<VALUE>-23.90085</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (longitude)</TAG>
+			<VALUE>152.3922667</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environment (biome)</TAG>
+			<VALUE>marine</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>ENA-CHECKLIST</TAG>
+			<VALUE>ERC000011</VALUE>
+		</SAMPLE_ATTRIBUTE>
+	</SAMPLE_ATTRIBUTES>
+	</SAMPLE>
+	<SAMPLE alias="7_1S" center_name="Minderoo Foundation">
+	<TITLE>Metagenome or environmental sample from marine metagenome</TITLE>
+	<SAMPLE_NAME>
+		<TAXON_ID>408172</TAXON_ID>
+		<SCIENTIFIC_NAME>marine metagenome</SCIENTIFIC_NAME>
+		<COMMON_NAME></COMMON_NAME>
+	</SAMPLE_NAME>
+	<DESCRIPTION>Lady Musgrave</DESCRIPTION>
+	<SAMPLE_ATTRIBUTES>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>collection date</TAG>
+			<VALUE>not collected</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>filtration_device</TAG>
+			<VALUE>Grover pump</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environmental package</TAG>
+			<VALUE>water</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>rel_to_oxygen</TAG>
+			<VALUE>aerobe</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>replicate_id</TAG>
+			<VALUE>NA</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>organism</TAG>
+			<VALUE>marine metagenome</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (country and/or sea)</TAG>
+			<VALUE>Pacific Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geo_loc_name</TAG>
+			<VALUE>Australia: Pacific Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>control_sample</TAG>
+			<VALUE>FALSE</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>isolation_source</TAG>
+			<VALUE>Ocean water sample</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (latitude)</TAG>
+			<VALUE>-23.90085</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (longitude)</TAG>
+			<VALUE>152.3922667</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environment (biome)</TAG>
+			<VALUE>marine</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>ENA-CHECKLIST</TAG>
+			<VALUE>ERC000011</VALUE>
+		</SAMPLE_ATTRIBUTE>
+	</SAMPLE_ATTRIBUTES>
+	</SAMPLE>
+	<SAMPLE alias="7_2D" center_name="Minderoo Foundation">
+	<TITLE>Metagenome or environmental sample from marine metagenome</TITLE>
+	<SAMPLE_NAME>
+		<TAXON_ID>408172</TAXON_ID>
+		<SCIENTIFIC_NAME>marine metagenome</SCIENTIFIC_NAME>
+		<COMMON_NAME></COMMON_NAME>
+	</SAMPLE_NAME>
+	<DESCRIPTION>Lady Musgrave</DESCRIPTION>
+	<SAMPLE_ATTRIBUTES>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>collection date</TAG>
+			<VALUE>not collected</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>filtration_device</TAG>
+			<VALUE>Grover pump</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environmental package</TAG>
+			<VALUE>water</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>rel_to_oxygen</TAG>
+			<VALUE>aerobe</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>replicate_id</TAG>
+			<VALUE>NA</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>organism</TAG>
+			<VALUE>marine metagenome</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (country and/or sea)</TAG>
+			<VALUE>Pacific Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geo_loc_name</TAG>
+			<VALUE>Australia: Pacific Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>control_sample</TAG>
+			<VALUE>FALSE</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>isolation_source</TAG>
+			<VALUE>Ocean water sample</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (latitude)</TAG>
+			<VALUE>-23.90085</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (longitude)</TAG>
+			<VALUE>152.3922667</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environment (biome)</TAG>
+			<VALUE>marine</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>ENA-CHECKLIST</TAG>
+			<VALUE>ERC000011</VALUE>
+		</SAMPLE_ATTRIBUTE>
+	</SAMPLE_ATTRIBUTES>
+	</SAMPLE>
+	<SAMPLE alias="7_2S" center_name="Minderoo Foundation">
+	<TITLE>Metagenome or environmental sample from marine metagenome</TITLE>
+	<SAMPLE_NAME>
+		<TAXON_ID>408172</TAXON_ID>
+		<SCIENTIFIC_NAME>marine metagenome</SCIENTIFIC_NAME>
+		<COMMON_NAME></COMMON_NAME>
+	</SAMPLE_NAME>
+	<DESCRIPTION>Lady Musgrave</DESCRIPTION>
+	<SAMPLE_ATTRIBUTES>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>collection date</TAG>
+			<VALUE>not collected</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>filtration_device</TAG>
+			<VALUE>Grover pump</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environmental package</TAG>
+			<VALUE>water</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>rel_to_oxygen</TAG>
+			<VALUE>aerobe</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>replicate_id</TAG>
+			<VALUE>NA</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>organism</TAG>
+			<VALUE>marine metagenome</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (country and/or sea)</TAG>
+			<VALUE>Pacific Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geo_loc_name</TAG>
+			<VALUE>Australia: Pacific Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>control_sample</TAG>
+			<VALUE>FALSE</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>isolation_source</TAG>
+			<VALUE>Ocean water sample</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (latitude)</TAG>
+			<VALUE>-23.90085</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (longitude)</TAG>
+			<VALUE>152.3922667</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environment (biome)</TAG>
+			<VALUE>marine</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>ENA-CHECKLIST</TAG>
+			<VALUE>ERC000011</VALUE>
+		</SAMPLE_ATTRIBUTE>
+	</SAMPLE_ATTRIBUTES>
+	</SAMPLE>
+	<SAMPLE alias="7_3D" center_name="Minderoo Foundation">
+	<TITLE>Metagenome or environmental sample from marine metagenome</TITLE>
+	<SAMPLE_NAME>
+		<TAXON_ID>408172</TAXON_ID>
+		<SCIENTIFIC_NAME>marine metagenome</SCIENTIFIC_NAME>
+		<COMMON_NAME></COMMON_NAME>
+	</SAMPLE_NAME>
+	<DESCRIPTION>Lady Musgrave</DESCRIPTION>
+	<SAMPLE_ATTRIBUTES>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>collection date</TAG>
+			<VALUE>not collected</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>filtration_device</TAG>
+			<VALUE>Grover pump</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environmental package</TAG>
+			<VALUE>water</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>rel_to_oxygen</TAG>
+			<VALUE>aerobe</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>replicate_id</TAG>
+			<VALUE>NA</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>organism</TAG>
+			<VALUE>marine metagenome</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (country and/or sea)</TAG>
+			<VALUE>Pacific Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geo_loc_name</TAG>
+			<VALUE>Australia: Pacific Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>control_sample</TAG>
+			<VALUE>FALSE</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>isolation_source</TAG>
+			<VALUE>Ocean water sample</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (latitude)</TAG>
+			<VALUE>-23.90085</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (longitude)</TAG>
+			<VALUE>152.3922667</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environment (biome)</TAG>
+			<VALUE>marine</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>ENA-CHECKLIST</TAG>
+			<VALUE>ERC000011</VALUE>
+		</SAMPLE_ATTRIBUTE>
+	</SAMPLE_ATTRIBUTES>
+	</SAMPLE>
+	<SAMPLE alias="7_3S" center_name="Minderoo Foundation">
+	<TITLE>Metagenome or environmental sample from marine metagenome</TITLE>
+	<SAMPLE_NAME>
+		<TAXON_ID>408172</TAXON_ID>
+		<SCIENTIFIC_NAME>marine metagenome</SCIENTIFIC_NAME>
+		<COMMON_NAME></COMMON_NAME>
+	</SAMPLE_NAME>
+	<DESCRIPTION>Lady Musgrave</DESCRIPTION>
+	<SAMPLE_ATTRIBUTES>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>collection date</TAG>
+			<VALUE>not collected</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>filtration_device</TAG>
+			<VALUE>Grover pump</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environmental package</TAG>
+			<VALUE>water</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>rel_to_oxygen</TAG>
+			<VALUE>aerobe</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>replicate_id</TAG>
+			<VALUE>NA</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>organism</TAG>
+			<VALUE>marine metagenome</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (country and/or sea)</TAG>
+			<VALUE>Pacific Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geo_loc_name</TAG>
+			<VALUE>Australia: Pacific Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>control_sample</TAG>
+			<VALUE>FALSE</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>isolation_source</TAG>
+			<VALUE>Ocean water sample</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (latitude)</TAG>
+			<VALUE>-23.90085</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (longitude)</TAG>
+			<VALUE>152.3922667</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environment (biome)</TAG>
+			<VALUE>marine</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>ENA-CHECKLIST</TAG>
+			<VALUE>ERC000011</VALUE>
+		</SAMPLE_ATTRIBUTE>
+	</SAMPLE_ATTRIBUTES>
+	</SAMPLE>
+	<SAMPLE alias="7_4D" center_name="Minderoo Foundation">
+	<TITLE>Metagenome or environmental sample from marine metagenome</TITLE>
+	<SAMPLE_NAME>
+		<TAXON_ID>408172</TAXON_ID>
+		<SCIENTIFIC_NAME>marine metagenome</SCIENTIFIC_NAME>
+		<COMMON_NAME></COMMON_NAME>
+	</SAMPLE_NAME>
+	<DESCRIPTION>Lady Musgrave</DESCRIPTION>
+	<SAMPLE_ATTRIBUTES>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>collection date</TAG>
+			<VALUE>not collected</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>filtration_device</TAG>
+			<VALUE>Grover pump</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environmental package</TAG>
+			<VALUE>water</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>rel_to_oxygen</TAG>
+			<VALUE>aerobe</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>replicate_id</TAG>
+			<VALUE>NA</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>organism</TAG>
+			<VALUE>marine metagenome</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (country and/or sea)</TAG>
+			<VALUE>Pacific Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geo_loc_name</TAG>
+			<VALUE>Australia: Pacific Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>control_sample</TAG>
+			<VALUE>FALSE</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>isolation_source</TAG>
+			<VALUE>Ocean water sample</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (latitude)</TAG>
+			<VALUE>-23.90085</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (longitude)</TAG>
+			<VALUE>152.3922667</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environment (biome)</TAG>
+			<VALUE>marine</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>ENA-CHECKLIST</TAG>
+			<VALUE>ERC000011</VALUE>
+		</SAMPLE_ATTRIBUTE>
+	</SAMPLE_ATTRIBUTES>
+	</SAMPLE>
+	<SAMPLE alias="7_4S" center_name="Minderoo Foundation">
+	<TITLE>Metagenome or environmental sample from marine metagenome</TITLE>
+	<SAMPLE_NAME>
+		<TAXON_ID>408172</TAXON_ID>
+		<SCIENTIFIC_NAME>marine metagenome</SCIENTIFIC_NAME>
+		<COMMON_NAME></COMMON_NAME>
+	</SAMPLE_NAME>
+	<DESCRIPTION>Lady Musgrave</DESCRIPTION>
+	<SAMPLE_ATTRIBUTES>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>collection date</TAG>
+			<VALUE>not collected</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>filtration_device</TAG>
+			<VALUE>Grover pump</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environmental package</TAG>
+			<VALUE>water</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>rel_to_oxygen</TAG>
+			<VALUE>aerobe</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>replicate_id</TAG>
+			<VALUE>NA</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>organism</TAG>
+			<VALUE>marine metagenome</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (country and/or sea)</TAG>
+			<VALUE>Pacific Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geo_loc_name</TAG>
+			<VALUE>Australia: Pacific Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>control_sample</TAG>
+			<VALUE>FALSE</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>isolation_source</TAG>
+			<VALUE>Ocean water sample</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (latitude)</TAG>
+			<VALUE>-23.90085</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (longitude)</TAG>
+			<VALUE>152.3922667</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environment (biome)</TAG>
+			<VALUE>marine</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>ENA-CHECKLIST</TAG>
+			<VALUE>ERC000011</VALUE>
+		</SAMPLE_ATTRIBUTE>
+	</SAMPLE_ATTRIBUTES>
+	</SAMPLE>
+	<SAMPLE alias="8_1D" center_name="Minderoo Foundation">
+	<TITLE>Metagenome or environmental sample from marine metagenome</TITLE>
+	<SAMPLE_NAME>
+		<TAXON_ID>408172</TAXON_ID>
+		<SCIENTIFIC_NAME>marine metagenome</SCIENTIFIC_NAME>
+		<COMMON_NAME></COMMON_NAME>
+	</SAMPLE_NAME>
+	<DESCRIPTION>Lady Musgrave</DESCRIPTION>
+	<SAMPLE_ATTRIBUTES>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>collection date</TAG>
+			<VALUE>not collected</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>filtration_device</TAG>
+			<VALUE>Grover pump</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environmental package</TAG>
+			<VALUE>water</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>rel_to_oxygen</TAG>
+			<VALUE>aerobe</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>replicate_id</TAG>
+			<VALUE>NA</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>organism</TAG>
+			<VALUE>marine metagenome</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (country and/or sea)</TAG>
+			<VALUE>Pacific Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geo_loc_name</TAG>
+			<VALUE>Australia: Pacific Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>control_sample</TAG>
+			<VALUE>FALSE</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>isolation_source</TAG>
+			<VALUE>Ocean water sample</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (latitude)</TAG>
+			<VALUE>-23.90083333</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (longitude)</TAG>
+			<VALUE>152.3921667</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environment (biome)</TAG>
+			<VALUE>marine</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>ENA-CHECKLIST</TAG>
+			<VALUE>ERC000011</VALUE>
+		</SAMPLE_ATTRIBUTE>
+	</SAMPLE_ATTRIBUTES>
+	</SAMPLE>
+	<SAMPLE alias="8_1S" center_name="Minderoo Foundation">
+	<TITLE>Metagenome or environmental sample from marine metagenome</TITLE>
+	<SAMPLE_NAME>
+		<TAXON_ID>408172</TAXON_ID>
+		<SCIENTIFIC_NAME>marine metagenome</SCIENTIFIC_NAME>
+		<COMMON_NAME></COMMON_NAME>
+	</SAMPLE_NAME>
+	<DESCRIPTION>Lady Musgrave</DESCRIPTION>
+	<SAMPLE_ATTRIBUTES>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>collection date</TAG>
+			<VALUE>not collected</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>filtration_device</TAG>
+			<VALUE>Grover pump</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environmental package</TAG>
+			<VALUE>water</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>rel_to_oxygen</TAG>
+			<VALUE>aerobe</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>replicate_id</TAG>
+			<VALUE>NA</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>organism</TAG>
+			<VALUE>marine metagenome</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (country and/or sea)</TAG>
+			<VALUE>Pacific Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geo_loc_name</TAG>
+			<VALUE>Australia: Pacific Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>control_sample</TAG>
+			<VALUE>FALSE</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>isolation_source</TAG>
+			<VALUE>Ocean water sample</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (latitude)</TAG>
+			<VALUE>-23.90083333</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (longitude)</TAG>
+			<VALUE>152.3921667</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environment (biome)</TAG>
+			<VALUE>marine</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>ENA-CHECKLIST</TAG>
+			<VALUE>ERC000011</VALUE>
+		</SAMPLE_ATTRIBUTE>
+	</SAMPLE_ATTRIBUTES>
+	</SAMPLE>
+	<SAMPLE alias="8_2D" center_name="Minderoo Foundation">
+	<TITLE>Metagenome or environmental sample from marine metagenome</TITLE>
+	<SAMPLE_NAME>
+		<TAXON_ID>408172</TAXON_ID>
+		<SCIENTIFIC_NAME>marine metagenome</SCIENTIFIC_NAME>
+		<COMMON_NAME></COMMON_NAME>
+	</SAMPLE_NAME>
+	<DESCRIPTION>Lady Musgrave</DESCRIPTION>
+	<SAMPLE_ATTRIBUTES>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>collection date</TAG>
+			<VALUE>not collected</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>filtration_device</TAG>
+			<VALUE>Grover pump</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environmental package</TAG>
+			<VALUE>water</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>rel_to_oxygen</TAG>
+			<VALUE>aerobe</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>replicate_id</TAG>
+			<VALUE>NA</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>organism</TAG>
+			<VALUE>marine metagenome</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (country and/or sea)</TAG>
+			<VALUE>Pacific Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geo_loc_name</TAG>
+			<VALUE>Australia: Pacific Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>control_sample</TAG>
+			<VALUE>FALSE</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>isolation_source</TAG>
+			<VALUE>Ocean water sample</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (latitude)</TAG>
+			<VALUE>-23.90083333</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (longitude)</TAG>
+			<VALUE>152.3921667</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environment (biome)</TAG>
+			<VALUE>marine</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>ENA-CHECKLIST</TAG>
+			<VALUE>ERC000011</VALUE>
+		</SAMPLE_ATTRIBUTE>
+	</SAMPLE_ATTRIBUTES>
+	</SAMPLE>
+	<SAMPLE alias="8_2S" center_name="Minderoo Foundation">
+	<TITLE>Metagenome or environmental sample from marine metagenome</TITLE>
+	<SAMPLE_NAME>
+		<TAXON_ID>408172</TAXON_ID>
+		<SCIENTIFIC_NAME>marine metagenome</SCIENTIFIC_NAME>
+		<COMMON_NAME></COMMON_NAME>
+	</SAMPLE_NAME>
+	<DESCRIPTION>Lady Musgrave</DESCRIPTION>
+	<SAMPLE_ATTRIBUTES>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>collection date</TAG>
+			<VALUE>not collected</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>filtration_device</TAG>
+			<VALUE>Grover pump</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environmental package</TAG>
+			<VALUE>water</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>rel_to_oxygen</TAG>
+			<VALUE>aerobe</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>replicate_id</TAG>
+			<VALUE>NA</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>organism</TAG>
+			<VALUE>marine metagenome</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (country and/or sea)</TAG>
+			<VALUE>Pacific Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geo_loc_name</TAG>
+			<VALUE>Australia: Pacific Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>control_sample</TAG>
+			<VALUE>FALSE</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>isolation_source</TAG>
+			<VALUE>Ocean water sample</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (latitude)</TAG>
+			<VALUE>-23.90083333</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (longitude)</TAG>
+			<VALUE>152.3921667</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environment (biome)</TAG>
+			<VALUE>marine</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>ENA-CHECKLIST</TAG>
+			<VALUE>ERC000011</VALUE>
+		</SAMPLE_ATTRIBUTE>
+	</SAMPLE_ATTRIBUTES>
+	</SAMPLE>
+	<SAMPLE alias="8_3D" center_name="Minderoo Foundation">
+	<TITLE>Metagenome or environmental sample from marine metagenome</TITLE>
+	<SAMPLE_NAME>
+		<TAXON_ID>408172</TAXON_ID>
+		<SCIENTIFIC_NAME>marine metagenome</SCIENTIFIC_NAME>
+		<COMMON_NAME></COMMON_NAME>
+	</SAMPLE_NAME>
+	<DESCRIPTION>Lady Musgrave</DESCRIPTION>
+	<SAMPLE_ATTRIBUTES>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>collection date</TAG>
+			<VALUE>not collected</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>filtration_device</TAG>
+			<VALUE>Grover pump</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environmental package</TAG>
+			<VALUE>water</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>rel_to_oxygen</TAG>
+			<VALUE>aerobe</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>replicate_id</TAG>
+			<VALUE>NA</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>organism</TAG>
+			<VALUE>marine metagenome</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (country and/or sea)</TAG>
+			<VALUE>Pacific Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geo_loc_name</TAG>
+			<VALUE>Australia: Pacific Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>control_sample</TAG>
+			<VALUE>FALSE</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>isolation_source</TAG>
+			<VALUE>Ocean water sample</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (latitude)</TAG>
+			<VALUE>-23.90083333</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (longitude)</TAG>
+			<VALUE>152.3921667</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environment (biome)</TAG>
+			<VALUE>marine</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>ENA-CHECKLIST</TAG>
+			<VALUE>ERC000011</VALUE>
+		</SAMPLE_ATTRIBUTE>
+	</SAMPLE_ATTRIBUTES>
+	</SAMPLE>
+	<SAMPLE alias="8_3S" center_name="Minderoo Foundation">
+	<TITLE>Metagenome or environmental sample from marine metagenome</TITLE>
+	<SAMPLE_NAME>
+		<TAXON_ID>408172</TAXON_ID>
+		<SCIENTIFIC_NAME>marine metagenome</SCIENTIFIC_NAME>
+		<COMMON_NAME></COMMON_NAME>
+	</SAMPLE_NAME>
+	<DESCRIPTION>Lady Musgrave</DESCRIPTION>
+	<SAMPLE_ATTRIBUTES>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>collection date</TAG>
+			<VALUE>not collected</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>filtration_device</TAG>
+			<VALUE>Grover pump</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environmental package</TAG>
+			<VALUE>water</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>rel_to_oxygen</TAG>
+			<VALUE>aerobe</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>replicate_id</TAG>
+			<VALUE>NA</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>organism</TAG>
+			<VALUE>marine metagenome</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (country and/or sea)</TAG>
+			<VALUE>Pacific Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geo_loc_name</TAG>
+			<VALUE>Australia: Pacific Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>control_sample</TAG>
+			<VALUE>FALSE</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>isolation_source</TAG>
+			<VALUE>Ocean water sample</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (latitude)</TAG>
+			<VALUE>-23.90083333</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (longitude)</TAG>
+			<VALUE>152.3921667</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environment (biome)</TAG>
+			<VALUE>marine</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>ENA-CHECKLIST</TAG>
+			<VALUE>ERC000011</VALUE>
+		</SAMPLE_ATTRIBUTE>
+	</SAMPLE_ATTRIBUTES>
+	</SAMPLE>
+	<SAMPLE alias="8_4D" center_name="Minderoo Foundation">
+	<TITLE>Metagenome or environmental sample from marine metagenome</TITLE>
+	<SAMPLE_NAME>
+		<TAXON_ID>408172</TAXON_ID>
+		<SCIENTIFIC_NAME>marine metagenome</SCIENTIFIC_NAME>
+		<COMMON_NAME></COMMON_NAME>
+	</SAMPLE_NAME>
+	<DESCRIPTION>Lady Musgrave</DESCRIPTION>
+	<SAMPLE_ATTRIBUTES>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>collection date</TAG>
+			<VALUE>not collected</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>filtration_device</TAG>
+			<VALUE>Grover pump</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environmental package</TAG>
+			<VALUE>water</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>rel_to_oxygen</TAG>
+			<VALUE>aerobe</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>replicate_id</TAG>
+			<VALUE>NA</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>organism</TAG>
+			<VALUE>marine metagenome</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (country and/or sea)</TAG>
+			<VALUE>Pacific Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geo_loc_name</TAG>
+			<VALUE>Australia: Pacific Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>control_sample</TAG>
+			<VALUE>FALSE</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>isolation_source</TAG>
+			<VALUE>Ocean water sample</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (latitude)</TAG>
+			<VALUE>-23.90083333</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (longitude)</TAG>
+			<VALUE>152.3921667</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environment (biome)</TAG>
+			<VALUE>marine</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>ENA-CHECKLIST</TAG>
+			<VALUE>ERC000011</VALUE>
+		</SAMPLE_ATTRIBUTE>
+	</SAMPLE_ATTRIBUTES>
+	</SAMPLE>
+	<SAMPLE alias="8_4S" center_name="Minderoo Foundation">
+	<TITLE>Metagenome or environmental sample from marine metagenome</TITLE>
+	<SAMPLE_NAME>
+		<TAXON_ID>408172</TAXON_ID>
+		<SCIENTIFIC_NAME>marine metagenome</SCIENTIFIC_NAME>
+		<COMMON_NAME></COMMON_NAME>
+	</SAMPLE_NAME>
+	<DESCRIPTION>Lady Musgrave</DESCRIPTION>
+	<SAMPLE_ATTRIBUTES>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>collection date</TAG>
+			<VALUE>not collected</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>filtration_device</TAG>
+			<VALUE>Grover pump</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environmental package</TAG>
+			<VALUE>water</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>rel_to_oxygen</TAG>
+			<VALUE>aerobe</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>replicate_id</TAG>
+			<VALUE>NA</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>organism</TAG>
+			<VALUE>marine metagenome</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (country and/or sea)</TAG>
+			<VALUE>Pacific Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geo_loc_name</TAG>
+			<VALUE>Australia: Pacific Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>control_sample</TAG>
+			<VALUE>FALSE</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>isolation_source</TAG>
+			<VALUE>Ocean water sample</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (latitude)</TAG>
+			<VALUE>-23.90083333</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (longitude)</TAG>
+			<VALUE>152.3921667</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environment (biome)</TAG>
+			<VALUE>marine</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>ENA-CHECKLIST</TAG>
+			<VALUE>ERC000011</VALUE>
+		</SAMPLE_ATTRIBUTE>
+	</SAMPLE_ATTRIBUTES>
+	</SAMPLE>
+	<SAMPLE alias="9_1D" center_name="Minderoo Foundation">
+	<TITLE>Metagenome or environmental sample from marine metagenome</TITLE>
+	<SAMPLE_NAME>
+		<TAXON_ID>408172</TAXON_ID>
+		<SCIENTIFIC_NAME>marine metagenome</SCIENTIFIC_NAME>
+		<COMMON_NAME></COMMON_NAME>
+	</SAMPLE_NAME>
+	<DESCRIPTION>Fairfax</DESCRIPTION>
+	<SAMPLE_ATTRIBUTES>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>collection date</TAG>
+			<VALUE>not collected</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>filtration_device</TAG>
+			<VALUE>Grover pump</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environmental package</TAG>
+			<VALUE>water</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>rel_to_oxygen</TAG>
+			<VALUE>aerobe</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>replicate_id</TAG>
+			<VALUE>NA</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>organism</TAG>
+			<VALUE>marine metagenome</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (country and/or sea)</TAG>
+			<VALUE>Pacific Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geo_loc_name</TAG>
+			<VALUE>Australia: Pacific Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>control_sample</TAG>
+			<VALUE>FALSE</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>isolation_source</TAG>
+			<VALUE>Ocean water sample</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (latitude)</TAG>
+			<VALUE>-23.86275</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (longitude)</TAG>
+			<VALUE>152.3616167</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environment (biome)</TAG>
+			<VALUE>marine</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>ENA-CHECKLIST</TAG>
+			<VALUE>ERC000011</VALUE>
+		</SAMPLE_ATTRIBUTE>
+	</SAMPLE_ATTRIBUTES>
+	</SAMPLE>
+	<SAMPLE alias="9_1S" center_name="Minderoo Foundation">
+	<TITLE>Metagenome or environmental sample from marine metagenome</TITLE>
+	<SAMPLE_NAME>
+		<TAXON_ID>408172</TAXON_ID>
+		<SCIENTIFIC_NAME>marine metagenome</SCIENTIFIC_NAME>
+		<COMMON_NAME></COMMON_NAME>
+	</SAMPLE_NAME>
+	<DESCRIPTION>Fairfax</DESCRIPTION>
+	<SAMPLE_ATTRIBUTES>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>collection date</TAG>
+			<VALUE>not collected</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>filtration_device</TAG>
+			<VALUE>Grover pump</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environmental package</TAG>
+			<VALUE>water</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>rel_to_oxygen</TAG>
+			<VALUE>aerobe</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>replicate_id</TAG>
+			<VALUE>NA</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>organism</TAG>
+			<VALUE>marine metagenome</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (country and/or sea)</TAG>
+			<VALUE>Pacific Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geo_loc_name</TAG>
+			<VALUE>Australia: Pacific Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>control_sample</TAG>
+			<VALUE>FALSE</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>isolation_source</TAG>
+			<VALUE>Ocean water sample</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (latitude)</TAG>
+			<VALUE>-23.86275</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (longitude)</TAG>
+			<VALUE>152.3616167</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environment (biome)</TAG>
+			<VALUE>marine</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>ENA-CHECKLIST</TAG>
+			<VALUE>ERC000011</VALUE>
+		</SAMPLE_ATTRIBUTE>
+	</SAMPLE_ATTRIBUTES>
+	</SAMPLE>
+	<SAMPLE alias="9_2D" center_name="Minderoo Foundation">
+	<TITLE>Metagenome or environmental sample from marine metagenome</TITLE>
+	<SAMPLE_NAME>
+		<TAXON_ID>408172</TAXON_ID>
+		<SCIENTIFIC_NAME>marine metagenome</SCIENTIFIC_NAME>
+		<COMMON_NAME></COMMON_NAME>
+	</SAMPLE_NAME>
+	<DESCRIPTION>Fairfax</DESCRIPTION>
+	<SAMPLE_ATTRIBUTES>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>collection date</TAG>
+			<VALUE>not collected</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>filtration_device</TAG>
+			<VALUE>Grover pump</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environmental package</TAG>
+			<VALUE>water</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>rel_to_oxygen</TAG>
+			<VALUE>aerobe</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>replicate_id</TAG>
+			<VALUE>NA</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>organism</TAG>
+			<VALUE>marine metagenome</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (country and/or sea)</TAG>
+			<VALUE>Pacific Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geo_loc_name</TAG>
+			<VALUE>Australia: Pacific Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>control_sample</TAG>
+			<VALUE>FALSE</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>isolation_source</TAG>
+			<VALUE>Ocean water sample</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (latitude)</TAG>
+			<VALUE>-23.86275</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (longitude)</TAG>
+			<VALUE>152.3616167</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environment (biome)</TAG>
+			<VALUE>marine</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>ENA-CHECKLIST</TAG>
+			<VALUE>ERC000011</VALUE>
+		</SAMPLE_ATTRIBUTE>
+	</SAMPLE_ATTRIBUTES>
+	</SAMPLE>
+	<SAMPLE alias="9_2S" center_name="Minderoo Foundation">
+	<TITLE>Metagenome or environmental sample from marine metagenome</TITLE>
+	<SAMPLE_NAME>
+		<TAXON_ID>408172</TAXON_ID>
+		<SCIENTIFIC_NAME>marine metagenome</SCIENTIFIC_NAME>
+		<COMMON_NAME></COMMON_NAME>
+	</SAMPLE_NAME>
+	<DESCRIPTION>Fairfax</DESCRIPTION>
+	<SAMPLE_ATTRIBUTES>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>collection date</TAG>
+			<VALUE>not collected</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>filtration_device</TAG>
+			<VALUE>Grover pump</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environmental package</TAG>
+			<VALUE>water</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>rel_to_oxygen</TAG>
+			<VALUE>aerobe</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>replicate_id</TAG>
+			<VALUE>NA</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>organism</TAG>
+			<VALUE>marine metagenome</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (country and/or sea)</TAG>
+			<VALUE>Pacific Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geo_loc_name</TAG>
+			<VALUE>Australia: Pacific Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>control_sample</TAG>
+			<VALUE>FALSE</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>isolation_source</TAG>
+			<VALUE>Ocean water sample</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (latitude)</TAG>
+			<VALUE>-23.86275</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (longitude)</TAG>
+			<VALUE>152.3616167</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environment (biome)</TAG>
+			<VALUE>marine</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>ENA-CHECKLIST</TAG>
+			<VALUE>ERC000011</VALUE>
+		</SAMPLE_ATTRIBUTE>
+	</SAMPLE_ATTRIBUTES>
+	</SAMPLE>
+	<SAMPLE alias="9_3D" center_name="Minderoo Foundation">
+	<TITLE>Metagenome or environmental sample from marine metagenome</TITLE>
+	<SAMPLE_NAME>
+		<TAXON_ID>408172</TAXON_ID>
+		<SCIENTIFIC_NAME>marine metagenome</SCIENTIFIC_NAME>
+		<COMMON_NAME></COMMON_NAME>
+	</SAMPLE_NAME>
+	<DESCRIPTION>Fairfax</DESCRIPTION>
+	<SAMPLE_ATTRIBUTES>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>collection date</TAG>
+			<VALUE>not collected</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>filtration_device</TAG>
+			<VALUE>Grover pump</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environmental package</TAG>
+			<VALUE>water</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>rel_to_oxygen</TAG>
+			<VALUE>aerobe</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>replicate_id</TAG>
+			<VALUE>NA</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>organism</TAG>
+			<VALUE>marine metagenome</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (country and/or sea)</TAG>
+			<VALUE>Pacific Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geo_loc_name</TAG>
+			<VALUE>Australia: Pacific Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>control_sample</TAG>
+			<VALUE>FALSE</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>isolation_source</TAG>
+			<VALUE>Ocean water sample</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (latitude)</TAG>
+			<VALUE>-23.86275</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (longitude)</TAG>
+			<VALUE>152.3616167</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environment (biome)</TAG>
+			<VALUE>marine</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>ENA-CHECKLIST</TAG>
+			<VALUE>ERC000011</VALUE>
+		</SAMPLE_ATTRIBUTE>
+	</SAMPLE_ATTRIBUTES>
+	</SAMPLE>
+	<SAMPLE alias="9_3S" center_name="Minderoo Foundation">
+	<TITLE>Metagenome or environmental sample from marine metagenome</TITLE>
+	<SAMPLE_NAME>
+		<TAXON_ID>408172</TAXON_ID>
+		<SCIENTIFIC_NAME>marine metagenome</SCIENTIFIC_NAME>
+		<COMMON_NAME></COMMON_NAME>
+	</SAMPLE_NAME>
+	<DESCRIPTION>Fairfax</DESCRIPTION>
+	<SAMPLE_ATTRIBUTES>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>collection date</TAG>
+			<VALUE>not collected</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>filtration_device</TAG>
+			<VALUE>Grover pump</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environmental package</TAG>
+			<VALUE>water</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>rel_to_oxygen</TAG>
+			<VALUE>aerobe</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>replicate_id</TAG>
+			<VALUE>NA</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>organism</TAG>
+			<VALUE>marine metagenome</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (country and/or sea)</TAG>
+			<VALUE>Pacific Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geo_loc_name</TAG>
+			<VALUE>Australia: Pacific Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>control_sample</TAG>
+			<VALUE>FALSE</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>isolation_source</TAG>
+			<VALUE>Ocean water sample</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (latitude)</TAG>
+			<VALUE>-23.86275</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (longitude)</TAG>
+			<VALUE>152.3616167</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environment (biome)</TAG>
+			<VALUE>marine</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>ENA-CHECKLIST</TAG>
+			<VALUE>ERC000011</VALUE>
+		</SAMPLE_ATTRIBUTE>
+	</SAMPLE_ATTRIBUTES>
+	</SAMPLE>
+	<SAMPLE alias="9_4D" center_name="Minderoo Foundation">
+	<TITLE>Metagenome or environmental sample from marine metagenome</TITLE>
+	<SAMPLE_NAME>
+		<TAXON_ID>408172</TAXON_ID>
+		<SCIENTIFIC_NAME>marine metagenome</SCIENTIFIC_NAME>
+		<COMMON_NAME></COMMON_NAME>
+	</SAMPLE_NAME>
+	<DESCRIPTION>Fairfax</DESCRIPTION>
+	<SAMPLE_ATTRIBUTES>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>collection date</TAG>
+			<VALUE>not collected</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>filtration_device</TAG>
+			<VALUE>Grover pump</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environmental package</TAG>
+			<VALUE>water</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>rel_to_oxygen</TAG>
+			<VALUE>aerobe</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>replicate_id</TAG>
+			<VALUE>NA</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>organism</TAG>
+			<VALUE>marine metagenome</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (country and/or sea)</TAG>
+			<VALUE>Pacific Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geo_loc_name</TAG>
+			<VALUE>Australia: Pacific Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>control_sample</TAG>
+			<VALUE>FALSE</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>isolation_source</TAG>
+			<VALUE>Ocean water sample</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (latitude)</TAG>
+			<VALUE>-23.86275</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (longitude)</TAG>
+			<VALUE>152.3616167</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environment (biome)</TAG>
+			<VALUE>marine</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>ENA-CHECKLIST</TAG>
+			<VALUE>ERC000011</VALUE>
+		</SAMPLE_ATTRIBUTE>
+	</SAMPLE_ATTRIBUTES>
+	</SAMPLE>
+	<SAMPLE alias="9_4S" center_name="Minderoo Foundation">
+	<TITLE>Metagenome or environmental sample from marine metagenome</TITLE>
+	<SAMPLE_NAME>
+		<TAXON_ID>408172</TAXON_ID>
+		<SCIENTIFIC_NAME>marine metagenome</SCIENTIFIC_NAME>
+		<COMMON_NAME></COMMON_NAME>
+	</SAMPLE_NAME>
+	<DESCRIPTION>Fairfax</DESCRIPTION>
+	<SAMPLE_ATTRIBUTES>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>collection date</TAG>
+			<VALUE>not collected</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>filtration_device</TAG>
+			<VALUE>Grover pump</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environmental package</TAG>
+			<VALUE>water</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>rel_to_oxygen</TAG>
+			<VALUE>aerobe</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>replicate_id</TAG>
+			<VALUE>NA</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>organism</TAG>
+			<VALUE>marine metagenome</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (country and/or sea)</TAG>
+			<VALUE>Pacific Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geo_loc_name</TAG>
+			<VALUE>Australia: Pacific Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>control_sample</TAG>
+			<VALUE>FALSE</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>isolation_source</TAG>
+			<VALUE>Ocean water sample</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (latitude)</TAG>
+			<VALUE>-23.86275</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (longitude)</TAG>
+			<VALUE>152.3616167</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environment (biome)</TAG>
+			<VALUE>marine</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>ENA-CHECKLIST</TAG>
+			<VALUE>ERC000011</VALUE>
+		</SAMPLE_ATTRIBUTE>
+	</SAMPLE_ATTRIBUTES>
+	</SAMPLE>
+	<SAMPLE alias="EBpool" center_name="Minderoo Foundation">
+	<TITLE>Metagenome or environmental sample from marine metagenome</TITLE>
+	<SAMPLE_NAME>
+		<TAXON_ID>408172</TAXON_ID>
+		<SCIENTIFIC_NAME>marine metagenome</SCIENTIFIC_NAME>
+		<COMMON_NAME></COMMON_NAME>
+	</SAMPLE_NAME>
+	<DESCRIPTION>NA</DESCRIPTION>
+	<SAMPLE_ATTRIBUTES>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>collection date</TAG>
+			<VALUE>not collected</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>filtration_device</TAG>
+			<VALUE>Grover pump</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environmental package</TAG>
+			<VALUE>water</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>rel_to_oxygen</TAG>
+			<VALUE>aerobe</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>replicate_id</TAG>
+			<VALUE>NA</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>organism</TAG>
+			<VALUE>marine metagenome</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (country and/or sea)</TAG>
+			<VALUE>Pacific Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geo_loc_name</TAG>
+			<VALUE>Australia: Pacific Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>control_sample</TAG>
+			<VALUE>TRUE</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>isolation_source</TAG>
+			<VALUE>Ocean water sample</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (latitude)</TAG>
+			<VALUE>NA</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (longitude)</TAG>
+			<VALUE>NA</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environment (biome)</TAG>
+			<VALUE>marine</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>ENA-CHECKLIST</TAG>
+			<VALUE>ERC000011</VALUE>
+		</SAMPLE_ATTRIBUTE>
+	</SAMPLE_ATTRIBUTES>
+	</SAMPLE>
+	<SAMPLE alias="FCpool" center_name="Minderoo Foundation">
+	<TITLE>Metagenome or environmental sample from marine metagenome</TITLE>
+	<SAMPLE_NAME>
+		<TAXON_ID>408172</TAXON_ID>
+		<SCIENTIFIC_NAME>marine metagenome</SCIENTIFIC_NAME>
+		<COMMON_NAME></COMMON_NAME>
+	</SAMPLE_NAME>
+	<DESCRIPTION>NA</DESCRIPTION>
+	<SAMPLE_ATTRIBUTES>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>collection date</TAG>
+			<VALUE>not collected</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>filtration_device</TAG>
+			<VALUE>Grover pump</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environmental package</TAG>
+			<VALUE>water</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>rel_to_oxygen</TAG>
+			<VALUE>aerobe</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>replicate_id</TAG>
+			<VALUE>NA</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>organism</TAG>
+			<VALUE>marine metagenome</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (country and/or sea)</TAG>
+			<VALUE>Pacific Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geo_loc_name</TAG>
+			<VALUE>Australia: Pacific Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>control_sample</TAG>
+			<VALUE>TRUE</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>isolation_source</TAG>
+			<VALUE>Ocean water sample</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (latitude)</TAG>
+			<VALUE>NA</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (longitude)</TAG>
+			<VALUE>NA</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environment (biome)</TAG>
+			<VALUE>marine</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>ENA-CHECKLIST</TAG>
+			<VALUE>ERC000011</VALUE>
+		</SAMPLE_ATTRIBUTE>
+	</SAMPLE_ATTRIBUTES>
+	</SAMPLE>
+	<SAMPLE alias="NTC" center_name="Minderoo Foundation">
+	<TITLE>Metagenome or environmental sample from marine metagenome</TITLE>
+	<SAMPLE_NAME>
+		<TAXON_ID>408172</TAXON_ID>
+		<SCIENTIFIC_NAME>marine metagenome</SCIENTIFIC_NAME>
+		<COMMON_NAME></COMMON_NAME>
+	</SAMPLE_NAME>
+	<DESCRIPTION>NA</DESCRIPTION>
+	<SAMPLE_ATTRIBUTES>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>collection date</TAG>
+			<VALUE>not collected</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>filtration_device</TAG>
+			<VALUE>Grover pump</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environmental package</TAG>
+			<VALUE>water</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>rel_to_oxygen</TAG>
+			<VALUE>aerobe</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>replicate_id</TAG>
+			<VALUE>NA</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>organism</TAG>
+			<VALUE>marine metagenome</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (country and/or sea)</TAG>
+			<VALUE>Pacific Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geo_loc_name</TAG>
+			<VALUE>Australia: Pacific Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>control_sample</TAG>
+			<VALUE>TRUE</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>isolation_source</TAG>
+			<VALUE>Ocean water sample</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (latitude)</TAG>
+			<VALUE>NA</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (longitude)</TAG>
+			<VALUE>NA</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environment (biome)</TAG>
+			<VALUE>marine</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>ENA-CHECKLIST</TAG>
+			<VALUE>ERC000011</VALUE>
+		</SAMPLE_ATTRIBUTE>
+	</SAMPLE_ATTRIBUTES>
+	</SAMPLE>
+</SAMPLE_SET>
