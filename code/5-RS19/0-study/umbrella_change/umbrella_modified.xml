@@ -1,0 +1,27 @@
+<PROJECT_SET>
+    <PROJECT center_name="Minderoo Foundation OceanOmics" alias="OceanOmics">
+        <TITLE>Minderoo Foundation OceanOmics</TITLE>
+	<DESCRIPTION>This project relies on seawater samples collected by expeditions either led by OceanOmics or by expeditions involving OceanOmics. The data includes (partial) 12S, (partial) 16S amplicon sequencing runs as well as shotgun sequencing runs. When using this data, please acknowledge the Minderoo Foundation using this text in your Acknowledgments section: 'We would like to thank the Minderoo Foundation for sequencing reads deposited in (BioProjectID)'.</DESCRIPTION>
+        <UMBRELLA_PROJECT/>
+	<RELATED_PROJECTS>
+		<RELATED_PROJECT>
+			<CHILD_PROJECT accession="PRJEB63551"/>
+		</RELATED_PROJECT>
+		<RELATED_PROJECT>
+			<CHILD_PROJECT accession="PRJNA930913"/>
+		</RELATED_PROJECT>
+		<RELATED_PROJECT>
+			<CHILD_PROJECT accession="PRJEB63673"/>
+		</RELATED_PROJECT>
+		<RELATED_PROJECT>
+			<CHILD_PROJECT accession="PRJEB63674"/>
+		</RELATED_PROJECT>
+		<RELATED_PROJECT>
+			<CHILD_PROJECT accession="PRJEB63676"/>
+		</RELATED_PROJECT>
+		<RELATED_PROJECT>
+			<CHILD_PROJECT accession="PRJEB63677"/>
+		</RELATED_PROJECT>
+	</RELATED_PROJECTS>
+    </PROJECT>
+</PROJECT_SET>

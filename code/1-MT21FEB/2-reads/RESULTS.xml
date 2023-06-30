@@ -1,155 +1,157 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="receipt.xsl"?>
-<RECEIPT receiptDate="2023-06-30T03:02:09.023+01:00" submissionFile="submission.xml" success="true">
-     <EXPERIMENT accession="ERX11037894" alias="12S_DAY1_BC" status="PRIVATE"/>
-     <EXPERIMENT accession="ERX11037895" alias="16S_DAY1_BC" status="PRIVATE"/>
-     <EXPERIMENT accession="ERX11037896" alias="12S_DAY1_FC" status="PRIVATE"/>
-     <EXPERIMENT accession="ERX11037897" alias="16S_DAY1_FC" status="PRIVATE"/>
-     <EXPERIMENT accession="ERX11037898" alias="12S_DAY2_BC" status="PRIVATE"/>
-     <EXPERIMENT accession="ERX11037899" alias="16S_DAY2_BC" status="PRIVATE"/>
-     <EXPERIMENT accession="ERX11037900" alias="12S_DAY2_FC" status="PRIVATE"/>
-     <EXPERIMENT accession="ERX11037901" alias="16S_DAY2_FC" status="PRIVATE"/>
-     <EXPERIMENT accession="ERX11037902" alias="12S_EB1_2021_" status="PRIVATE"/>
-     <EXPERIMENT accession="ERX11037903" alias="16S_EB1_2021_" status="PRIVATE"/>
-     <EXPERIMENT accession="ERX11037904" alias="12S_EB2_2021_" status="PRIVATE"/>
-     <EXPERIMENT accession="ERX11037905" alias="16S_EB2_2021_" status="PRIVATE"/>
-     <EXPERIMENT accession="ERX11037906" alias="12S_EB3_2021_" status="PRIVATE"/>
-     <EXPERIMENT accession="ERX11037907" alias="16S_EB3_2021_" status="PRIVATE"/>
-     <EXPERIMENT accession="ERX11037908" alias="12S_MT_B_1" status="PRIVATE"/>
-     <EXPERIMENT accession="ERX11037909" alias="16S_MT_B_1" status="PRIVATE"/>
-     <EXPERIMENT accession="ERX11037910" alias="12S_MT_B_2" status="PRIVATE"/>
-     <EXPERIMENT accession="ERX11037911" alias="16S_MT_B_2" status="PRIVATE"/>
-     <EXPERIMENT accession="ERX11037912" alias="12S_MT_B_3" status="PRIVATE"/>
-     <EXPERIMENT accession="ERX11037913" alias="16S_MT_B_3" status="PRIVATE"/>
-     <EXPERIMENT accession="ERX11037914" alias="12S_MT_B_4" status="PRIVATE"/>
-     <EXPERIMENT accession="ERX11037915" alias="16S_MT_B_4" status="PRIVATE"/>
-     <EXPERIMENT accession="ERX11037916" alias="12S_MT_B_5" status="PRIVATE"/>
-     <EXPERIMENT accession="ERX11037917" alias="16S_MT_B_5" status="PRIVATE"/>
-     <EXPERIMENT accession="ERX11037918" alias="12S_MT_L1_1" status="PRIVATE"/>
-     <EXPERIMENT accession="ERX11037919" alias="16S_MT_L1_1" status="PRIVATE"/>
-     <EXPERIMENT accession="ERX11037920" alias="12S_MT_L1_2" status="PRIVATE"/>
-     <EXPERIMENT accession="ERX11037921" alias="16S_MT_L1_2" status="PRIVATE"/>
-     <EXPERIMENT accession="ERX11037922" alias="12S_MT_L1_3" status="PRIVATE"/>
-     <EXPERIMENT accession="ERX11037923" alias="16S_MT_L1_3" status="PRIVATE"/>
-     <EXPERIMENT accession="ERX11037924" alias="12S_MT_L1_4" status="PRIVATE"/>
-     <EXPERIMENT accession="ERX11037925" alias="16S_MT_L1_4" status="PRIVATE"/>
-     <EXPERIMENT accession="ERX11037926" alias="12S_MT_L1_5" status="PRIVATE"/>
-     <EXPERIMENT accession="ERX11037927" alias="16S_MT_L1_5" status="PRIVATE"/>
-     <EXPERIMENT accession="ERX11037928" alias="12S_MT_L2_1" status="PRIVATE"/>
-     <EXPERIMENT accession="ERX11037929" alias="16S_MT_L2_1" status="PRIVATE"/>
-     <EXPERIMENT accession="ERX11037930" alias="12S_MT_L2_2" status="PRIVATE"/>
-     <EXPERIMENT accession="ERX11037931" alias="16S_MT_L2_2" status="PRIVATE"/>
-     <EXPERIMENT accession="ERX11037932" alias="12S_MT_L2_3" status="PRIVATE"/>
-     <EXPERIMENT accession="ERX11037933" alias="16S_MT_L2_3" status="PRIVATE"/>
-     <EXPERIMENT accession="ERX11037934" alias="12S_MT_L2_4" status="PRIVATE"/>
-     <EXPERIMENT accession="ERX11037935" alias="16S_MT_L2_4" status="PRIVATE"/>
-     <EXPERIMENT accession="ERX11037936" alias="12S_MT_L2_5" status="PRIVATE"/>
-     <EXPERIMENT accession="ERX11037937" alias="16S_MT_L2_5" status="PRIVATE"/>
-     <EXPERIMENT accession="ERX11037938" alias="12S_MT_S1_1" status="PRIVATE"/>
-     <EXPERIMENT accession="ERX11037939" alias="16S_MT_S1_1" status="PRIVATE"/>
-     <EXPERIMENT accession="ERX11037940" alias="12S_MT_S1_2" status="PRIVATE"/>
-     <EXPERIMENT accession="ERX11037941" alias="16S_MT_S1_2" status="PRIVATE"/>
-     <EXPERIMENT accession="ERX11037942" alias="12S_MT_S1_3" status="PRIVATE"/>
-     <EXPERIMENT accession="ERX11037943" alias="16S_MT_S1_3" status="PRIVATE"/>
-     <EXPERIMENT accession="ERX11037944" alias="12S_MT_S1_4" status="PRIVATE"/>
-     <EXPERIMENT accession="ERX11037945" alias="16S_MT_S1_4" status="PRIVATE"/>
-     <EXPERIMENT accession="ERX11037946" alias="12S_MT_S1_5" status="PRIVATE"/>
-     <EXPERIMENT accession="ERX11037947" alias="16S_MT_S1_5" status="PRIVATE"/>
-     <EXPERIMENT accession="ERX11037948" alias="12S_MT_S2_1" status="PRIVATE"/>
-     <EXPERIMENT accession="ERX11037949" alias="16S_MT_S2_1" status="PRIVATE"/>
-     <EXPERIMENT accession="ERX11037950" alias="12S_MT_S2_2" status="PRIVATE"/>
-     <EXPERIMENT accession="ERX11037951" alias="16S_MT_S2_2" status="PRIVATE"/>
-     <EXPERIMENT accession="ERX11037952" alias="12S_MT_S2_3" status="PRIVATE"/>
-     <EXPERIMENT accession="ERX11037953" alias="16S_MT_S2_3" status="PRIVATE"/>
-     <EXPERIMENT accession="ERX11037954" alias="12S_MT_S2_4" status="PRIVATE"/>
-     <EXPERIMENT accession="ERX11037955" alias="16S_MT_S2_4" status="PRIVATE"/>
-     <EXPERIMENT accession="ERX11037956" alias="12S_MT_S2_5" status="PRIVATE"/>
-     <EXPERIMENT accession="ERX11037957" alias="16S_MT_S2_5" status="PRIVATE"/>
-     <EXPERIMENT accession="ERX11037958" alias="12S_TVB_1" status="PRIVATE"/>
-     <EXPERIMENT accession="ERX11037959" alias="16S_TVB_1" status="PRIVATE"/>
-     <EXPERIMENT accession="ERX11037960" alias="12S_TVB_2" status="PRIVATE"/>
-     <EXPERIMENT accession="ERX11037961" alias="16S_TVB_2" status="PRIVATE"/>
-     <EXPERIMENT accession="ERX11037962" alias="12S_TVB_3" status="PRIVATE"/>
-     <EXPERIMENT accession="ERX11037963" alias="16S_TVB_3" status="PRIVATE"/>
-     <EXPERIMENT accession="ERX11037964" alias="12S_TVB_4" status="PRIVATE"/>
-     <EXPERIMENT accession="ERX11037965" alias="16S_TVB_4" status="PRIVATE"/>
-     <EXPERIMENT accession="ERX11037966" alias="12S_TVB_5" status="PRIVATE"/>
-     <EXPERIMENT accession="ERX11037967" alias="16S_TVB_5" status="PRIVATE"/>
-     <RUN accession="ERR11635814" alias="run_12S_DAY1_BC" status="PRIVATE"/>
-     <RUN accession="ERR11635815" alias="run_16S_DAY1_BC" status="PRIVATE"/>
-     <RUN accession="ERR11635816" alias="run_12S_DAY1_FC" status="PRIVATE"/>
-     <RUN accession="ERR11635817" alias="run_16S_DAY1_FC" status="PRIVATE"/>
-     <RUN accession="ERR11635818" alias="run_12S_DAY2_BC" status="PRIVATE"/>
-     <RUN accession="ERR11635819" alias="run_16S_DAY2_BC" status="PRIVATE"/>
-     <RUN accession="ERR11635820" alias="run_12S_DAY2_FC" status="PRIVATE"/>
-     <RUN accession="ERR11635821" alias="run_16S_DAY2_FC" status="PRIVATE"/>
-     <RUN accession="ERR11635822" alias="run_12S_EB1_2021_" status="PRIVATE"/>
-     <RUN accession="ERR11635823" alias="run_16S_EB1_2021_" status="PRIVATE"/>
-     <RUN accession="ERR11635824" alias="run_12S_EB2_2021_" status="PRIVATE"/>
-     <RUN accession="ERR11635825" alias="run_16S_EB2_2021_" status="PRIVATE"/>
-     <RUN accession="ERR11635826" alias="run_12S_EB3_2021_" status="PRIVATE"/>
-     <RUN accession="ERR11635827" alias="run_16S_EB3_2021_" status="PRIVATE"/>
-     <RUN accession="ERR11635828" alias="run_12S_MT_B_1" status="PRIVATE"/>
-     <RUN accession="ERR11635829" alias="run_16S_MT_B_1" status="PRIVATE"/>
-     <RUN accession="ERR11635830" alias="run_12S_MT_B_2" status="PRIVATE"/>
-     <RUN accession="ERR11635831" alias="run_16S_MT_B_2" status="PRIVATE"/>
-     <RUN accession="ERR11635832" alias="run_12S_MT_B_3" status="PRIVATE"/>
-     <RUN accession="ERR11635833" alias="run_16S_MT_B_3" status="PRIVATE"/>
-     <RUN accession="ERR11635834" alias="run_12S_MT_B_4" status="PRIVATE"/>
-     <RUN accession="ERR11635835" alias="run_16S_MT_B_4" status="PRIVATE"/>
-     <RUN accession="ERR11635836" alias="run_12S_MT_B_5" status="PRIVATE"/>
-     <RUN accession="ERR11635837" alias="run_16S_MT_B_5" status="PRIVATE"/>
-     <RUN accession="ERR11635838" alias="run_12S_MT_L1_1" status="PRIVATE"/>
-     <RUN accession="ERR11635839" alias="run_16S_MT_L1_1" status="PRIVATE"/>
-     <RUN accession="ERR11635840" alias="run_12S_MT_L1_2" status="PRIVATE"/>
-     <RUN accession="ERR11635841" alias="run_16S_MT_L1_2" status="PRIVATE"/>
-     <RUN accession="ERR11635842" alias="run_12S_MT_L1_3" status="PRIVATE"/>
-     <RUN accession="ERR11635843" alias="run_16S_MT_L1_3" status="PRIVATE"/>
-     <RUN accession="ERR11635844" alias="run_12S_MT_L1_4" status="PRIVATE"/>
-     <RUN accession="ERR11635845" alias="run_16S_MT_L1_4" status="PRIVATE"/>
-     <RUN accession="ERR11635846" alias="run_12S_MT_L1_5" status="PRIVATE"/>
-     <RUN accession="ERR11635847" alias="run_16S_MT_L1_5" status="PRIVATE"/>
-     <RUN accession="ERR11635848" alias="run_12S_MT_L2_1" status="PRIVATE"/>
-     <RUN accession="ERR11635849" alias="run_16S_MT_L2_1" status="PRIVATE"/>
-     <RUN accession="ERR11635850" alias="run_12S_MT_L2_2" status="PRIVATE"/>
-     <RUN accession="ERR11635851" alias="run_16S_MT_L2_2" status="PRIVATE"/>
-     <RUN accession="ERR11635852" alias="run_12S_MT_L2_3" status="PRIVATE"/>
-     <RUN accession="ERR11635853" alias="run_16S_MT_L2_3" status="PRIVATE"/>
-     <RUN accession="ERR11635854" alias="run_12S_MT_L2_4" status="PRIVATE"/>
-     <RUN accession="ERR11635855" alias="run_16S_MT_L2_4" status="PRIVATE"/>
-     <RUN accession="ERR11635856" alias="run_12S_MT_L2_5" status="PRIVATE"/>
-     <RUN accession="ERR11635857" alias="run_16S_MT_L2_5" status="PRIVATE"/>
-     <RUN accession="ERR11635858" alias="run_12S_MT_S1_1" status="PRIVATE"/>
-     <RUN accession="ERR11635859" alias="run_16S_MT_S1_1" status="PRIVATE"/>
-     <RUN accession="ERR11635860" alias="run_12S_MT_S1_2" status="PRIVATE"/>
-     <RUN accession="ERR11635861" alias="run_16S_MT_S1_2" status="PRIVATE"/>
-     <RUN accession="ERR11635862" alias="run_12S_MT_S1_3" status="PRIVATE"/>
-     <RUN accession="ERR11635863" alias="run_16S_MT_S1_3" status="PRIVATE"/>
-     <RUN accession="ERR11635864" alias="run_12S_MT_S1_4" status="PRIVATE"/>
-     <RUN accession="ERR11635865" alias="run_16S_MT_S1_4" status="PRIVATE"/>
-     <RUN accession="ERR11635866" alias="run_12S_MT_S1_5" status="PRIVATE"/>
-     <RUN accession="ERR11635867" alias="run_16S_MT_S1_5" status="PRIVATE"/>
-     <RUN accession="ERR11635868" alias="run_12S_MT_S2_1" status="PRIVATE"/>
-     <RUN accession="ERR11635869" alias="run_16S_MT_S2_1" status="PRIVATE"/>
-     <RUN accession="ERR11635870" alias="run_12S_MT_S2_2" status="PRIVATE"/>
-     <RUN accession="ERR11635871" alias="run_16S_MT_S2_2" status="PRIVATE"/>
-     <RUN accession="ERR11635872" alias="run_12S_MT_S2_3" status="PRIVATE"/>
-     <RUN accession="ERR11635873" alias="run_16S_MT_S2_3" status="PRIVATE"/>
-     <RUN accession="ERR11635874" alias="run_12S_MT_S2_4" status="PRIVATE"/>
-     <RUN accession="ERR11635875" alias="run_16S_MT_S2_4" status="PRIVATE"/>
-     <RUN accession="ERR11635876" alias="run_12S_MT_S2_5" status="PRIVATE"/>
-     <RUN accession="ERR11635877" alias="run_16S_MT_S2_5" status="PRIVATE"/>
-     <RUN accession="ERR11635878" alias="run_12S_TVB_1" status="PRIVATE"/>
-     <RUN accession="ERR11635879" alias="run_16S_TVB_1" status="PRIVATE"/>
-     <RUN accession="ERR11635880" alias="run_12S_TVB_2" status="PRIVATE"/>
-     <RUN accession="ERR11635881" alias="run_16S_TVB_2" status="PRIVATE"/>
-     <RUN accession="ERR11635882" alias="run_12S_TVB_3" status="PRIVATE"/>
-     <RUN accession="ERR11635883" alias="run_16S_TVB_3" status="PRIVATE"/>
-     <RUN accession="ERR11635884" alias="run_12S_TVB_4" status="PRIVATE"/>
-     <RUN accession="ERR11635885" alias="run_16S_TVB_4" status="PRIVATE"/>
-     <RUN accession="ERR11635886" alias="run_12S_TVB_5" status="PRIVATE"/>
-     <RUN accession="ERR11635887" alias="run_16S_TVB_5" status="PRIVATE"/>
-     <SUBMISSION accession="ERA24649898" alias="SUBMISSION-30-06-2023-03:02:03:983"/>
-     <MESSAGES/>
+<RECEIPT receiptDate="2023-06-30T04:22:23.625+01:00" submissionFile="submission.xml" success="false">
+     <EXPERIMENT alias="12S_DAY1_BC" status="PRIVATE"/>
+     <EXPERIMENT alias="16S_DAY1_BC" status="PRIVATE"/>
+     <EXPERIMENT alias="12S_DAY1_FC" status="PRIVATE"/>
+     <EXPERIMENT alias="16S_DAY1_FC" status="PRIVATE"/>
+     <EXPERIMENT alias="12S_DAY2_BC" status="PRIVATE"/>
+     <EXPERIMENT alias="16S_DAY2_BC" status="PRIVATE"/>
+     <EXPERIMENT alias="12S_DAY2_FC" status="PRIVATE"/>
+     <EXPERIMENT alias="16S_DAY2_FC" status="PRIVATE"/>
+     <EXPERIMENT alias="12S_EB1_2021_" status="PRIVATE"/>
+     <EXPERIMENT alias="16S_EB1_2021_" status="PRIVATE"/>
+     <EXPERIMENT alias="12S_EB2_2021_" status="PRIVATE"/>
+     <EXPERIMENT alias="16S_EB2_2021_" status="PRIVATE"/>
+     <EXPERIMENT alias="12S_EB3_2021_" status="PRIVATE"/>
+     <EXPERIMENT alias="16S_EB3_2021_" status="PRIVATE"/>
+     <EXPERIMENT alias="12S_MT_B_1" status="PRIVATE"/>
+     <EXPERIMENT alias="16S_MT_B_1" status="PRIVATE"/>
+     <EXPERIMENT alias="12S_MT_B_2" status="PRIVATE"/>
+     <EXPERIMENT alias="16S_MT_B_2" status="PRIVATE"/>
+     <EXPERIMENT alias="12S_MT_B_3" status="PRIVATE"/>
+     <EXPERIMENT alias="16S_MT_B_3" status="PRIVATE"/>
+     <EXPERIMENT alias="12S_MT_B_4" status="PRIVATE"/>
+     <EXPERIMENT alias="16S_MT_B_4" status="PRIVATE"/>
+     <EXPERIMENT alias="12S_MT_B_5" status="PRIVATE"/>
+     <EXPERIMENT alias="16S_MT_B_5" status="PRIVATE"/>
+     <EXPERIMENT alias="12S_MT_L1_1" status="PRIVATE"/>
+     <EXPERIMENT alias="16S_MT_L1_1" status="PRIVATE"/>
+     <EXPERIMENT alias="12S_MT_L1_2" status="PRIVATE"/>
+     <EXPERIMENT alias="16S_MT_L1_2" status="PRIVATE"/>
+     <EXPERIMENT alias="12S_MT_L1_3" status="PRIVATE"/>
+     <EXPERIMENT alias="16S_MT_L1_3" status="PRIVATE"/>
+     <EXPERIMENT alias="12S_MT_L1_4" status="PRIVATE"/>
+     <EXPERIMENT alias="16S_MT_L1_4" status="PRIVATE"/>
+     <EXPERIMENT alias="12S_MT_L1_5" status="PRIVATE"/>
+     <EXPERIMENT alias="16S_MT_L1_5" status="PRIVATE"/>
+     <EXPERIMENT alias="12S_MT_L2_1" status="PRIVATE"/>
+     <EXPERIMENT alias="16S_MT_L2_1" status="PRIVATE"/>
+     <EXPERIMENT alias="12S_MT_L2_2" status="PRIVATE"/>
+     <EXPERIMENT alias="16S_MT_L2_2" status="PRIVATE"/>
+     <EXPERIMENT alias="12S_MT_L2_3" status="PRIVATE"/>
+     <EXPERIMENT alias="16S_MT_L2_3" status="PRIVATE"/>
+     <EXPERIMENT alias="12S_MT_L2_4" status="PRIVATE"/>
+     <EXPERIMENT alias="16S_MT_L2_4" status="PRIVATE"/>
+     <EXPERIMENT alias="12S_MT_L2_5" status="PRIVATE"/>
+     <EXPERIMENT alias="16S_MT_L2_5" status="PRIVATE"/>
+     <EXPERIMENT alias="12S_MT_S1_1" status="PRIVATE"/>
+     <EXPERIMENT alias="16S_MT_S1_1" status="PRIVATE"/>
+     <EXPERIMENT alias="12S_MT_S1_2" status="PRIVATE"/>
+     <EXPERIMENT alias="16S_MT_S1_2" status="PRIVATE"/>
+     <EXPERIMENT alias="12S_MT_S1_3" status="PRIVATE"/>
+     <EXPERIMENT alias="16S_MT_S1_3" status="PRIVATE"/>
+     <EXPERIMENT alias="12S_MT_S1_4" status="PRIVATE"/>
+     <EXPERIMENT alias="16S_MT_S1_4" status="PRIVATE"/>
+     <EXPERIMENT alias="12S_MT_S1_5" status="PRIVATE"/>
+     <EXPERIMENT alias="16S_MT_S1_5" status="PRIVATE"/>
+     <EXPERIMENT alias="12S_MT_S2_1" status="PRIVATE"/>
+     <EXPERIMENT alias="16S_MT_S2_1" status="PRIVATE"/>
+     <EXPERIMENT alias="12S_MT_S2_2" status="PRIVATE"/>
+     <EXPERIMENT alias="16S_MT_S2_2" status="PRIVATE"/>
+     <EXPERIMENT alias="12S_MT_S2_3" status="PRIVATE"/>
+     <EXPERIMENT alias="16S_MT_S2_3" status="PRIVATE"/>
+     <EXPERIMENT alias="12S_MT_S2_4" status="PRIVATE"/>
+     <EXPERIMENT alias="16S_MT_S2_4" status="PRIVATE"/>
+     <EXPERIMENT alias="12S_MT_S2_5" status="PRIVATE"/>
+     <EXPERIMENT alias="16S_MT_S2_5" status="PRIVATE"/>
+     <EXPERIMENT alias="12S_TVB_1" status="PRIVATE"/>
+     <EXPERIMENT alias="16S_TVB_1" status="PRIVATE"/>
+     <EXPERIMENT alias="12S_TVB_2" status="PRIVATE"/>
+     <EXPERIMENT alias="16S_TVB_2" status="PRIVATE"/>
+     <EXPERIMENT alias="12S_TVB_3" status="PRIVATE"/>
+     <EXPERIMENT alias="16S_TVB_3" status="PRIVATE"/>
+     <EXPERIMENT alias="12S_TVB_4" status="PRIVATE"/>
+     <EXPERIMENT alias="16S_TVB_4" status="PRIVATE"/>
+     <EXPERIMENT alias="12S_TVB_5" status="PRIVATE"/>
+     <EXPERIMENT alias="16S_TVB_5" status="PRIVATE"/>
+     <SUBMISSION alias="SUBMISSION-30-06-2023-04:22:23:398"/>
+     <MESSAGES>
+          <ERROR>In experiment, alias: "12S_DAY1_BC". The object being added already exists in the submission account with accession: "ERX11035236".</ERROR>
+          <ERROR>In experiment, alias: "16S_DAY1_BC". The object being added already exists in the submission account with accession: "ERX11035237".</ERROR>
+          <ERROR>In experiment, alias: "12S_DAY1_FC". The object being added already exists in the submission account with accession: "ERX11035238".</ERROR>
+          <ERROR>In experiment, alias: "16S_DAY1_FC". The object being added already exists in the submission account with accession: "ERX11035239".</ERROR>
+          <ERROR>In experiment, alias: "12S_DAY2_BC". The object being added already exists in the submission account with accession: "ERX11035240".</ERROR>
+          <ERROR>In experiment, alias: "16S_DAY2_BC". The object being added already exists in the submission account with accession: "ERX11035241".</ERROR>
+          <ERROR>In experiment, alias: "12S_DAY2_FC". The object being added already exists in the submission account with accession: "ERX11035242".</ERROR>
+          <ERROR>In experiment, alias: "16S_DAY2_FC". The object being added already exists in the submission account with accession: "ERX11035243".</ERROR>
+          <ERROR>In experiment, alias: "12S_EB1_2021_". The object being added already exists in the submission account with accession: "ERX11035244".</ERROR>
+          <ERROR>In experiment, alias: "16S_EB1_2021_". The object being added already exists in the submission account with accession: "ERX11035245".</ERROR>
+          <ERROR>In experiment, alias: "12S_EB2_2021_". The object being added already exists in the submission account with accession: "ERX11035246".</ERROR>
+          <ERROR>In experiment, alias: "16S_EB2_2021_". The object being added already exists in the submission account with accession: "ERX11035247".</ERROR>
+          <ERROR>In experiment, alias: "12S_EB3_2021_". The object being added already exists in the submission account with accession: "ERX11035248".</ERROR>
+          <ERROR>In experiment, alias: "16S_EB3_2021_". The object being added already exists in the submission account with accession: "ERX11035249".</ERROR>
+          <ERROR>In experiment, alias: "12S_MT_B_1". The object being added already exists in the submission account with accession: "ERX11035250".</ERROR>
+          <ERROR>In experiment, alias: "16S_MT_B_1". The object being added already exists in the submission account with accession: "ERX11035251".</ERROR>
+          <ERROR>In experiment, alias: "12S_MT_B_2". The object being added already exists in the submission account with accession: "ERX11035252".</ERROR>
+          <ERROR>In experiment, alias: "16S_MT_B_2". The object being added already exists in the submission account with accession: "ERX11035253".</ERROR>
+          <ERROR>In experiment, alias: "12S_MT_B_3". The object being added already exists in the submission account with accession: "ERX11035254".</ERROR>
+          <ERROR>In experiment, alias: "16S_MT_B_3". The object being added already exists in the submission account with accession: "ERX11035255".</ERROR>
+          <ERROR>In experiment, alias: "12S_MT_B_4". The object being added already exists in the submission account with accession: "ERX11035256".</ERROR>
+          <ERROR>In experiment, alias: "16S_MT_B_4". The object being added already exists in the submission account with accession: "ERX11035257".</ERROR>
+          <ERROR>In experiment, alias: "12S_MT_B_5". The object being added already exists in the submission account with accession: "ERX11035258".</ERROR>
+          <ERROR>In experiment, alias: "16S_MT_B_5". The object being added already exists in the submission account with accession: "ERX11035259".</ERROR>
+          <ERROR>In experiment, alias: "12S_MT_L1_1". The object being added already exists in the submission account with accession: "ERX11035260".</ERROR>
+          <ERROR>In experiment, alias: "16S_MT_L1_1". The object being added already exists in the submission account with accession: "ERX11035261".</ERROR>
+          <ERROR>In experiment, alias: "12S_MT_L1_2". The object being added already exists in the submission account with accession: "ERX11035262".</ERROR>
+          <ERROR>In experiment, alias: "16S_MT_L1_2". The object being added already exists in the submission account with accession: "ERX11035263".</ERROR>
+          <ERROR>In experiment, alias: "12S_MT_L1_3". The object being added already exists in the submission account with accession: "ERX11035264".</ERROR>
+          <ERROR>In experiment, alias: "16S_MT_L1_3". The object being added already exists in the submission account with accession: "ERX11035265".</ERROR>
+          <ERROR>In experiment, alias: "12S_MT_L1_4". The object being added already exists in the submission account with accession: "ERX11035266".</ERROR>
+          <ERROR>In experiment, alias: "16S_MT_L1_4". The object being added already exists in the submission account with accession: "ERX11035267".</ERROR>
+          <ERROR>In experiment, alias: "12S_MT_L1_5". The object being added already exists in the submission account with accession: "ERX11035268".</ERROR>
+          <ERROR>In experiment, alias: "16S_MT_L1_5". The object being added already exists in the submission account with accession: "ERX11035269".</ERROR>
+          <ERROR>In experiment, alias: "12S_MT_L2_1". The object being added already exists in the submission account with accession: "ERX11035270".</ERROR>
+          <ERROR>In experiment, alias: "16S_MT_L2_1". The object being added already exists in the submission account with accession: "ERX11035271".</ERROR>
+          <ERROR>In experiment, alias: "12S_MT_L2_2". The object being added already exists in the submission account with accession: "ERX11035272".</ERROR>
+          <ERROR>In experiment, alias: "16S_MT_L2_2". The object being added already exists in the submission account with accession: "ERX11035273".</ERROR>
+          <ERROR>In experiment, alias: "12S_MT_L2_3". The object being added already exists in the submission account with accession: "ERX11035274".</ERROR>
+          <ERROR>In experiment, alias: "16S_MT_L2_3". The object being added already exists in the submission account with accession: "ERX11035275".</ERROR>
+          <ERROR>In experiment, alias: "12S_MT_L2_4". The object being added already exists in the submission account with accession: "ERX11035276".</ERROR>
+          <ERROR>In experiment, alias: "16S_MT_L2_4". The object being added already exists in the submission account with accession: "ERX11035277".</ERROR>
+          <ERROR>In experiment, alias: "12S_MT_L2_5". The object being added already exists in the submission account with accession: "ERX11035278".</ERROR>
+          <ERROR>In experiment, alias: "16S_MT_L2_5". The object being added already exists in the submission account with accession: "ERX11035279".</ERROR>
+          <ERROR>In experiment, alias: "12S_MT_S1_1". The object being added already exists in the submission account with accession: "ERX11035280".</ERROR>
+          <ERROR>In experiment, alias: "16S_MT_S1_1". The object being added already exists in the submission account with accession: "ERX11035281".</ERROR>
+          <ERROR>In experiment, alias: "12S_MT_S1_2". The object being added already exists in the submission account with accession: "ERX11035282".</ERROR>
+          <ERROR>In experiment, alias: "16S_MT_S1_2". The object being added already exists in the submission account with accession: "ERX11035283".</ERROR>
+          <ERROR>In experiment, alias: "12S_MT_S1_3". The object being added already exists in the submission account with accession: "ERX11035284".</ERROR>
+          <ERROR>In experiment, alias: "16S_MT_S1_3". The object being added already exists in the submission account with accession: "ERX11035285".</ERROR>
+          <ERROR>In experiment, alias: "12S_MT_S1_4". The object being added already exists in the submission account with accession: "ERX11035286".</ERROR>
+          <ERROR>In experiment, alias: "16S_MT_S1_4". The object being added already exists in the submission account with accession: "ERX11035287".</ERROR>
+          <ERROR>In experiment, alias: "12S_MT_S1_5". The object being added already exists in the submission account with accession: "ERX11035288".</ERROR>
+          <ERROR>In experiment, alias: "16S_MT_S1_5". The object being added already exists in the submission account with accession: "ERX11035289".</ERROR>
+          <ERROR>In experiment, alias: "12S_MT_S2_1". The object being added already exists in the submission account with accession: "ERX11035290".</ERROR>
+          <ERROR>In experiment, alias: "16S_MT_S2_1". The object being added already exists in the submission account with accession: "ERX11035291".</ERROR>
+          <ERROR>In experiment, alias: "12S_MT_S2_2". The object being added already exists in the submission account with accession: "ERX11035292".</ERROR>
+          <ERROR>In experiment, alias: "16S_MT_S2_2". The object being added already exists in the submission account with accession: "ERX11035293".</ERROR>
+          <ERROR>In experiment, alias: "12S_MT_S2_3". The object being added already exists in the submission account with accession: "ERX11035294".</ERROR>
+          <ERROR>In experiment, alias: "16S_MT_S2_3". The object being added already exists in the submission account with accession: "ERX11035295".</ERROR>
+          <ERROR>In experiment, alias: "12S_MT_S2_4". The object being added already exists in the submission account with accession: "ERX11035296".</ERROR>
+          <ERROR>In experiment, alias: "16S_MT_S2_4". The object being added already exists in the submission account with accession: "ERX11035297".</ERROR>
+          <ERROR>In experiment, alias: "12S_MT_S2_5". The object being added already exists in the submission account with accession: "ERX11035298".</ERROR>
+          <ERROR>In experiment, alias: "16S_MT_S2_5". The object being added already exists in the submission account with accession: "ERX11035299".</ERROR>
+          <ERROR>In experiment, alias: "12S_TVB_1". The object being added already exists in the submission account with accession: "ERX11035300".</ERROR>
+          <ERROR>In experiment, alias: "16S_TVB_1". The object being added already exists in the submission account with accession: "ERX11035301".</ERROR>
+          <ERROR>In experiment, alias: "12S_TVB_2". The object being added already exists in the submission account with accession: "ERX11035302".</ERROR>
+          <ERROR>In experiment, alias: "16S_TVB_2". The object being added already exists in the submission account with accession: "ERX11035303".</ERROR>
+          <ERROR>In experiment, alias: "12S_TVB_3". The object being added already exists in the submission account with accession: "ERX11035304".</ERROR>
+          <ERROR>In experiment, alias: "16S_TVB_3". The object being added already exists in the submission account with accession: "ERX11035305".</ERROR>
+          <ERROR>In experiment, alias: "12S_TVB_4". The object being added already exists in the submission account with accession: "ERX11035306".</ERROR>
+          <ERROR>In experiment, alias: "16S_TVB_4". The object being added already exists in the submission account with accession: "ERX11035307".</ERROR>
+          <ERROR>In experiment, alias: "12S_TVB_5". The object being added already exists in the submission account with accession: "ERX11035308".</ERROR>
+          <ERROR>In experiment, alias: "16S_TVB_5". The object being added already exists in the submission account with accession: "ERX11035309".</ERROR>
+          <INFO>This submission is a TEST submission and will be discarded within 24 hours</INFO>
+     </MESSAGES>
      <ACTIONS>ADD</ACTIONS>
-</RECEIPT>%    
+</RECEIPT>

@@ -1,0 +1,9 @@
+<PROJECT_SET>
+   <PROJECT alias="RS19">
+      <TITLE>FLO-OceanOmics Rowley Shoals 2019 eDNA sequencing</TITLE>
+      <DESCRIPTION>Sequencing eDNA (partial 12S rRNA and 16S rRNA) from water samples around the Rowley Shoals Islands, sampled 2019. When using this data, please acknowledge the Minderoo Foundation using this text in your Acknowledgments section: 'We would like to thank the Minderoo Foundation for sequencing reads deposited in (Project ID)'.</DESCRIPTION>
+      <SUBMISSION_PROJECT>
+         <SEQUENCING_PROJECT/>
+      </SUBMISSION_PROJECT>
+   </PROJECT>
+</PROJECT_SET>

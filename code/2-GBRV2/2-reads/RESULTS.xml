@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="receipt.xsl"?>
-<RECEIPT receiptDate="2023-06-30T03:46:29.895+01:00" submissionFile="submission.xml" success="false">
+<RECEIPT receiptDate="2023-06-30T04:22:41.290+01:00" submissionFile="submission.xml" success="false">
      <EXPERIMENT alias="16S_1_1D" status="PRIVATE"/>
      <EXPERIMENT alias="16S_1_1S" status="PRIVATE"/>
      <EXPERIMENT alias="16S_1_2D" status="PRIVATE"/>
@@ -90,7 +90,7 @@
      <EXPERIMENT alias="16S_EBpool" status="PRIVATE"/>
      <EXPERIMENT alias="16S_FCpool" status="PRIVATE"/>
      <EXPERIMENT alias="16S_NTC" status="PRIVATE"/>
-     <SUBMISSION alias="SUBMISSION-30-06-2023-03:46:29:646"/>
+     <SUBMISSION alias="SUBMISSION-30-06-2023-04:22:41:047"/>
      <MESSAGES>
           <ERROR>In experiment, alias: "16S_1_1D", In study reference, accession: "PRJEB63673". Failed to find referenced study, accession "PRJEB63673".</ERROR>
           <INFO>This submission is a TEST submission and will be discarded within 24 hours</INFO>

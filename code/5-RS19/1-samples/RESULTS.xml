@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="receipt.xsl"?>
+<RECEIPT receiptDate="2023-06-30T06:47:40.943+01:00" submissionFile="submission.xml" success="false">
+     <SAMPLE alias="C13_A" status="PRIVATE"/>
+     <SAMPLE alias="C13_B" status="PRIVATE"/>
+     <SAMPLE alias="C13_C" status="PRIVATE"/>
+     <SAMPLE alias="C13_D" status="PRIVATE"/>
+     <SAMPLE alias="C13_E" status="PRIVATE"/>
+     <SAMPLE alias="C20_A" status="PRIVATE"/>
+     <SAMPLE alias="C20_B" status="PRIVATE"/>
+     <SAMPLE alias="C20_C" status="PRIVATE"/>
+     <SAMPLE alias="C20_D" status="PRIVATE"/>
+     <SAMPLE alias="C20_E" status="PRIVATE"/>
+     <SAMPLE alias="EB1_2019_" status="PRIVATE"/>
+     <SAMPLE alias="EB2_2019_" status="PRIVATE"/>
+     <SAMPLE alias="FC1" status="PRIVATE"/>
+     <SAMPLE alias="FC2" status="PRIVATE"/>
+     <SAMPLE alias="FC3" status="PRIVATE"/>
+     <SAMPLE alias="I11_A" status="PRIVATE"/>
+     <SAMPLE alias="I11_B" status="PRIVATE"/>
+     <SAMPLE alias="I11_C" status="PRIVATE"/>
+     <SAMPLE alias="I11_D" status="PRIVATE"/>
+     <SAMPLE alias="I11_E" status="PRIVATE"/>
+     <SAMPLE alias="I13_A" status="PRIVATE"/>
+     <SAMPLE alias="I13_B" status="PRIVATE"/>
+     <SAMPLE alias="I13_C" status="PRIVATE"/>
+     <SAMPLE alias="I13_D" status="PRIVATE"/>
+     <SAMPLE alias="I13_E" status="PRIVATE"/>
+     <SAMPLE alias="M11_A" status="PRIVATE"/>
+     <SAMPLE alias="M11_B" status="PRIVATE"/>
+     <SAMPLE alias="M11_C" status="PRIVATE"/>
+     <SAMPLE alias="M11_D" status="PRIVATE"/>
+     <SAMPLE alias="M11_E" status="PRIVATE"/>
+     <SAMPLE alias="M12_A" status="PRIVATE"/>
+     <SAMPLE alias="M12_B" status="PRIVATE"/>
+     <SAMPLE alias="M12_C" status="PRIVATE"/>
+     <SAMPLE alias="M12_D" status="PRIVATE"/>
+     <SAMPLE alias="M12_E" status="PRIVATE"/>
+     <SAMPLE alias="RS19_NTC" status="PRIVATE"/>
+     <SAMPLE alias="RS1_1_A" status="PRIVATE"/>
+     <SAMPLE alias="RS1_1_B" status="PRIVATE"/>
+     <SAMPLE alias="RS1_1_C" status="PRIVATE"/>
+     <SAMPLE alias="RS1_1_D" status="PRIVATE"/>
+     <SAMPLE alias="RS1_1_E" status="PRIVATE"/>
+     <SAMPLE alias="RS1_S_B" status="PRIVATE"/>
+     <SAMPLE alias="RS1_S_C" status="PRIVATE"/>
+     <SAMPLE alias="RS1_S_D" status="PRIVATE"/>
+     <SAMPLE alias="RS2_1_A" status="PRIVATE"/>
+     <SAMPLE alias="RS2_1_B" status="PRIVATE"/>
+     <SAMPLE alias="RS2_1_C" status="PRIVATE"/>
+     <SAMPLE alias="RS2_1_D" status="PRIVATE"/>
+     <SAMPLE alias="RS2_1_E" status="PRIVATE"/>
+     <SAMPLE alias="RS2_S_A" status="PRIVATE"/>
+     <SAMPLE alias="RS2_S_B" status="PRIVATE"/>
+     <SAMPLE alias="RS2_S_C" status="PRIVATE"/>
+     <SAMPLE alias="RS2_S_D" status="PRIVATE"/>
+     <SAMPLE alias="RS2_S_E" status="PRIVATE"/>
+     <SAMPLE alias="RS3_1_A" status="PRIVATE"/>
+     <SAMPLE alias="RS3_1_B" status="PRIVATE"/>
+     <SAMPLE alias="RS3_1_C" status="PRIVATE"/>
+     <SAMPLE alias="RS3_1_D" status="PRIVATE"/>
+     <SAMPLE alias="RS3_1_E" status="PRIVATE"/>
+     <SAMPLE alias="RS3_S_A" status="PRIVATE"/>
+     <SAMPLE alias="RS3_S_B" status="PRIVATE"/>
+     <SAMPLE alias="RS3_S_C" status="PRIVATE"/>
+     <SAMPLE alias="RS3_S_D" status="PRIVATE"/>
+     <SAMPLE alias="RS3_S_E" status="PRIVATE"/>
+     <SUBMISSION alias="SUBMISSION-30-06-2023-06:47:40:642"/>
+     <MESSAGES>
+          <ERROR>In sample, alias: "RS19_NTC". No new objects can be added with MODIFY action.</ERROR>
+          <INFO>This submission is a TEST submission and will be discarded within 24 hours</INFO>
+     </MESSAGES>
+     <ACTIONS>MODIFY</ACTIONS>
+</RECEIPT>

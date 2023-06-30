@@ -1,0 +1,694 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="receipt.xsl"?>
+<RECEIPT receiptDate="2023-06-30T06:18:41.080+01:00" submissionFile="submission.xml" success="true">
+     <SAMPLE accession="ERS15959685" alias="AB1_AUV01_15_1" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967566" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959686" alias="AB1_AUV01_15_2" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967567" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959687" alias="AB1_AUV01_15_3" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967568" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959688" alias="AB1_AUV01_15_4" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967569" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959689" alias="AB1_AUV01_15_5" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967570" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959690" alias="AB1_AUV01_N_10_1" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967571" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959691" alias="AB1_AUV01_N_10_2" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967572" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959692" alias="AB1_AUV01_N_10_3" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967573" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959693" alias="AB1_AUV01_N_10_4" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967574" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959694" alias="AB1_AUV01_N_10_5" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967575" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959695" alias="AB1_AUV03_45_1" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967576" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959696" alias="AB1_AUV03_45_2" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967577" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959697" alias="AB1_AUV03_45_3" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967578" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959698" alias="AB1_AUV03_45_4" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967579" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959699" alias="AB1_AUV03_45_5" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967580" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959700" alias="AB1_AUV03_N_40_1" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967581" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959701" alias="AB1_AUV03_N_40_2" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967582" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959702" alias="AB1_AUV03_N_40_3" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967583" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959703" alias="AB1_AUV03_N_40_4" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967584" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959704" alias="AB1_AUV03_N_40_5" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967585" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959705" alias="AB1_AUV04_15_1" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967586" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959706" alias="AB1_AUV04_15_2" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967587" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959707" alias="AB1_AUV04_15_3" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967588" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959708" alias="AB1_AUV04_15_4" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967589" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959709" alias="AB1_AUV04_15_5" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967590" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959710" alias="AB1_AUV04_N_15_1" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967591" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959711" alias="AB1_AUV04_N_15_2" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967592" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959712" alias="AB1_AUV04_N_15_3" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967593" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959713" alias="AB1_AUV04_N_15_4" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967594" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959714" alias="AB1_AUV04_N_15_5" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967595" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959715" alias="AB1_AUV06_35_1" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967596" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959716" alias="AB1_AUV06_35_2" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967597" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959717" alias="AB1_AUV06_35_3" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967598" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959718" alias="AB1_AUV06_35_4" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967599" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959719" alias="AB1_AUV06_35_5" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967600" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959720" alias="AB1_AUV06_N_35_1" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967601" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959721" alias="AB1_AUV06_N_35_2" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967602" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959722" alias="AB1_AUV06_N_35_3" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967603" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959723" alias="AB1_AUV06_N_35_4" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967604" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959724" alias="AB1_AUV06_N_35_5" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967605" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959725" alias="AB1_BL01" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967606" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959726" alias="AB1_BL02" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967607" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959727" alias="AB1_BL03" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967608" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959728" alias="AB1_BL04" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967609" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959729" alias="AB1_BL05" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967610" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959730" alias="AB1_Deep3_40_1" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967611" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959731" alias="AB1_Deep3_40_2" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967612" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959732" alias="AB1_Deep3_40_3" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967613" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959733" alias="AB1_Deep3_40_4" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967614" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959734" alias="AB1_Deep3_40_4_BadHalf" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967615" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959735" alias="AB1_Deep3_40_5" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967616" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959736" alias="AB1_DeepChannel_40_1" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967617" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959737" alias="AB1_DeepChannel_40_2" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967618" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959738" alias="AB1_DeepChannel_40_3" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967619" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959739" alias="AB1_DeepChannel_40_4" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967620" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959740" alias="AB1_DeepChannel_40_5" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967621" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959741" alias="AB1_DeepKelp_40_1" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967622" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959742" alias="AB1_DeepKelp_40_2" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967623" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959743" alias="AB1_DeepKelp_40_3" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967624" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959744" alias="AB1_DeepKelp_40_4" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967625" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959745" alias="AB1_DeepKelp_40_5" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967626" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959746" alias="AB1_E_D1_N_40_1" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967627" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959747" alias="AB1_E_D1_N_40_2" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967628" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959748" alias="AB1_E_D1_N_40_3" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967629" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959749" alias="AB1_E_D1_N_40_4" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967630" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959750" alias="AB1_E_D1_N_40_5" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967631" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959751" alias="AB1_E_D2_N_40_1" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967632" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959752" alias="AB1_E_D2_N_40_2" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967633" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959753" alias="AB1_E_D2_N_40_3" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967634" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959754" alias="AB1_E_D2_N_40_4" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967635" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959755" alias="AB1_E_D2_N_40_5" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967636" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959756" alias="AB1_E_S1_N_10_1" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967637" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959757" alias="AB1_E_S1_N_10_2" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967638" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959758" alias="AB1_E_S1_N_10_3" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967639" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959759" alias="AB1_E_S1_N_10_4" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967640" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959760" alias="AB1_E_S1_N_10_5" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967641" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959761" alias="AB1_E_S2_N_10_1" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967642" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959762" alias="AB1_E_S2_N_10_2" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967643" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959763" alias="AB1_E_S2_N_10_3" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967644" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959764" alias="AB1_E_S2_N_10_4" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967645" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959765" alias="AB1_E_S2_N_10_5" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967646" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959766" alias="AB1_E_S3_N_10_1" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967647" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959767" alias="AB1_E_S3_N_10_2" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967648" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959768" alias="AB1_E_S3_N_10_3" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967649" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959769" alias="AB1_E_S3_N_10_4" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967650" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959770" alias="AB1_E_S3_N_10_5" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967651" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959771" alias="AB1_EastWallabi_10_1" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967652" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959772" alias="AB1_EastWallabi_10_2" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967653" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959773" alias="AB1_EastWallabi_10_3" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967654" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959774" alias="AB1_EastWallabi_10_4" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967655" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959775" alias="AB1_EastWallabi_10_5" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967656" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959776" alias="AB1_EB1" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967657" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959777" alias="AB1_EB2" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967658" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959778" alias="AB1_EB3" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967659" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959779" alias="AB1_EB4" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967660" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959780" alias="AB1_ES_D_01_35_1" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967661" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959781" alias="AB1_ES_D_01_35_2" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967662" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959782" alias="AB1_ES_D_01_35_3" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967663" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959783" alias="AB1_ES_D_01_35_4" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967664" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959784" alias="AB1_ES_D_01_35_5" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967665" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959785" alias="AB1_Kelp1_10_1" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967666" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959786" alias="AB1_Kelp1_10_2" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967667" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959787" alias="AB1_Kelp1_10_3" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967668" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959788" alias="AB1_Kelp1_10_4" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967669" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959789" alias="AB1_Kelp1_10_5" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967670" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959790" alias="AB1_P_W_D1_N_40_1" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967671" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959791" alias="AB1_P_W_D1_N_40_2" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967672" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959792" alias="AB1_P_W_D1_N_40_3" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967673" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959793" alias="AB1_P_W_D1_N_40_4" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967674" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959794" alias="AB1_P_W_D1_N_40_5" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967675" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959795" alias="AB1_P_W_S_10_1" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967676" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959796" alias="AB1_P_W_S_10_2" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967677" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959797" alias="AB1_P_W_S_10_3" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967678" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959798" alias="AB1_P_W_S_10_4" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967679" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959799" alias="AB1_P_W_S_10_5" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967680" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959800" alias="AB1_PW_D_40_1" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967681" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959801" alias="AB1_PW_D_40_2" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967682" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959802" alias="AB1_PW_D_40_3" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967683" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959803" alias="AB1_PW_D_40_4" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967684" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959804" alias="AB1_PW_D_40_5" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967685" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959805" alias="AB1_PW_D01_50_1" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967686" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959806" alias="AB1_PW_D01_50_2" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967687" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959807" alias="AB1_PW_D01_50_3" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967688" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959808" alias="AB1_PW_D01_50_4" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967689" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959809" alias="AB1_PW_D01_50_5" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967690" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959810" alias="AB1_PW_S_10_1" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967691" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959811" alias="AB1_PW_S_10_2" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967692" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959812" alias="AB1_PW_S_10_3" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967693" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959813" alias="AB1_PW_S_10_4" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967694" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959814" alias="AB1_PW_S_10_5" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967695" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959815" alias="AB1_TurtleBay_5_1" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967696" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959816" alias="AB1_TurtleBay_5_2" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967697" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959817" alias="AB1_TurtleBay_5_3" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967698" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959818" alias="AB1_TurtleBay_5_4" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967699" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959819" alias="AB1_TurtleBay_5_5" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967700" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959820" alias="AB1_WA_177_10_1" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967701" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959821" alias="AB1_WA_177_10_2" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967702" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959822" alias="AB1_WA_177_10_3" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967703" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959823" alias="AB1_WA_177_10_4" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967704" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959824" alias="AB1_WA_177_10_5" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967705" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959825" alias="AB1_WA115_10_1" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967706" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959826" alias="AB1_WA115_10_2" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967707" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959827" alias="AB1_WA115_10_3" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967708" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959828" alias="AB1_WA115_10_4" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967709" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959829" alias="AB1_WA115_10_5" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967710" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959830" alias="AB1_WA115_15_1" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967711" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959831" alias="AB1_WA115_15_2" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967712" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959832" alias="AB1_WA115_15_3" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967713" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959833" alias="AB1_WA115_15_4" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967714" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959834" alias="AB1_WA115_15_5" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967715" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959835" alias="AB1_WA176_10_1" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967716" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959836" alias="AB1_WA176_10_2" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967717" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959837" alias="AB1_WA176_10_3" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967718" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959838" alias="AB1_WA176_10_4" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967719" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959839" alias="AB1_WA176_10_5" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967720" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959840" alias="AB1_WA177_5_1" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967721" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959841" alias="AB1_WA177_5_2" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967722" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959842" alias="AB1_WA177_5_3" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967723" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959843" alias="AB1_WA177_5_4" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967724" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959844" alias="AB1_WA177_5_5" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967725" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959845" alias="AB1_WA181_5_1" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967726" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959846" alias="AB1_WA181_5_2" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967727" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959847" alias="AB1_WA181_5_3" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967728" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959848" alias="AB1_WA181_5_4" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967729" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959849" alias="AB1_WA181_5_5" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967730" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959850" alias="AB1_WA46_10_1" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967731" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959851" alias="AB1_WA46_10_2" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967732" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959852" alias="AB1_WA46_10_3" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967733" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959853" alias="AB1_WA46_10_4" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967734" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959854" alias="AB1_WA46_10_5" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967735" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959855" alias="AB1_WC" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967736" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959856" alias="AB1_WestWallabi_10_1" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967737" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959857" alias="AB1_WestWallabi_10_2" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967738" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959858" alias="AB1_WestWallabi_10_3" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967739" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959859" alias="AB1_WestWallabi_10_4" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967740" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959860" alias="AB1_WestWallabi_10_5" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967741" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959861" alias="GC1_BL_DEEP" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967742" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959862" alias="GC1_D_WC" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967743" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959863" alias="GC1_D2_1" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967744" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959864" alias="GC1_D2_2" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967745" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959865" alias="GC1_D2_3" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967746" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959866" alias="GC1_D2_4" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967747" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959867" alias="GC1_D5_1" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967748" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959868" alias="GC1_D5_2" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967749" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959869" alias="GC1_D5_3" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967750" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959870" alias="GC1_S1_1" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967751" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959871" alias="GC1_S1_2" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967752" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959872" alias="GC1_S1_3" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967753" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959873" alias="GC1_S1_4" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967754" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959874" alias="GC1_S1_5" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967755" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959875" alias="GC1_S1_WC" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967756" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959876" alias="GC1_S2_1" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967757" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959877" alias="GC1_S2_2" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967758" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959878" alias="GC1_S2_3" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967759" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959879" alias="GC1_S2_4" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967760" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959880" alias="GC1_S2_5" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967761" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959881" alias="GC1_S2_WC" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967762" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959882" alias="GC1_S3_1" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967763" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959883" alias="GC1_S3_2" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967764" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959884" alias="GC1_S3_3" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967765" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959885" alias="GC1_S3_4" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967766" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959886" alias="GC1_S3_5" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967767" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959887" alias="GC1_S3_WC" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967768" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959888" alias="GC1_S4_1" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967769" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959889" alias="GC1_S4_2" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967770" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959890" alias="GC1_S4_3" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967771" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959891" alias="GC1_S4_4" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967772" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959892" alias="GC1_S4_5" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967773" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959893" alias="GC1_S4_WC" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967774" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959894" alias="JU1_BL06" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967775" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959895" alias="JU1_D1_40_1" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967776" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959896" alias="JU1_D1_40_2" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967777" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959897" alias="JU1_D1_40_3" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967778" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959898" alias="JU1_D1_40_4" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967779" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959899" alias="JU1_D1_40_5" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967780" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959900" alias="JU1_D2_40_1" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967781" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959901" alias="JU1_D2_40_2" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967782" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959902" alias="JU1_D2_40_3" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967783" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959903" alias="JU1_D2_40_4" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967784" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959904" alias="JU1_D2_40_5" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967785" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959905" alias="JU1_D3_40_1" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967786" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959906" alias="JU1_D3_40_2" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967787" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959907" alias="JU1_D3_40_3" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967788" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959908" alias="JU1_D3_40_4" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967789" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959909" alias="JU1_D3_40_5" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967790" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959910" alias="JU1_EB5" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967791" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959911" alias="NTC_1" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967792" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959912" alias="NTC_2" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967793" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959913" alias="NTC_3" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967794" type="biosample"/>
+     </SAMPLE>
+     <SUBMISSION accession="ERA24650794" alias="SUBMISSION-30-06-2023-06:18:28:372"/>
+     <MESSAGES/>
+     <ACTIONS>ADD</ACTIONS>
+</RECEIPT>
