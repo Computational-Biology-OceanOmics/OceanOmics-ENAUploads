@@ -3,10 +3,10 @@
 		<EXPERIMENT_REF refname="12S_1_1"/>
 		<DATA_BLOCK>
 			<FILES>
-				<FILE filename="D1_1_MiFish.1.fq.gz" filetype="fastq"
-				 checksum_method="MD5" checksum="920c4a573c7f6724f99957cb1113568b"/>
-				<FILE filename="D1_1_MiFish.2.fq.gz" filetype="fastq"
-				 checksum_method="MD5" checksum="2975a273abe8b3a678143ba9ad0845ad"/>
+				<FILE filename="1_1_MiFish.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="1fb2f62b1f856c27527b82a228cf4aeb"/>
+				<FILE filename="1_1_MiFish.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="483565dace5e0013f3e0562f4a9ddd60"/>
 			</FILES>
 		</DATA_BLOCK>
 	</RUN>
@@ -14,10 +14,10 @@
 		<EXPERIMENT_REF refname="16S_1_1"/>
 		<DATA_BLOCK>
 			<FILES>
-				<FILE filename="9_1_16S.1.fq.gz" filetype="fastq"
-				 checksum_method="MD5" checksum="d33f666d34fe546f7b6aebaf3375d470"/>
-				<FILE filename="9_1_16S.2.fq.gz" filetype="fastq"
-				 checksum_method="MD5" checksum="ca1e9dfeaaf3eaf1e7e512fb95f3a26a"/>
+				<FILE filename="1_1_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="e44837355c010165ca01395bb6af97b2"/>
+				<FILE filename="1_1_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="f977dd19160010a50b46affa3805b132"/>
 			</FILES>
 		</DATA_BLOCK>
 	</RUN>
@@ -25,10 +25,10 @@
 		<EXPERIMENT_REF refname="12S_1_2"/>
 		<DATA_BLOCK>
 			<FILES>
-				<FILE filename="D1_2_MiFish.1.fq.gz" filetype="fastq"
-				 checksum_method="MD5" checksum="dfbd17e85a76bb13ad87c07a8cc404bb"/>
-				<FILE filename="D1_2_MiFish.2.fq.gz" filetype="fastq"
-				 checksum_method="MD5" checksum="064b32642f24cb60ee4e110a80d66e9b"/>
+				<FILE filename="1_2_MiFish.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="efbed07de5c7d719280b94b1f7adf828"/>
+				<FILE filename="1_2_MiFish.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="f01365362bfd007a5185e3ea33bbc02f"/>
 			</FILES>
 		</DATA_BLOCK>
 	</RUN>
@@ -47,10 +47,10 @@
 		<EXPERIMENT_REF refname="12S_1_3"/>
 		<DATA_BLOCK>
 			<FILES>
-				<FILE filename="D1_3_MiFish.1.fq.gz" filetype="fastq"
-				 checksum_method="MD5" checksum="f3b909b867b39521c892d50105011a18"/>
-				<FILE filename="D1_3_MiFish.2.fq.gz" filetype="fastq"
-				 checksum_method="MD5" checksum="0feb0eafbe9f3e19ae58cf1605a0b7ab"/>
+				<FILE filename="1_3_3_MiFish.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="f46529abb10de4cde5d23cd1ef6cc6d9"/>
+				<FILE filename="1_3_3_MiFish.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="4c58dca8551387fef898109f47ba1162"/>
 			</FILES>
 		</DATA_BLOCK>
 	</RUN>
@@ -69,10 +69,10 @@
 		<EXPERIMENT_REF refname="12S_1_4"/>
 		<DATA_BLOCK>
 			<FILES>
-				<FILE filename="D1_4_MiFish.1.fq.gz" filetype="fastq"
-				 checksum_method="MD5" checksum="29cff3cf4859804776a518266b94f603"/>
-				<FILE filename="D1_4_MiFish.2.fq.gz" filetype="fastq"
-				 checksum_method="MD5" checksum="cf1e8a206af5ff06f106dcb877c232a5"/>
+				<FILE filename="1_4_MiFish.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="b15f7c23b3ca8ace6b0ab7c905dcdd7e"/>
+				<FILE filename="1_4_MiFish.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="eb4aeed207db609e3e290b1a7a9120d3"/>
 			</FILES>
 		</DATA_BLOCK>
 	</RUN>
@@ -91,10 +91,10 @@
 		<EXPERIMENT_REF refname="12S_1_5"/>
 		<DATA_BLOCK>
 			<FILES>
-				<FILE filename="D1_5_MiFish.1.fq.gz" filetype="fastq"
-				 checksum_method="MD5" checksum="b6d3a0ac95f9701653fd23e95b570eac"/>
-				<FILE filename="D1_5_MiFish.2.fq.gz" filetype="fastq"
-				 checksum_method="MD5" checksum="5f677f6a9e8739e5b5cfaea845cb56b2"/>
+				<FILE filename="1_5_MiFish.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="61f5432607dc302a227168ed15ee2b25"/>
+				<FILE filename="1_5_MiFish.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="a88a642b10b6cb47c83a215078ebf312"/>
 			</FILES>
 		</DATA_BLOCK>
 	</RUN>
@@ -1246,10 +1246,10 @@
 		<EXPERIMENT_REF refname="16S_2_1"/>
 		<DATA_BLOCK>
 			<FILES>
-				<FILE filename="9_2_16S.1.fq.gz" filetype="fastq"
-				 checksum_method="MD5" checksum="cc53299eae185eb6448a4b553e762ee2"/>
-				<FILE filename="9_2_16S.2.fq.gz" filetype="fastq"
-				 checksum_method="MD5" checksum="6a92c432dea20903fe9b6775a63f6fbc"/>
+				<FILE filename="2_1_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="ec7df738b9e4d86a367ca63bf4addd90"/>
+				<FILE filename="2_1_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="5181c19b7495414423c9bcac736e369f"/>
 			</FILES>
 		</DATA_BLOCK>
 	</RUN>
@@ -1455,10 +1455,10 @@
 		<EXPERIMENT_REF refname="12S_3_1"/>
 		<DATA_BLOCK>
 			<FILES>
-				<FILE filename="9_3_1_MiFish.1.fq.gz" filetype="fastq"
-				 checksum_method="MD5" checksum="6a6796db7a82d56cffdb749d555b9bab"/>
-				<FILE filename="9_3_1_MiFish.2.fq.gz" filetype="fastq"
-				 checksum_method="MD5" checksum="c0092d07b6c01520834acc410a2dd269"/>
+				<FILE filename="3_1_MiFish.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="17ece3e556c009018f7fd5d9bde4b0f8"/>
+				<FILE filename="3_1_MiFish.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="f4db86c35c46431d05a19aee73742560"/>
 			</FILES>
 		</DATA_BLOCK>
 	</RUN>
@@ -1466,10 +1466,10 @@
 		<EXPERIMENT_REF refname="16S_3_1"/>
 		<DATA_BLOCK>
 			<FILES>
-				<FILE filename="9_3_16S.1.fq.gz" filetype="fastq"
-				 checksum_method="MD5" checksum="d050b430fde5f20839112802d76eaef7"/>
-				<FILE filename="9_3_16S.2.fq.gz" filetype="fastq"
-				 checksum_method="MD5" checksum="e3259be640809a95847864b800650514"/>
+				<FILE filename="3_1_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="63ef8c6e1eaac2e8f1282c880ad60699"/>
+				<FILE filename="3_1_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="0d25a31139ec54a2edd7583ea8aa13ac"/>
 			</FILES>
 		</DATA_BLOCK>
 	</RUN>
@@ -1477,10 +1477,10 @@
 		<EXPERIMENT_REF refname="12S_3_2"/>
 		<DATA_BLOCK>
 			<FILES>
-				<FILE filename="9_3_2_MiFish.1.fq.gz" filetype="fastq"
-				 checksum_method="MD5" checksum="0caa2980ec2b5be591237f630253bfc8"/>
-				<FILE filename="9_3_2_MiFish.2.fq.gz" filetype="fastq"
-				 checksum_method="MD5" checksum="c2e6ee12dcd1b6c257ad7c4c69ace3b9"/>
+				<FILE filename="3_2_MiFish.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="e3220765fce02be881cd9f959cb946ca"/>
+				<FILE filename="3_2_MiFish.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="1a4864c44f8c5cc7d916022de60f9cfc"/>
 			</FILES>
 		</DATA_BLOCK>
 	</RUN>
@@ -1499,10 +1499,10 @@
 		<EXPERIMENT_REF refname="12S_3_3"/>
 		<DATA_BLOCK>
 			<FILES>
-				<FILE filename="9_3_3_MiFish.1.fq.gz" filetype="fastq"
-				 checksum_method="MD5" checksum="4bf41ea96513e3ef146fa608717af606"/>
-				<FILE filename="9_3_3_MiFish.2.fq.gz" filetype="fastq"
-				 checksum_method="MD5" checksum="6a73888eeddfebed078250be3c5f3964"/>
+				<FILE filename="3_3_MiFish.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="560ee9e806556c5632859a1fcfaed11d"/>
+				<FILE filename="3_3_MiFish.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="e5ffe8c96b728244a6e03b9456afbf12"/>
 			</FILES>
 		</DATA_BLOCK>
 	</RUN>
@@ -1576,10 +1576,10 @@
 		<EXPERIMENT_REF refname="16S_4_1"/>
 		<DATA_BLOCK>
 			<FILES>
-				<FILE filename="9_4_16S.1.fq.gz" filetype="fastq"
-				 checksum_method="MD5" checksum="e6add8c380d6498d114e030266138f28"/>
-				<FILE filename="9_4_16S.2.fq.gz" filetype="fastq"
-				 checksum_method="MD5" checksum="6840b54a4a9c5ec4f3edb0fdbe409b1a"/>
+				<FILE filename="4_1_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="886670ed9c4d82b7f3ca9cadb2d270e1"/>
+				<FILE filename="4_1_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="4436b5fd43b323498a4844b218e5cc1b"/>
 			</FILES>
 		</DATA_BLOCK>
 	</RUN>
@@ -1686,10 +1686,10 @@
 		<EXPERIMENT_REF refname="16S_5_1"/>
 		<DATA_BLOCK>
 			<FILES>
-				<FILE filename="9_5_16S.1.fq.gz" filetype="fastq"
-				 checksum_method="MD5" checksum="06fdcd04ea4d627748e6ef8248efb705"/>
-				<FILE filename="9_5_16S.2.fq.gz" filetype="fastq"
-				 checksum_method="MD5" checksum="b0ba0a53830ba12d0d31bac4890f765d"/>
+				<FILE filename="5_1_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="24379d823c9b04ae5d90b828a09e0ebb"/>
+				<FILE filename="5_1_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="5306f3f97f58938cc049d5a5f33b48a1"/>
 			</FILES>
 		</DATA_BLOCK>
 	</RUN>

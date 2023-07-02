@@ -1,0 +1,631 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="receipt.xsl"?>
+<RECEIPT receiptDate="2023-07-02T03:18:27.939+01:00" submissionFile="submission.xml" success="true">
+     <SAMPLE accession="ERS15961582" alias="NTC1" status="PRIVATE">
+          <EXT_ID accession="SAMEA113969472" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15961583" alias="V10_CKI_BC_1" status="PRIVATE">
+          <EXT_ID accession="SAMEA113969473" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15961584" alias="V10_CKI_BC_2" status="PRIVATE">
+          <EXT_ID accession="SAMEA113969474" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15961585" alias="V10_CKI_BC_3" status="PRIVATE">
+          <EXT_ID accession="SAMEA113969475" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15961586" alias="V10_CKI_BC_4" status="PRIVATE">
+          <EXT_ID accession="SAMEA113969476" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15961587" alias="V10_CKI_BC_5" status="PRIVATE">
+          <EXT_ID accession="SAMEA113969477" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15961588" alias="V10_CKI_EB_1" status="PRIVATE">
+          <EXT_ID accession="SAMEA113969478" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15961589" alias="V10_CKI_EB_2" status="PRIVATE">
+          <EXT_ID accession="SAMEA113969479" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15961590" alias="V10_CKI_EB_3" status="PRIVATE">
+          <EXT_ID accession="SAMEA113969480" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15961591" alias="V10_CKI_EB_4" status="PRIVATE">
+          <EXT_ID accession="SAMEA113969481" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15961592" alias="V10_CKI_N_1_1" status="PRIVATE">
+          <EXT_ID accession="SAMEA113969482" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15961593" alias="V10_CKI_N_1_2" status="PRIVATE">
+          <EXT_ID accession="SAMEA113969483" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15961594" alias="V10_CKI_N_1_3" status="PRIVATE">
+          <EXT_ID accession="SAMEA113969484" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15961595" alias="V10_CKI_N_1_4" status="PRIVATE">
+          <EXT_ID accession="SAMEA113969485" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15961596" alias="V10_CKI_N_1_5" status="PRIVATE">
+          <EXT_ID accession="SAMEA113969486" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15961597" alias="V10_CKI_N_1_DI" status="PRIVATE">
+          <EXT_ID accession="SAMEA113969487" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15961598" alias="V10_CKI_N_1_WC" status="PRIVATE">
+          <EXT_ID accession="SAMEA113969488" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15961599" alias="V10_CKI_N_10_1" status="PRIVATE">
+          <EXT_ID accession="SAMEA113969489" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15961600" alias="V10_CKI_N_10_2" status="PRIVATE">
+          <EXT_ID accession="SAMEA113969490" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15961601" alias="V10_CKI_N_10_3" status="PRIVATE">
+          <EXT_ID accession="SAMEA113969491" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15961602" alias="V10_CKI_N_10_4" status="PRIVATE">
+          <EXT_ID accession="SAMEA113969492" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15961603" alias="V10_CKI_N_10_5" status="PRIVATE">
+          <EXT_ID accession="SAMEA113969493" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15961604" alias="V10_CKI_N_10_DI" status="PRIVATE">
+          <EXT_ID accession="SAMEA113969494" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15961605" alias="V10_CKI_N_10_WC" status="PRIVATE">
+          <EXT_ID accession="SAMEA113969495" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15961606" alias="V10_CKI_N_11_1" status="PRIVATE">
+          <EXT_ID accession="SAMEA113969496" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15961607" alias="V10_CKI_N_11_2" status="PRIVATE">
+          <EXT_ID accession="SAMEA113969497" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15961608" alias="V10_CKI_N_11_3" status="PRIVATE">
+          <EXT_ID accession="SAMEA113969498" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15961609" alias="V10_CKI_N_11_4" status="PRIVATE">
+          <EXT_ID accession="SAMEA113969499" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15961610" alias="V10_CKI_N_11_5" status="PRIVATE">
+          <EXT_ID accession="SAMEA113969500" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15961611" alias="V10_CKI_N_11_DI" status="PRIVATE">
+          <EXT_ID accession="SAMEA113969501" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15961612" alias="V10_CKI_N_11_WC" status="PRIVATE">
+          <EXT_ID accession="SAMEA113969502" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15961613" alias="V10_CKI_N_12_1" status="PRIVATE">
+          <EXT_ID accession="SAMEA113969503" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15961614" alias="V10_CKI_N_12_2" status="PRIVATE">
+          <EXT_ID accession="SAMEA113969504" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15961615" alias="V10_CKI_N_12_3" status="PRIVATE">
+          <EXT_ID accession="SAMEA113969505" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15961616" alias="V10_CKI_N_12_4" status="PRIVATE">
+          <EXT_ID accession="SAMEA113969506" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15961617" alias="V10_CKI_N_12_5" status="PRIVATE">
+          <EXT_ID accession="SAMEA113969507" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15961618" alias="V10_CKI_N_12_DI" status="PRIVATE">
+          <EXT_ID accession="SAMEA113969508" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15961619" alias="V10_CKI_N_12_WC" status="PRIVATE">
+          <EXT_ID accession="SAMEA113969509" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15961620" alias="V10_CKI_N_13_1" status="PRIVATE">
+          <EXT_ID accession="SAMEA113969510" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15961621" alias="V10_CKI_N_13_2" status="PRIVATE">
+          <EXT_ID accession="SAMEA113969511" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15961622" alias="V10_CKI_N_13_3" status="PRIVATE">
+          <EXT_ID accession="SAMEA113969512" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15961623" alias="V10_CKI_N_13_4" status="PRIVATE">
+          <EXT_ID accession="SAMEA113969513" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15961624" alias="V10_CKI_N_13_5" status="PRIVATE">
+          <EXT_ID accession="SAMEA113969514" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15961625" alias="V10_CKI_N_13_DI" status="PRIVATE">
+          <EXT_ID accession="SAMEA113969515" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15961626" alias="V10_CKI_N_13_WC" status="PRIVATE">
+          <EXT_ID accession="SAMEA113969516" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15961627" alias="V10_CKI_N_14_1" status="PRIVATE">
+          <EXT_ID accession="SAMEA113969517" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15961628" alias="V10_CKI_N_14_2" status="PRIVATE">
+          <EXT_ID accession="SAMEA113969518" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15961629" alias="V10_CKI_N_14_3" status="PRIVATE">
+          <EXT_ID accession="SAMEA113969519" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15961630" alias="V10_CKI_N_14_4" status="PRIVATE">
+          <EXT_ID accession="SAMEA113969520" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15961631" alias="V10_CKI_N_14_5" status="PRIVATE">
+          <EXT_ID accession="SAMEA113969521" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15961632" alias="V10_CKI_N_14_DI" status="PRIVATE">
+          <EXT_ID accession="SAMEA113969522" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15961633" alias="V10_CKI_N_14_WC" status="PRIVATE">
+          <EXT_ID accession="SAMEA113969523" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15961634" alias="V10_CKI_N_2_1" status="PRIVATE">
+          <EXT_ID accession="SAMEA113969524" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15961635" alias="V10_CKI_N_2_2" status="PRIVATE">
+          <EXT_ID accession="SAMEA113969525" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15961636" alias="V10_CKI_N_2_3" status="PRIVATE">
+          <EXT_ID accession="SAMEA113969526" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15961637" alias="V10_CKI_N_2_4" status="PRIVATE">
+          <EXT_ID accession="SAMEA113969527" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15961638" alias="V10_CKI_N_2_5" status="PRIVATE">
+          <EXT_ID accession="SAMEA113969528" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15961639" alias="V10_CKI_N_2_DI" status="PRIVATE">
+          <EXT_ID accession="SAMEA113969529" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15961640" alias="V10_CKI_N_2_WC" status="PRIVATE">
+          <EXT_ID accession="SAMEA113969530" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15961641" alias="V10_CKI_N_3_1" status="PRIVATE">
+          <EXT_ID accession="SAMEA113969531" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15961642" alias="V10_CKI_N_3_2" status="PRIVATE">
+          <EXT_ID accession="SAMEA113969532" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15961643" alias="V10_CKI_N_3_3" status="PRIVATE">
+          <EXT_ID accession="SAMEA113969533" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15961644" alias="V10_CKI_N_3_4" status="PRIVATE">
+          <EXT_ID accession="SAMEA113969534" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15961645" alias="V10_CKI_N_3_5" status="PRIVATE">
+          <EXT_ID accession="SAMEA113969535" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15961646" alias="V10_CKI_N_3_DI" status="PRIVATE">
+          <EXT_ID accession="SAMEA113969536" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15961647" alias="V10_CKI_N_3_WC" status="PRIVATE">
+          <EXT_ID accession="SAMEA113969537" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15961648" alias="V10_CKI_N_4_1" status="PRIVATE">
+          <EXT_ID accession="SAMEA113969538" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15961649" alias="V10_CKI_N_4_2" status="PRIVATE">
+          <EXT_ID accession="SAMEA113969539" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15961650" alias="V10_CKI_N_4_3" status="PRIVATE">
+          <EXT_ID accession="SAMEA113969540" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15961651" alias="V10_CKI_N_4_4" status="PRIVATE">
+          <EXT_ID accession="SAMEA113969541" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15961652" alias="V10_CKI_N_4_5" status="PRIVATE">
+          <EXT_ID accession="SAMEA113969542" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15961653" alias="V10_CKI_N_4_DI" status="PRIVATE">
+          <EXT_ID accession="SAMEA113969543" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15961654" alias="V10_CKI_N_4_WC" status="PRIVATE">
+          <EXT_ID accession="SAMEA113969544" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15961655" alias="V10_CKI_N_5_1" status="PRIVATE">
+          <EXT_ID accession="SAMEA113969545" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15961656" alias="V10_CKI_N_5_2" status="PRIVATE">
+          <EXT_ID accession="SAMEA113969546" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15961657" alias="V10_CKI_N_5_3" status="PRIVATE">
+          <EXT_ID accession="SAMEA113969547" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15961658" alias="V10_CKI_N_5_4" status="PRIVATE">
+          <EXT_ID accession="SAMEA113969548" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15961659" alias="V10_CKI_N_5_5" status="PRIVATE">
+          <EXT_ID accession="SAMEA113969549" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15961660" alias="V10_CKI_N_5_DI" status="PRIVATE">
+          <EXT_ID accession="SAMEA113969550" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15961661" alias="V10_CKI_N_5_WC" status="PRIVATE">
+          <EXT_ID accession="SAMEA113969551" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15961662" alias="V10_CKI_N_6_1" status="PRIVATE">
+          <EXT_ID accession="SAMEA113969552" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15961663" alias="V10_CKI_N_6_2" status="PRIVATE">
+          <EXT_ID accession="SAMEA113969553" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15961664" alias="V10_CKI_N_6_3" status="PRIVATE">
+          <EXT_ID accession="SAMEA113969554" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15961665" alias="V10_CKI_N_6_4" status="PRIVATE">
+          <EXT_ID accession="SAMEA113969555" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15961666" alias="V10_CKI_N_6_5" status="PRIVATE">
+          <EXT_ID accession="SAMEA113969556" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15961667" alias="V10_CKI_N_6_DI" status="PRIVATE">
+          <EXT_ID accession="SAMEA113969557" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15961668" alias="V10_CKI_N_6_WC" status="PRIVATE">
+          <EXT_ID accession="SAMEA113969558" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15961669" alias="V10_CKI_N_7_1" status="PRIVATE">
+          <EXT_ID accession="SAMEA113969559" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15961670" alias="V10_CKI_N_7_2" status="PRIVATE">
+          <EXT_ID accession="SAMEA113969560" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15961671" alias="V10_CKI_N_7_3" status="PRIVATE">
+          <EXT_ID accession="SAMEA113969561" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15961672" alias="V10_CKI_N_7_4" status="PRIVATE">
+          <EXT_ID accession="SAMEA113969562" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15961673" alias="V10_CKI_N_7_5" status="PRIVATE">
+          <EXT_ID accession="SAMEA113969563" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15961674" alias="V10_CKI_N_7_DI" status="PRIVATE">
+          <EXT_ID accession="SAMEA113969564" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15961675" alias="V10_CKI_N_7_WC" status="PRIVATE">
+          <EXT_ID accession="SAMEA113969565" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15961676" alias="V10_CKI_N_8_1" status="PRIVATE">
+          <EXT_ID accession="SAMEA113969566" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15961677" alias="V10_CKI_N_8_2" status="PRIVATE">
+          <EXT_ID accession="SAMEA113969567" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15961678" alias="V10_CKI_N_8_3" status="PRIVATE">
+          <EXT_ID accession="SAMEA113969568" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15961679" alias="V10_CKI_N_8_4" status="PRIVATE">
+          <EXT_ID accession="SAMEA113969569" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15961680" alias="V10_CKI_N_8_5" status="PRIVATE">
+          <EXT_ID accession="SAMEA113969570" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15961681" alias="V10_CKI_N_8_DI" status="PRIVATE">
+          <EXT_ID accession="SAMEA113969571" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15961682" alias="V10_CKI_N_8_WC" status="PRIVATE">
+          <EXT_ID accession="SAMEA113969572" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15961683" alias="V10_CKI_N_9_1" status="PRIVATE">
+          <EXT_ID accession="SAMEA113969573" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15961684" alias="V10_CKI_N_9_2" status="PRIVATE">
+          <EXT_ID accession="SAMEA113969574" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15961685" alias="V10_CKI_N_9_3" status="PRIVATE">
+          <EXT_ID accession="SAMEA113969575" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15961686" alias="V10_CKI_N_9_4" status="PRIVATE">
+          <EXT_ID accession="SAMEA113969576" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15961687" alias="V10_CKI_N_9_5" status="PRIVATE">
+          <EXT_ID accession="SAMEA113969577" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15961688" alias="V10_CKI_N_9_DI" status="PRIVATE">
+          <EXT_ID accession="SAMEA113969578" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15961689" alias="V10_CKI_N_9_WC" status="PRIVATE">
+          <EXT_ID accession="SAMEA113969579" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15961690" alias="V10_CKI_N_H_12_DI" status="PRIVATE">
+          <EXT_ID accession="SAMEA113969580" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15961691" alias="V10_CKI_N_H_12_WC" status="PRIVATE">
+          <EXT_ID accession="SAMEA113969581" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15961692" alias="V10_CKI_N_H_2_12_1" status="PRIVATE">
+          <EXT_ID accession="SAMEA113969582" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15961693" alias="V10_CKI_N_H_2_12_2" status="PRIVATE">
+          <EXT_ID accession="SAMEA113969583" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15961694" alias="V10_CKI_N_H_2_12_3" status="PRIVATE">
+          <EXT_ID accession="SAMEA113969584" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15961695" alias="V10_CKI_N_H_2_3_1" status="PRIVATE">
+          <EXT_ID accession="SAMEA113969585" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15961696" alias="V10_CKI_N_H_2_3_2" status="PRIVATE">
+          <EXT_ID accession="SAMEA113969586" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15961697" alias="V10_CKI_N_H_2_3_3" status="PRIVATE">
+          <EXT_ID accession="SAMEA113969587" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15961698" alias="V10_CKI_N_H_3_DI" status="PRIVATE">
+          <EXT_ID accession="SAMEA113969588" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15961699" alias="V10_CKI_N_H_3_WC" status="PRIVATE">
+          <EXT_ID accession="SAMEA113969589" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15961700" alias="V10_CKI_N_H_4_3_1" status="PRIVATE">
+          <EXT_ID accession="SAMEA113969590" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15961701" alias="V10_CKI_N_H_4_3_2" status="PRIVATE">
+          <EXT_ID accession="SAMEA113969591" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15961702" alias="V10_CKI_N_H_4_3_3" status="PRIVATE">
+          <EXT_ID accession="SAMEA113969592" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15961703" alias="V10_CKI_N_H_5_12_1" status="PRIVATE">
+          <EXT_ID accession="SAMEA113969593" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15961704" alias="V10_CKI_N_H_5_12_2" status="PRIVATE">
+          <EXT_ID accession="SAMEA113969594" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15961705" alias="V10_CKI_N_H_5_12_3" status="PRIVATE">
+          <EXT_ID accession="SAMEA113969595" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15961706" alias="V10_CKI_U_1_1" status="PRIVATE">
+          <EXT_ID accession="SAMEA113969596" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15961707" alias="V10_CKI_U_1_2" status="PRIVATE">
+          <EXT_ID accession="SAMEA113969597" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15961708" alias="V10_CKI_U_1_3" status="PRIVATE">
+          <EXT_ID accession="SAMEA113969598" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15961709" alias="V10_CKI_U_1_4" status="PRIVATE">
+          <EXT_ID accession="SAMEA113969599" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15961710" alias="V10_CKI_U_1_5" status="PRIVATE">
+          <EXT_ID accession="SAMEA113969600" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15961711" alias="V10_CKI_U_1_DI" status="PRIVATE">
+          <EXT_ID accession="SAMEA113969601" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15961712" alias="V10_CKI_U_1_WC" status="PRIVATE">
+          <EXT_ID accession="SAMEA113969602" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15961713" alias="V10_CKI_U_10_1" status="PRIVATE">
+          <EXT_ID accession="SAMEA113969603" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15961714" alias="V10_CKI_U_10_2" status="PRIVATE">
+          <EXT_ID accession="SAMEA113969604" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15961715" alias="V10_CKI_U_10_3" status="PRIVATE">
+          <EXT_ID accession="SAMEA113969605" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15961716" alias="V10_CKI_U_10_4" status="PRIVATE">
+          <EXT_ID accession="SAMEA113969606" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15961717" alias="V10_CKI_U_10_5" status="PRIVATE">
+          <EXT_ID accession="SAMEA113969607" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15961718" alias="V10_CKI_U_10_DI" status="PRIVATE">
+          <EXT_ID accession="SAMEA113969608" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15961719" alias="V10_CKI_U_10_WC" status="PRIVATE">
+          <EXT_ID accession="SAMEA113969609" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15961720" alias="V10_CKI_U_11_1" status="PRIVATE">
+          <EXT_ID accession="SAMEA113969610" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15961721" alias="V10_CKI_U_11_2" status="PRIVATE">
+          <EXT_ID accession="SAMEA113969611" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15961722" alias="V10_CKI_U_11_3" status="PRIVATE">
+          <EXT_ID accession="SAMEA113969612" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15961723" alias="V10_CKI_U_11_4" status="PRIVATE">
+          <EXT_ID accession="SAMEA113969613" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15961724" alias="V10_CKI_U_11_5" status="PRIVATE">
+          <EXT_ID accession="SAMEA113969614" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15961725" alias="V10_CKI_U_11_DI" status="PRIVATE">
+          <EXT_ID accession="SAMEA113969615" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15961726" alias="V10_CKI_U_11_WC" status="PRIVATE">
+          <EXT_ID accession="SAMEA113969616" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15961727" alias="V10_CKI_U_13_1" status="PRIVATE">
+          <EXT_ID accession="SAMEA113969617" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15961728" alias="V10_CKI_U_13_2" status="PRIVATE">
+          <EXT_ID accession="SAMEA113969618" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15961729" alias="V10_CKI_U_13_3" status="PRIVATE">
+          <EXT_ID accession="SAMEA113969619" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15961730" alias="V10_CKI_U_13_4" status="PRIVATE">
+          <EXT_ID accession="SAMEA113969620" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15961731" alias="V10_CKI_U_13_5" status="PRIVATE">
+          <EXT_ID accession="SAMEA113969621" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15961732" alias="V10_CKI_U_13_DI" status="PRIVATE">
+          <EXT_ID accession="SAMEA113969622" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15961733" alias="V10_CKI_U_13_WC" status="PRIVATE">
+          <EXT_ID accession="SAMEA113969623" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15961734" alias="V10_CKI_U_14_1" status="PRIVATE">
+          <EXT_ID accession="SAMEA113969624" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15961735" alias="V10_CKI_U_14_2" status="PRIVATE">
+          <EXT_ID accession="SAMEA113969625" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15961736" alias="V10_CKI_U_14_3" status="PRIVATE">
+          <EXT_ID accession="SAMEA113969626" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15961737" alias="V10_CKI_U_14_4" status="PRIVATE">
+          <EXT_ID accession="SAMEA113969627" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15961738" alias="V10_CKI_U_14_5" status="PRIVATE">
+          <EXT_ID accession="SAMEA113969628" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15961739" alias="V10_CKI_U_14_DI" status="PRIVATE">
+          <EXT_ID accession="SAMEA113969629" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15961740" alias="V10_CKI_U_14_WC" status="PRIVATE">
+          <EXT_ID accession="SAMEA113969630" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15961741" alias="V10_CKI_U_2_1" status="PRIVATE">
+          <EXT_ID accession="SAMEA113969631" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15961742" alias="V10_CKI_U_2_2" status="PRIVATE">
+          <EXT_ID accession="SAMEA113969632" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15961743" alias="V10_CKI_U_2_3" status="PRIVATE">
+          <EXT_ID accession="SAMEA113969633" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15961744" alias="V10_CKI_U_2_4" status="PRIVATE">
+          <EXT_ID accession="SAMEA113969634" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15961745" alias="V10_CKI_U_2_5" status="PRIVATE">
+          <EXT_ID accession="SAMEA113969635" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15961746" alias="V10_CKI_U_2_DI" status="PRIVATE">
+          <EXT_ID accession="SAMEA113969636" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15961747" alias="V10_CKI_U_2_WC" status="PRIVATE">
+          <EXT_ID accession="SAMEA113969637" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15961748" alias="V10_CKI_U_4_1" status="PRIVATE">
+          <EXT_ID accession="SAMEA113969638" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15961749" alias="V10_CKI_U_4_2" status="PRIVATE">
+          <EXT_ID accession="SAMEA113969639" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15961750" alias="V10_CKI_U_4_3" status="PRIVATE">
+          <EXT_ID accession="SAMEA113969640" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15961751" alias="V10_CKI_U_4_4" status="PRIVATE">
+          <EXT_ID accession="SAMEA113969641" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15961752" alias="V10_CKI_U_4_5" status="PRIVATE">
+          <EXT_ID accession="SAMEA113969642" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15961753" alias="V10_CKI_U_4_DI" status="PRIVATE">
+          <EXT_ID accession="SAMEA113969643" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15961754" alias="V10_CKI_U_4_WC" status="PRIVATE">
+          <EXT_ID accession="SAMEA113969644" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15961755" alias="V10_CKI_U_5_1" status="PRIVATE">
+          <EXT_ID accession="SAMEA113969645" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15961756" alias="V10_CKI_U_5_2" status="PRIVATE">
+          <EXT_ID accession="SAMEA113969646" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15961757" alias="V10_CKI_U_5_3" status="PRIVATE">
+          <EXT_ID accession="SAMEA113969647" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15961758" alias="V10_CKI_U_5_4" status="PRIVATE">
+          <EXT_ID accession="SAMEA113969648" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15961759" alias="V10_CKI_U_5_5" status="PRIVATE">
+          <EXT_ID accession="SAMEA113969649" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15961760" alias="V10_CKI_U_5_DI" status="PRIVATE">
+          <EXT_ID accession="SAMEA113969650" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15961761" alias="V10_CKI_U_5_WC" status="PRIVATE">
+          <EXT_ID accession="SAMEA113969651" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15961762" alias="V10_CKI_U_7_1" status="PRIVATE">
+          <EXT_ID accession="SAMEA113969652" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15961763" alias="V10_CKI_U_7_2" status="PRIVATE">
+          <EXT_ID accession="SAMEA113969653" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15961764" alias="V10_CKI_U_7_3" status="PRIVATE">
+          <EXT_ID accession="SAMEA113969654" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15961765" alias="V10_CKI_U_7_4" status="PRIVATE">
+          <EXT_ID accession="SAMEA113969655" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15961766" alias="V10_CKI_U_7_5" status="PRIVATE">
+          <EXT_ID accession="SAMEA113969656" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15961767" alias="V10_CKI_U_7_DI" status="PRIVATE">
+          <EXT_ID accession="SAMEA113969657" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15961768" alias="V10_CKI_U_7_WC" status="PRIVATE">
+          <EXT_ID accession="SAMEA113969658" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15961769" alias="V10_CKI_U_8_1" status="PRIVATE">
+          <EXT_ID accession="SAMEA113969659" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15961770" alias="V10_CKI_U_8_2" status="PRIVATE">
+          <EXT_ID accession="SAMEA113969660" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15961771" alias="V10_CKI_U_8_3" status="PRIVATE">
+          <EXT_ID accession="SAMEA113969661" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15961772" alias="V10_CKI_U_8_4" status="PRIVATE">
+          <EXT_ID accession="SAMEA113969662" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15961773" alias="V10_CKI_U_8_5" status="PRIVATE">
+          <EXT_ID accession="SAMEA113969663" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15961774" alias="V10_CKI_U_8_DI" status="PRIVATE">
+          <EXT_ID accession="SAMEA113969664" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15961775" alias="V10_CKI_U_8_WC" status="PRIVATE">
+          <EXT_ID accession="SAMEA113969665" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15961776" alias="V10_CKI_V_6_1" status="PRIVATE">
+          <EXT_ID accession="SAMEA113969666" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15961777" alias="V10_CKI_V_6_2" status="PRIVATE">
+          <EXT_ID accession="SAMEA113969667" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15961778" alias="V10_CKI_V_6_3" status="PRIVATE">
+          <EXT_ID accession="SAMEA113969668" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15961779" alias="V10_CKI_V_6_4" status="PRIVATE">
+          <EXT_ID accession="SAMEA113969669" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15961780" alias="V10_CKI_V_6_5" status="PRIVATE">
+          <EXT_ID accession="SAMEA113969670" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15961781" alias="V10_CKI_V_6_DI" status="PRIVATE">
+          <EXT_ID accession="SAMEA113969671" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15961782" alias="V10_CKI_V_6_WC" status="PRIVATE">
+          <EXT_ID accession="SAMEA113969672" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15961783" alias="V10_CKI_V_9_1" status="PRIVATE">
+          <EXT_ID accession="SAMEA113969673" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15961784" alias="V10_CKI_V_9_2" status="PRIVATE">
+          <EXT_ID accession="SAMEA113969674" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15961785" alias="V10_CKI_V_9_3" status="PRIVATE">
+          <EXT_ID accession="SAMEA113969675" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15961786" alias="V10_CKI_V_9_4" status="PRIVATE">
+          <EXT_ID accession="SAMEA113969676" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15961787" alias="V10_CKI_V_9_5" status="PRIVATE">
+          <EXT_ID accession="SAMEA113969677" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15961788" alias="V10_CKI_V_9_DI" status="PRIVATE">
+          <EXT_ID accession="SAMEA113969678" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15961789" alias="V10_CKI_V_9_WC" status="PRIVATE">
+          <EXT_ID accession="SAMEA113969679" type="biosample"/>
+     </SAMPLE>
+     <SUBMISSION accession="ERA24661354" alias="SUBMISSION-02-07-2023-03:18:14:090"/>
+     <MESSAGES/>
+     <ACTIONS>ADD</ACTIONS>
+</RECEIPT>

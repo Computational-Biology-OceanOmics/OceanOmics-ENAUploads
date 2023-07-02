@@ -43,6 +43,8 @@ for line in open('../1-samples/RESULTS.xml'):
             filename = ll[-1].rstrip()
             base = os.path.basename(filename)
             if alias in base:
+                if 'BadHalf' in base and 'BadHalf' not in alias:
+                    continue
                 # 6f82dc689f2a3df0306a1d2bd6336b11 DAY1_BC_16S.1.fq.gz
                 #b21c9262b861324941cfd89c786f948d DAY1_BC_16S.2.fq.gz
                 #1a7cd7bd82dfc99ba71a649035f95983 DAY1_BC_MiFish.1.fq.gz

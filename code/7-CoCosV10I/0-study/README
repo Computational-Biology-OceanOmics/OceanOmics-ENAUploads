@@ -1,0 +1,4 @@
+this adds just the submission
+
+curl -u   'pbayer@minderoo.org':'PASSWORD'  -F "SUBMISSION=@submission.xml" -F "PROJECT=@project.xml" "https://www.ebi.ac.uk/ena/submit/drop-box/submit/" > RESULTS.xml
+

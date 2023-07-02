@@ -1,0 +1,9 @@
+<PROJECT_SET>
+   <PROJECT alias="CoCosV10II">
+      <TITLE>FLO-OceanOmics CoCos voyage 10 project II eDNA sequencing</TITLE>
+      <DESCRIPTION>Sequencing eDNA (partial 12S rRNA and 16S rRNA) from water samples to assess fishing pressures within and outside the Australian EEZ around the Cocos Keeling Islands. When using this data, please acknowledge the Minderoo Foundation using this text in your Acknowledgments section: 'We would like to thank the Minderoo Foundation for sequencing reads deposited in (Project ID)'.</DESCRIPTION>
+      <SUBMISSION_PROJECT>
+         <SEQUENCING_PROJECT/>
+      </SUBMISSION_PROJECT>
+   </PROJECT>
+</PROJECT_SET>

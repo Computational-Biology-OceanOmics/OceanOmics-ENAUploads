@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="receipt.xsl"?>
+<RECEIPT receiptDate="2023-07-02T03:26:42.524+01:00" submissionFile="submission.xml" success="true">
+     <PROJECT accession="PRJEB63983" alias="CoCosV10II" status="PUBLIC">
+          <EXT_ID accession="ERP149131" type="study"/>
+     </PROJECT>
+     <SUBMISSION accession="ERA24661355" alias="SUBMISSION-02-07-2023-03:26:42:479"/>
+     <MESSAGES>
+          <INFO>All objects in this submission are set to public status (RELEASE).</INFO>
+     </MESSAGES>
+     <ACTIONS>ADD</ACTIONS>
+     <ACTIONS>RELEASE</ACTIONS>
+</RECEIPT>

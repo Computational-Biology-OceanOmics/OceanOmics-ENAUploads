@@ -1070,10 +1070,10 @@
 		<EXPERIMENT_REF refname="16S_AB1_Deep3_40_4"/>
 		<DATA_BLOCK>
 			<FILES>
-				<FILE filename="AB1_Deep3_40_4_BadHalf_16S.1.fq.gz" filetype="fastq"
-				 checksum_method="MD5" checksum="fa91858e461aee092b0caacd26ac8572"/>
-				<FILE filename="AB1_Deep3_40_4_BadHalf_16S.2.fq.gz" filetype="fastq"
-				 checksum_method="MD5" checksum="f721a30067371760b70b2bcd47beac33"/>
+				<FILE filename="AB1_Deep3_40_4_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="52f575a7ef0126e9a7ae8b63b3b8ec38"/>
+				<FILE filename="AB1_Deep3_40_4_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="dd89970e2e151282ab907c2adffed5ff"/>
 			</FILES>
 		</DATA_BLOCK>
 	</RUN>

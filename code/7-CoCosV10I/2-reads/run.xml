@@ -1,0 +1,4578 @@
+<RUN_SET>
+	<RUN alias="run_12S_NTC1" center_name="Minderoo Foundation">
+		<EXPERIMENT_REF refname="12S_NTC1"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="NTC1_MiFish.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="cf60c9d6147547a18e0dc47847270f29"/>
+				<FILE filename="NTC1_MiFish.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="5a75015cfbb1d4b0b990c18fd5ad8ff4"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_NTC1">
+		<EXPERIMENT_REF refname="16S_NTC1"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="NTC1_16S.1_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="36edb026b5240666d5242170d6ad22e6"/>
+				<FILE filename="NTC1_16S.2_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="3d099a7ee4ce286cb7dc15f1ef0600de"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_12S_V10_CKI_BC_1" center_name="Minderoo Foundation">
+		<EXPERIMENT_REF refname="12S_V10_CKI_BC_1"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_BC_1_MiFish.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="6f1c4bfb81da1b266c0f12a7d38dbd09"/>
+				<FILE filename="V10_CKI_BC_1_MiFish.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="a1dc087677e916308cd2c515489d39d8"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_V10_CKI_BC_1">
+		<EXPERIMENT_REF refname="16S_V10_CKI_BC_1"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_BC_1_16S.1_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="9c7efe514343d571ca672d81208a13e6"/>
+				<FILE filename="V10_CKI_BC_1_16S.2_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="fb05d1a458e49eb16abe4856e4c34473"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_12S_V10_CKI_BC_2" center_name="Minderoo Foundation">
+		<EXPERIMENT_REF refname="12S_V10_CKI_BC_2"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_BC_2_MiFish.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="cb4fbb7ef25a89cb3b458d0719254338"/>
+				<FILE filename="V10_CKI_BC_2_MiFish.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="61c0713d560df09278856ba8bd125c10"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_V10_CKI_BC_2">
+		<EXPERIMENT_REF refname="16S_V10_CKI_BC_2"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_BC_2_16S.1_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="44d07743587a10b044e9a05b81f89e44"/>
+				<FILE filename="V10_CKI_BC_2_16S.2_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="9ffebc235f6457b9b3f87926ce09c7b1"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_12S_V10_CKI_BC_3" center_name="Minderoo Foundation">
+		<EXPERIMENT_REF refname="12S_V10_CKI_BC_3"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_BC_3_MiFish.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="47bb37df646844676cfd995987ee188e"/>
+				<FILE filename="V10_CKI_BC_3_MiFish.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="54830e6056f254f861666a0c4d01d6bc"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_V10_CKI_BC_3">
+		<EXPERIMENT_REF refname="16S_V10_CKI_BC_3"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_BC_3_16S.1_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="d37536096b85a17acd8cb3550354455c"/>
+				<FILE filename="V10_CKI_BC_3_16S.2_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="0c35cc1a5b0dc61e638aa65f0e4d3c02"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_12S_V10_CKI_BC_4" center_name="Minderoo Foundation">
+		<EXPERIMENT_REF refname="12S_V10_CKI_BC_4"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_BC_4_MiFish.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="717d9c82d6875a834ad211acc038f6f9"/>
+				<FILE filename="V10_CKI_BC_4_MiFish.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="fcd9c99bf4d95142459a7e07c04490ff"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_V10_CKI_BC_4">
+		<EXPERIMENT_REF refname="16S_V10_CKI_BC_4"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_BC_4_16S.1_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="dd2c1e0b9b67decad53fb7b85fd17469"/>
+				<FILE filename="V10_CKI_BC_4_16S.2_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="545ca0f55b90735fa66d1151be96adc4"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_12S_V10_CKI_BC_5" center_name="Minderoo Foundation">
+		<EXPERIMENT_REF refname="12S_V10_CKI_BC_5"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_BC_5_MiFish.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="5f7ddf60eef4811c00f48089b61e4023"/>
+				<FILE filename="V10_CKI_BC_5_MiFish.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="e99932f756b4152451c82b9d7122a192"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_V10_CKI_BC_5">
+		<EXPERIMENT_REF refname="16S_V10_CKI_BC_5"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_BC_5_16S.1_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="bdc34198c9b870cda008659b8fceee12"/>
+				<FILE filename="V10_CKI_BC_5_16S.2_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="24e3619463c5fb09d142a4224175d4b4"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_12S_V10_CKI_EB_1" center_name="Minderoo Foundation">
+		<EXPERIMENT_REF refname="12S_V10_CKI_EB_1"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_EB_1_MiFish.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="401d52ba596b5ba6e8f3af35f8ff3c28"/>
+				<FILE filename="V10_CKI_EB_1_MiFish.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="d40581cd0f01fcba174f977615cb4cee"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_V10_CKI_EB_1">
+		<EXPERIMENT_REF refname="16S_V10_CKI_EB_1"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_EB_1_16S.1_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="793557bc5ba41a227ba9f7340725c758"/>
+				<FILE filename="V10_CKI_EB_1_16S.2_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="3ca9d0f2f8e3409c25c748315c68e3f9"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_12S_V10_CKI_EB_2" center_name="Minderoo Foundation">
+		<EXPERIMENT_REF refname="12S_V10_CKI_EB_2"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_EB_2_MiFish.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="46fa6898244b7c4cdf39b473a2aad73f"/>
+				<FILE filename="V10_CKI_EB_2_MiFish.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="1bcb24bf794bbe0615831d6d2744c4d4"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_V10_CKI_EB_2">
+		<EXPERIMENT_REF refname="16S_V10_CKI_EB_2"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_EB_2_16S.1_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="1d6cd1a234bc910afc0d55d1b71a6642"/>
+				<FILE filename="V10_CKI_EB_2_16S.2_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="b662d3dc063548818c77b34ccc39b99c"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_12S_V10_CKI_EB_3" center_name="Minderoo Foundation">
+		<EXPERIMENT_REF refname="12S_V10_CKI_EB_3"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_EB_3_MiFish.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="1f1792e0b98aabe29604ba1bd302fa5c"/>
+				<FILE filename="V10_CKI_EB_3_MiFish.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="a1f9261f247000741128386fb8fbc415"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_V10_CKI_EB_3">
+		<EXPERIMENT_REF refname="16S_V10_CKI_EB_3"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_EB_3_16S.1_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="2697420682caa23314a6ccec519163de"/>
+				<FILE filename="V10_CKI_EB_3_16S.2_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="714180713cfb7ccd374c61f992156c66"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_12S_V10_CKI_EB_4" center_name="Minderoo Foundation">
+		<EXPERIMENT_REF refname="12S_V10_CKI_EB_4"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_EB_4_MiFish.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="0ef0c6d550e54d92dac9b44b68807dfe"/>
+				<FILE filename="V10_CKI_EB_4_MiFish.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="c02d8245c71b50e5a75e65b35206eeec"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_V10_CKI_EB_4">
+		<EXPERIMENT_REF refname="16S_V10_CKI_EB_4"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_EB_4_16S.1_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="c5d98c095eb6f88443cc5bb0225748f9"/>
+				<FILE filename="V10_CKI_EB_4_16S.2_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="cca2575243a9947200d3b530c7556d52"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_12S_V10_CKI_N_1_1" center_name="Minderoo Foundation">
+		<EXPERIMENT_REF refname="12S_V10_CKI_N_1_1"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_N_1_1_MiFish.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="fc10f4e84c8428393df838eb4628fe8f"/>
+				<FILE filename="V10_CKI_N_1_1_MiFish.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="1c679575a284b0477dcc8723e2415e44"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_V10_CKI_N_1_1">
+		<EXPERIMENT_REF refname="16S_V10_CKI_N_1_1"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_N_1_1_16S.1_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="ddc4c74f425730466d3f3121c9a2d79f"/>
+				<FILE filename="V10_CKI_N_1_1_16S.2_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="733c24dd1fac280dfd0bf77ca27769af"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_12S_V10_CKI_N_1_2" center_name="Minderoo Foundation">
+		<EXPERIMENT_REF refname="12S_V10_CKI_N_1_2"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_N_1_2_MiFish.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="b4b8aadab151fa1a2086ee0b99a68944"/>
+				<FILE filename="V10_CKI_N_1_2_MiFish.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="39b4aa132e626a33aaf6ead61c1ea07b"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_V10_CKI_N_1_2">
+		<EXPERIMENT_REF refname="16S_V10_CKI_N_1_2"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_N_1_2_16S.1_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="1b9ff95853bccd1d7fe1d7eeb7183b59"/>
+				<FILE filename="V10_CKI_N_1_2_16S.2_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="7dbf8caa24d0c2d1f9dcb4c4f767f5f7"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_12S_V10_CKI_N_1_3" center_name="Minderoo Foundation">
+		<EXPERIMENT_REF refname="12S_V10_CKI_N_1_3"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_N_1_3_MiFish.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="716680679a8a30926ee2bfd90278f2f1"/>
+				<FILE filename="V10_CKI_N_1_3_MiFish.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="f4b4880edbb8c1aecf8b012ef06a3056"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_V10_CKI_N_1_3">
+		<EXPERIMENT_REF refname="16S_V10_CKI_N_1_3"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_N_1_3_16S.1_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="ec55d4fa67f634ca1576dea0731a2f9e"/>
+				<FILE filename="V10_CKI_N_1_3_16S.2_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="03444956d084d7338c28d839590a86e4"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_12S_V10_CKI_N_1_4" center_name="Minderoo Foundation">
+		<EXPERIMENT_REF refname="12S_V10_CKI_N_1_4"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_N_1_4_MiFish.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="772d66ea53e99dbdde0a4c45c68435c4"/>
+				<FILE filename="V10_CKI_N_1_4_MiFish.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="cc7a87ae4f224fdf56513e946f21b83e"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_V10_CKI_N_1_4">
+		<EXPERIMENT_REF refname="16S_V10_CKI_N_1_4"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_N_1_4_16S.1_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="6897d65c4da17ef5313bb2ce17250066"/>
+				<FILE filename="V10_CKI_N_1_4_16S.2_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="651f0208176af1383e1fc86442b37c8b"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_12S_V10_CKI_N_1_5" center_name="Minderoo Foundation">
+		<EXPERIMENT_REF refname="12S_V10_CKI_N_1_5"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_N_1_5_MiFish.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="2fae5bbb34a23cc1209c6f85ebd2b5a9"/>
+				<FILE filename="V10_CKI_N_1_5_MiFish.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="9c49a52d554b8f2874397dc008e2f12d"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_V10_CKI_N_1_5">
+		<EXPERIMENT_REF refname="16S_V10_CKI_N_1_5"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_N_1_5_16S.1_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="714782c907c7b7cbfeb2103cb8400516"/>
+				<FILE filename="V10_CKI_N_1_5_16S.2_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="303c6294a6252610f830ef099c6bd6b1"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_12S_V10_CKI_N_1_DI" center_name="Minderoo Foundation">
+		<EXPERIMENT_REF refname="12S_V10_CKI_N_1_DI"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_N_1_DI_MiFish.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="95dc59c356ffb1c848989babbe623857"/>
+				<FILE filename="V10_CKI_N_1_DI_MiFish.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="5d4f84292722689fe652a6a78196c9ab"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_V10_CKI_N_1_DI">
+		<EXPERIMENT_REF refname="16S_V10_CKI_N_1_DI"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_N_1_DI_16S.1_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="703617de446bb5eaddc4bf3853400b9b"/>
+				<FILE filename="V10_CKI_N_1_DI_16S.2_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="6f856fa3da5e8b554d5958addbf328e0"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_12S_V10_CKI_N_1_WC" center_name="Minderoo Foundation">
+		<EXPERIMENT_REF refname="12S_V10_CKI_N_1_WC"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_N_1_WC_MiFish.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="a2300555423053f46ed7d4a7b7c9585c"/>
+				<FILE filename="V10_CKI_N_1_WC_MiFish.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="386f4b14e76c4453ff09af882a2f849d"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_V10_CKI_N_1_WC">
+		<EXPERIMENT_REF refname="16S_V10_CKI_N_1_WC"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_N_1_WC_16S.1_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="135b7d713159079fac43d11a7448575e"/>
+				<FILE filename="V10_CKI_N_1_WC_16S.2_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="cbacad7a925b604ceef02c87730446a2"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_12S_V10_CKI_N_10_1" center_name="Minderoo Foundation">
+		<EXPERIMENT_REF refname="12S_V10_CKI_N_10_1"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_N_10_1_MiFish.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="bfbc69a181497db0e29f48e20f7b30f3"/>
+				<FILE filename="V10_CKI_N_10_1_MiFish.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="7b4f2f1e2b4bde07fca5cf9febe03b14"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_V10_CKI_N_10_1">
+		<EXPERIMENT_REF refname="16S_V10_CKI_N_10_1"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_N_10_1_16S.1_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="7aa2216de633cdf326876c4228ed17d9"/>
+				<FILE filename="V10_CKI_N_10_1_16S.2_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="9646d1c521ca570d051f4e7185a8b87f"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_12S_V10_CKI_N_10_2" center_name="Minderoo Foundation">
+		<EXPERIMENT_REF refname="12S_V10_CKI_N_10_2"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_N_10_2_MiFish.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="9514c93ce1de5514a4868e2bc2f20eb9"/>
+				<FILE filename="V10_CKI_N_10_2_MiFish.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="157afa703c148be13d8bc401b9d27a34"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_V10_CKI_N_10_2">
+		<EXPERIMENT_REF refname="16S_V10_CKI_N_10_2"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_N_10_2_16S.1_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="d6c0a244e57e36021949d8f2434e53d8"/>
+				<FILE filename="V10_CKI_N_10_2_16S.2_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="7f13b71bed3c6235209cb7f7dcb4f643"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_12S_V10_CKI_N_10_3" center_name="Minderoo Foundation">
+		<EXPERIMENT_REF refname="12S_V10_CKI_N_10_3"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_N_10_3_MiFish.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="99a279a1a0dccadbaf8497b7d7536bcf"/>
+				<FILE filename="V10_CKI_N_10_3_MiFish.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="84cb81e659ab598a17c05a1dcc150962"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_V10_CKI_N_10_3">
+		<EXPERIMENT_REF refname="16S_V10_CKI_N_10_3"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_N_10_3_16S.1_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="107755be8c5857ffefc069eeebb5ded1"/>
+				<FILE filename="V10_CKI_N_10_3_16S.2_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="10c2ad8874eb2ee52e1ac3a4550a7d98"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_12S_V10_CKI_N_10_4" center_name="Minderoo Foundation">
+		<EXPERIMENT_REF refname="12S_V10_CKI_N_10_4"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_N_10_4_MiFish.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="99c3992edb334a90e552ff5aa69d07c3"/>
+				<FILE filename="V10_CKI_N_10_4_MiFish.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="70f9c49401f63c7eb27eee2785850162"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_V10_CKI_N_10_4">
+		<EXPERIMENT_REF refname="16S_V10_CKI_N_10_4"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_N_10_4_16S.1_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="ad33fd1363e387164a2aae18ced4d42d"/>
+				<FILE filename="V10_CKI_N_10_4_16S.2_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="05be81ac92e52d8e1fcff1f70bd6763e"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_12S_V10_CKI_N_10_5" center_name="Minderoo Foundation">
+		<EXPERIMENT_REF refname="12S_V10_CKI_N_10_5"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_N_10_5_MiFish.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="a0fbaaf0546195131fc3cff24577c8e5"/>
+				<FILE filename="V10_CKI_N_10_5_MiFish.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="fab5ee238d54dd672dd8ce1b4a48110b"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_V10_CKI_N_10_5">
+		<EXPERIMENT_REF refname="16S_V10_CKI_N_10_5"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_N_10_5_16S.1_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="728dc8b68023cb5faa51a0110a999417"/>
+				<FILE filename="V10_CKI_N_10_5_16S.2_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="3d7f9b3441987d7796b78c628a9e5065"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_12S_V10_CKI_N_10_DI" center_name="Minderoo Foundation">
+		<EXPERIMENT_REF refname="12S_V10_CKI_N_10_DI"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_N_10_DI_MiFish.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="f822a4594490846c14ff95d0413d5739"/>
+				<FILE filename="V10_CKI_N_10_DI_MiFish.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="c4d89aa8c5484ab379a6705bbe32242a"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_V10_CKI_N_10_DI">
+		<EXPERIMENT_REF refname="16S_V10_CKI_N_10_DI"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_N_10_DI_16S.1_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="617cd0e9ede17a72acaee3bdea2bd8b4"/>
+				<FILE filename="V10_CKI_N_10_DI_16S.2_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="bb2b438d58e0eb98d73bc63d3586cb9f"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_12S_V10_CKI_N_10_WC" center_name="Minderoo Foundation">
+		<EXPERIMENT_REF refname="12S_V10_CKI_N_10_WC"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_N_10_WC_MiFish.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="61566c9168ee45931568c962dcbc9455"/>
+				<FILE filename="V10_CKI_N_10_WC_MiFish.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="c4166e78559dbb95f30ccb263280ae1a"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_V10_CKI_N_10_WC">
+		<EXPERIMENT_REF refname="16S_V10_CKI_N_10_WC"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_N_10_WC_16S.1_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="1f3f4ddc6ef7908699ffdd68bf42b556"/>
+				<FILE filename="V10_CKI_N_10_WC_16S.2_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="7e74f21475bdb10d66a20fa66996f95f"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_12S_V10_CKI_N_11_1" center_name="Minderoo Foundation">
+		<EXPERIMENT_REF refname="12S_V10_CKI_N_11_1"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_N_11_1_MiFish.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="d6f178828441d9133490610ce7f155af"/>
+				<FILE filename="V10_CKI_N_11_1_MiFish.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="c93fd07ab6c9498eb68055524785497f"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_V10_CKI_N_11_1">
+		<EXPERIMENT_REF refname="16S_V10_CKI_N_11_1"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_N_11_1_16S.1_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="8282ef0f8c2a4786d3bdf440eb3aa650"/>
+				<FILE filename="V10_CKI_N_11_1_16S.2_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="6d523c2b81cd72118e2d462ed0292387"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_12S_V10_CKI_N_11_2" center_name="Minderoo Foundation">
+		<EXPERIMENT_REF refname="12S_V10_CKI_N_11_2"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_N_11_2_MiFish.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="7b5222e206f08d762393cf1965ee4e7d"/>
+				<FILE filename="V10_CKI_N_11_2_MiFish.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="314196ca0d3cd070c82160bbc8074b5e"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_V10_CKI_N_11_2">
+		<EXPERIMENT_REF refname="16S_V10_CKI_N_11_2"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_N_11_2_16S.1_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="0896d823210153bbb5fc815598107786"/>
+				<FILE filename="V10_CKI_N_11_2_16S.2_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="89cca1436c490dd7d0eaf216926c08dd"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_12S_V10_CKI_N_11_3" center_name="Minderoo Foundation">
+		<EXPERIMENT_REF refname="12S_V10_CKI_N_11_3"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_N_11_3_MiFish.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="969836f6d5a8d603d7d4ff00b2fd65c8"/>
+				<FILE filename="V10_CKI_N_11_3_MiFish.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="beb9e00f60bc72df36fd9931c7b33c3a"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_V10_CKI_N_11_3">
+		<EXPERIMENT_REF refname="16S_V10_CKI_N_11_3"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_N_11_3_16S.1_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="b524b17df71c90575295a2ef806c00a8"/>
+				<FILE filename="V10_CKI_N_11_3_16S.2_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="fef535c34ef4c8fb04872f5ee18f18c3"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_12S_V10_CKI_N_11_4" center_name="Minderoo Foundation">
+		<EXPERIMENT_REF refname="12S_V10_CKI_N_11_4"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_N_11_4_MiFish.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="0ead2dd2512c12302ecbce72c5d31c95"/>
+				<FILE filename="V10_CKI_N_11_4_MiFish.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="3df9b11680b861e72099a29bdd884f3f"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_V10_CKI_N_11_4">
+		<EXPERIMENT_REF refname="16S_V10_CKI_N_11_4"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_N_11_4_16S.1_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="44348c60e9f4965b6dad0a99aa19302c"/>
+				<FILE filename="V10_CKI_N_11_4_16S.2_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="a241592ef23c767d85b1ad79a6f6567b"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_12S_V10_CKI_N_11_5" center_name="Minderoo Foundation">
+		<EXPERIMENT_REF refname="12S_V10_CKI_N_11_5"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_N_11_5_MiFish.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="ca7bfc7342682cf1a03f7b8fe227bb91"/>
+				<FILE filename="V10_CKI_N_11_5_MiFish.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="f696afeff1976e04bbc1b5aa19126c26"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_V10_CKI_N_11_5">
+		<EXPERIMENT_REF refname="16S_V10_CKI_N_11_5"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_N_11_5_16S.1_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="36197289317dd3535885a255d228fb8f"/>
+				<FILE filename="V10_CKI_N_11_5_16S.2_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="1c7307e21ba45366e8189ea2ce34bda1"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_12S_V10_CKI_N_11_DI" center_name="Minderoo Foundation">
+		<EXPERIMENT_REF refname="12S_V10_CKI_N_11_DI"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_N_11_DI_MiFish.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="e42351c19a8e7e53863337e23b1a399f"/>
+				<FILE filename="V10_CKI_N_11_DI_MiFish.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="e28ab8cba430b7051225e2cbf50547a9"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_V10_CKI_N_11_DI">
+		<EXPERIMENT_REF refname="16S_V10_CKI_N_11_DI"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_N_11_DI_16S.1_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="5f791ac8baaf0a95271d43f02cf824f2"/>
+				<FILE filename="V10_CKI_N_11_DI_16S.2_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="9418a10f5b7e90944e0d94a484464880"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_12S_V10_CKI_N_11_WC" center_name="Minderoo Foundation">
+		<EXPERIMENT_REF refname="12S_V10_CKI_N_11_WC"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_N_11_WC_MiFish.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="5cf57943906d224beb6ec433e78d400b"/>
+				<FILE filename="V10_CKI_N_11_WC_MiFish.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="2106569453917f36641b8701f0bcfd60"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_V10_CKI_N_11_WC">
+		<EXPERIMENT_REF refname="16S_V10_CKI_N_11_WC"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_N_11_WC_16S.1_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="8be6265350fd71b1da859f3633f5cb97"/>
+				<FILE filename="V10_CKI_N_11_WC_16S.2_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="ee122e50a07df6b75aecec051012bb32"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_12S_V10_CKI_N_12_1" center_name="Minderoo Foundation">
+		<EXPERIMENT_REF refname="12S_V10_CKI_N_12_1"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_N_12_1_MiFish.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="ede8d4b961eea1227a5bd22bb6f6ab4c"/>
+				<FILE filename="V10_CKI_N_12_1_MiFish.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="ae55df33e254b214e3549fe3b26bc0aa"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_V10_CKI_N_12_1">
+		<EXPERIMENT_REF refname="16S_V10_CKI_N_12_1"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_N_12_1_16S.1_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="1a90ebd98e93467af6a38b8b04b2940e"/>
+				<FILE filename="V10_CKI_N_12_1_16S.2_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="a5a403a80c93ee7b39a8698f8589de68"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_12S_V10_CKI_N_12_2" center_name="Minderoo Foundation">
+		<EXPERIMENT_REF refname="12S_V10_CKI_N_12_2"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_N_12_2_MiFish.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="a5b0d3317a2eb2694b838411cb1a3819"/>
+				<FILE filename="V10_CKI_N_12_2_MiFish.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="1127a50e2dad45ca9ed3fada97a3828a"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_V10_CKI_N_12_2">
+		<EXPERIMENT_REF refname="16S_V10_CKI_N_12_2"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_N_12_2_16S.1_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="c921fb4dcde31869cfb52b251714898e"/>
+				<FILE filename="V10_CKI_N_12_2_16S.2_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="1672061403cbedc6b3ba85ce417e73c0"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_12S_V10_CKI_N_12_3" center_name="Minderoo Foundation">
+		<EXPERIMENT_REF refname="12S_V10_CKI_N_12_3"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_N_12_3_MiFish.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="0e1243349cd16e6fcfde68c140c5f16f"/>
+				<FILE filename="V10_CKI_N_12_3_MiFish.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="feb700bc50cded46431457f0713eb8a2"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_V10_CKI_N_12_3">
+		<EXPERIMENT_REF refname="16S_V10_CKI_N_12_3"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_N_12_3_16S.1_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="de5ca2edf53384257367b6c641e0a949"/>
+				<FILE filename="V10_CKI_N_12_3_16S.2_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="f026a0ea66bf9af55b69bdb406464f1e"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_12S_V10_CKI_N_12_4" center_name="Minderoo Foundation">
+		<EXPERIMENT_REF refname="12S_V10_CKI_N_12_4"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_N_12_4_MiFish.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="ecef704f2895295fd26c34b54f56e275"/>
+				<FILE filename="V10_CKI_N_12_4_MiFish.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="412d03daf4edd5cbda33de569c699f87"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_V10_CKI_N_12_4">
+		<EXPERIMENT_REF refname="16S_V10_CKI_N_12_4"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_N_12_4_16S.1_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="4c1cfe91f9027ffd5faef3e4257db00f"/>
+				<FILE filename="V10_CKI_N_12_4_16S.2_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="d0e930152831a39a74564a462c6cb773"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_12S_V10_CKI_N_12_5" center_name="Minderoo Foundation">
+		<EXPERIMENT_REF refname="12S_V10_CKI_N_12_5"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_N_12_5_MiFish.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="022fea673c15ea1fd5ba22849ad78138"/>
+				<FILE filename="V10_CKI_N_12_5_MiFish.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="eb72576c46fd20e5c8cc885cdb2bc5fa"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_V10_CKI_N_12_5">
+		<EXPERIMENT_REF refname="16S_V10_CKI_N_12_5"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_N_12_5_16S.1_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="44364e3acbdfdf43a86cffe8abe2a4ab"/>
+				<FILE filename="V10_CKI_N_12_5_16S.2_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="40f8afbdace2298c7ecb6ac8ba34f56a"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_12S_V10_CKI_N_12_DI" center_name="Minderoo Foundation">
+		<EXPERIMENT_REF refname="12S_V10_CKI_N_12_DI"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_N_12_DI_MiFish.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="a4e90892438dd1b12e224bbc398b36c0"/>
+				<FILE filename="V10_CKI_N_12_DI_MiFish.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="7d220edcb44dbb0d78452221687a826e"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_V10_CKI_N_12_DI">
+		<EXPERIMENT_REF refname="16S_V10_CKI_N_12_DI"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_N_12_DI_16S.1_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="d9e7e19df02295fc3311cc61357f18d4"/>
+				<FILE filename="V10_CKI_N_12_DI_16S.2_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="8fc4c1a9f19015f41096f0b25cf922f5"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_12S_V10_CKI_N_12_WC" center_name="Minderoo Foundation">
+		<EXPERIMENT_REF refname="12S_V10_CKI_N_12_WC"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_N_12_WC_MiFish.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="1b698c336f84250c201e39d3acce0320"/>
+				<FILE filename="V10_CKI_N_12_WC_MiFish.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="42fc4d8ec74aa314642e5467f370b8e1"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_V10_CKI_N_12_WC">
+		<EXPERIMENT_REF refname="16S_V10_CKI_N_12_WC"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_N_12_WC_16S.1_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="059bc789519d9855166c2f55a4a6bcf8"/>
+				<FILE filename="V10_CKI_N_12_WC_16S.2_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="ae1ef7d1fac460e6000f0c36198c0702"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_12S_V10_CKI_N_13_1" center_name="Minderoo Foundation">
+		<EXPERIMENT_REF refname="12S_V10_CKI_N_13_1"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_N_13_1_MiFish.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="60d650e6888621d43a82245b64e997bb"/>
+				<FILE filename="V10_CKI_N_13_1_MiFish.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="434802f31f5f16d81eb22490c7a7dfa0"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_V10_CKI_N_13_1">
+		<EXPERIMENT_REF refname="16S_V10_CKI_N_13_1"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_N_13_1_16S.1_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="232791ee1522a3af799dfa14bf5b34bd"/>
+				<FILE filename="V10_CKI_N_13_1_16S.2_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="6693ab2d24d7637785d8262215405d62"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_12S_V10_CKI_N_13_2" center_name="Minderoo Foundation">
+		<EXPERIMENT_REF refname="12S_V10_CKI_N_13_2"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_N_13_2_MiFish.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="c7d782e779701af2021aab5ea2448e3e"/>
+				<FILE filename="V10_CKI_N_13_2_MiFish.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="4907947798b26403b8a70935050e027f"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_V10_CKI_N_13_2">
+		<EXPERIMENT_REF refname="16S_V10_CKI_N_13_2"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_N_13_2_16S.1_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="ca187f4c066adc52f3fe25a6a05fa10c"/>
+				<FILE filename="V10_CKI_N_13_2_16S.2_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="eaf292bd64e5d310c42e839081bb92d6"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_12S_V10_CKI_N_13_3" center_name="Minderoo Foundation">
+		<EXPERIMENT_REF refname="12S_V10_CKI_N_13_3"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_N_13_3_MiFish.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="9320dc9a8c76acebddd134713f37c24a"/>
+				<FILE filename="V10_CKI_N_13_3_MiFish.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="689566e00526c2c0c2ca8b8637fcddfa"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_V10_CKI_N_13_3">
+		<EXPERIMENT_REF refname="16S_V10_CKI_N_13_3"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_N_13_3_16S.1_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="ee3dd1e9e85ec3c9ceb16a37611f7539"/>
+				<FILE filename="V10_CKI_N_13_3_16S.2_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="835bf42ecc5746dc13ccdd27d45e1979"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_12S_V10_CKI_N_13_4" center_name="Minderoo Foundation">
+		<EXPERIMENT_REF refname="12S_V10_CKI_N_13_4"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_N_13_4_MiFish.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="263902197ee0562fa7071b0aaf40acd6"/>
+				<FILE filename="V10_CKI_N_13_4_MiFish.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="0474093d06fe0c1eb701f80407ca2668"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_V10_CKI_N_13_4">
+		<EXPERIMENT_REF refname="16S_V10_CKI_N_13_4"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_N_13_4_16S.1_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="0826c93c173b324126bbd766326105d7"/>
+				<FILE filename="V10_CKI_N_13_4_16S.2_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="f6c268ad2592371b1e884b17067df1f7"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_12S_V10_CKI_N_13_5" center_name="Minderoo Foundation">
+		<EXPERIMENT_REF refname="12S_V10_CKI_N_13_5"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_N_13_5_MiFish.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="39e7b3442f8ed9924cd76b5dec3cd370"/>
+				<FILE filename="V10_CKI_N_13_5_MiFish.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="de90077f5eb523dd137bf814d4d14f68"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_V10_CKI_N_13_5">
+		<EXPERIMENT_REF refname="16S_V10_CKI_N_13_5"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_N_13_5_16S.1_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="94fcc3598083b7c5c8fc8523fff72b6f"/>
+				<FILE filename="V10_CKI_N_13_5_16S.2_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="54ab87f6c767ecafc8c70c6098668456"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_12S_V10_CKI_N_13_DI" center_name="Minderoo Foundation">
+		<EXPERIMENT_REF refname="12S_V10_CKI_N_13_DI"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_N_13_DI_MiFish.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="10df73a23ff471b5c6c9524f954cbd97"/>
+				<FILE filename="V10_CKI_N_13_DI_MiFish.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="8852930dcbf1fe6122451ec366fa8f5f"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_V10_CKI_N_13_DI">
+		<EXPERIMENT_REF refname="16S_V10_CKI_N_13_DI"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_N_13_DI_16S.1_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="ac511095902797c55c1b8ca314c35c13"/>
+				<FILE filename="V10_CKI_N_13_DI_16S.2_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="fd608b912ec264d2df183bf3c661a472"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_12S_V10_CKI_N_13_WC" center_name="Minderoo Foundation">
+		<EXPERIMENT_REF refname="12S_V10_CKI_N_13_WC"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_N_13_WC_MiFish.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="d7f281fb19f8017c798e72380c1f0cf9"/>
+				<FILE filename="V10_CKI_N_13_WC_MiFish.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="8586a964c099c49452cd90eb9bf34fdb"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_V10_CKI_N_13_WC">
+		<EXPERIMENT_REF refname="16S_V10_CKI_N_13_WC"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_N_13_WC_16S.1_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="4b95b32395cc8d4967c3609ac870f257"/>
+				<FILE filename="V10_CKI_N_13_WC_16S.2_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="1aa64562785f71445fd726f4fe4521a4"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_12S_V10_CKI_N_14_1" center_name="Minderoo Foundation">
+		<EXPERIMENT_REF refname="12S_V10_CKI_N_14_1"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_N_14_1_MiFish.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="1034b918a2a640a45196b3beece1e402"/>
+				<FILE filename="V10_CKI_N_14_1_MiFish.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="b00053e7e3e416013d1e4a088720f1ae"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_V10_CKI_N_14_1">
+		<EXPERIMENT_REF refname="16S_V10_CKI_N_14_1"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_N_14_1_16S.1_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="15b6732362f1e17d7e0bedf16f757994"/>
+				<FILE filename="V10_CKI_N_14_1_16S.2_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="8beb4e5eeb6363adb6314c9ee3ca45ee"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_12S_V10_CKI_N_14_2" center_name="Minderoo Foundation">
+		<EXPERIMENT_REF refname="12S_V10_CKI_N_14_2"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_N_14_2_MiFish.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="034593516c33d129e7408d3f90316243"/>
+				<FILE filename="V10_CKI_N_14_2_MiFish.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="d9235f7f5a6556258eedf635148121fb"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_V10_CKI_N_14_2">
+		<EXPERIMENT_REF refname="16S_V10_CKI_N_14_2"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_N_14_2_16S.1_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="46270d065b86952ac35e003b2f2376da"/>
+				<FILE filename="V10_CKI_N_14_2_16S.2_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="1f8184bdfbe72605b4e82bd166b7f697"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_12S_V10_CKI_N_14_3" center_name="Minderoo Foundation">
+		<EXPERIMENT_REF refname="12S_V10_CKI_N_14_3"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_N_14_3_MiFish.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="de6834771591a0ab89c9dfe097c6fb66"/>
+				<FILE filename="V10_CKI_N_14_3_MiFish.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="813746b9534d598e272b4975c657e6d1"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_V10_CKI_N_14_3">
+		<EXPERIMENT_REF refname="16S_V10_CKI_N_14_3"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_N_14_3_16S.1_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="6990de48531eb46a4072af5f2233782c"/>
+				<FILE filename="V10_CKI_N_14_3_16S.2_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="540e4bdb2dd8459126fab1613170c5dc"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_12S_V10_CKI_N_14_4" center_name="Minderoo Foundation">
+		<EXPERIMENT_REF refname="12S_V10_CKI_N_14_4"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_N_14_4_MiFish.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="71430dc2bc56c71e73eb6ac1beec0f5e"/>
+				<FILE filename="V10_CKI_N_14_4_MiFish.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="63f3b36098cb4a972d0eac6ea84e1383"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_V10_CKI_N_14_4">
+		<EXPERIMENT_REF refname="16S_V10_CKI_N_14_4"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_N_14_4_16S.1_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="7f25bb00f973b6c648a91945750c69b0"/>
+				<FILE filename="V10_CKI_N_14_4_16S.2_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="ad8d0ca7b7d4d9d985f73cd47a0b6438"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_12S_V10_CKI_N_14_5" center_name="Minderoo Foundation">
+		<EXPERIMENT_REF refname="12S_V10_CKI_N_14_5"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_N_14_5_MiFish.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="37511f3ad25dd86991659f91f9018740"/>
+				<FILE filename="V10_CKI_N_14_5_MiFish.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="9a8dcbd6bdf073c97b341e22f9030f27"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_V10_CKI_N_14_5">
+		<EXPERIMENT_REF refname="16S_V10_CKI_N_14_5"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_N_14_5_16S.1_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="1a9cc989420e1c90f585c56036ebadd5"/>
+				<FILE filename="V10_CKI_N_14_5_16S.2_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="bc322b2ff8f67940d1a66b85ac7502cc"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_12S_V10_CKI_N_14_DI" center_name="Minderoo Foundation">
+		<EXPERIMENT_REF refname="12S_V10_CKI_N_14_DI"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_N_14_DI_MiFish.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="0a80358e78923a9cbf221b7a2e3b58ab"/>
+				<FILE filename="V10_CKI_N_14_DI_MiFish.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="510cd1c76e5a5fa515fa3a24feedffe8"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_V10_CKI_N_14_DI">
+		<EXPERIMENT_REF refname="16S_V10_CKI_N_14_DI"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_N_14_DI_16S.1_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="3f32a62ba0eb4cb3b2be50a5ff884f26"/>
+				<FILE filename="V10_CKI_N_14_DI_16S.2_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="4e7135c729d8b21f2215b41d90472d25"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_12S_V10_CKI_N_14_WC" center_name="Minderoo Foundation">
+		<EXPERIMENT_REF refname="12S_V10_CKI_N_14_WC"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_N_14_WC_MiFish.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="68c972053060c6e8e7d4fdad8fd44a40"/>
+				<FILE filename="V10_CKI_N_14_WC_MiFish.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="5cee439078f4e507c573701d100183c1"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_V10_CKI_N_14_WC">
+		<EXPERIMENT_REF refname="16S_V10_CKI_N_14_WC"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_N_14_WC_16S.1_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="62997025b5790510a5079a88229b0664"/>
+				<FILE filename="V10_CKI_N_14_WC_16S.2_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="aa4614bb732ce5fc6456520aa3f7e4ae"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_12S_V10_CKI_N_2_1" center_name="Minderoo Foundation">
+		<EXPERIMENT_REF refname="12S_V10_CKI_N_2_1"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_N_2_1_MiFish.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="8544cd1e798c234ba9e4744705966bc5"/>
+				<FILE filename="V10_CKI_N_2_1_MiFish.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="b925f4355756215e27dde6619d19dc80"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_V10_CKI_N_2_1">
+		<EXPERIMENT_REF refname="16S_V10_CKI_N_2_1"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_N_2_1_16S.1_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="ab5a57c44d69fb67dd0a233b59c2b1ed"/>
+				<FILE filename="V10_CKI_N_2_1_16S.2_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="eb68a51020ab04831bd6b469c2159de3"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_12S_V10_CKI_N_2_2" center_name="Minderoo Foundation">
+		<EXPERIMENT_REF refname="12S_V10_CKI_N_2_2"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_N_2_2_MiFish.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="f6d6647082437e0a7c50af1af52c5868"/>
+				<FILE filename="V10_CKI_N_2_2_MiFish.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="28d26f02226b009a2fd6a7497f3f5cd9"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_V10_CKI_N_2_2">
+		<EXPERIMENT_REF refname="16S_V10_CKI_N_2_2"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_N_2_2_16S.1_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="974f13c432202fe97b14824a72f0bae9"/>
+				<FILE filename="V10_CKI_N_2_2_16S.2_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="ec9b3f322bd71d46596ba61a34202265"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_12S_V10_CKI_N_2_3" center_name="Minderoo Foundation">
+		<EXPERIMENT_REF refname="12S_V10_CKI_N_2_3"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_N_2_3_MiFish.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="7c02bfd8092574c3bfdd33c7e3c944d3"/>
+				<FILE filename="V10_CKI_N_2_3_MiFish.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="2d00125589ac4888c601ff438231027c"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_V10_CKI_N_2_3">
+		<EXPERIMENT_REF refname="16S_V10_CKI_N_2_3"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_N_2_3_16S.1_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="e155d79e395ed088a52c544704e9cd61"/>
+				<FILE filename="V10_CKI_N_2_3_16S.2_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="60256722583f7f1c967483158ff033fb"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_12S_V10_CKI_N_2_4" center_name="Minderoo Foundation">
+		<EXPERIMENT_REF refname="12S_V10_CKI_N_2_4"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_N_2_4_MiFish.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="978edc311940d48ab6c202939101b74e"/>
+				<FILE filename="V10_CKI_N_2_4_MiFish.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="7755e8e5c2d7e6fccc2a7256a43a76f4"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_V10_CKI_N_2_4">
+		<EXPERIMENT_REF refname="16S_V10_CKI_N_2_4"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_N_2_4_16S.1_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="89f01e7ee6f26396e3dc39506f778da0"/>
+				<FILE filename="V10_CKI_N_2_4_16S.2_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="3da7e29c98983ce6202d9039e2f00c8e"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_12S_V10_CKI_N_2_5" center_name="Minderoo Foundation">
+		<EXPERIMENT_REF refname="12S_V10_CKI_N_2_5"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_N_2_5_MiFish.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="78c584a0a874aed983fd3a7fa71e4e8e"/>
+				<FILE filename="V10_CKI_N_2_5_MiFish.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="2c1a6d0ae3d2e7b10ea2a1885c7bbd2e"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_V10_CKI_N_2_5">
+		<EXPERIMENT_REF refname="16S_V10_CKI_N_2_5"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_N_2_5_16S.1_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="104c2cd39787b95699f4ba85c72a4c1e"/>
+				<FILE filename="V10_CKI_N_2_5_16S.2_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="096d1174abe0089ac0ea6379a74cadb1"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_12S_V10_CKI_N_2_DI" center_name="Minderoo Foundation">
+		<EXPERIMENT_REF refname="12S_V10_CKI_N_2_DI"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_N_2_DI_MiFish.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="fa0031d8e6683f53e9fb6312d6c36fc4"/>
+				<FILE filename="V10_CKI_N_2_DI_MiFish.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="fd2d074de4fb09da7b79baf7e4dbb96f"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_V10_CKI_N_2_DI">
+		<EXPERIMENT_REF refname="16S_V10_CKI_N_2_DI"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_N_2_DI_16S.1_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="ad6a9d79fa4c41b8b512aaf71b4c6970"/>
+				<FILE filename="V10_CKI_N_2_DI_16S.2_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="4ffcc78ecf70bc70eb6eff7e598169f8"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_12S_V10_CKI_N_2_WC" center_name="Minderoo Foundation">
+		<EXPERIMENT_REF refname="12S_V10_CKI_N_2_WC"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_N_2_WC_MiFish.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="d8f821f6a43ff7b4e69b223a19f39573"/>
+				<FILE filename="V10_CKI_N_2_WC_MiFish.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="5cd6cb1c7bf5840da7339fdf98242f1e"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_V10_CKI_N_2_WC">
+		<EXPERIMENT_REF refname="16S_V10_CKI_N_2_WC"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_N_2_WC_16S.1_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="f422cc3fbb5e78dd3926465e5fcac00b"/>
+				<FILE filename="V10_CKI_N_2_WC_16S.2_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="f51c951d03887dd0ce7ffe3e7d791890"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_12S_V10_CKI_N_3_1" center_name="Minderoo Foundation">
+		<EXPERIMENT_REF refname="12S_V10_CKI_N_3_1"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_N_3_1_MiFish.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="5fa9026cea0c477ca5fbca58f98ba65f"/>
+				<FILE filename="V10_CKI_N_3_1_MiFish.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="0f130b0de006297ccc1a0916f5c8cfff"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_V10_CKI_N_3_1">
+		<EXPERIMENT_REF refname="16S_V10_CKI_N_3_1"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_N_3_1_16S.1_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="465c296c1f145d83434110b52c28c790"/>
+				<FILE filename="V10_CKI_N_3_1_16S.2_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="63641e0f570fdc92c91781f37cc3cebd"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_12S_V10_CKI_N_3_2" center_name="Minderoo Foundation">
+		<EXPERIMENT_REF refname="12S_V10_CKI_N_3_2"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_N_3_2_MiFish.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="b501e3b1c9a1664d83bcba161d40a38c"/>
+				<FILE filename="V10_CKI_N_3_2_MiFish.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="0db4cf53362fc47a33f4041c094c97ed"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_V10_CKI_N_3_2">
+		<EXPERIMENT_REF refname="16S_V10_CKI_N_3_2"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_N_3_2_16S.1_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="7fc76c333974103c41dab0ca20abc383"/>
+				<FILE filename="V10_CKI_N_3_2_16S.2_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="d1c432f12fec88aa69a090f0b974a83c"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_12S_V10_CKI_N_3_3" center_name="Minderoo Foundation">
+		<EXPERIMENT_REF refname="12S_V10_CKI_N_3_3"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_N_3_3_MiFish.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="2be460b2766f7613d0b2a3716f28eebd"/>
+				<FILE filename="V10_CKI_N_3_3_MiFish.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="64dcef30ef027a5811f7c13c26dab823"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_V10_CKI_N_3_3">
+		<EXPERIMENT_REF refname="16S_V10_CKI_N_3_3"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_N_3_3_16S.1_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="155f28dc6a77689cfc25a6b9acbbec86"/>
+				<FILE filename="V10_CKI_N_3_3_16S.2_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="06c4ecb21ca4d7b1dfc14a6ca7872e67"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_12S_V10_CKI_N_3_4" center_name="Minderoo Foundation">
+		<EXPERIMENT_REF refname="12S_V10_CKI_N_3_4"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_N_3_4_MiFish.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="d6a8a0185d16c502ea545c6fdc3b758a"/>
+				<FILE filename="V10_CKI_N_3_4_MiFish.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="0bf1cfe3045e83b88ec0624e86b357a1"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_V10_CKI_N_3_4">
+		<EXPERIMENT_REF refname="16S_V10_CKI_N_3_4"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_N_3_4_16S.1_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="01271dcac8400c9716fc427983af86c3"/>
+				<FILE filename="V10_CKI_N_3_4_16S.2_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="bbbb9b00eee69479e2164821dc5be84c"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_12S_V10_CKI_N_3_5" center_name="Minderoo Foundation">
+		<EXPERIMENT_REF refname="12S_V10_CKI_N_3_5"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_N_3_5_MiFish.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="53fe370c0ee2b60b592f2158a731ccec"/>
+				<FILE filename="V10_CKI_N_3_5_MiFish.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="90af9e2e2678b4cd87c670b5d0d35669"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_V10_CKI_N_3_5">
+		<EXPERIMENT_REF refname="16S_V10_CKI_N_3_5"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_N_3_5_16S.1_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="b7081dfa97ab9b2d386053dba2151b92"/>
+				<FILE filename="V10_CKI_N_3_5_16S.2_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="0478cd4e7cc2129ed992f3398f1c801e"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_12S_V10_CKI_N_3_DI" center_name="Minderoo Foundation">
+		<EXPERIMENT_REF refname="12S_V10_CKI_N_3_DI"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_N_3_DI_MiFish.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="ce0cf2465c9c2d527f6d1b6c04f14951"/>
+				<FILE filename="V10_CKI_N_3_DI_MiFish.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="f7e7b41aaf07beeefb31eb5f8a0111ce"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_V10_CKI_N_3_DI">
+		<EXPERIMENT_REF refname="16S_V10_CKI_N_3_DI"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_N_3_DI_16S.1_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="19aba92d62eb58e73d45386ebf79081b"/>
+				<FILE filename="V10_CKI_N_3_DI_16S.2_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="1ff68a8bc2830480e67028493057ca0d"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_12S_V10_CKI_N_3_WC" center_name="Minderoo Foundation">
+		<EXPERIMENT_REF refname="12S_V10_CKI_N_3_WC"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_N_3_WC_MiFish.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="e3a116c5daad07e8f17d942ed6b8b17a"/>
+				<FILE filename="V10_CKI_N_3_WC_MiFish.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="6ffcae71a5f956e1d52bc2fa7ffb6e18"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_V10_CKI_N_3_WC">
+		<EXPERIMENT_REF refname="16S_V10_CKI_N_3_WC"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_N_3_WC_16S.1_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="903f85587ffa205294a39d3604f56b0c"/>
+				<FILE filename="V10_CKI_N_3_WC_16S.2_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="61090c05dd410326ce151fb899c99d8b"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_12S_V10_CKI_N_4_1" center_name="Minderoo Foundation">
+		<EXPERIMENT_REF refname="12S_V10_CKI_N_4_1"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_N_4_1_MiFish.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="9c3dc339c06ed4337e8033392bbd431c"/>
+				<FILE filename="V10_CKI_N_4_1_MiFish.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="af967cda9ad5aee1d3fb2595973ddc0d"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_V10_CKI_N_4_1">
+		<EXPERIMENT_REF refname="16S_V10_CKI_N_4_1"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_N_4_1_16S.1_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="c4b798884034d878894d2a06bc8bbf28"/>
+				<FILE filename="V10_CKI_N_4_1_16S.2_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="5ffeb39727eeabff0de3f0057aa00193"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_12S_V10_CKI_N_4_2" center_name="Minderoo Foundation">
+		<EXPERIMENT_REF refname="12S_V10_CKI_N_4_2"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_N_4_2_MiFish.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="a4a13b0cc9a48bd71f31eb34f731c097"/>
+				<FILE filename="V10_CKI_N_4_2_MiFish.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="ecbaa19c0bb509eaabde05682e3e0855"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_V10_CKI_N_4_2">
+		<EXPERIMENT_REF refname="16S_V10_CKI_N_4_2"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_N_4_2_16S.1_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="2c6f9e968eec04ef24413d26dcc5c8ed"/>
+				<FILE filename="V10_CKI_N_4_2_16S.2_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="1da379f20f7492d2e82df83cfb434b24"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_12S_V10_CKI_N_4_3" center_name="Minderoo Foundation">
+		<EXPERIMENT_REF refname="12S_V10_CKI_N_4_3"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_N_4_3_MiFish.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="c55d81f37ac6b6de0db55af56907f71b"/>
+				<FILE filename="V10_CKI_N_4_3_MiFish.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="584fa89fb0048c3c5432023131343e54"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_V10_CKI_N_4_3">
+		<EXPERIMENT_REF refname="16S_V10_CKI_N_4_3"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_N_4_3_16S.1_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="f6e4b778ef28911fa637996e354b7ec4"/>
+				<FILE filename="V10_CKI_N_4_3_16S.2_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="50e478eff29bcc3f69aac6b63d4aff63"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_12S_V10_CKI_N_4_4" center_name="Minderoo Foundation">
+		<EXPERIMENT_REF refname="12S_V10_CKI_N_4_4"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_N_4_4_MiFish.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="64b00f7262c33679f2b3947939fe3d08"/>
+				<FILE filename="V10_CKI_N_4_4_MiFish.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="52df130582d6edf51af7f955df7aba96"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_V10_CKI_N_4_4">
+		<EXPERIMENT_REF refname="16S_V10_CKI_N_4_4"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_N_4_4_16S.1_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="037bb0400e20f813827a906b7097f382"/>
+				<FILE filename="V10_CKI_N_4_4_16S.2_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="29599a14ed130972c23b6185266e0684"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_12S_V10_CKI_N_4_5" center_name="Minderoo Foundation">
+		<EXPERIMENT_REF refname="12S_V10_CKI_N_4_5"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_N_4_5_MiFish.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="049f625bca10a83f3eecb5d00eee1ba1"/>
+				<FILE filename="V10_CKI_N_4_5_MiFish.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="d3f09a7b03946b09f92e05623893bcff"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_V10_CKI_N_4_5">
+		<EXPERIMENT_REF refname="16S_V10_CKI_N_4_5"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_N_4_5_16S.1_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="c9426efc5ad9cb09ee1027589f720e44"/>
+				<FILE filename="V10_CKI_N_4_5_16S.2_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="56479c9f1b9e893fb0f7edb09f6ece91"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_12S_V10_CKI_N_4_DI" center_name="Minderoo Foundation">
+		<EXPERIMENT_REF refname="12S_V10_CKI_N_4_DI"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_N_4_DI_MiFish.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="785e507b919d7866a941175a6e2de9eb"/>
+				<FILE filename="V10_CKI_N_4_DI_MiFish.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="1f2c81462f2b46e9a89f046f785d0f11"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_V10_CKI_N_4_DI">
+		<EXPERIMENT_REF refname="16S_V10_CKI_N_4_DI"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_N_4_DI_16S.1_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="61cc4b77b361ffe7e3cabd8f74e43776"/>
+				<FILE filename="V10_CKI_N_4_DI_16S.2_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="6b3c06a7cac86efdf97df763b7a9e084"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_12S_V10_CKI_N_4_WC" center_name="Minderoo Foundation">
+		<EXPERIMENT_REF refname="12S_V10_CKI_N_4_WC"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_N_4_WC_MiFish.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="e81bb3c2a3c97e90b8986b1ddef29d6e"/>
+				<FILE filename="V10_CKI_N_4_WC_MiFish.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="fb34420689b56c6982eb19666312fc5b"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_V10_CKI_N_4_WC">
+		<EXPERIMENT_REF refname="16S_V10_CKI_N_4_WC"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_N_4_WC_16S.1_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="2f53b2f0bf5451a0935bec0f2d36d36e"/>
+				<FILE filename="V10_CKI_N_4_WC_16S.2_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="d947f931884ca078dd37ef2df61250ac"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_12S_V10_CKI_N_5_1" center_name="Minderoo Foundation">
+		<EXPERIMENT_REF refname="12S_V10_CKI_N_5_1"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_N_5_1_MiFish.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="f8561668f8231f712a5fd9647063da5b"/>
+				<FILE filename="V10_CKI_N_5_1_MiFish.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="cca66ed6580813fb8994e09b0674e88b"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_V10_CKI_N_5_1">
+		<EXPERIMENT_REF refname="16S_V10_CKI_N_5_1"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_N_5_1_16S.1_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="c23ebe41ae20639dc37575f54514242c"/>
+				<FILE filename="V10_CKI_N_5_1_16S.2_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="e4d902c5147a021b6ae6e396cabff806"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_12S_V10_CKI_N_5_2" center_name="Minderoo Foundation">
+		<EXPERIMENT_REF refname="12S_V10_CKI_N_5_2"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_N_5_2_MiFish.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="db39736e53c899718625065a6bf7202c"/>
+				<FILE filename="V10_CKI_N_5_2_MiFish.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="20f7b186c209624947eb12cda7220f97"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_V10_CKI_N_5_2">
+		<EXPERIMENT_REF refname="16S_V10_CKI_N_5_2"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_N_5_2_16S.1_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="25a7adb33a707285bdfac353a8579dd9"/>
+				<FILE filename="V10_CKI_N_5_2_16S.2_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="77bc4727e15cd88239bde3dbfe401ea2"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_12S_V10_CKI_N_5_3" center_name="Minderoo Foundation">
+		<EXPERIMENT_REF refname="12S_V10_CKI_N_5_3"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_N_5_3_MiFish.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="d1ae4a10170473524758d05ebeef11b8"/>
+				<FILE filename="V10_CKI_N_5_3_MiFish.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="eed5766a882e94296c3874bfd9d24dc9"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_V10_CKI_N_5_3">
+		<EXPERIMENT_REF refname="16S_V10_CKI_N_5_3"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_N_5_3_16S.1_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="a131673f8ae47352945fee6ccab53c14"/>
+				<FILE filename="V10_CKI_N_5_3_16S.2_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="f4c3bebf67a657437456642f5695e89a"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_12S_V10_CKI_N_5_4" center_name="Minderoo Foundation">
+		<EXPERIMENT_REF refname="12S_V10_CKI_N_5_4"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_N_5_4_MiFish.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="0698c647f2cc562079e02648a467ae6e"/>
+				<FILE filename="V10_CKI_N_5_4_MiFish.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="0caa007eb2b8f877f898c4ef24fec8bd"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_V10_CKI_N_5_4">
+		<EXPERIMENT_REF refname="16S_V10_CKI_N_5_4"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_N_5_4_16S.1_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="1a753c341fd86b823d1616153f3c0254"/>
+				<FILE filename="V10_CKI_N_5_4_16S.2_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="40c95cbb4c45121cfcbd2c618c3f9c72"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_12S_V10_CKI_N_5_5" center_name="Minderoo Foundation">
+		<EXPERIMENT_REF refname="12S_V10_CKI_N_5_5"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_N_5_5_MiFish.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="ff4da59c076e6d1b44620e82a49e6e01"/>
+				<FILE filename="V10_CKI_N_5_5_MiFish.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="80316e94ae39cd81831c8545fa13683e"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_V10_CKI_N_5_5">
+		<EXPERIMENT_REF refname="16S_V10_CKI_N_5_5"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_N_5_5_16S.1_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="1726d86dc67f5555e45b599a6f316d89"/>
+				<FILE filename="V10_CKI_N_5_5_16S.2_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="34e04a218c3058495c67ab1c3b3f0459"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_12S_V10_CKI_N_5_DI" center_name="Minderoo Foundation">
+		<EXPERIMENT_REF refname="12S_V10_CKI_N_5_DI"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_N_5_DI_MiFish.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="d2e7a88fb7527c8aa30fd916ea8312d3"/>
+				<FILE filename="V10_CKI_N_5_DI_MiFish.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="0fee8c9922f6d244018f6aa50e17eae2"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_V10_CKI_N_5_DI">
+		<EXPERIMENT_REF refname="16S_V10_CKI_N_5_DI"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_N_5_DI_16S.1_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="3901dbde5d4bc5a7a2bdcb73ccddb40b"/>
+				<FILE filename="V10_CKI_N_5_DI_16S.2_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="8e803f21dafb2ac17acc82266bb8e6a9"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_12S_V10_CKI_N_5_WC" center_name="Minderoo Foundation">
+		<EXPERIMENT_REF refname="12S_V10_CKI_N_5_WC"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_N_5_WC_MiFish.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="cb205df6ab6ee63c055268df01e0dc39"/>
+				<FILE filename="V10_CKI_N_5_WC_MiFish.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="e58ab36950ea98cd0a78af8874663b89"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_V10_CKI_N_5_WC">
+		<EXPERIMENT_REF refname="16S_V10_CKI_N_5_WC"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_N_5_WC_16S.1_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="16a0ea12b78db3e13299a079d1fafd01"/>
+				<FILE filename="V10_CKI_N_5_WC_16S.2_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="56e11cd140de6568901a0146293d1a6b"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_12S_V10_CKI_N_6_1" center_name="Minderoo Foundation">
+		<EXPERIMENT_REF refname="12S_V10_CKI_N_6_1"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_N_6_1_MiFish.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="bd3c5cccc40dd4a36be4aa9e85ad515d"/>
+				<FILE filename="V10_CKI_N_6_1_MiFish.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="b0709dcc282743144612e46ee6c7305d"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_V10_CKI_N_6_1">
+		<EXPERIMENT_REF refname="16S_V10_CKI_N_6_1"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_N_6_1_16S.1_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="d46a837dba24007d7e5e5a6bdfdc3ed0"/>
+				<FILE filename="V10_CKI_N_6_1_16S.2_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="502983b80fd271066a6cda6199b22dcb"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_12S_V10_CKI_N_6_2" center_name="Minderoo Foundation">
+		<EXPERIMENT_REF refname="12S_V10_CKI_N_6_2"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_N_6_2_MiFish.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="411d752a0aab5788d141b5bf2ba577d1"/>
+				<FILE filename="V10_CKI_N_6_2_MiFish.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="1a7b111d578f745246b67e266a6a6960"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_V10_CKI_N_6_2">
+		<EXPERIMENT_REF refname="16S_V10_CKI_N_6_2"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_N_6_2_16S.1_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="6a5b18b61857ecb43618979746fa3a00"/>
+				<FILE filename="V10_CKI_N_6_2_16S.2_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="a470e418ae1be6d0bb1039ffedfffd98"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_12S_V10_CKI_N_6_3" center_name="Minderoo Foundation">
+		<EXPERIMENT_REF refname="12S_V10_CKI_N_6_3"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_N_6_3_MiFish.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="8dfcf3545536ce3df9241f40deb0e76b"/>
+				<FILE filename="V10_CKI_N_6_3_MiFish.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="58601e773379dd628cd708379789ecdc"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_V10_CKI_N_6_3">
+		<EXPERIMENT_REF refname="16S_V10_CKI_N_6_3"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_N_6_3_16S.1_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="6d6272b49bc1ce390ff107921fc4414a"/>
+				<FILE filename="V10_CKI_N_6_3_16S.2_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="be6b52295f4c93e1c3953679f966ea45"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_12S_V10_CKI_N_6_4" center_name="Minderoo Foundation">
+		<EXPERIMENT_REF refname="12S_V10_CKI_N_6_4"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_N_6_4_MiFish.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="be8c39ebf267970b38216f792eeac7d1"/>
+				<FILE filename="V10_CKI_N_6_4_MiFish.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="384321a76249c48366f6d160ba8bbc9f"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_V10_CKI_N_6_4">
+		<EXPERIMENT_REF refname="16S_V10_CKI_N_6_4"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_N_6_4_16S.1_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="b532f6fa9cd697d5015c417745acd38d"/>
+				<FILE filename="V10_CKI_N_6_4_16S.2_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="b5b90851498d73cb53496ff0dd695519"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_12S_V10_CKI_N_6_5" center_name="Minderoo Foundation">
+		<EXPERIMENT_REF refname="12S_V10_CKI_N_6_5"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_N_6_5_MiFish.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="9aab1d3b3ec8d5d8c342f7c6e7c13414"/>
+				<FILE filename="V10_CKI_N_6_5_MiFish.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="86980dfcb0c89beb91240f575b008124"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_V10_CKI_N_6_5">
+		<EXPERIMENT_REF refname="16S_V10_CKI_N_6_5"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_N_6_5_16S.1_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="5851cb055cb2018d657be84119dc7d95"/>
+				<FILE filename="V10_CKI_N_6_5_16S.2_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="7da19b1d9e2c3dae84527e9b84b500d4"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_12S_V10_CKI_N_6_DI" center_name="Minderoo Foundation">
+		<EXPERIMENT_REF refname="12S_V10_CKI_N_6_DI"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_N_6_DI_MiFish.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="8622f80261e0b5e1fa2d9bd7a44354e2"/>
+				<FILE filename="V10_CKI_N_6_DI_MiFish.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="0ad8104366e95a113bbf76145f8cc2ca"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_V10_CKI_N_6_DI">
+		<EXPERIMENT_REF refname="16S_V10_CKI_N_6_DI"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_N_6_DI_16S.1_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="dd46e5648a8f698f1878c1b4b7dbe2e1"/>
+				<FILE filename="V10_CKI_N_6_DI_16S.2_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="08559a3393f6c7208766bf62157a543d"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_12S_V10_CKI_N_6_WC" center_name="Minderoo Foundation">
+		<EXPERIMENT_REF refname="12S_V10_CKI_N_6_WC"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_N_6_WC_MiFish.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="62c31003facde7999fcca451065654d4"/>
+				<FILE filename="V10_CKI_N_6_WC_MiFish.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="0de347188603415d00d916d412be210e"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_V10_CKI_N_6_WC">
+		<EXPERIMENT_REF refname="16S_V10_CKI_N_6_WC"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_N_6_WC_16S.1_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="108b011088802725a89080362ae23ae2"/>
+				<FILE filename="V10_CKI_N_6_WC_16S.2_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="2f335ad18752e65cc030425f755ac814"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_12S_V10_CKI_N_7_1" center_name="Minderoo Foundation">
+		<EXPERIMENT_REF refname="12S_V10_CKI_N_7_1"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_N_7_1_MiFish.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="e8a41aa7f8a7c1548698ee35b9cd40a4"/>
+				<FILE filename="V10_CKI_N_7_1_MiFish.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="febf269f4826225a3b337eebf5d00c95"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_V10_CKI_N_7_1">
+		<EXPERIMENT_REF refname="16S_V10_CKI_N_7_1"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_N_7_1_16S.1_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="ca194366631c58975bb67601e1d92245"/>
+				<FILE filename="V10_CKI_N_7_1_16S.2_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="33b917a41dccd3c71a2df2661965cc8a"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_12S_V10_CKI_N_7_2" center_name="Minderoo Foundation">
+		<EXPERIMENT_REF refname="12S_V10_CKI_N_7_2"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_N_7_2_MiFish.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="24c9cf625f00d3ee359548583cb3ef7b"/>
+				<FILE filename="V10_CKI_N_7_2_MiFish.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="642192d5e7ccac9ab315863f409d2177"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_V10_CKI_N_7_2">
+		<EXPERIMENT_REF refname="16S_V10_CKI_N_7_2"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_N_7_2_16S.1_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="7820bf385db290c4ce4541e88fea7ad9"/>
+				<FILE filename="V10_CKI_N_7_2_16S.2_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="bdd6fe5b75dfa8198b925b60d0ff9c82"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_12S_V10_CKI_N_7_3" center_name="Minderoo Foundation">
+		<EXPERIMENT_REF refname="12S_V10_CKI_N_7_3"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_N_7_3_MiFish.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="d055bb77e8e9d498c4b2410257615eb8"/>
+				<FILE filename="V10_CKI_N_7_3_MiFish.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="f770846caaeb04cf52a01e1aa49a7fff"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_V10_CKI_N_7_3">
+		<EXPERIMENT_REF refname="16S_V10_CKI_N_7_3"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_N_7_3_16S.1_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="490b1195c0b0d4406baf20f6dcb9383b"/>
+				<FILE filename="V10_CKI_N_7_3_16S.2_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="01fbfb8d00205ec8e1fb04903f3e2d3c"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_12S_V10_CKI_N_7_4" center_name="Minderoo Foundation">
+		<EXPERIMENT_REF refname="12S_V10_CKI_N_7_4"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_N_7_4_MiFish.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="3ceb933115960e4fd79a2ddac6437d7a"/>
+				<FILE filename="V10_CKI_N_7_4_MiFish.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="c6c5de5b2ed79a4f3fd0af812ad96174"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_V10_CKI_N_7_4">
+		<EXPERIMENT_REF refname="16S_V10_CKI_N_7_4"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_N_7_4_16S.1_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="96c688d0099556d548251e532fb6c851"/>
+				<FILE filename="V10_CKI_N_7_4_16S.2_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="53836f6bc8d024a79862f3fd9089fcc6"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_12S_V10_CKI_N_7_5" center_name="Minderoo Foundation">
+		<EXPERIMENT_REF refname="12S_V10_CKI_N_7_5"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_N_7_5_MiFish.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="b570ae52c344a5ab60a9911fd275ceaa"/>
+				<FILE filename="V10_CKI_N_7_5_MiFish.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="1f0e530180f78f13bae5bcd77dead6ee"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_V10_CKI_N_7_5">
+		<EXPERIMENT_REF refname="16S_V10_CKI_N_7_5"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_N_7_5_16S.1_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="65605c3dedf558d42a69f66993fdb054"/>
+				<FILE filename="V10_CKI_N_7_5_16S.2_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="3dcc980db5b6c509a37464e4e8766f32"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_12S_V10_CKI_N_7_DI" center_name="Minderoo Foundation">
+		<EXPERIMENT_REF refname="12S_V10_CKI_N_7_DI"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_N_7_DI_MiFish.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="de89e9a5c677a6c64b2bd199f1d00466"/>
+				<FILE filename="V10_CKI_N_7_DI_MiFish.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="705e35a6a4789f516253cbb97b56e091"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_V10_CKI_N_7_DI">
+		<EXPERIMENT_REF refname="16S_V10_CKI_N_7_DI"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_N_7_DI_16S.1_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="905c515ada4c7e082e2397a7e6e03ba3"/>
+				<FILE filename="V10_CKI_N_7_DI_16S.2_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="b1fb433689c266a5b3b403e802ee26bc"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_12S_V10_CKI_N_7_WC" center_name="Minderoo Foundation">
+		<EXPERIMENT_REF refname="12S_V10_CKI_N_7_WC"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_N_7_WC_MiFish.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="f9b659e9e4c13608b95361777beaa37e"/>
+				<FILE filename="V10_CKI_N_7_WC_MiFish.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="d779b658041da2d46e4e1218f124ab5d"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_V10_CKI_N_7_WC">
+		<EXPERIMENT_REF refname="16S_V10_CKI_N_7_WC"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_N_7_WC_16S.1_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="832d2ebe438c39cca493f7c20f48685f"/>
+				<FILE filename="V10_CKI_N_7_WC_16S.2_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="43cfd62b9ee85b2ddf1eb14b7e352cb5"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_12S_V10_CKI_N_8_1" center_name="Minderoo Foundation">
+		<EXPERIMENT_REF refname="12S_V10_CKI_N_8_1"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_N_8_1_MiFish.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="304d87201549ef9400cf0ac48467f6e7"/>
+				<FILE filename="V10_CKI_N_8_1_MiFish.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="cb189390c6285496aa20aed66d8a6c0d"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_V10_CKI_N_8_1">
+		<EXPERIMENT_REF refname="16S_V10_CKI_N_8_1"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_N_8_1_16S.1_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="05a31a19c5a02f8cbc21a62eaf95f17d"/>
+				<FILE filename="V10_CKI_N_8_1_16S.2_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="89a80da89ec218f2fb172d054a24b773"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_12S_V10_CKI_N_8_2" center_name="Minderoo Foundation">
+		<EXPERIMENT_REF refname="12S_V10_CKI_N_8_2"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_N_8_2_MiFish.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="a332f7cd4278260a5b0bd8ae99af9137"/>
+				<FILE filename="V10_CKI_N_8_2_MiFish.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="8eb18b466d9fbfdbd3e997caa615b8d1"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_V10_CKI_N_8_2">
+		<EXPERIMENT_REF refname="16S_V10_CKI_N_8_2"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_N_8_2_16S.1_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="b19c5e630515b1fd7529161479eaf13c"/>
+				<FILE filename="V10_CKI_N_8_2_16S.2_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="ea4e70ab84c8e25ac1ce7421a7da9ecc"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_12S_V10_CKI_N_8_3" center_name="Minderoo Foundation">
+		<EXPERIMENT_REF refname="12S_V10_CKI_N_8_3"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_N_8_3_MiFish.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="e237372cbb6aa76db4fc9228872ec964"/>
+				<FILE filename="V10_CKI_N_8_3_MiFish.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="a31b36caa04999c6ce90f60ad4bfa9cf"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_V10_CKI_N_8_3">
+		<EXPERIMENT_REF refname="16S_V10_CKI_N_8_3"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_N_8_3_16S.1_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="abf62adc3e7d653f9396b107bad7d6b0"/>
+				<FILE filename="V10_CKI_N_8_3_16S.2_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="bcf014e6d639e5800657607d1e32da22"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_12S_V10_CKI_N_8_4" center_name="Minderoo Foundation">
+		<EXPERIMENT_REF refname="12S_V10_CKI_N_8_4"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_N_8_4_MiFish.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="3b6aa069dbfba17d8d080b7fd8898a22"/>
+				<FILE filename="V10_CKI_N_8_4_MiFish.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="310b7a1f11b0188db5d0b68bdb60d135"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_V10_CKI_N_8_4">
+		<EXPERIMENT_REF refname="16S_V10_CKI_N_8_4"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_N_8_4_16S.1_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="40f7fc17d812c37939fc3befa0905445"/>
+				<FILE filename="V10_CKI_N_8_4_16S.2_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="15016255e6427a78c6b3342e4ff5fd7a"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_12S_V10_CKI_N_8_5" center_name="Minderoo Foundation">
+		<EXPERIMENT_REF refname="12S_V10_CKI_N_8_5"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_N_8_5_MiFish.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="bd3e34c8dc7fc4bbc3577f683bc275f6"/>
+				<FILE filename="V10_CKI_N_8_5_MiFish.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="7f5c6394d7fd7580b6de6b60e70e1d59"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_V10_CKI_N_8_5">
+		<EXPERIMENT_REF refname="16S_V10_CKI_N_8_5"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_N_8_5_16S.1_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="a6b9713f020b7e94df0acbee0b7195de"/>
+				<FILE filename="V10_CKI_N_8_5_16S.2_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="742ac4861510b7bbb2af65d1383a2334"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_12S_V10_CKI_N_8_DI" center_name="Minderoo Foundation">
+		<EXPERIMENT_REF refname="12S_V10_CKI_N_8_DI"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_N_8_DI_MiFish.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="1a4515c27f94b7a64d31db31019a8f95"/>
+				<FILE filename="V10_CKI_N_8_DI_MiFish.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="ef5b86bf716a117a2f9eb022c1ecd5f6"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_V10_CKI_N_8_DI">
+		<EXPERIMENT_REF refname="16S_V10_CKI_N_8_DI"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_N_8_DI_16S.1_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="1c10bc76d666ede36362d3274b640361"/>
+				<FILE filename="V10_CKI_N_8_DI_16S.2_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="9d3f8cbcd3593e11aa7541cb4caa9f42"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_12S_V10_CKI_N_8_WC" center_name="Minderoo Foundation">
+		<EXPERIMENT_REF refname="12S_V10_CKI_N_8_WC"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_N_8_WC_MiFish.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="dd6854edd6877276b11b3a04b41efbd1"/>
+				<FILE filename="V10_CKI_N_8_WC_MiFish.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="24e2287ce90e16c0da1b78a882e255c7"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_V10_CKI_N_8_WC">
+		<EXPERIMENT_REF refname="16S_V10_CKI_N_8_WC"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_N_8_WC_16S.1_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="396ebaca17b1b9ac0303f0953630e77f"/>
+				<FILE filename="V10_CKI_N_8_WC_16S.2_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="a562c9a3ca9693bde79c61add354139e"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_12S_V10_CKI_N_9_1" center_name="Minderoo Foundation">
+		<EXPERIMENT_REF refname="12S_V10_CKI_N_9_1"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_N_9_1_MiFish.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="b4bee13a4b076c2db18c1f803bd30349"/>
+				<FILE filename="V10_CKI_N_9_1_MiFish.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="8bbabb2186fa254e6296916374e77ba4"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_V10_CKI_N_9_1">
+		<EXPERIMENT_REF refname="16S_V10_CKI_N_9_1"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_N_9_1_16S.1_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="fcc8bc7681d522b94146a8d01ad9a17e"/>
+				<FILE filename="V10_CKI_N_9_1_16S.2_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="775795e52a406fe56e6f8b808fbc896f"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_12S_V10_CKI_N_9_2" center_name="Minderoo Foundation">
+		<EXPERIMENT_REF refname="12S_V10_CKI_N_9_2"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_N_9_2_MiFish.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="b7bb91ebf3ba15269560473f874fdbe6"/>
+				<FILE filename="V10_CKI_N_9_2_MiFish.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="e9861c09012edf8e32a7b1ea4f8fc4dd"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_V10_CKI_N_9_2">
+		<EXPERIMENT_REF refname="16S_V10_CKI_N_9_2"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_N_9_2_16S.1_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="0a83fa4ac7c5b17aa671f45aaad9266c"/>
+				<FILE filename="V10_CKI_N_9_2_16S.2_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="40c7dcefd6ff71a7398ed65ec26ad850"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_12S_V10_CKI_N_9_3" center_name="Minderoo Foundation">
+		<EXPERIMENT_REF refname="12S_V10_CKI_N_9_3"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_N_9_3_MiFish.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="db3c8a5ca6289164d6a6c0893ed06313"/>
+				<FILE filename="V10_CKI_N_9_3_MiFish.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="bb5d99f04aee6c2426736c66239da863"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_V10_CKI_N_9_3">
+		<EXPERIMENT_REF refname="16S_V10_CKI_N_9_3"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_N_9_3_16S.1_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="1d9870c8dc18f4aee2f440d2cdd90611"/>
+				<FILE filename="V10_CKI_N_9_3_16S.2_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="c2e74201a4931f71fbade55538158a29"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_12S_V10_CKI_N_9_4" center_name="Minderoo Foundation">
+		<EXPERIMENT_REF refname="12S_V10_CKI_N_9_4"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_N_9_4_MiFish.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="05621675a6a2d654951eb036ef4921b5"/>
+				<FILE filename="V10_CKI_N_9_4_MiFish.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="a04ec0185b4e893fe098ff9b69f5d98f"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_V10_CKI_N_9_4">
+		<EXPERIMENT_REF refname="16S_V10_CKI_N_9_4"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_N_9_4_16S.1_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="1d4cb2776785badae8e56900f1578da3"/>
+				<FILE filename="V10_CKI_N_9_4_16S.2_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="48e8263d87e647d22b90afefb153110b"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_12S_V10_CKI_N_9_5" center_name="Minderoo Foundation">
+		<EXPERIMENT_REF refname="12S_V10_CKI_N_9_5"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_N_9_5_MiFish.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="d778384b3a6907452fa9d992f923f98d"/>
+				<FILE filename="V10_CKI_N_9_5_MiFish.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="edb93f9320f30a0544ec0b743e4522e0"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_V10_CKI_N_9_5">
+		<EXPERIMENT_REF refname="16S_V10_CKI_N_9_5"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_N_9_5_16S.1_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="abed75336cb388bf1a1650b243f57d5e"/>
+				<FILE filename="V10_CKI_N_9_5_16S.2_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="8e0e2d83c8ea7e31e6ddfa67a6313dba"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_12S_V10_CKI_N_9_DI" center_name="Minderoo Foundation">
+		<EXPERIMENT_REF refname="12S_V10_CKI_N_9_DI"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_N_9_DI_MiFish.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="fadec373ce2abe4cb5ab2e6c69c615df"/>
+				<FILE filename="V10_CKI_N_9_DI_MiFish.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="f99df547e1d68a1a1e3dac665c5fb68c"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_V10_CKI_N_9_DI">
+		<EXPERIMENT_REF refname="16S_V10_CKI_N_9_DI"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_N_9_DI_16S.1_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="0dc0bd4f845f9c2b53db85b270775a99"/>
+				<FILE filename="V10_CKI_N_9_DI_16S.2_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="39334e88e7d085f81c3c6b72260949e9"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_12S_V10_CKI_N_9_WC" center_name="Minderoo Foundation">
+		<EXPERIMENT_REF refname="12S_V10_CKI_N_9_WC"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_N_9_WC_MiFish.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="aab680d1327b82ed39810e7bf190cd83"/>
+				<FILE filename="V10_CKI_N_9_WC_MiFish.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="a0fca12d43f6b84c84e7e1d60ea9aa89"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_V10_CKI_N_9_WC">
+		<EXPERIMENT_REF refname="16S_V10_CKI_N_9_WC"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_N_9_WC_16S.1_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="055b917b5da65280d6390d9761f6b3b9"/>
+				<FILE filename="V10_CKI_N_9_WC_16S.2_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="d10644115fc78a27d07f8a9e09701c39"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_12S_V10_CKI_N_H_12_DI" center_name="Minderoo Foundation">
+		<EXPERIMENT_REF refname="12S_V10_CKI_N_H_12_DI"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_N_H_12_DI_MiFish.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="4a39f8551a2137677a2969d83b7e7f52"/>
+				<FILE filename="V10_CKI_N_H_12_DI_MiFish.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="296ad6e2bdeb844c2dcf665423065478"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_V10_CKI_N_H_12_DI">
+		<EXPERIMENT_REF refname="16S_V10_CKI_N_H_12_DI"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_N_H_12_DI_16S.1_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="0bdd726d1b5d8139f652957a0e2575b1"/>
+				<FILE filename="V10_CKI_N_H_12_DI_16S.2_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="9c52142fa44b6247697530f5a7589939"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_12S_V10_CKI_N_H_12_WC" center_name="Minderoo Foundation">
+		<EXPERIMENT_REF refname="12S_V10_CKI_N_H_12_WC"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_N_H_12_WC_MiFish.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="d68d3e1aa76c294ea968751e8958eae5"/>
+				<FILE filename="V10_CKI_N_H_12_WC_MiFish.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="ac762e3dc1841065c79713ae6a4e0168"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_V10_CKI_N_H_12_WC">
+		<EXPERIMENT_REF refname="16S_V10_CKI_N_H_12_WC"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_N_H_12_WC_16S.1_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="5d61060ead1527d2ff1145a773834dd1"/>
+				<FILE filename="V10_CKI_N_H_12_WC_16S.2_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="8e8667704f916a364a1d311195fe1809"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_12S_V10_CKI_N_H_2_12_1" center_name="Minderoo Foundation">
+		<EXPERIMENT_REF refname="12S_V10_CKI_N_H_2_12_1"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_N_H_2_12_1_MiFish.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="56f0906a28c6dbe5de4b9b7095fbc662"/>
+				<FILE filename="V10_CKI_N_H_2_12_1_MiFish.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="42a66add449ecdd47a6c7a94d40456f8"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_V10_CKI_N_H_2_12_1">
+		<EXPERIMENT_REF refname="16S_V10_CKI_N_H_2_12_1"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_N_H_2_12_1_16S.1_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="39f214713f3f79d4a6ceb6bfc0edb107"/>
+				<FILE filename="V10_CKI_N_H_2_12_1_16S.2_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="7224aeca0ff98ea1d6f9b8f3f33b33b6"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_12S_V10_CKI_N_H_2_12_2" center_name="Minderoo Foundation">
+		<EXPERIMENT_REF refname="12S_V10_CKI_N_H_2_12_2"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_N_H_2_12_2_MiFish.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="5de715a3d88e08d5eb4589e4cd72cb05"/>
+				<FILE filename="V10_CKI_N_H_2_12_2_MiFish.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="435ba706156a0f296889803d1e586ba1"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_V10_CKI_N_H_2_12_2">
+		<EXPERIMENT_REF refname="16S_V10_CKI_N_H_2_12_2"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_N_H_2_12_2_16S.1_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="0641ad3b6e192423f582eba2307ba5f6"/>
+				<FILE filename="V10_CKI_N_H_2_12_2_16S.2_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="63a47dd280da42f40a6bd892d844be66"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_12S_V10_CKI_N_H_2_12_3" center_name="Minderoo Foundation">
+		<EXPERIMENT_REF refname="12S_V10_CKI_N_H_2_12_3"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_N_H_2_12_3_MiFish.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="f2f3529299d6cc471ace966411b8b966"/>
+				<FILE filename="V10_CKI_N_H_2_12_3_MiFish.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="d044d9f815ff5089631fcd0715dde5a4"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_V10_CKI_N_H_2_12_3">
+		<EXPERIMENT_REF refname="16S_V10_CKI_N_H_2_12_3"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_N_H_2_12_3_16S.1_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="adf6b5aed0fac1c1b65a205583c75feb"/>
+				<FILE filename="V10_CKI_N_H_2_12_3_16S.2_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="0dbb351d99266fbf51f4af375f3d9703"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_12S_V10_CKI_N_H_2_3_1" center_name="Minderoo Foundation">
+		<EXPERIMENT_REF refname="12S_V10_CKI_N_H_2_3_1"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_N_H_2_3_1_MiFish.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="e2648f097f0b2a13ef34e46386db716e"/>
+				<FILE filename="V10_CKI_N_H_2_3_1_MiFish.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="dfeb864b76cc0bcdd63580ff656ce30a"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_V10_CKI_N_H_2_3_1">
+		<EXPERIMENT_REF refname="16S_V10_CKI_N_H_2_3_1"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_N_H_2_3_1_16S.1_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="267a298b78ba97200d41bac71e2c5bcf"/>
+				<FILE filename="V10_CKI_N_H_2_3_1_16S.2_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="1e389f87f23ecdd93ce5036aa9d3e403"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_12S_V10_CKI_N_H_2_3_2" center_name="Minderoo Foundation">
+		<EXPERIMENT_REF refname="12S_V10_CKI_N_H_2_3_2"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_N_H_2_3_2_MiFish.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="61239d494c98108f862d82abe0da1fe6"/>
+				<FILE filename="V10_CKI_N_H_2_3_2_MiFish.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="bbed9d906e7f2aacb52a0ea1ce99c0a3"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_V10_CKI_N_H_2_3_2">
+		<EXPERIMENT_REF refname="16S_V10_CKI_N_H_2_3_2"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_N_H_2_3_2_16S.1_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="6313cf668efc2a4e9f0285b30a606412"/>
+				<FILE filename="V10_CKI_N_H_2_3_2_16S.2_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="4b885234b5f98ada9f53cb47ded7631a"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_12S_V10_CKI_N_H_2_3_3" center_name="Minderoo Foundation">
+		<EXPERIMENT_REF refname="12S_V10_CKI_N_H_2_3_3"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_N_H_2_3_3_MiFish.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="79ef71874cde2ba6c80d1d2cfbf0bb01"/>
+				<FILE filename="V10_CKI_N_H_2_3_3_MiFish.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="516e8c0f6958538431c41611df7d0154"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_V10_CKI_N_H_2_3_3">
+		<EXPERIMENT_REF refname="16S_V10_CKI_N_H_2_3_3"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_N_H_2_3_3_16S.1_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="fd63b37aa7fb3e3fc0e3319188f42004"/>
+				<FILE filename="V10_CKI_N_H_2_3_3_16S.2_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="6383a5bc3d1850b7fdd2db66ac7db6b1"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_12S_V10_CKI_N_H_3_DI" center_name="Minderoo Foundation">
+		<EXPERIMENT_REF refname="12S_V10_CKI_N_H_3_DI"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_N_H_3_DI_MiFish.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="c5ccbf5067e9384d4c74f8fffc9dc493"/>
+				<FILE filename="V10_CKI_N_H_3_DI_MiFish.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="3d641f10702095e67224e8308d2d5efc"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_V10_CKI_N_H_3_DI">
+		<EXPERIMENT_REF refname="16S_V10_CKI_N_H_3_DI"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_N_H_3_DI_16S.1_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="10ef81f2f6793d27afcf0885711e33ce"/>
+				<FILE filename="V10_CKI_N_H_3_DI_16S.2_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="e1124c5d39cd92870e35c110f30e4999"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_12S_V10_CKI_N_H_3_WC" center_name="Minderoo Foundation">
+		<EXPERIMENT_REF refname="12S_V10_CKI_N_H_3_WC"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_N_H_3_WC_MiFish.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="3543c81c71951915addd4c3178beb0c8"/>
+				<FILE filename="V10_CKI_N_H_3_WC_MiFish.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="71043fb0a28e289ad53374edaa3e56b2"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_V10_CKI_N_H_3_WC">
+		<EXPERIMENT_REF refname="16S_V10_CKI_N_H_3_WC"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_N_H_3_WC_16S.1_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="82cb79f714ee537de1ff622e123fee82"/>
+				<FILE filename="V10_CKI_N_H_3_WC_16S.2_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="a6cbc7848000d5c8e1101d4e5d375fbb"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_12S_V10_CKI_N_H_4_3_1" center_name="Minderoo Foundation">
+		<EXPERIMENT_REF refname="12S_V10_CKI_N_H_4_3_1"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_N_H_4_3_1_MiFish.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="5a17795bad1d6a4a34558be93cf99b01"/>
+				<FILE filename="V10_CKI_N_H_4_3_1_MiFish.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="632256b0a3d849acfc03ee465d4aff86"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_V10_CKI_N_H_4_3_1">
+		<EXPERIMENT_REF refname="16S_V10_CKI_N_H_4_3_1"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_N_H_4_3_1_16S.1_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="e59412daa4e26598e1b98aa8acfc4139"/>
+				<FILE filename="V10_CKI_N_H_4_3_1_16S.2_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="e6d620a7a18a85f55c713737e6b92c52"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_12S_V10_CKI_N_H_4_3_2" center_name="Minderoo Foundation">
+		<EXPERIMENT_REF refname="12S_V10_CKI_N_H_4_3_2"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_N_H_4_3_2_MiFish.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="b4b1b5f80825fcc63c1b23cca3fafc54"/>
+				<FILE filename="V10_CKI_N_H_4_3_2_MiFish.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="8942a2c20af72a222778db6cd1fcc4ce"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_V10_CKI_N_H_4_3_2">
+		<EXPERIMENT_REF refname="16S_V10_CKI_N_H_4_3_2"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_N_H_4_3_2_16S.1_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="0e5e671a3ed85879dd1f4ba6a5e8fabb"/>
+				<FILE filename="V10_CKI_N_H_4_3_2_16S.2_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="7ef535cfa0725bd375f0fbea3cafe936"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_12S_V10_CKI_N_H_4_3_3" center_name="Minderoo Foundation">
+		<EXPERIMENT_REF refname="12S_V10_CKI_N_H_4_3_3"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_N_H_4_3_3_MiFish.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="3853d3233c75fe60836a5d674f34be30"/>
+				<FILE filename="V10_CKI_N_H_4_3_3_MiFish.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="8eca2b175e873bcf23459b1536cf12dd"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_V10_CKI_N_H_4_3_3">
+		<EXPERIMENT_REF refname="16S_V10_CKI_N_H_4_3_3"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_N_H_4_3_3_16S.1_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="cb8bb47d852141c2e88c96882ac79dfc"/>
+				<FILE filename="V10_CKI_N_H_4_3_3_16S.2_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="c9c28aea0c69b7cb4b8febf91b2c807e"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_12S_V10_CKI_N_H_5_12_1" center_name="Minderoo Foundation">
+		<EXPERIMENT_REF refname="12S_V10_CKI_N_H_5_12_1"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_N_H_5_12_1_MiFish.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="48320e6046bcf0827fe3a91232020152"/>
+				<FILE filename="V10_CKI_N_H_5_12_1_MiFish.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="b51ae84b40de7ff98227d09ee679ed3c"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_V10_CKI_N_H_5_12_1">
+		<EXPERIMENT_REF refname="16S_V10_CKI_N_H_5_12_1"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_N_H_5_12_1_16S.1_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="3ed987f3e4abcd2d2a08a596e511eee0"/>
+				<FILE filename="V10_CKI_N_H_5_12_1_16S.2_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="a514ec1ee8a3cdc466892c3fa7197321"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_12S_V10_CKI_N_H_5_12_2" center_name="Minderoo Foundation">
+		<EXPERIMENT_REF refname="12S_V10_CKI_N_H_5_12_2"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_N_H_5_12_2_MiFish.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="b5090b616cc4e99e8b6f64ccd2cf87c1"/>
+				<FILE filename="V10_CKI_N_H_5_12_2_MiFish.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="0435c69c91e6fbb1a5821c8989b48a37"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_V10_CKI_N_H_5_12_2">
+		<EXPERIMENT_REF refname="16S_V10_CKI_N_H_5_12_2"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_N_H_5_12_2_16S.1_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="74484aff3a37012cc2583e10b75759b6"/>
+				<FILE filename="V10_CKI_N_H_5_12_2_16S.2_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="45de8237bcf08297231f1237e8819091"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_12S_V10_CKI_N_H_5_12_3" center_name="Minderoo Foundation">
+		<EXPERIMENT_REF refname="12S_V10_CKI_N_H_5_12_3"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_N_H_5_12_3_MiFish.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="c9d02b403019a22ed3ef6ba288d5bef5"/>
+				<FILE filename="V10_CKI_N_H_5_12_3_MiFish.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="7fec45e28ecb1e54781d728c9442fcd4"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_V10_CKI_N_H_5_12_3">
+		<EXPERIMENT_REF refname="16S_V10_CKI_N_H_5_12_3"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_N_H_5_12_3_16S.1_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="34a50108b33816a85c7a6e191caac61a"/>
+				<FILE filename="V10_CKI_N_H_5_12_3_16S.2_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="6bceddc3e3ec34b469d5e36019972331"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_12S_V10_CKI_U_1_1" center_name="Minderoo Foundation">
+		<EXPERIMENT_REF refname="12S_V10_CKI_U_1_1"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_U_1_1_MiFish.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="ab51c65e80fa87437be4dc3926d2c968"/>
+				<FILE filename="V10_CKI_U_1_1_MiFish.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="35c290f13ad63b97290954c1a4d99be8"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_V10_CKI_U_1_1">
+		<EXPERIMENT_REF refname="16S_V10_CKI_U_1_1"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_U_1_1_16S.1_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="42f6a52a8124b4f0fd33712f09f2b2e7"/>
+				<FILE filename="V10_CKI_U_1_1_16S.2_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="877b3b26584a31e7b97bc8c7980b40ca"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_12S_V10_CKI_U_1_2" center_name="Minderoo Foundation">
+		<EXPERIMENT_REF refname="12S_V10_CKI_U_1_2"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_U_1_2_MiFish.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="3b03e2d7aae16055da77afb74b78609e"/>
+				<FILE filename="V10_CKI_U_1_2_MiFish.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="822c037eea74a2885e2c7cc076405478"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_V10_CKI_U_1_2">
+		<EXPERIMENT_REF refname="16S_V10_CKI_U_1_2"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_U_1_2_16S.1_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="9bbd378f22513d59a9409c2f50ec68e8"/>
+				<FILE filename="V10_CKI_U_1_2_16S.2_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="8cab858d40e6432dd3a516baa392926d"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_12S_V10_CKI_U_1_3" center_name="Minderoo Foundation">
+		<EXPERIMENT_REF refname="12S_V10_CKI_U_1_3"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_U_1_3_MiFish.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="b23ca82ac73f653db856d13a7bb02d4e"/>
+				<FILE filename="V10_CKI_U_1_3_MiFish.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="1f9da67b7f5605f03ba1dc9ed659c1fa"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_V10_CKI_U_1_3">
+		<EXPERIMENT_REF refname="16S_V10_CKI_U_1_3"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_U_1_3_16S.1_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="67347e4434fc46f136a5f818ae3583d8"/>
+				<FILE filename="V10_CKI_U_1_3_16S.2_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="49e6b86018495b50ff295217844f269b"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_12S_V10_CKI_U_1_4" center_name="Minderoo Foundation">
+		<EXPERIMENT_REF refname="12S_V10_CKI_U_1_4"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_U_1_4_MiFish.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="8612f2f5f4da1b11cf2f722dda88d9ad"/>
+				<FILE filename="V10_CKI_U_1_4_MiFish.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="f7e754f8aab31d6e73d4c7956e04f00b"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_V10_CKI_U_1_4">
+		<EXPERIMENT_REF refname="16S_V10_CKI_U_1_4"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_U_1_4_16S.1_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="fe2ff24c9bec89ab5cde9d0ba8e97dc9"/>
+				<FILE filename="V10_CKI_U_1_4_16S.2_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="a9c194c662ee88789e8f83f7907babb4"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_12S_V10_CKI_U_1_5" center_name="Minderoo Foundation">
+		<EXPERIMENT_REF refname="12S_V10_CKI_U_1_5"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_U_1_5_MiFish.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="a051d67e9492cc1c363f6df8d7bc3ffa"/>
+				<FILE filename="V10_CKI_U_1_5_MiFish.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="51a6c342b04275696c8fba4f76bc1bb1"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_V10_CKI_U_1_5">
+		<EXPERIMENT_REF refname="16S_V10_CKI_U_1_5"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_U_1_5_16S.1_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="5257acbca0708dc332aedc1c41a092f4"/>
+				<FILE filename="V10_CKI_U_1_5_16S.2_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="6dbbc79b781d51245733ba7fa1d25446"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_12S_V10_CKI_U_1_DI" center_name="Minderoo Foundation">
+		<EXPERIMENT_REF refname="12S_V10_CKI_U_1_DI"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_U_1_DI_MiFish.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="e79a5a3f79097873b33da26eb661bef3"/>
+				<FILE filename="V10_CKI_U_1_DI_MiFish.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="b09f617c86739631df8b25c92f9d181e"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_V10_CKI_U_1_DI">
+		<EXPERIMENT_REF refname="16S_V10_CKI_U_1_DI"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_U_1_DI_16S.1_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="8894ff189d7bc599fd70d145f363b727"/>
+				<FILE filename="V10_CKI_U_1_DI_16S.2_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="03540752234c8007cbb2afd3cb28d672"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_12S_V10_CKI_U_1_WC" center_name="Minderoo Foundation">
+		<EXPERIMENT_REF refname="12S_V10_CKI_U_1_WC"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_U_1_WC_MiFish.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="9df62d2e4a0e0fe60fcc69082385ac99"/>
+				<FILE filename="V10_CKI_U_1_WC_MiFish.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="3dcee9dfccfe8c1797403ecf20945b92"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_V10_CKI_U_1_WC">
+		<EXPERIMENT_REF refname="16S_V10_CKI_U_1_WC"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_U_1_WC_16S.1_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="aeb4fbe8869c2528da92f76ace898153"/>
+				<FILE filename="V10_CKI_U_1_WC_16S.2_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="28dbbc439e178904fc1dbde1a81d51db"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_12S_V10_CKI_U_10_1" center_name="Minderoo Foundation">
+		<EXPERIMENT_REF refname="12S_V10_CKI_U_10_1"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_U_10_1_MiFish.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="eb65e74fed86dbf752c2e238242e9b6a"/>
+				<FILE filename="V10_CKI_U_10_1_MiFish.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="c3802dd9737b7cb1896a902f9797ea03"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_V10_CKI_U_10_1">
+		<EXPERIMENT_REF refname="16S_V10_CKI_U_10_1"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_U_10_1_16S.1_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="d75f4fa7b8483dcb56776b8a6c1c7669"/>
+				<FILE filename="V10_CKI_U_10_1_16S.2_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="f0140bfc2e7d3808334ac0b24a13b5bd"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_12S_V10_CKI_U_10_2" center_name="Minderoo Foundation">
+		<EXPERIMENT_REF refname="12S_V10_CKI_U_10_2"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_U_10_2_MiFish.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="d98466e868af6e9521de15a496584055"/>
+				<FILE filename="V10_CKI_U_10_2_MiFish.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="63b1da55756c102441fac9518dafa5fb"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_V10_CKI_U_10_2">
+		<EXPERIMENT_REF refname="16S_V10_CKI_U_10_2"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_U_10_2_16S.1_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="e77897b3a8a2376ffb8b24fd074541cf"/>
+				<FILE filename="V10_CKI_U_10_2_16S.2_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="0346185fe4251d19ebb7a17db47128b5"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_12S_V10_CKI_U_10_3" center_name="Minderoo Foundation">
+		<EXPERIMENT_REF refname="12S_V10_CKI_U_10_3"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_U_10_3_MiFish.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="3b1760f54f589bb221c40587f9fca7b7"/>
+				<FILE filename="V10_CKI_U_10_3_MiFish.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="71da054577691912f17adee33baea9eb"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_V10_CKI_U_10_3">
+		<EXPERIMENT_REF refname="16S_V10_CKI_U_10_3"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_U_10_3_16S.1_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="f9badb7cc609c67b54048bec4317c9fb"/>
+				<FILE filename="V10_CKI_U_10_3_16S.2_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="6dec2cfdf4daf13fd5b4df399663f65e"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_12S_V10_CKI_U_10_4" center_name="Minderoo Foundation">
+		<EXPERIMENT_REF refname="12S_V10_CKI_U_10_4"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_U_10_4_MiFish.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="7f7f713341bb9c900ee586ad08f27980"/>
+				<FILE filename="V10_CKI_U_10_4_MiFish.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="778fdcf0ade9069b487994415a3fa66d"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_V10_CKI_U_10_4">
+		<EXPERIMENT_REF refname="16S_V10_CKI_U_10_4"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_U_10_4_16S.1_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="46b779042b207b7415c613bbb4bea4d8"/>
+				<FILE filename="V10_CKI_U_10_4_16S.2_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="faef448073c06572579f82be22b2e3f9"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_12S_V10_CKI_U_10_5" center_name="Minderoo Foundation">
+		<EXPERIMENT_REF refname="12S_V10_CKI_U_10_5"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_U_10_5_MiFish.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="49068b2d18996760348b1a56c844f7eb"/>
+				<FILE filename="V10_CKI_U_10_5_MiFish.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="58af1bbc55afcd4f4e0c364399f9d946"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_V10_CKI_U_10_5">
+		<EXPERIMENT_REF refname="16S_V10_CKI_U_10_5"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_U_10_5_16S.1_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="5884c10af42811443c93cc4e6e559970"/>
+				<FILE filename="V10_CKI_U_10_5_16S.2_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="92995ca67b6dac5ebbcb11e5bf7f4776"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_12S_V10_CKI_U_10_DI" center_name="Minderoo Foundation">
+		<EXPERIMENT_REF refname="12S_V10_CKI_U_10_DI"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_U_10_DI_MiFish.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="330e0d46aff25fbaf24b2778b06c5486"/>
+				<FILE filename="V10_CKI_U_10_DI_MiFish.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="dd35c8dd3b3f83e35b08c21876db9c06"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_V10_CKI_U_10_DI">
+		<EXPERIMENT_REF refname="16S_V10_CKI_U_10_DI"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_U_10_DI_16S.1_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="c3ea2bc95fd3a8b8b6a2f2da414d6bc5"/>
+				<FILE filename="V10_CKI_U_10_DI_16S.2_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="83be5fda0fcee0e87bccf02d01047847"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_12S_V10_CKI_U_10_WC" center_name="Minderoo Foundation">
+		<EXPERIMENT_REF refname="12S_V10_CKI_U_10_WC"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_U_10_WC_MiFish.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="ffff6558fce9566c3ce9f26aed746d19"/>
+				<FILE filename="V10_CKI_U_10_WC_MiFish.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="2100dfb4bba18371f022dc92f8542bd9"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_V10_CKI_U_10_WC">
+		<EXPERIMENT_REF refname="16S_V10_CKI_U_10_WC"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_U_10_WC_16S.1_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="a7ce50cecbc83cd83781f48dbda8785f"/>
+				<FILE filename="V10_CKI_U_10_WC_16S.2_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="0c40f5feeace716b4d3e1672b543f63a"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_12S_V10_CKI_U_11_1" center_name="Minderoo Foundation">
+		<EXPERIMENT_REF refname="12S_V10_CKI_U_11_1"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_U_11_1_MiFish.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="e40061c555f7f0bd8e19adf8afcca433"/>
+				<FILE filename="V10_CKI_U_11_1_MiFish.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="0c34cdbdaac66ec2c8de192528dd577e"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_V10_CKI_U_11_1">
+		<EXPERIMENT_REF refname="16S_V10_CKI_U_11_1"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_U_11_1_16S.1_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="154890d9f5aba60b056041ced3f1af0f"/>
+				<FILE filename="V10_CKI_U_11_1_16S.2_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="05bee8665eb0e8df2fae17d59a4f67a5"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_12S_V10_CKI_U_11_2" center_name="Minderoo Foundation">
+		<EXPERIMENT_REF refname="12S_V10_CKI_U_11_2"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_U_11_2_MiFish.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="0f2607fd26c397fc971b66f3ab685568"/>
+				<FILE filename="V10_CKI_U_11_2_MiFish.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="eb07a55c18f36db6ddb0d387f5289b99"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_V10_CKI_U_11_2">
+		<EXPERIMENT_REF refname="16S_V10_CKI_U_11_2"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_U_11_2_16S.1_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="7d758ab44af4291e70b26e9ed9204b4c"/>
+				<FILE filename="V10_CKI_U_11_2_16S.2_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="b9597c742204946e11b0dc7bb9cb3272"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_12S_V10_CKI_U_11_3" center_name="Minderoo Foundation">
+		<EXPERIMENT_REF refname="12S_V10_CKI_U_11_3"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_U_11_3_MiFish.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="0d92b05b1d06761bea1693a95044db55"/>
+				<FILE filename="V10_CKI_U_11_3_MiFish.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="fc655b7bf4166b48f0259dcbc571c135"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_V10_CKI_U_11_3">
+		<EXPERIMENT_REF refname="16S_V10_CKI_U_11_3"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_U_11_3_16S.1_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="1e17cc71ccb3d927edce043c0e536ff1"/>
+				<FILE filename="V10_CKI_U_11_3_16S.2_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="0e50f0ee762c8606d5728d26183ef305"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_12S_V10_CKI_U_11_4" center_name="Minderoo Foundation">
+		<EXPERIMENT_REF refname="12S_V10_CKI_U_11_4"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_U_11_4_MiFish.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="b1439fe8f331f0f4f89d1f30a1270213"/>
+				<FILE filename="V10_CKI_U_11_4_MiFish.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="3279d8df0b7f912353360cd690f908b1"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_V10_CKI_U_11_4">
+		<EXPERIMENT_REF refname="16S_V10_CKI_U_11_4"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_U_11_4_16S.1_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="7c094a5130336182f500af571caa5748"/>
+				<FILE filename="V10_CKI_U_11_4_16S.2_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="505deff2a49f7f379e231a3c730e1622"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_12S_V10_CKI_U_11_5" center_name="Minderoo Foundation">
+		<EXPERIMENT_REF refname="12S_V10_CKI_U_11_5"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_U_11_5_MiFish.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="104f8bd548ad2011a5b39dff2076328a"/>
+				<FILE filename="V10_CKI_U_11_5_MiFish.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="1083032975a33be994cf58196ccf8b84"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_V10_CKI_U_11_5">
+		<EXPERIMENT_REF refname="16S_V10_CKI_U_11_5"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_U_11_5_16S.1_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="3487ac98e5930b46270e33da1690ed93"/>
+				<FILE filename="V10_CKI_U_11_5_16S.2_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="75a5bce8aa2bf59a4fd759d928c1fe12"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_12S_V10_CKI_U_11_DI" center_name="Minderoo Foundation">
+		<EXPERIMENT_REF refname="12S_V10_CKI_U_11_DI"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_U_11_DI_MiFish.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="23b5124ba3d1a7f05ad94f853b0e2858"/>
+				<FILE filename="V10_CKI_U_11_DI_MiFish.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="e1700381f8a69a3aa8346fdcdb087ad0"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_V10_CKI_U_11_DI">
+		<EXPERIMENT_REF refname="16S_V10_CKI_U_11_DI"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_U_11_DI_16S.1_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="0673c46907c51788824f8dc5d58725a0"/>
+				<FILE filename="V10_CKI_U_11_DI_16S.2_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="c8a242e7a68643275f6a1dd68e5cbf31"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_12S_V10_CKI_U_11_WC" center_name="Minderoo Foundation">
+		<EXPERIMENT_REF refname="12S_V10_CKI_U_11_WC"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_U_11_WC_MiFish.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="eac663fd5288405ffce6bb55dc86aca0"/>
+				<FILE filename="V10_CKI_U_11_WC_MiFish.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="e95e5fd809a99484f99ac242650c5992"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_V10_CKI_U_11_WC">
+		<EXPERIMENT_REF refname="16S_V10_CKI_U_11_WC"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_U_11_WC_16S.1_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="96e17634bff6db9d05291eb23f74175f"/>
+				<FILE filename="V10_CKI_U_11_WC_16S.2_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="0655a8c11f75f03e5f3b83bc2155e21d"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_12S_V10_CKI_U_13_1" center_name="Minderoo Foundation">
+		<EXPERIMENT_REF refname="12S_V10_CKI_U_13_1"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_U_13_1_MiFish.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="32489127fe3b009457ca377d4d6df5b0"/>
+				<FILE filename="V10_CKI_U_13_1_MiFish.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="81caef25384d1fbaaea05d79513c74b2"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_V10_CKI_U_13_1">
+		<EXPERIMENT_REF refname="16S_V10_CKI_U_13_1"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_U_13_1_16S.1_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="d2a19de926468d05c2f110fc2571b6fe"/>
+				<FILE filename="V10_CKI_U_13_1_16S.2_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="8bb432ae8bf92425b4544b697380e4d6"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_12S_V10_CKI_U_13_2" center_name="Minderoo Foundation">
+		<EXPERIMENT_REF refname="12S_V10_CKI_U_13_2"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_U_13_2_MiFish.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="62f0bb77fb55122d597765807e4821cc"/>
+				<FILE filename="V10_CKI_U_13_2_MiFish.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="f3a0d28322f435d769f3b92dd2824f88"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_V10_CKI_U_13_2">
+		<EXPERIMENT_REF refname="16S_V10_CKI_U_13_2"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_U_13_2_16S.1_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="8274d842be7a27e42f64f1dead82114b"/>
+				<FILE filename="V10_CKI_U_13_2_16S.2_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="68e45e7a6102ccbcad38bfe09cbbe5d1"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_12S_V10_CKI_U_13_3" center_name="Minderoo Foundation">
+		<EXPERIMENT_REF refname="12S_V10_CKI_U_13_3"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_U_13_3_MiFish.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="5bf0b0706499c78df1529e5940d62d36"/>
+				<FILE filename="V10_CKI_U_13_3_MiFish.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="c8c856c95aae3de66e3c871904bfa2dd"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_V10_CKI_U_13_3">
+		<EXPERIMENT_REF refname="16S_V10_CKI_U_13_3"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_U_13_3_16S.1_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="45c1429e258d763b15c53998710c84c6"/>
+				<FILE filename="V10_CKI_U_13_3_16S.2_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="68b72ad1e3fcd65ae13ffa77efb13ab0"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_12S_V10_CKI_U_13_4" center_name="Minderoo Foundation">
+		<EXPERIMENT_REF refname="12S_V10_CKI_U_13_4"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_U_13_4_MiFish.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="fa2bbbcd9f699cf65d2e96f3c2fbdfe5"/>
+				<FILE filename="V10_CKI_U_13_4_MiFish.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="1d049b238a09f1ffe4ef836bf8bf4297"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_V10_CKI_U_13_4">
+		<EXPERIMENT_REF refname="16S_V10_CKI_U_13_4"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_U_13_4_16S.1_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="de11a0296f1234163cb6205f751a0aa4"/>
+				<FILE filename="V10_CKI_U_13_4_16S.2_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="3f6f4186f6b0abd149a22084cfb073a9"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_12S_V10_CKI_U_13_5" center_name="Minderoo Foundation">
+		<EXPERIMENT_REF refname="12S_V10_CKI_U_13_5"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_U_13_5_MiFish.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="b1cd2d826a1e7f3f20ca78f805ee4f1c"/>
+				<FILE filename="V10_CKI_U_13_5_MiFish.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="cb53c83cce23cea3fa647f60381dce15"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_V10_CKI_U_13_5">
+		<EXPERIMENT_REF refname="16S_V10_CKI_U_13_5"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_U_13_5_16S.1_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="208da02ab6213a40caf49a2af24d746c"/>
+				<FILE filename="V10_CKI_U_13_5_16S.2_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="5df664685793e07f4743591966a668bb"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_12S_V10_CKI_U_13_DI" center_name="Minderoo Foundation">
+		<EXPERIMENT_REF refname="12S_V10_CKI_U_13_DI"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_U_13_DI_MiFish.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="22ea09b0c9c95fc09882ea5fe12354b1"/>
+				<FILE filename="V10_CKI_U_13_DI_MiFish.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="724acce02fb583e5a4d1d11fe629b7f6"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_V10_CKI_U_13_DI">
+		<EXPERIMENT_REF refname="16S_V10_CKI_U_13_DI"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_U_13_DI_16S.1_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="dac2a341c1b202abcf4152a6b84e77ad"/>
+				<FILE filename="V10_CKI_U_13_DI_16S.2_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="03d200bcb392b223bdb27195b6bdb72a"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_12S_V10_CKI_U_13_WC" center_name="Minderoo Foundation">
+		<EXPERIMENT_REF refname="12S_V10_CKI_U_13_WC"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_U_13_WC_MiFish.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="8dca11245485038b2c428f41fbad5f3a"/>
+				<FILE filename="V10_CKI_U_13_WC_MiFish.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="d55984da1952e15209f4c2278717bb27"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_V10_CKI_U_13_WC">
+		<EXPERIMENT_REF refname="16S_V10_CKI_U_13_WC"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_U_13_WC_16S.1_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="a635fb907b14d6365f1618575b8fb41a"/>
+				<FILE filename="V10_CKI_U_13_WC_16S.2_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="5fd39da46e6e2b87502083c212915b3c"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_12S_V10_CKI_U_14_1" center_name="Minderoo Foundation">
+		<EXPERIMENT_REF refname="12S_V10_CKI_U_14_1"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_U_14_1_MiFish.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="d44bd5f34e48c797335a0d67a5ccd766"/>
+				<FILE filename="V10_CKI_U_14_1_MiFish.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="9bfa1c81309bf589ce168d59d0766476"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_V10_CKI_U_14_1">
+		<EXPERIMENT_REF refname="16S_V10_CKI_U_14_1"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_U_14_1_16S.1_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="2bc454f7b58e5a5c29a8807481348e38"/>
+				<FILE filename="V10_CKI_U_14_1_16S.2_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="67abe4f3e37612c46c06128798c4cb15"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_12S_V10_CKI_U_14_2" center_name="Minderoo Foundation">
+		<EXPERIMENT_REF refname="12S_V10_CKI_U_14_2"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_U_14_2_MiFish.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="e6310d09abdfc3440e60e3d1e7a368c9"/>
+				<FILE filename="V10_CKI_U_14_2_MiFish.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="31b7833e8ef96726ee1f1fec073a0a58"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_V10_CKI_U_14_2">
+		<EXPERIMENT_REF refname="16S_V10_CKI_U_14_2"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_U_14_2_16S.1_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="912049af121f4ecc01057fc1713e04e5"/>
+				<FILE filename="V10_CKI_U_14_2_16S.2_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="fc9af5bb5f814e0abdbb7531ac03713b"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_12S_V10_CKI_U_14_3" center_name="Minderoo Foundation">
+		<EXPERIMENT_REF refname="12S_V10_CKI_U_14_3"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_U_14_3_MiFish.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="c16ae720e3a47dfab9c29dd8ff4d3af8"/>
+				<FILE filename="V10_CKI_U_14_3_MiFish.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="c2f64e71d5ff23ecd8b8b02a587e6e4a"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_V10_CKI_U_14_3">
+		<EXPERIMENT_REF refname="16S_V10_CKI_U_14_3"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_U_14_3_16S.1_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="365c7f1a7a18e5542a07a827ea9ba5d1"/>
+				<FILE filename="V10_CKI_U_14_3_16S.2_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="157c8ec01191497334ea73f824e59a40"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_12S_V10_CKI_U_14_4" center_name="Minderoo Foundation">
+		<EXPERIMENT_REF refname="12S_V10_CKI_U_14_4"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_U_14_4_MiFish.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="d1866d96716364acfba69094791a153a"/>
+				<FILE filename="V10_CKI_U_14_4_MiFish.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="5ff4f9a5f3d03d326796a98179d1b36a"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_V10_CKI_U_14_4">
+		<EXPERIMENT_REF refname="16S_V10_CKI_U_14_4"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_U_14_4_16S.1_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="f2c8811dac0bcbb4546509e669854a08"/>
+				<FILE filename="V10_CKI_U_14_4_16S.2_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="8ed5363a1a08cbe37b8903042f99bbd1"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_12S_V10_CKI_U_14_5" center_name="Minderoo Foundation">
+		<EXPERIMENT_REF refname="12S_V10_CKI_U_14_5"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_U_14_5_MiFish.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="ae102dd74ab600566c13dfe11ee25378"/>
+				<FILE filename="V10_CKI_U_14_5_MiFish.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="97d819aa5c304a8a4443986418d82376"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_V10_CKI_U_14_5">
+		<EXPERIMENT_REF refname="16S_V10_CKI_U_14_5"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_U_14_5_16S.1_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="1e7dcd4e6b497afc6c4c18c998ef1577"/>
+				<FILE filename="V10_CKI_U_14_5_16S.2_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="1acba31b29214e05eb82711d2f255552"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_12S_V10_CKI_U_14_DI" center_name="Minderoo Foundation">
+		<EXPERIMENT_REF refname="12S_V10_CKI_U_14_DI"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_U_14_DI_MiFish.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="385ca8cf471f6cb689a07a4061b59f00"/>
+				<FILE filename="V10_CKI_U_14_DI_MiFish.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="b129d9be040c4adb909fec96650e7e59"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_V10_CKI_U_14_DI">
+		<EXPERIMENT_REF refname="16S_V10_CKI_U_14_DI"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_U_14_DI_16S.1_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="d1b32ef5dfc6bf00de83d51daf32f7fb"/>
+				<FILE filename="V10_CKI_U_14_DI_16S.2_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="52134f5455b2fc2274a6521c012b13a6"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_12S_V10_CKI_U_14_WC" center_name="Minderoo Foundation">
+		<EXPERIMENT_REF refname="12S_V10_CKI_U_14_WC"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_U_14_WC_MiFish.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="d9fe708716a0052da5943b684c980002"/>
+				<FILE filename="V10_CKI_U_14_WC_MiFish.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="961236b3604b19ab09a24d433892510a"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_V10_CKI_U_14_WC">
+		<EXPERIMENT_REF refname="16S_V10_CKI_U_14_WC"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_U_14_WC_16S.1_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="6b5b4e0ea63fba4a73a76f503e718c8e"/>
+				<FILE filename="V10_CKI_U_14_WC_16S.2_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="4693d6bc4a3982a41b5b2686a5e8577e"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_12S_V10_CKI_U_2_1" center_name="Minderoo Foundation">
+		<EXPERIMENT_REF refname="12S_V10_CKI_U_2_1"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_U_2_1_MiFish.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="5e1dc8bce0e744de396643a2c87e4361"/>
+				<FILE filename="V10_CKI_U_2_1_MiFish.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="f6294743f40b4d0eedbf222e05f57da0"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_V10_CKI_U_2_1">
+		<EXPERIMENT_REF refname="16S_V10_CKI_U_2_1"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_U_2_1_16S.1_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="d433230b831d5b79b0437fa867433ead"/>
+				<FILE filename="V10_CKI_U_2_1_16S.2_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="c5ca7e26241f6e19810a7523301b98bc"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_12S_V10_CKI_U_2_2" center_name="Minderoo Foundation">
+		<EXPERIMENT_REF refname="12S_V10_CKI_U_2_2"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_U_2_2_MiFish.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="1d1409f45e31f30cbfe714eec9baaf53"/>
+				<FILE filename="V10_CKI_U_2_2_MiFish.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="5bcfaaf5f1384633a2233af88d7bd34a"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_V10_CKI_U_2_2">
+		<EXPERIMENT_REF refname="16S_V10_CKI_U_2_2"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_U_2_2_16S.1_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="01082f5056d19930275c54102810417d"/>
+				<FILE filename="V10_CKI_U_2_2_16S.2_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="c5a3dcb05f9c5406c5fe9d6349e951d1"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_12S_V10_CKI_U_2_3" center_name="Minderoo Foundation">
+		<EXPERIMENT_REF refname="12S_V10_CKI_U_2_3"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_U_2_3_MiFish.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="d65e9b64c63162c774d2c3a35b5f6dcd"/>
+				<FILE filename="V10_CKI_U_2_3_MiFish.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="e46170a4b5f4d4b6eee3c874955632d7"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_V10_CKI_U_2_3">
+		<EXPERIMENT_REF refname="16S_V10_CKI_U_2_3"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_U_2_3_16S.1_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="c9486dc0658a5f7ef57acfb89041fda2"/>
+				<FILE filename="V10_CKI_U_2_3_16S.2_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="4a4d6dbb192d1c89aa112ecbfd25d249"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_12S_V10_CKI_U_2_4" center_name="Minderoo Foundation">
+		<EXPERIMENT_REF refname="12S_V10_CKI_U_2_4"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_U_2_4_MiFish.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="6116c4547365ecd13b294fa4bdb3c154"/>
+				<FILE filename="V10_CKI_U_2_4_MiFish.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="6749147154fd5ea682b4e64330ae8239"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_V10_CKI_U_2_4">
+		<EXPERIMENT_REF refname="16S_V10_CKI_U_2_4"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_U_2_4_16S.1_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="3634d1a6f7b0053a96212569fe95940d"/>
+				<FILE filename="V10_CKI_U_2_4_16S.2_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="ba3c70080950a26fb2a875436609d741"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_12S_V10_CKI_U_2_5" center_name="Minderoo Foundation">
+		<EXPERIMENT_REF refname="12S_V10_CKI_U_2_5"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_U_2_5_MiFish.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="98dbca82677d888d30cb96fcb68fde09"/>
+				<FILE filename="V10_CKI_U_2_5_MiFish.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="c1ab8b45b8abb4645280dd150fb47ecf"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_V10_CKI_U_2_5">
+		<EXPERIMENT_REF refname="16S_V10_CKI_U_2_5"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_U_2_5_16S.1_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="a7aa809f7d4efb510140f291f788dc5a"/>
+				<FILE filename="V10_CKI_U_2_5_16S.2_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="10f52945f90ccbc29f84550df12711e9"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_12S_V10_CKI_U_2_DI" center_name="Minderoo Foundation">
+		<EXPERIMENT_REF refname="12S_V10_CKI_U_2_DI"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_U_2_DI_MiFish.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="929636b58e2fecd139fdbef7bef35fe5"/>
+				<FILE filename="V10_CKI_U_2_DI_MiFish.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="6cedf648f3c017305f28049fb51ffafd"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_V10_CKI_U_2_DI">
+		<EXPERIMENT_REF refname="16S_V10_CKI_U_2_DI"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_U_2_DI_16S.1_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="c3106931a006317564c38ca6d16290b9"/>
+				<FILE filename="V10_CKI_U_2_DI_16S.2_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="915e763f66b4a49b5122ba1f9c2e2cef"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_12S_V10_CKI_U_2_WC" center_name="Minderoo Foundation">
+		<EXPERIMENT_REF refname="12S_V10_CKI_U_2_WC"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_U_2_WC_MiFish.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="f06eee5aab441d072d10ac56979738ef"/>
+				<FILE filename="V10_CKI_U_2_WC_MiFish.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="21b874b8b8357c62c754058a4413ba4c"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_V10_CKI_U_2_WC">
+		<EXPERIMENT_REF refname="16S_V10_CKI_U_2_WC"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_U_2_WC_16S.1_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="0680135d2af0353e3230e4f258069775"/>
+				<FILE filename="V10_CKI_U_2_WC_16S.2_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="afcfdfc3ce853b86ffa4e045bcc0966e"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_12S_V10_CKI_U_4_1" center_name="Minderoo Foundation">
+		<EXPERIMENT_REF refname="12S_V10_CKI_U_4_1"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_U_4_1_MiFish.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="247e93c5d55e767df687824c6c25a15c"/>
+				<FILE filename="V10_CKI_U_4_1_MiFish.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="edbc4ae65b3e8605637879ab1c5611de"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_V10_CKI_U_4_1">
+		<EXPERIMENT_REF refname="16S_V10_CKI_U_4_1"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_U_4_1_16S.1_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="bcb60ecac5e63bb3a5a34c6444dc5417"/>
+				<FILE filename="V10_CKI_U_4_1_16S.2_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="65a3e5567608b919dae6530a88196766"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_12S_V10_CKI_U_4_2" center_name="Minderoo Foundation">
+		<EXPERIMENT_REF refname="12S_V10_CKI_U_4_2"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_U_4_2_MiFish.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="3b1eeb99908407f95654135fea6f834f"/>
+				<FILE filename="V10_CKI_U_4_2_MiFish.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="4d23138b9990f3328ed1787575178a07"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_V10_CKI_U_4_2">
+		<EXPERIMENT_REF refname="16S_V10_CKI_U_4_2"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_U_4_2_16S.1_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="4534ae1b15245db777d9beaf1e800475"/>
+				<FILE filename="V10_CKI_U_4_2_16S.2_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="696eca5b9674777e4ece81f2cc18a75b"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_12S_V10_CKI_U_4_3" center_name="Minderoo Foundation">
+		<EXPERIMENT_REF refname="12S_V10_CKI_U_4_3"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_U_4_3_MiFish.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="209784ab99450c322cf26f30bd2ec896"/>
+				<FILE filename="V10_CKI_U_4_3_MiFish.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="034e6dd16966f9890aa2b9909a00f58b"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_V10_CKI_U_4_3">
+		<EXPERIMENT_REF refname="16S_V10_CKI_U_4_3"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_U_4_3_16S.1_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="86ec5c2105d79424300b2cc61c7e392b"/>
+				<FILE filename="V10_CKI_U_4_3_16S.2_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="5935d133502d18ae6567eba0a90829cc"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_12S_V10_CKI_U_4_4" center_name="Minderoo Foundation">
+		<EXPERIMENT_REF refname="12S_V10_CKI_U_4_4"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_U_4_4_MiFish.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="8e561d58084c0386c9d5a8c6f3bbc5d2"/>
+				<FILE filename="V10_CKI_U_4_4_MiFish.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="05327d73b102a20ff4c820745c2d0505"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_V10_CKI_U_4_4">
+		<EXPERIMENT_REF refname="16S_V10_CKI_U_4_4"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_U_4_4_16S.1_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="b07d2154de4b04535bbc217ba77e1210"/>
+				<FILE filename="V10_CKI_U_4_4_16S.2_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="de29241b28fd5ec2873e1af20bd96024"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_12S_V10_CKI_U_4_5" center_name="Minderoo Foundation">
+		<EXPERIMENT_REF refname="12S_V10_CKI_U_4_5"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_U_4_5_MiFish.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="ad2292443882e0005bd5f1284b8a1cac"/>
+				<FILE filename="V10_CKI_U_4_5_MiFish.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="fc3b8e4178a79176d886d3d50446186d"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_V10_CKI_U_4_5">
+		<EXPERIMENT_REF refname="16S_V10_CKI_U_4_5"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_U_4_5_16S.1_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="64f358d21c6cb4abeadf1d9fcd154fac"/>
+				<FILE filename="V10_CKI_U_4_5_16S.2_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="7381c36654235d1a3f603bf4e10fa83d"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_12S_V10_CKI_U_4_DI" center_name="Minderoo Foundation">
+		<EXPERIMENT_REF refname="12S_V10_CKI_U_4_DI"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_U_4_DI_MiFish.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="4f6c0d6f86c9c85c5395511de8dbb8fd"/>
+				<FILE filename="V10_CKI_U_4_DI_MiFish.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="9f8a5752b345c01880146cc9ab4ea658"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_V10_CKI_U_4_DI">
+		<EXPERIMENT_REF refname="16S_V10_CKI_U_4_DI"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_U_4_DI_16S.1_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="503c190a03c4cd5812e4bf0312446f27"/>
+				<FILE filename="V10_CKI_U_4_DI_16S.2_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="ce0cb1503013e2cb64b1ad47acfdefc0"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_12S_V10_CKI_U_4_WC" center_name="Minderoo Foundation">
+		<EXPERIMENT_REF refname="12S_V10_CKI_U_4_WC"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_U_4_WC_MiFish.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="20b0c8dc1985c75a0989432589d130ef"/>
+				<FILE filename="V10_CKI_U_4_WC_MiFish.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="e07edc77a24b469ba3c90250265dbada"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_V10_CKI_U_4_WC">
+		<EXPERIMENT_REF refname="16S_V10_CKI_U_4_WC"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_U_4_WC_16S.1_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="98eaf51ecc6a0287341ae15402cab5c1"/>
+				<FILE filename="V10_CKI_U_4_WC_16S.2_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="a271136f16ca049730910c927047c0ca"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_12S_V10_CKI_U_5_1" center_name="Minderoo Foundation">
+		<EXPERIMENT_REF refname="12S_V10_CKI_U_5_1"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_U_5_1_MiFish.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="2181d171daa488b864ad0df98169fa48"/>
+				<FILE filename="V10_CKI_U_5_1_MiFish.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="6fd6f8e85e6cdbaebde41514d2522cd1"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_V10_CKI_U_5_1">
+		<EXPERIMENT_REF refname="16S_V10_CKI_U_5_1"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_U_5_1_16S.1_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="decc0e0319a960cf6b45c1100a646ca1"/>
+				<FILE filename="V10_CKI_U_5_1_16S.2_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="9aa88d8c97268ea328d5d175505aa6da"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_12S_V10_CKI_U_5_2" center_name="Minderoo Foundation">
+		<EXPERIMENT_REF refname="12S_V10_CKI_U_5_2"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_U_5_2_MiFish.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="8bb063f3bd18d435a1340a7ddc4043e5"/>
+				<FILE filename="V10_CKI_U_5_2_MiFish.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="b98f0dbadd328333c7242ed3f1d90dcf"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_V10_CKI_U_5_2">
+		<EXPERIMENT_REF refname="16S_V10_CKI_U_5_2"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_U_5_2_16S.1_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="864d1614d3b8fc80bfe8d465b77f4afd"/>
+				<FILE filename="V10_CKI_U_5_2_16S.2_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="f03bc87d16019bdcb996a17966125953"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_12S_V10_CKI_U_5_3" center_name="Minderoo Foundation">
+		<EXPERIMENT_REF refname="12S_V10_CKI_U_5_3"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_U_5_3_MiFish.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="c9e1992448930bc39de04ed51c1a429f"/>
+				<FILE filename="V10_CKI_U_5_3_MiFish.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="cb88b100ac0c678469b4f5315fa136fa"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_V10_CKI_U_5_3">
+		<EXPERIMENT_REF refname="16S_V10_CKI_U_5_3"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_U_5_3_16S.1_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="9d3afc6ccca0a7a8d787ac9e88bf918f"/>
+				<FILE filename="V10_CKI_U_5_3_16S.2_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="a56a3c8a6e5a1d0463dd501de577c0c1"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_12S_V10_CKI_U_5_4" center_name="Minderoo Foundation">
+		<EXPERIMENT_REF refname="12S_V10_CKI_U_5_4"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_U_5_4_MiFish.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="c8827dfc8bf0439319b636e970fa7772"/>
+				<FILE filename="V10_CKI_U_5_4_MiFish.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="1999b094529a9ad1922aac91d6278f2a"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_V10_CKI_U_5_4">
+		<EXPERIMENT_REF refname="16S_V10_CKI_U_5_4"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_U_5_4_16S.1_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="3e667c9951fcc02cff867eb7f3a49049"/>
+				<FILE filename="V10_CKI_U_5_4_16S.2_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="0a22f22c772532b7b91e5a07990b3f17"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_12S_V10_CKI_U_5_5" center_name="Minderoo Foundation">
+		<EXPERIMENT_REF refname="12S_V10_CKI_U_5_5"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_U_5_5_MiFish.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="a3225f6092fa7a7aa24ccd8582773237"/>
+				<FILE filename="V10_CKI_U_5_5_MiFish.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="1b6e0a92497a6ad40bf7250b90a3ff0b"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_V10_CKI_U_5_5">
+		<EXPERIMENT_REF refname="16S_V10_CKI_U_5_5"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_U_5_5_16S.1_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="cdda33664fde17fe76ef4efa8ee6a9a8"/>
+				<FILE filename="V10_CKI_U_5_5_16S.2_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="cf9f0a7a323162ff8544e7a995b11519"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_12S_V10_CKI_U_5_DI" center_name="Minderoo Foundation">
+		<EXPERIMENT_REF refname="12S_V10_CKI_U_5_DI"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_U_5_DI_MiFish.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="28cb31333de373b01e2993fc4c12b9b6"/>
+				<FILE filename="V10_CKI_U_5_DI_MiFish.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="b338c5261eb6b6821371550041508dc7"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_V10_CKI_U_5_DI">
+		<EXPERIMENT_REF refname="16S_V10_CKI_U_5_DI"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_U_5_DI_16S.1_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="47ea465d12203a4d4ef6e181f1a3f659"/>
+				<FILE filename="V10_CKI_U_5_DI_16S.2_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="3de423b9da0a86115a281121d8a795ca"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_12S_V10_CKI_U_5_WC" center_name="Minderoo Foundation">
+		<EXPERIMENT_REF refname="12S_V10_CKI_U_5_WC"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_U_5_WC_MiFish.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="f7a91c64110b362c703942c568923de8"/>
+				<FILE filename="V10_CKI_U_5_WC_MiFish.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="1e526bd02b58091f09d88ee927482310"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_V10_CKI_U_5_WC">
+		<EXPERIMENT_REF refname="16S_V10_CKI_U_5_WC"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_U_5_WC_16S.1_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="0e7839ceffcf4b19a94eb82976d59d35"/>
+				<FILE filename="V10_CKI_U_5_WC_16S.2_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="23454a76e1a8ef3b252b6b2df676f944"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_12S_V10_CKI_U_7_1" center_name="Minderoo Foundation">
+		<EXPERIMENT_REF refname="12S_V10_CKI_U_7_1"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_U_7_1_MiFish.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="7147394408759e952323b1958ff7a88c"/>
+				<FILE filename="V10_CKI_U_7_1_MiFish.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="5fd47cbb01d9976aa116f80e0828c8a6"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_V10_CKI_U_7_1">
+		<EXPERIMENT_REF refname="16S_V10_CKI_U_7_1"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_U_7_1_16S.1_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="40373f441b3d4d9db54eaab8496d2c90"/>
+				<FILE filename="V10_CKI_U_7_1_16S.2_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="7134fa6ae542265f5fab194e10bfa7e3"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_12S_V10_CKI_U_7_2" center_name="Minderoo Foundation">
+		<EXPERIMENT_REF refname="12S_V10_CKI_U_7_2"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_U_7_2_MiFish.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="738555bee3c7c83428e382492cfb1a29"/>
+				<FILE filename="V10_CKI_U_7_2_MiFish.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="404105fe677bf6ffec0e21c4d771c5fc"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_V10_CKI_U_7_2">
+		<EXPERIMENT_REF refname="16S_V10_CKI_U_7_2"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_U_7_2_16S.1_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="e696d0519b4efda96999bef9c91798b2"/>
+				<FILE filename="V10_CKI_U_7_2_16S.2_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="855fcd3d122bab047d2ccb67bb75f954"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_12S_V10_CKI_U_7_3" center_name="Minderoo Foundation">
+		<EXPERIMENT_REF refname="12S_V10_CKI_U_7_3"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_U_7_3_MiFish.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="0ab3f1e88f8926112c31c8cbc31392fd"/>
+				<FILE filename="V10_CKI_U_7_3_MiFish.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="3834edc4eb32599690b4adf8abe50a66"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_V10_CKI_U_7_3">
+		<EXPERIMENT_REF refname="16S_V10_CKI_U_7_3"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_U_7_3_16S.1_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="6e32d5af5e80142f49daa1c192baecb0"/>
+				<FILE filename="V10_CKI_U_7_3_16S.2_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="168d2f2ce5f15cc1eb29174ac40eebf1"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_12S_V10_CKI_U_7_4" center_name="Minderoo Foundation">
+		<EXPERIMENT_REF refname="12S_V10_CKI_U_7_4"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_U_7_4_MiFish.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="c72aaac823985780305190592a5ab04f"/>
+				<FILE filename="V10_CKI_U_7_4_MiFish.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="ee8fc5b7d2db0ff7e973ba099b517110"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_V10_CKI_U_7_4">
+		<EXPERIMENT_REF refname="16S_V10_CKI_U_7_4"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_U_7_4_16S.1_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="e0af4096a26886f8b0b18e2936b3ff91"/>
+				<FILE filename="V10_CKI_U_7_4_16S.2_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="65986300fbaaf005d4e6d191fdec283f"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_12S_V10_CKI_U_7_5" center_name="Minderoo Foundation">
+		<EXPERIMENT_REF refname="12S_V10_CKI_U_7_5"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_U_7_5_MiFish.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="d928832cbeba5bdbb4df799dec66e420"/>
+				<FILE filename="V10_CKI_U_7_5_MiFish.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="100711d504c5730a16b9b33f981c0d38"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_V10_CKI_U_7_5">
+		<EXPERIMENT_REF refname="16S_V10_CKI_U_7_5"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_U_7_5_16S.1_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="28540ddff45ac2bc25ff74ed759171fa"/>
+				<FILE filename="V10_CKI_U_7_5_16S.2_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="024925f5cc9bb8c393e8d8a088c694c8"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_12S_V10_CKI_U_7_DI" center_name="Minderoo Foundation">
+		<EXPERIMENT_REF refname="12S_V10_CKI_U_7_DI"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_U_7_DI_MiFish.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="ca1c3faf3ba78ac2d71c0c1c3d5a23b2"/>
+				<FILE filename="V10_CKI_U_7_DI_MiFish.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="bdb58f5a40401e66e48a20947fa40e5d"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_V10_CKI_U_7_DI">
+		<EXPERIMENT_REF refname="16S_V10_CKI_U_7_DI"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_U_7_DI_16S.1_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="0d963461b60aad25eab2273d41c0ec17"/>
+				<FILE filename="V10_CKI_U_7_DI_16S.2_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="e334a7aa6effeba317934197d6fd3e0c"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_12S_V10_CKI_U_7_WC" center_name="Minderoo Foundation">
+		<EXPERIMENT_REF refname="12S_V10_CKI_U_7_WC"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_U_7_WC_MiFish.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="5c9203e7a26decdf54cd62804034a0b6"/>
+				<FILE filename="V10_CKI_U_7_WC_MiFish.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="326de96eaa42927c2160b4e52c1fb08e"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_V10_CKI_U_7_WC">
+		<EXPERIMENT_REF refname="16S_V10_CKI_U_7_WC"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_U_7_WC_16S.1_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="e1202d7481a047832e996654e672a7e9"/>
+				<FILE filename="V10_CKI_U_7_WC_16S.2_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="54b2a400f02bcf93ef4e026a61acbfa8"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_12S_V10_CKI_U_8_1" center_name="Minderoo Foundation">
+		<EXPERIMENT_REF refname="12S_V10_CKI_U_8_1"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_U_8_1_MiFish.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="c1ece8ff1e7d691cbf4edecd4cb4882f"/>
+				<FILE filename="V10_CKI_U_8_1_MiFish.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="c4e3d691da7a7fcb2fae562f7381fe25"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_V10_CKI_U_8_1">
+		<EXPERIMENT_REF refname="16S_V10_CKI_U_8_1"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_U_8_1_16S.1_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="f73e4fa3a458320c068bbdc5cbf2045d"/>
+				<FILE filename="V10_CKI_U_8_1_16S.2_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="3d4699a878c969a15d2850bedfa21c02"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_12S_V10_CKI_U_8_2" center_name="Minderoo Foundation">
+		<EXPERIMENT_REF refname="12S_V10_CKI_U_8_2"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_U_8_2_MiFish.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="c48b1125b8dfc1327627a3d7aa296df1"/>
+				<FILE filename="V10_CKI_U_8_2_MiFish.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="30410e5d07cdc907be4699eed938541e"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_V10_CKI_U_8_2">
+		<EXPERIMENT_REF refname="16S_V10_CKI_U_8_2"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_U_8_2_16S.1_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="e67ac133b921ac24aec4a36be7386351"/>
+				<FILE filename="V10_CKI_U_8_2_16S.2_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="4e0a3c7bffd51a262817ab249aee2227"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_12S_V10_CKI_U_8_3" center_name="Minderoo Foundation">
+		<EXPERIMENT_REF refname="12S_V10_CKI_U_8_3"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_U_8_3_MiFish.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="64e1ca1e3bcd94fb29fc983f911032b7"/>
+				<FILE filename="V10_CKI_U_8_3_MiFish.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="66250f655a5b64ec39afc857c6e23e1e"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_V10_CKI_U_8_3">
+		<EXPERIMENT_REF refname="16S_V10_CKI_U_8_3"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_U_8_3_16S.1_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="b77bffba9d2d521f7edceba73bf8d7d1"/>
+				<FILE filename="V10_CKI_U_8_3_16S.2_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="f926654b116846b09065658278a8b551"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_12S_V10_CKI_U_8_4" center_name="Minderoo Foundation">
+		<EXPERIMENT_REF refname="12S_V10_CKI_U_8_4"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_U_8_4_MiFish.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="62e58aed90b8d36637d3126d2398a2a3"/>
+				<FILE filename="V10_CKI_U_8_4_MiFish.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="0d0e1d55d3a9c76d378fe84da879a0dc"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_V10_CKI_U_8_4">
+		<EXPERIMENT_REF refname="16S_V10_CKI_U_8_4"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_U_8_4_16S.1_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="171558926737ae2da4e8890fab14ee4f"/>
+				<FILE filename="V10_CKI_U_8_4_16S.2_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="65f4cd863872b737ccf0e2bdcfa9687b"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_12S_V10_CKI_U_8_5" center_name="Minderoo Foundation">
+		<EXPERIMENT_REF refname="12S_V10_CKI_U_8_5"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_U_8_5_MiFish.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="74b3adcfeec879d03418cf285111e623"/>
+				<FILE filename="V10_CKI_U_8_5_MiFish.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="87a5057a08a8325e3f3b567a9910bec6"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_V10_CKI_U_8_5">
+		<EXPERIMENT_REF refname="16S_V10_CKI_U_8_5"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_U_8_5_16S.1_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="a4f9e3c77aad41eae44179912e2e5ab0"/>
+				<FILE filename="V10_CKI_U_8_5_16S.2_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="03d3e0dfcb439ccc32c8979151b14e73"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_12S_V10_CKI_U_8_DI" center_name="Minderoo Foundation">
+		<EXPERIMENT_REF refname="12S_V10_CKI_U_8_DI"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_U_8_DI_MiFish.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="c8076ea55c77494bece1936ffad2e75b"/>
+				<FILE filename="V10_CKI_U_8_DI_MiFish.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="1b8dece9739afe6f0451f842dc14b1ee"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_V10_CKI_U_8_DI">
+		<EXPERIMENT_REF refname="16S_V10_CKI_U_8_DI"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_U_8_DI_16S.1_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="1a6ba476d394ccb539f9aa5651da860c"/>
+				<FILE filename="V10_CKI_U_8_DI_16S.2_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="2a4979a1caaee9f4f5fa15132e5eefbd"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_12S_V10_CKI_U_8_WC" center_name="Minderoo Foundation">
+		<EXPERIMENT_REF refname="12S_V10_CKI_U_8_WC"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_U_8_WC_MiFish.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="6add2923c64aa016691fa3ccc3d0b774"/>
+				<FILE filename="V10_CKI_U_8_WC_MiFish.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="b0062b1766fbd31a9e3e3fd595b71087"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_V10_CKI_U_8_WC">
+		<EXPERIMENT_REF refname="16S_V10_CKI_U_8_WC"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_U_8_WC_16S.1_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="b188e90c077d24ec437a87b1108060ab"/>
+				<FILE filename="V10_CKI_U_8_WC_16S.2_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="f15ec0dc34b58634bf7959bc50943848"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_12S_V10_CKI_V_6_1" center_name="Minderoo Foundation">
+		<EXPERIMENT_REF refname="12S_V10_CKI_V_6_1"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_V_6_1_MiFish.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="cf184f89350a12178398a05b03281a10"/>
+				<FILE filename="V10_CKI_V_6_1_MiFish.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="7eb013237f3141823bc33dfa3442767b"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_V10_CKI_V_6_1">
+		<EXPERIMENT_REF refname="16S_V10_CKI_V_6_1"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_V_6_1_16S.1_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="51bd6ad9034a30960ab9e3eddbb147ff"/>
+				<FILE filename="V10_CKI_V_6_1_16S.2_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="fc560e9d70ec09a7629a95b4d5182937"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_12S_V10_CKI_V_6_2" center_name="Minderoo Foundation">
+		<EXPERIMENT_REF refname="12S_V10_CKI_V_6_2"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_V_6_2_MiFish.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="77cee687f87c52a27708950b2bd19cdc"/>
+				<FILE filename="V10_CKI_V_6_2_MiFish.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="daf078d21819e16a3daf80bf9782476e"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_V10_CKI_V_6_2">
+		<EXPERIMENT_REF refname="16S_V10_CKI_V_6_2"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_V_6_2_16S.1_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="d510802cc8381332d1e2130c6d962b99"/>
+				<FILE filename="V10_CKI_V_6_2_16S.2_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="33e0eb5c6c735a84455c7ae95fa5fc2d"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_12S_V10_CKI_V_6_3" center_name="Minderoo Foundation">
+		<EXPERIMENT_REF refname="12S_V10_CKI_V_6_3"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_V_6_3_MiFish.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="ed76ec7574fa0658334133f269d31e89"/>
+				<FILE filename="V10_CKI_V_6_3_MiFish.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="2e54ff912d39e07120f5d0279ce81dc5"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_V10_CKI_V_6_3">
+		<EXPERIMENT_REF refname="16S_V10_CKI_V_6_3"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_V_6_3_16S.1_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="327717f8ef073ef92f8f050991c417a7"/>
+				<FILE filename="V10_CKI_V_6_3_16S.2_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="65e1ab9563e3a9eaa9b5c1632316e6fa"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_12S_V10_CKI_V_6_4" center_name="Minderoo Foundation">
+		<EXPERIMENT_REF refname="12S_V10_CKI_V_6_4"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_V_6_4_MiFish.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="25ee028a99bcc6797c07aa6ce5a0902b"/>
+				<FILE filename="V10_CKI_V_6_4_MiFish.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="453370f0d900a4f95f21d6d8de86b58b"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_V10_CKI_V_6_4">
+		<EXPERIMENT_REF refname="16S_V10_CKI_V_6_4"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_V_6_4_16S.1_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="f6cdc910689c0c3e85453aa111595cba"/>
+				<FILE filename="V10_CKI_V_6_4_16S.2_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="5951985890ac845852c870a372b1d9ce"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_12S_V10_CKI_V_6_5" center_name="Minderoo Foundation">
+		<EXPERIMENT_REF refname="12S_V10_CKI_V_6_5"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_V_6_5_MiFish.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="4bde0b58f2fa183809dd5165f4a87d72"/>
+				<FILE filename="V10_CKI_V_6_5_MiFish.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="e5f234e63bc5a25936817ee57743f994"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_V10_CKI_V_6_5">
+		<EXPERIMENT_REF refname="16S_V10_CKI_V_6_5"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_V_6_5_16S.1_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="51041960ad3a73f279ffcf3c62f1ceca"/>
+				<FILE filename="V10_CKI_V_6_5_16S.2_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="8bea4a54a96e5c55781b5acd5859345e"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_12S_V10_CKI_V_6_DI" center_name="Minderoo Foundation">
+		<EXPERIMENT_REF refname="12S_V10_CKI_V_6_DI"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_V_6_DI_MiFish.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="04f109c97f344a807f4fce5e0a4ac6ff"/>
+				<FILE filename="V10_CKI_V_6_DI_MiFish.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="a646a0fb67133ce3be264149d7bb317d"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_V10_CKI_V_6_DI">
+		<EXPERIMENT_REF refname="16S_V10_CKI_V_6_DI"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_V_6_DI_16S.1_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="3119facafabbc876400c711448a53847"/>
+				<FILE filename="V10_CKI_V_6_DI_16S.2_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="bff988cb155364ccc33fe933dd0121f9"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_12S_V10_CKI_V_6_WC" center_name="Minderoo Foundation">
+		<EXPERIMENT_REF refname="12S_V10_CKI_V_6_WC"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_V_6_WC_MiFish.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="9562fc08ffc3736ad506c1b6ee3605ab"/>
+				<FILE filename="V10_CKI_V_6_WC_MiFish.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="e94f13ed168b394f1d25d9b4aee81274"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_V10_CKI_V_6_WC">
+		<EXPERIMENT_REF refname="16S_V10_CKI_V_6_WC"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_V_6_WC_16S.1_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="7ffbf8ebf8669228e87a4aa4d56922f5"/>
+				<FILE filename="V10_CKI_V_6_WC_16S.2_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="a2d910822797b57667a74939218cf554"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_12S_V10_CKI_V_9_1" center_name="Minderoo Foundation">
+		<EXPERIMENT_REF refname="12S_V10_CKI_V_9_1"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_V_9_1_MiFish.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="4f5eb4dc31beacbe7183119ab24d2567"/>
+				<FILE filename="V10_CKI_V_9_1_MiFish.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="3df6e6eb15de1f25f5a7082da19a548b"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_V10_CKI_V_9_1">
+		<EXPERIMENT_REF refname="16S_V10_CKI_V_9_1"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_V_9_1_16S.1_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="7c35a2dc43f1479789c2f2b72abec15b"/>
+				<FILE filename="V10_CKI_V_9_1_16S.2_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="d4b323ac7f2b31d56eb1a072c11227b3"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_12S_V10_CKI_V_9_2" center_name="Minderoo Foundation">
+		<EXPERIMENT_REF refname="12S_V10_CKI_V_9_2"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_V_9_2_MiFish.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="7070f72b3e77c1d2a980faa5d2f9bb29"/>
+				<FILE filename="V10_CKI_V_9_2_MiFish.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="5d3385a34f70ebbf3fe311737417c999"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_V10_CKI_V_9_2">
+		<EXPERIMENT_REF refname="16S_V10_CKI_V_9_2"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_V_9_2_16S.1_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="9c7fafee78725b9b8079f12cf05302a6"/>
+				<FILE filename="V10_CKI_V_9_2_16S.2_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="42017fb65eb4f5c66ff4759fddbb5a1c"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_12S_V10_CKI_V_9_3" center_name="Minderoo Foundation">
+		<EXPERIMENT_REF refname="12S_V10_CKI_V_9_3"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_V_9_3_MiFish.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="7d76c03db84ec36a8db04cc9885b108c"/>
+				<FILE filename="V10_CKI_V_9_3_MiFish.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="9dc3f1cedbf39e44302369328110ec59"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_V10_CKI_V_9_3">
+		<EXPERIMENT_REF refname="16S_V10_CKI_V_9_3"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_V_9_3_16S.1_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="14817c38444b962e7710b18d53258262"/>
+				<FILE filename="V10_CKI_V_9_3_16S.2_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="7e03106fdd5c68b87f13e8782f8d4201"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_12S_V10_CKI_V_9_4" center_name="Minderoo Foundation">
+		<EXPERIMENT_REF refname="12S_V10_CKI_V_9_4"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_V_9_4_MiFish.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="674cdfedc867c6245cb23cae607dbe94"/>
+				<FILE filename="V10_CKI_V_9_4_MiFish.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="dc363f5cde0a12a04a2374d24352a48a"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_V10_CKI_V_9_4">
+		<EXPERIMENT_REF refname="16S_V10_CKI_V_9_4"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_V_9_4_16S.1_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="67bd7f5e807856ac64bdf948c62ae8d9"/>
+				<FILE filename="V10_CKI_V_9_4_16S.2_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="f5e99b9c3a5bf9a85e034f46fe5300dc"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_12S_V10_CKI_V_9_5" center_name="Minderoo Foundation">
+		<EXPERIMENT_REF refname="12S_V10_CKI_V_9_5"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_V_9_5_MiFish.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="2417ae1ed7859211ca6b8c54f9494ef6"/>
+				<FILE filename="V10_CKI_V_9_5_MiFish.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="502bad0634438d1ee7749b4c01d2b20d"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_V10_CKI_V_9_5">
+		<EXPERIMENT_REF refname="16S_V10_CKI_V_9_5"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_V_9_5_16S.1_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="a2c2daa29773d2a853ea1fb6ecd00380"/>
+				<FILE filename="V10_CKI_V_9_5_16S.2_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="bc216a3666d591c9959ae196daa0854f"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_12S_V10_CKI_V_9_DI" center_name="Minderoo Foundation">
+		<EXPERIMENT_REF refname="12S_V10_CKI_V_9_DI"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_V_9_DI_MiFish.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="0afb71c74fc28d78f8a380f0348b2264"/>
+				<FILE filename="V10_CKI_V_9_DI_MiFish.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="433294d1fcdcba6b230f505cee12b087"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_V10_CKI_V_9_DI">
+		<EXPERIMENT_REF refname="16S_V10_CKI_V_9_DI"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_V_9_DI_16S.1_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="837f081c82e46be9d202fa29ca1620fc"/>
+				<FILE filename="V10_CKI_V_9_DI_16S.2_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="857ca8de601bfb72e6ab91288f687bc8"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_12S_V10_CKI_V_9_WC" center_name="Minderoo Foundation">
+		<EXPERIMENT_REF refname="12S_V10_CKI_V_9_WC"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_V_9_WC_MiFish.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="d1a7ed4eae3ecc2e25dd538a74d6b7d6"/>
+				<FILE filename="V10_CKI_V_9_WC_MiFish.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="fd2a7aadeb15dbc2e8755cd050f860bc"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+	<RUN alias="run_16S_V10_CKI_V_9_WC">
+		<EXPERIMENT_REF refname="16S_V10_CKI_V_9_WC"/>
+		<DATA_BLOCK>
+			<FILES>
+				<FILE filename="V10_CKI_V_9_WC_16S.1_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="2d7607e2540a344736f7a1fb9bc6f07d"/>
+				<FILE filename="V10_CKI_V_9_WC_16S.2_fastqc.zip" filetype="fastq"
+				 checksum_method="MD5" checksum="6192963529ed215f488db9c8660dba5d"/>
+			</FILES>
+		</DATA_BLOCK>
+	</RUN>
+</RUN_SET>

@@ -23,7 +23,7 @@ for line in open('../0-study/project.xml'):
         break
 
 accessions_aliases = []
-for line in open('../1-samples/RESULTS.xml'):
+for line in open('../2-fixSamples/RESULTS.xml'):
     ll = line.split()
     if '<SAMPLE' in line:
         #['<SAMPLE', 'accession="ERS15947778"', 'alias="TVB_5"', 'status="PRIVATE">']

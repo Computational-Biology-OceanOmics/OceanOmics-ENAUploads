@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="receipt.xsl"?>
+<RECEIPT receiptDate="2023-07-02T02:52:30.783+01:00" submissionFile="submission.xml" success="true">
+     <SAMPLE accession="ERS15959914" alias="C13_A" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967795" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959915" alias="C13_B" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967796" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959916" alias="C13_C" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967797" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959917" alias="C13_D" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967798" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959918" alias="C13_E" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967799" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959919" alias="C20_A" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967800" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959920" alias="C20_B" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967801" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959921" alias="C20_C" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967802" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959922" alias="C20_D" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967803" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959923" alias="C20_E" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967804" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959924" alias="EB1_2019_" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967805" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959925" alias="EB2_2019_" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967806" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959926" alias="FC1" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967807" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959927" alias="FC2" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967808" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959928" alias="FC3" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967809" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959929" alias="I11_A" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967810" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959930" alias="I11_B" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967811" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959931" alias="I11_C" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967812" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959932" alias="I11_D" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967813" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959933" alias="I11_E" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967814" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959934" alias="I13_A" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967815" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959935" alias="I13_B" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967816" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959936" alias="I13_C" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967817" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959937" alias="I13_D" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967818" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959938" alias="I13_E" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967819" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959939" alias="M11_A" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967820" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959940" alias="M11_B" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967821" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959941" alias="M11_C" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967822" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959942" alias="M11_D" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967823" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959943" alias="M11_E" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967824" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959944" alias="M12_A" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967825" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959945" alias="M12_B" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967826" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959946" alias="M12_C" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967827" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959947" alias="M12_D" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967828" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959948" alias="M12_E" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967829" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959949" alias="RS19_NTC" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967830" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959950" alias="RS1_1_A" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967831" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959951" alias="RS1_1_B" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967832" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959952" alias="RS1_1_C" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967833" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959953" alias="RS1_1_D" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967834" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959954" alias="RS1_1_E" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967835" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959955" alias="RS1_S_B" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967836" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959956" alias="RS1_S_C" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967837" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959957" alias="RS1_S_D" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967838" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959958" alias="RS2_1_A" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967839" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959959" alias="RS2_1_B" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967840" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959960" alias="RS2_1_C" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967841" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959961" alias="RS2_1_D" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967842" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959962" alias="RS2_1_E" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967843" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959963" alias="RS2_S_A" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967844" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959964" alias="RS2_S_B" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967845" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959965" alias="RS2_S_C" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967846" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959966" alias="RS2_S_D" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967847" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959967" alias="RS2_S_E" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967848" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959968" alias="RS3_1_A" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967849" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959969" alias="RS3_1_B" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967850" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959970" alias="RS3_1_C" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967851" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959971" alias="RS3_1_D" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967852" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959972" alias="RS3_1_E" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967853" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959973" alias="RS3_S_A" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967854" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959974" alias="RS3_S_B" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967855" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959975" alias="RS3_S_C" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967856" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959976" alias="RS3_S_D" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967857" type="biosample"/>
+     </SAMPLE>
+     <SAMPLE accession="ERS15959977" alias="RS3_S_E" status="PRIVATE">
+          <EXT_ID accession="SAMEA113967858" type="biosample"/>
+     </SAMPLE>
+     <SUBMISSION accession="" alias="SUBMISSION-02-07-2023-02:52:26:663"/>
+     <MESSAGES>
+          <INFO>The XML md5 checksum for the object being updated has not changed. No update required for ERS15959914.</INFO>
+          <INFO>The XML md5 checksum for the object being updated has not changed. No update required for ERS15959915.</INFO>
+          <INFO>The XML md5 checksum for the object being updated has not changed. No update required for ERS15959916.</INFO>
+          <INFO>The XML md5 checksum for the object being updated has not changed. No update required for ERS15959917.</INFO>
+          <INFO>The XML md5 checksum for the object being updated has not changed. No update required for ERS15959918.</INFO>
+          <INFO>The XML md5 checksum for the object being updated has not changed. No update required for ERS15959919.</INFO>
+          <INFO>The XML md5 checksum for the object being updated has not changed. No update required for ERS15959920.</INFO>
+          <INFO>The XML md5 checksum for the object being updated has not changed. No update required for ERS15959921.</INFO>
+          <INFO>The XML md5 checksum for the object being updated has not changed. No update required for ERS15959922.</INFO>
+          <INFO>The XML md5 checksum for the object being updated has not changed. No update required for ERS15959923.</INFO>
+          <INFO>The XML md5 checksum for the object being updated has not changed. No update required for ERS15959924.</INFO>
+          <INFO>The XML md5 checksum for the object being updated has not changed. No update required for ERS15959925.</INFO>
+          <INFO>The XML md5 checksum for the object being updated has not changed. No update required for ERS15959926.</INFO>
+          <INFO>The XML md5 checksum for the object being updated has not changed. No update required for ERS15959927.</INFO>
+          <INFO>The XML md5 checksum for the object being updated has not changed. No update required for ERS15959928.</INFO>
+          <INFO>The XML md5 checksum for the object being updated has not changed. No update required for ERS15959929.</INFO>
+          <INFO>The XML md5 checksum for the object being updated has not changed. No update required for ERS15959930.</INFO>
+          <INFO>The XML md5 checksum for the object being updated has not changed. No update required for ERS15959931.</INFO>
+          <INFO>The XML md5 checksum for the object being updated has not changed. No update required for ERS15959932.</INFO>
+          <INFO>The XML md5 checksum for the object being updated has not changed. No update required for ERS15959933.</INFO>
+          <INFO>The XML md5 checksum for the object being updated has not changed. No update required for ERS15959934.</INFO>
+          <INFO>The XML md5 checksum for the object being updated has not changed. No update required for ERS15959935.</INFO>
+          <INFO>The XML md5 checksum for the object being updated has not changed. No update required for ERS15959936.</INFO>
+          <INFO>The XML md5 checksum for the object being updated has not changed. No update required for ERS15959937.</INFO>
+          <INFO>The XML md5 checksum for the object being updated has not changed. No update required for ERS15959938.</INFO>
+          <INFO>The XML md5 checksum for the object being updated has not changed. No update required for ERS15959939.</INFO>
+          <INFO>The XML md5 checksum for the object being updated has not changed. No update required for ERS15959940.</INFO>
+          <INFO>The XML md5 checksum for the object being updated has not changed. No update required for ERS15959941.</INFO>
+          <INFO>The XML md5 checksum for the object being updated has not changed. No update required for ERS15959942.</INFO>
+          <INFO>The XML md5 checksum for the object being updated has not changed. No update required for ERS15959943.</INFO>
+          <INFO>The XML md5 checksum for the object being updated has not changed. No update required for ERS15959944.</INFO>
+          <INFO>The XML md5 checksum for the object being updated has not changed. No update required for ERS15959945.</INFO>
+          <INFO>The XML md5 checksum for the object being updated has not changed. No update required for ERS15959946.</INFO>
+          <INFO>The XML md5 checksum for the object being updated has not changed. No update required for ERS15959947.</INFO>
+          <INFO>The XML md5 checksum for the object being updated has not changed. No update required for ERS15959948.</INFO>
+          <INFO>The XML md5 checksum for the object being updated has not changed. No update required for ERS15959949.</INFO>
+          <INFO>The XML md5 checksum for the object being updated has not changed. No update required for ERS15959950.</INFO>
+          <INFO>The XML md5 checksum for the object being updated has not changed. No update required for ERS15959951.</INFO>
+          <INFO>The XML md5 checksum for the object being updated has not changed. No update required for ERS15959952.</INFO>
+          <INFO>The XML md5 checksum for the object being updated has not changed. No update required for ERS15959953.</INFO>
+          <INFO>The XML md5 checksum for the object being updated has not changed. No update required for ERS15959954.</INFO>
+          <INFO>The XML md5 checksum for the object being updated has not changed. No update required for ERS15959955.</INFO>
+          <INFO>The XML md5 checksum for the object being updated has not changed. No update required for ERS15959956.</INFO>
+          <INFO>The XML md5 checksum for the object being updated has not changed. No update required for ERS15959957.</INFO>
+          <INFO>The XML md5 checksum for the object being updated has not changed. No update required for ERS15959958.</INFO>
+          <INFO>The XML md5 checksum for the object being updated has not changed. No update required for ERS15959959.</INFO>
+          <INFO>The XML md5 checksum for the object being updated has not changed. No update required for ERS15959960.</INFO>
+          <INFO>The XML md5 checksum for the object being updated has not changed. No update required for ERS15959961.</INFO>
+          <INFO>The XML md5 checksum for the object being updated has not changed. No update required for ERS15959962.</INFO>
+          <INFO>The XML md5 checksum for the object being updated has not changed. No update required for ERS15959963.</INFO>
+          <INFO>The XML md5 checksum for the object being updated has not changed. No update required for ERS15959964.</INFO>
+          <INFO>The XML md5 checksum for the object being updated has not changed. No update required for ERS15959965.</INFO>
+          <INFO>The XML md5 checksum for the object being updated has not changed. No update required for ERS15959966.</INFO>
+          <INFO>The XML md5 checksum for the object being updated has not changed. No update required for ERS15959967.</INFO>
+          <INFO>The XML md5 checksum for the object being updated has not changed. No update required for ERS15959968.</INFO>
+          <INFO>The XML md5 checksum for the object being updated has not changed. No update required for ERS15959969.</INFO>
+          <INFO>The XML md5 checksum for the object being updated has not changed. No update required for ERS15959970.</INFO>
+          <INFO>The XML md5 checksum for the object being updated has not changed. No update required for ERS15959971.</INFO>
+          <INFO>The XML md5 checksum for the object being updated has not changed. No update required for ERS15959972.</INFO>
+          <INFO>The XML md5 checksum for the object being updated has not changed. No update required for ERS15959973.</INFO>
+          <INFO>The XML md5 checksum for the object being updated has not changed. No update required for ERS15959974.</INFO>
+          <INFO>The XML md5 checksum for the object being updated has not changed. No update required for ERS15959975.</INFO>
+          <INFO>The XML md5 checksum for the object being updated has not changed. No update required for ERS15959976.</INFO>
+          <INFO>The XML md5 checksum for the object being updated has not changed. No update required for ERS15959977.</INFO>
+     </MESSAGES>
+     <ACTIONS>MODIFY</ACTIONS>
+</RECEIPT>
