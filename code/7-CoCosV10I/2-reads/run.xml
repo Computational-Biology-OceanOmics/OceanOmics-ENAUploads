@@ -14,10 +14,10 @@
 		<EXPERIMENT_REF refname="16S_NTC1"/>
 		<DATA_BLOCK>
 			<FILES>
-				<FILE filename="NTC1_16S.1_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="36edb026b5240666d5242170d6ad22e6"/>
-				<FILE filename="NTC1_16S.2_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="3d099a7ee4ce286cb7dc15f1ef0600de"/>
+				<FILE filename="NTC1_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="82d7f33916a5a493cced1128d7b33129"/>
+				<FILE filename="NTC1_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="639cf4cb345299e7090b12b5177579c1"/>
 			</FILES>
 		</DATA_BLOCK>
 	</RUN>
@@ -36,10 +36,10 @@
 		<EXPERIMENT_REF refname="16S_V10_CKI_BC_1"/>
 		<DATA_BLOCK>
 			<FILES>
-				<FILE filename="V10_CKI_BC_1_16S.1_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="9c7efe514343d571ca672d81208a13e6"/>
-				<FILE filename="V10_CKI_BC_1_16S.2_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="fb05d1a458e49eb16abe4856e4c34473"/>
+				<FILE filename="V10_CKI_BC_1_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="e0ebc72aa94ecbf7291da2355ab1a170"/>
+				<FILE filename="V10_CKI_BC_1_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="ec10b9f6a038839fc0fda6208e6f57cf"/>
 			</FILES>
 		</DATA_BLOCK>
 	</RUN>
@@ -58,10 +58,10 @@
 		<EXPERIMENT_REF refname="16S_V10_CKI_BC_2"/>
 		<DATA_BLOCK>
 			<FILES>
-				<FILE filename="V10_CKI_BC_2_16S.1_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="44d07743587a10b044e9a05b81f89e44"/>
-				<FILE filename="V10_CKI_BC_2_16S.2_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="9ffebc235f6457b9b3f87926ce09c7b1"/>
+				<FILE filename="V10_CKI_BC_2_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="20ca2245d913d26c03485d0d416fb508"/>
+				<FILE filename="V10_CKI_BC_2_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="0afcfe3e5eb71cb9628dccad8e059f4a"/>
 			</FILES>
 		</DATA_BLOCK>
 	</RUN>
@@ -80,10 +80,10 @@
 		<EXPERIMENT_REF refname="16S_V10_CKI_BC_3"/>
 		<DATA_BLOCK>
 			<FILES>
-				<FILE filename="V10_CKI_BC_3_16S.1_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="d37536096b85a17acd8cb3550354455c"/>
-				<FILE filename="V10_CKI_BC_3_16S.2_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="0c35cc1a5b0dc61e638aa65f0e4d3c02"/>
+				<FILE filename="V10_CKI_BC_3_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="bc33d4e96da5f7adca1386cf866a2723"/>
+				<FILE filename="V10_CKI_BC_3_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="32e5ed40ec9635b919d5fcbdf118ab66"/>
 			</FILES>
 		</DATA_BLOCK>
 	</RUN>
@@ -102,10 +102,10 @@
 		<EXPERIMENT_REF refname="16S_V10_CKI_BC_4"/>
 		<DATA_BLOCK>
 			<FILES>
-				<FILE filename="V10_CKI_BC_4_16S.1_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="dd2c1e0b9b67decad53fb7b85fd17469"/>
-				<FILE filename="V10_CKI_BC_4_16S.2_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="545ca0f55b90735fa66d1151be96adc4"/>
+				<FILE filename="V10_CKI_BC_4_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="00de38b23e0ccb10ef85ba37dad33efa"/>
+				<FILE filename="V10_CKI_BC_4_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="0364970c9788b280a5d5535d2639d6c0"/>
 			</FILES>
 		</DATA_BLOCK>
 	</RUN>
@@ -124,10 +124,10 @@
 		<EXPERIMENT_REF refname="16S_V10_CKI_BC_5"/>
 		<DATA_BLOCK>
 			<FILES>
-				<FILE filename="V10_CKI_BC_5_16S.1_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="bdc34198c9b870cda008659b8fceee12"/>
-				<FILE filename="V10_CKI_BC_5_16S.2_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="24e3619463c5fb09d142a4224175d4b4"/>
+				<FILE filename="V10_CKI_BC_5_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="edde40d15f8a5ab2db028b4185930e33"/>
+				<FILE filename="V10_CKI_BC_5_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="f9eedb7ee6c7f4bd9b9c61912ad69298"/>
 			</FILES>
 		</DATA_BLOCK>
 	</RUN>
@@ -146,10 +146,10 @@
 		<EXPERIMENT_REF refname="16S_V10_CKI_EB_1"/>
 		<DATA_BLOCK>
 			<FILES>
-				<FILE filename="V10_CKI_EB_1_16S.1_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="793557bc5ba41a227ba9f7340725c758"/>
-				<FILE filename="V10_CKI_EB_1_16S.2_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="3ca9d0f2f8e3409c25c748315c68e3f9"/>
+				<FILE filename="V10_CKI_EB_1_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="1faaf89adfd8bb0e451eb7704cf2683b"/>
+				<FILE filename="V10_CKI_EB_1_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="47a8e57958166fb540b3e06ba91dc9c2"/>
 			</FILES>
 		</DATA_BLOCK>
 	</RUN>
@@ -168,10 +168,10 @@
 		<EXPERIMENT_REF refname="16S_V10_CKI_EB_2"/>
 		<DATA_BLOCK>
 			<FILES>
-				<FILE filename="V10_CKI_EB_2_16S.1_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="1d6cd1a234bc910afc0d55d1b71a6642"/>
-				<FILE filename="V10_CKI_EB_2_16S.2_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="b662d3dc063548818c77b34ccc39b99c"/>
+				<FILE filename="V10_CKI_EB_2_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="b12c2b717df4813597b173c3ce213107"/>
+				<FILE filename="V10_CKI_EB_2_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="fe2cd242126f7f1ad89c9e684b766b87"/>
 			</FILES>
 		</DATA_BLOCK>
 	</RUN>
@@ -190,10 +190,10 @@
 		<EXPERIMENT_REF refname="16S_V10_CKI_EB_3"/>
 		<DATA_BLOCK>
 			<FILES>
-				<FILE filename="V10_CKI_EB_3_16S.1_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="2697420682caa23314a6ccec519163de"/>
-				<FILE filename="V10_CKI_EB_3_16S.2_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="714180713cfb7ccd374c61f992156c66"/>
+				<FILE filename="V10_CKI_EB_3_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="21cf1e6b2a9555c69df60706dcf2388e"/>
+				<FILE filename="V10_CKI_EB_3_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="028169227c97a699cba95ef0426d881a"/>
 			</FILES>
 		</DATA_BLOCK>
 	</RUN>
@@ -212,10 +212,10 @@
 		<EXPERIMENT_REF refname="16S_V10_CKI_EB_4"/>
 		<DATA_BLOCK>
 			<FILES>
-				<FILE filename="V10_CKI_EB_4_16S.1_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="c5d98c095eb6f88443cc5bb0225748f9"/>
-				<FILE filename="V10_CKI_EB_4_16S.2_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="cca2575243a9947200d3b530c7556d52"/>
+				<FILE filename="V10_CKI_EB_4_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="c00b52e3cd7ef5404f227c22ef562d03"/>
+				<FILE filename="V10_CKI_EB_4_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="b0db739072138d426447f4da9761136d"/>
 			</FILES>
 		</DATA_BLOCK>
 	</RUN>
@@ -234,10 +234,10 @@
 		<EXPERIMENT_REF refname="16S_V10_CKI_N_1_1"/>
 		<DATA_BLOCK>
 			<FILES>
-				<FILE filename="V10_CKI_N_1_1_16S.1_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="ddc4c74f425730466d3f3121c9a2d79f"/>
-				<FILE filename="V10_CKI_N_1_1_16S.2_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="733c24dd1fac280dfd0bf77ca27769af"/>
+				<FILE filename="V10_CKI_N_1_1_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="ac4d2bf3575d1fec399375d20e9e9d4b"/>
+				<FILE filename="V10_CKI_N_1_1_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="143b41e6e384043fa93e7ee727780815"/>
 			</FILES>
 		</DATA_BLOCK>
 	</RUN>
@@ -256,10 +256,10 @@
 		<EXPERIMENT_REF refname="16S_V10_CKI_N_1_2"/>
 		<DATA_BLOCK>
 			<FILES>
-				<FILE filename="V10_CKI_N_1_2_16S.1_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="1b9ff95853bccd1d7fe1d7eeb7183b59"/>
-				<FILE filename="V10_CKI_N_1_2_16S.2_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="7dbf8caa24d0c2d1f9dcb4c4f767f5f7"/>
+				<FILE filename="V10_CKI_N_1_2_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="9f8f580c17860d773f151cf2cab16a32"/>
+				<FILE filename="V10_CKI_N_1_2_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="70faded090f2bff4c5f69d3d1d0a0c0c"/>
 			</FILES>
 		</DATA_BLOCK>
 	</RUN>
@@ -278,10 +278,10 @@
 		<EXPERIMENT_REF refname="16S_V10_CKI_N_1_3"/>
 		<DATA_BLOCK>
 			<FILES>
-				<FILE filename="V10_CKI_N_1_3_16S.1_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="ec55d4fa67f634ca1576dea0731a2f9e"/>
-				<FILE filename="V10_CKI_N_1_3_16S.2_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="03444956d084d7338c28d839590a86e4"/>
+				<FILE filename="V10_CKI_N_1_3_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="7a7f835f321ddb589ed57d42df0c3f74"/>
+				<FILE filename="V10_CKI_N_1_3_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="02d747f1aafc0d410645301bb747041b"/>
 			</FILES>
 		</DATA_BLOCK>
 	</RUN>
@@ -300,10 +300,10 @@
 		<EXPERIMENT_REF refname="16S_V10_CKI_N_1_4"/>
 		<DATA_BLOCK>
 			<FILES>
-				<FILE filename="V10_CKI_N_1_4_16S.1_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="6897d65c4da17ef5313bb2ce17250066"/>
-				<FILE filename="V10_CKI_N_1_4_16S.2_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="651f0208176af1383e1fc86442b37c8b"/>
+				<FILE filename="V10_CKI_N_1_4_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="65f1ee511eb701c8249517cb7cd9ddab"/>
+				<FILE filename="V10_CKI_N_1_4_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="a8ed404428edbfe91ee0bb3867378aed"/>
 			</FILES>
 		</DATA_BLOCK>
 	</RUN>
@@ -322,10 +322,10 @@
 		<EXPERIMENT_REF refname="16S_V10_CKI_N_1_5"/>
 		<DATA_BLOCK>
 			<FILES>
-				<FILE filename="V10_CKI_N_1_5_16S.1_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="714782c907c7b7cbfeb2103cb8400516"/>
-				<FILE filename="V10_CKI_N_1_5_16S.2_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="303c6294a6252610f830ef099c6bd6b1"/>
+				<FILE filename="V10_CKI_N_1_5_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="b205f20e3fa1c46d5968ffe2cd2a4352"/>
+				<FILE filename="V10_CKI_N_1_5_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="6b1f181eb545798f7f0f6ba45461ec30"/>
 			</FILES>
 		</DATA_BLOCK>
 	</RUN>
@@ -344,10 +344,10 @@
 		<EXPERIMENT_REF refname="16S_V10_CKI_N_1_DI"/>
 		<DATA_BLOCK>
 			<FILES>
-				<FILE filename="V10_CKI_N_1_DI_16S.1_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="703617de446bb5eaddc4bf3853400b9b"/>
-				<FILE filename="V10_CKI_N_1_DI_16S.2_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="6f856fa3da5e8b554d5958addbf328e0"/>
+				<FILE filename="V10_CKI_N_1_DI_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="cc901122f877406def9010af19603288"/>
+				<FILE filename="V10_CKI_N_1_DI_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="bc53aa0a3f07f78223eb57b727e75db7"/>
 			</FILES>
 		</DATA_BLOCK>
 	</RUN>
@@ -366,10 +366,10 @@
 		<EXPERIMENT_REF refname="16S_V10_CKI_N_1_WC"/>
 		<DATA_BLOCK>
 			<FILES>
-				<FILE filename="V10_CKI_N_1_WC_16S.1_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="135b7d713159079fac43d11a7448575e"/>
-				<FILE filename="V10_CKI_N_1_WC_16S.2_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="cbacad7a925b604ceef02c87730446a2"/>
+				<FILE filename="V10_CKI_N_1_WC_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="dbfe7b2ba3115b9c4eac1729b3269739"/>
+				<FILE filename="V10_CKI_N_1_WC_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="c00d87a994f928da2523f68577f7cb70"/>
 			</FILES>
 		</DATA_BLOCK>
 	</RUN>
@@ -388,10 +388,10 @@
 		<EXPERIMENT_REF refname="16S_V10_CKI_N_10_1"/>
 		<DATA_BLOCK>
 			<FILES>
-				<FILE filename="V10_CKI_N_10_1_16S.1_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="7aa2216de633cdf326876c4228ed17d9"/>
-				<FILE filename="V10_CKI_N_10_1_16S.2_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="9646d1c521ca570d051f4e7185a8b87f"/>
+				<FILE filename="V10_CKI_N_10_1_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="b2e5bb22e3b83b36d8908dcc8f98d660"/>
+				<FILE filename="V10_CKI_N_10_1_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="cabfeb6b354b71fd644583afaf6d13b9"/>
 			</FILES>
 		</DATA_BLOCK>
 	</RUN>
@@ -410,10 +410,10 @@
 		<EXPERIMENT_REF refname="16S_V10_CKI_N_10_2"/>
 		<DATA_BLOCK>
 			<FILES>
-				<FILE filename="V10_CKI_N_10_2_16S.1_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="d6c0a244e57e36021949d8f2434e53d8"/>
-				<FILE filename="V10_CKI_N_10_2_16S.2_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="7f13b71bed3c6235209cb7f7dcb4f643"/>
+				<FILE filename="V10_CKI_N_10_2_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="7d2556e3c5454df355f9501d3848e98f"/>
+				<FILE filename="V10_CKI_N_10_2_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="af00642f142c5e05dad3464c190c4d53"/>
 			</FILES>
 		</DATA_BLOCK>
 	</RUN>
@@ -432,10 +432,10 @@
 		<EXPERIMENT_REF refname="16S_V10_CKI_N_10_3"/>
 		<DATA_BLOCK>
 			<FILES>
-				<FILE filename="V10_CKI_N_10_3_16S.1_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="107755be8c5857ffefc069eeebb5ded1"/>
-				<FILE filename="V10_CKI_N_10_3_16S.2_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="10c2ad8874eb2ee52e1ac3a4550a7d98"/>
+				<FILE filename="V10_CKI_N_10_3_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="28de22ce3452a7935e3cd86352d5508b"/>
+				<FILE filename="V10_CKI_N_10_3_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="246ae161ab4a42f4373af0e244a1b861"/>
 			</FILES>
 		</DATA_BLOCK>
 	</RUN>
@@ -454,10 +454,10 @@
 		<EXPERIMENT_REF refname="16S_V10_CKI_N_10_4"/>
 		<DATA_BLOCK>
 			<FILES>
-				<FILE filename="V10_CKI_N_10_4_16S.1_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="ad33fd1363e387164a2aae18ced4d42d"/>
-				<FILE filename="V10_CKI_N_10_4_16S.2_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="05be81ac92e52d8e1fcff1f70bd6763e"/>
+				<FILE filename="V10_CKI_N_10_4_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="25ea127beb8c0586d7711cf107be36bf"/>
+				<FILE filename="V10_CKI_N_10_4_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="f45082b7fd8ac482bb17385328d0d19b"/>
 			</FILES>
 		</DATA_BLOCK>
 	</RUN>
@@ -476,10 +476,10 @@
 		<EXPERIMENT_REF refname="16S_V10_CKI_N_10_5"/>
 		<DATA_BLOCK>
 			<FILES>
-				<FILE filename="V10_CKI_N_10_5_16S.1_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="728dc8b68023cb5faa51a0110a999417"/>
-				<FILE filename="V10_CKI_N_10_5_16S.2_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="3d7f9b3441987d7796b78c628a9e5065"/>
+				<FILE filename="V10_CKI_N_10_5_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="402cc31ca0b323dd2eeb1554354761e3"/>
+				<FILE filename="V10_CKI_N_10_5_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="51a5c85b128b0ba8d24e0c79ec2181e9"/>
 			</FILES>
 		</DATA_BLOCK>
 	</RUN>
@@ -498,10 +498,10 @@
 		<EXPERIMENT_REF refname="16S_V10_CKI_N_10_DI"/>
 		<DATA_BLOCK>
 			<FILES>
-				<FILE filename="V10_CKI_N_10_DI_16S.1_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="617cd0e9ede17a72acaee3bdea2bd8b4"/>
-				<FILE filename="V10_CKI_N_10_DI_16S.2_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="bb2b438d58e0eb98d73bc63d3586cb9f"/>
+				<FILE filename="V10_CKI_N_10_DI_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="920ed9475f3f6923be90b11afe707d3e"/>
+				<FILE filename="V10_CKI_N_10_DI_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="86d5dab19bd8ab6ee6f404ab1a31537f"/>
 			</FILES>
 		</DATA_BLOCK>
 	</RUN>
@@ -520,10 +520,10 @@
 		<EXPERIMENT_REF refname="16S_V10_CKI_N_10_WC"/>
 		<DATA_BLOCK>
 			<FILES>
-				<FILE filename="V10_CKI_N_10_WC_16S.1_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="1f3f4ddc6ef7908699ffdd68bf42b556"/>
-				<FILE filename="V10_CKI_N_10_WC_16S.2_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="7e74f21475bdb10d66a20fa66996f95f"/>
+				<FILE filename="V10_CKI_N_10_WC_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="861641bd61e0a0efd825cc25a24bc7d4"/>
+				<FILE filename="V10_CKI_N_10_WC_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="0a51ba7e10701ab4cd390f0c90e9e6f3"/>
 			</FILES>
 		</DATA_BLOCK>
 	</RUN>
@@ -542,10 +542,10 @@
 		<EXPERIMENT_REF refname="16S_V10_CKI_N_11_1"/>
 		<DATA_BLOCK>
 			<FILES>
-				<FILE filename="V10_CKI_N_11_1_16S.1_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="8282ef0f8c2a4786d3bdf440eb3aa650"/>
-				<FILE filename="V10_CKI_N_11_1_16S.2_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="6d523c2b81cd72118e2d462ed0292387"/>
+				<FILE filename="V10_CKI_N_11_1_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="187afd734e7dce70482d3fe380d12d52"/>
+				<FILE filename="V10_CKI_N_11_1_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="71639d2e7f750d205a4a7b00aedc91f5"/>
 			</FILES>
 		</DATA_BLOCK>
 	</RUN>
@@ -564,10 +564,10 @@
 		<EXPERIMENT_REF refname="16S_V10_CKI_N_11_2"/>
 		<DATA_BLOCK>
 			<FILES>
-				<FILE filename="V10_CKI_N_11_2_16S.1_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="0896d823210153bbb5fc815598107786"/>
-				<FILE filename="V10_CKI_N_11_2_16S.2_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="89cca1436c490dd7d0eaf216926c08dd"/>
+				<FILE filename="V10_CKI_N_11_2_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="b6f9bc8bc2981a934f2dc1958ee4443d"/>
+				<FILE filename="V10_CKI_N_11_2_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="3edf88c8741ced2243bf7941c41433eb"/>
 			</FILES>
 		</DATA_BLOCK>
 	</RUN>
@@ -586,10 +586,10 @@
 		<EXPERIMENT_REF refname="16S_V10_CKI_N_11_3"/>
 		<DATA_BLOCK>
 			<FILES>
-				<FILE filename="V10_CKI_N_11_3_16S.1_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="b524b17df71c90575295a2ef806c00a8"/>
-				<FILE filename="V10_CKI_N_11_3_16S.2_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="fef535c34ef4c8fb04872f5ee18f18c3"/>
+				<FILE filename="V10_CKI_N_11_3_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="4ad9271f686d2c5bc56492a71b8b60d5"/>
+				<FILE filename="V10_CKI_N_11_3_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="2250878c41ed4b4b6651989c8bdd592a"/>
 			</FILES>
 		</DATA_BLOCK>
 	</RUN>
@@ -608,10 +608,10 @@
 		<EXPERIMENT_REF refname="16S_V10_CKI_N_11_4"/>
 		<DATA_BLOCK>
 			<FILES>
-				<FILE filename="V10_CKI_N_11_4_16S.1_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="44348c60e9f4965b6dad0a99aa19302c"/>
-				<FILE filename="V10_CKI_N_11_4_16S.2_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="a241592ef23c767d85b1ad79a6f6567b"/>
+				<FILE filename="V10_CKI_N_11_4_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="ef0d9a81fbd48eb196370143565b929e"/>
+				<FILE filename="V10_CKI_N_11_4_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="341149c975488370c68315868ca52f7e"/>
 			</FILES>
 		</DATA_BLOCK>
 	</RUN>
@@ -630,10 +630,10 @@
 		<EXPERIMENT_REF refname="16S_V10_CKI_N_11_5"/>
 		<DATA_BLOCK>
 			<FILES>
-				<FILE filename="V10_CKI_N_11_5_16S.1_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="36197289317dd3535885a255d228fb8f"/>
-				<FILE filename="V10_CKI_N_11_5_16S.2_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="1c7307e21ba45366e8189ea2ce34bda1"/>
+				<FILE filename="V10_CKI_N_11_5_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="fa2c1c2f85ae250b63fc69228ee2ca44"/>
+				<FILE filename="V10_CKI_N_11_5_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="20029284b9e8affe8beb8d219e28af9a"/>
 			</FILES>
 		</DATA_BLOCK>
 	</RUN>
@@ -652,10 +652,10 @@
 		<EXPERIMENT_REF refname="16S_V10_CKI_N_11_DI"/>
 		<DATA_BLOCK>
 			<FILES>
-				<FILE filename="V10_CKI_N_11_DI_16S.1_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="5f791ac8baaf0a95271d43f02cf824f2"/>
-				<FILE filename="V10_CKI_N_11_DI_16S.2_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="9418a10f5b7e90944e0d94a484464880"/>
+				<FILE filename="V10_CKI_N_11_DI_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="518468c3365f3fac233f8c153008d1db"/>
+				<FILE filename="V10_CKI_N_11_DI_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="23a6977e16ff31de5f4955be70234943"/>
 			</FILES>
 		</DATA_BLOCK>
 	</RUN>
@@ -674,10 +674,10 @@
 		<EXPERIMENT_REF refname="16S_V10_CKI_N_11_WC"/>
 		<DATA_BLOCK>
 			<FILES>
-				<FILE filename="V10_CKI_N_11_WC_16S.1_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="8be6265350fd71b1da859f3633f5cb97"/>
-				<FILE filename="V10_CKI_N_11_WC_16S.2_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="ee122e50a07df6b75aecec051012bb32"/>
+				<FILE filename="V10_CKI_N_11_WC_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="88709873c64e5404f9ad3f2a7e7c2b00"/>
+				<FILE filename="V10_CKI_N_11_WC_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="bef903d3f3e6afa07843f89ced3dbb9c"/>
 			</FILES>
 		</DATA_BLOCK>
 	</RUN>
@@ -696,10 +696,10 @@
 		<EXPERIMENT_REF refname="16S_V10_CKI_N_12_1"/>
 		<DATA_BLOCK>
 			<FILES>
-				<FILE filename="V10_CKI_N_12_1_16S.1_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="1a90ebd98e93467af6a38b8b04b2940e"/>
-				<FILE filename="V10_CKI_N_12_1_16S.2_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="a5a403a80c93ee7b39a8698f8589de68"/>
+				<FILE filename="V10_CKI_N_12_1_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="8c388aca8afb00b753c493a5cda72355"/>
+				<FILE filename="V10_CKI_N_12_1_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="22dbed03feb3aba55e58b626dd362ffd"/>
 			</FILES>
 		</DATA_BLOCK>
 	</RUN>
@@ -718,10 +718,10 @@
 		<EXPERIMENT_REF refname="16S_V10_CKI_N_12_2"/>
 		<DATA_BLOCK>
 			<FILES>
-				<FILE filename="V10_CKI_N_12_2_16S.1_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="c921fb4dcde31869cfb52b251714898e"/>
-				<FILE filename="V10_CKI_N_12_2_16S.2_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="1672061403cbedc6b3ba85ce417e73c0"/>
+				<FILE filename="V10_CKI_N_12_2_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="33f28333418af29834f48d5d26721ddc"/>
+				<FILE filename="V10_CKI_N_12_2_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="ec1665528b17c12bef5324eb903456d8"/>
 			</FILES>
 		</DATA_BLOCK>
 	</RUN>
@@ -740,10 +740,10 @@
 		<EXPERIMENT_REF refname="16S_V10_CKI_N_12_3"/>
 		<DATA_BLOCK>
 			<FILES>
-				<FILE filename="V10_CKI_N_12_3_16S.1_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="de5ca2edf53384257367b6c641e0a949"/>
-				<FILE filename="V10_CKI_N_12_3_16S.2_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="f026a0ea66bf9af55b69bdb406464f1e"/>
+				<FILE filename="V10_CKI_N_12_3_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="eef52d0c675bf46bbb0092b2978aad2a"/>
+				<FILE filename="V10_CKI_N_12_3_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="a6a8d36f1c7c1b2e729f76767513dcbb"/>
 			</FILES>
 		</DATA_BLOCK>
 	</RUN>
@@ -762,10 +762,10 @@
 		<EXPERIMENT_REF refname="16S_V10_CKI_N_12_4"/>
 		<DATA_BLOCK>
 			<FILES>
-				<FILE filename="V10_CKI_N_12_4_16S.1_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="4c1cfe91f9027ffd5faef3e4257db00f"/>
-				<FILE filename="V10_CKI_N_12_4_16S.2_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="d0e930152831a39a74564a462c6cb773"/>
+				<FILE filename="V10_CKI_N_12_4_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="f28e74738d891e6eb10366aa20c41049"/>
+				<FILE filename="V10_CKI_N_12_4_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="9c47238741662ccc0f1a8e0057314642"/>
 			</FILES>
 		</DATA_BLOCK>
 	</RUN>
@@ -784,10 +784,10 @@
 		<EXPERIMENT_REF refname="16S_V10_CKI_N_12_5"/>
 		<DATA_BLOCK>
 			<FILES>
-				<FILE filename="V10_CKI_N_12_5_16S.1_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="44364e3acbdfdf43a86cffe8abe2a4ab"/>
-				<FILE filename="V10_CKI_N_12_5_16S.2_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="40f8afbdace2298c7ecb6ac8ba34f56a"/>
+				<FILE filename="V10_CKI_N_12_5_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="d78a9cde68bc6b0feff73c1198072444"/>
+				<FILE filename="V10_CKI_N_12_5_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="295fc06f19078d358bcb5a9402dfac3f"/>
 			</FILES>
 		</DATA_BLOCK>
 	</RUN>
@@ -806,10 +806,10 @@
 		<EXPERIMENT_REF refname="16S_V10_CKI_N_12_DI"/>
 		<DATA_BLOCK>
 			<FILES>
-				<FILE filename="V10_CKI_N_12_DI_16S.1_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="d9e7e19df02295fc3311cc61357f18d4"/>
-				<FILE filename="V10_CKI_N_12_DI_16S.2_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="8fc4c1a9f19015f41096f0b25cf922f5"/>
+				<FILE filename="V10_CKI_N_12_DI_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="3b43843a8bdb03ac40433ffdd752c826"/>
+				<FILE filename="V10_CKI_N_12_DI_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="5cd166d63b54e738ee8406fea19fd368"/>
 			</FILES>
 		</DATA_BLOCK>
 	</RUN>
@@ -828,10 +828,10 @@
 		<EXPERIMENT_REF refname="16S_V10_CKI_N_12_WC"/>
 		<DATA_BLOCK>
 			<FILES>
-				<FILE filename="V10_CKI_N_12_WC_16S.1_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="059bc789519d9855166c2f55a4a6bcf8"/>
-				<FILE filename="V10_CKI_N_12_WC_16S.2_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="ae1ef7d1fac460e6000f0c36198c0702"/>
+				<FILE filename="V10_CKI_N_12_WC_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="b604e2d12c28bd431a2d013fa1185fd0"/>
+				<FILE filename="V10_CKI_N_12_WC_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="d1840434aa60cc9ca6e8ca0ddb753ae5"/>
 			</FILES>
 		</DATA_BLOCK>
 	</RUN>
@@ -850,10 +850,10 @@
 		<EXPERIMENT_REF refname="16S_V10_CKI_N_13_1"/>
 		<DATA_BLOCK>
 			<FILES>
-				<FILE filename="V10_CKI_N_13_1_16S.1_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="232791ee1522a3af799dfa14bf5b34bd"/>
-				<FILE filename="V10_CKI_N_13_1_16S.2_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="6693ab2d24d7637785d8262215405d62"/>
+				<FILE filename="V10_CKI_N_13_1_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="8961cdb6d7d88722c30edfcc442ca79c"/>
+				<FILE filename="V10_CKI_N_13_1_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="3e9056b695696da2ebfbbbbbd9c4ece2"/>
 			</FILES>
 		</DATA_BLOCK>
 	</RUN>
@@ -872,10 +872,10 @@
 		<EXPERIMENT_REF refname="16S_V10_CKI_N_13_2"/>
 		<DATA_BLOCK>
 			<FILES>
-				<FILE filename="V10_CKI_N_13_2_16S.1_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="ca187f4c066adc52f3fe25a6a05fa10c"/>
-				<FILE filename="V10_CKI_N_13_2_16S.2_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="eaf292bd64e5d310c42e839081bb92d6"/>
+				<FILE filename="V10_CKI_N_13_2_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="f503fe45650b0451536def09f3cd9c8f"/>
+				<FILE filename="V10_CKI_N_13_2_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="cfdd0e66513dedae9b95679324eeeab8"/>
 			</FILES>
 		</DATA_BLOCK>
 	</RUN>
@@ -894,10 +894,10 @@
 		<EXPERIMENT_REF refname="16S_V10_CKI_N_13_3"/>
 		<DATA_BLOCK>
 			<FILES>
-				<FILE filename="V10_CKI_N_13_3_16S.1_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="ee3dd1e9e85ec3c9ceb16a37611f7539"/>
-				<FILE filename="V10_CKI_N_13_3_16S.2_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="835bf42ecc5746dc13ccdd27d45e1979"/>
+				<FILE filename="V10_CKI_N_13_3_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="f62da4b1300beeb5729bd282120bac5d"/>
+				<FILE filename="V10_CKI_N_13_3_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="45478fff74f25296da853e3d2e2aaa40"/>
 			</FILES>
 		</DATA_BLOCK>
 	</RUN>
@@ -916,10 +916,10 @@
 		<EXPERIMENT_REF refname="16S_V10_CKI_N_13_4"/>
 		<DATA_BLOCK>
 			<FILES>
-				<FILE filename="V10_CKI_N_13_4_16S.1_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="0826c93c173b324126bbd766326105d7"/>
-				<FILE filename="V10_CKI_N_13_4_16S.2_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="f6c268ad2592371b1e884b17067df1f7"/>
+				<FILE filename="V10_CKI_N_13_4_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="32515599ec5a0755caa81d00784628fa"/>
+				<FILE filename="V10_CKI_N_13_4_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="c69b7c50e63a4dd52ca3d6bf9f3448bd"/>
 			</FILES>
 		</DATA_BLOCK>
 	</RUN>
@@ -938,10 +938,10 @@
 		<EXPERIMENT_REF refname="16S_V10_CKI_N_13_5"/>
 		<DATA_BLOCK>
 			<FILES>
-				<FILE filename="V10_CKI_N_13_5_16S.1_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="94fcc3598083b7c5c8fc8523fff72b6f"/>
-				<FILE filename="V10_CKI_N_13_5_16S.2_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="54ab87f6c767ecafc8c70c6098668456"/>
+				<FILE filename="V10_CKI_N_13_5_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="3abaa3f2450982005d432f799d8f5f15"/>
+				<FILE filename="V10_CKI_N_13_5_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="b46e499eb618a1f1493c9d44b9bbea8e"/>
 			</FILES>
 		</DATA_BLOCK>
 	</RUN>
@@ -960,10 +960,10 @@
 		<EXPERIMENT_REF refname="16S_V10_CKI_N_13_DI"/>
 		<DATA_BLOCK>
 			<FILES>
-				<FILE filename="V10_CKI_N_13_DI_16S.1_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="ac511095902797c55c1b8ca314c35c13"/>
-				<FILE filename="V10_CKI_N_13_DI_16S.2_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="fd608b912ec264d2df183bf3c661a472"/>
+				<FILE filename="V10_CKI_N_13_DI_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="f80efca1fd13757840566d3fc30ff85c"/>
+				<FILE filename="V10_CKI_N_13_DI_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="f12f2802a19b95263720f591da46144a"/>
 			</FILES>
 		</DATA_BLOCK>
 	</RUN>
@@ -982,10 +982,10 @@
 		<EXPERIMENT_REF refname="16S_V10_CKI_N_13_WC"/>
 		<DATA_BLOCK>
 			<FILES>
-				<FILE filename="V10_CKI_N_13_WC_16S.1_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="4b95b32395cc8d4967c3609ac870f257"/>
-				<FILE filename="V10_CKI_N_13_WC_16S.2_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="1aa64562785f71445fd726f4fe4521a4"/>
+				<FILE filename="V10_CKI_N_13_WC_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="aa04cf682a7e044c53664395d1ef795d"/>
+				<FILE filename="V10_CKI_N_13_WC_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="581c03ab83d0941f931a1175b556b883"/>
 			</FILES>
 		</DATA_BLOCK>
 	</RUN>
@@ -1004,10 +1004,10 @@
 		<EXPERIMENT_REF refname="16S_V10_CKI_N_14_1"/>
 		<DATA_BLOCK>
 			<FILES>
-				<FILE filename="V10_CKI_N_14_1_16S.1_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="15b6732362f1e17d7e0bedf16f757994"/>
-				<FILE filename="V10_CKI_N_14_1_16S.2_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="8beb4e5eeb6363adb6314c9ee3ca45ee"/>
+				<FILE filename="V10_CKI_N_14_1_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="80d1997450a0ea69c680f8c9e01879e1"/>
+				<FILE filename="V10_CKI_N_14_1_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="0a578cd0b2f2cf11a3ff953bbafc6487"/>
 			</FILES>
 		</DATA_BLOCK>
 	</RUN>
@@ -1026,10 +1026,10 @@
 		<EXPERIMENT_REF refname="16S_V10_CKI_N_14_2"/>
 		<DATA_BLOCK>
 			<FILES>
-				<FILE filename="V10_CKI_N_14_2_16S.1_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="46270d065b86952ac35e003b2f2376da"/>
-				<FILE filename="V10_CKI_N_14_2_16S.2_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="1f8184bdfbe72605b4e82bd166b7f697"/>
+				<FILE filename="V10_CKI_N_14_2_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="42382a647a65e4ab303e8c34b75e0ae4"/>
+				<FILE filename="V10_CKI_N_14_2_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="22e757bbe4944187a2f9ad378ceca6cf"/>
 			</FILES>
 		</DATA_BLOCK>
 	</RUN>
@@ -1048,10 +1048,10 @@
 		<EXPERIMENT_REF refname="16S_V10_CKI_N_14_3"/>
 		<DATA_BLOCK>
 			<FILES>
-				<FILE filename="V10_CKI_N_14_3_16S.1_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="6990de48531eb46a4072af5f2233782c"/>
-				<FILE filename="V10_CKI_N_14_3_16S.2_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="540e4bdb2dd8459126fab1613170c5dc"/>
+				<FILE filename="V10_CKI_N_14_3_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="be91a67ce12e7c6b200c9839d42a5440"/>
+				<FILE filename="V10_CKI_N_14_3_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="740a48f31fde0deb9a241aece012d260"/>
 			</FILES>
 		</DATA_BLOCK>
 	</RUN>
@@ -1070,10 +1070,10 @@
 		<EXPERIMENT_REF refname="16S_V10_CKI_N_14_4"/>
 		<DATA_BLOCK>
 			<FILES>
-				<FILE filename="V10_CKI_N_14_4_16S.1_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="7f25bb00f973b6c648a91945750c69b0"/>
-				<FILE filename="V10_CKI_N_14_4_16S.2_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="ad8d0ca7b7d4d9d985f73cd47a0b6438"/>
+				<FILE filename="V10_CKI_N_14_4_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="edb498033b66be149bdc7dd67c4ba5c2"/>
+				<FILE filename="V10_CKI_N_14_4_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="686cdc85133ee49f47e000f56f2cc3a4"/>
 			</FILES>
 		</DATA_BLOCK>
 	</RUN>
@@ -1092,10 +1092,10 @@
 		<EXPERIMENT_REF refname="16S_V10_CKI_N_14_5"/>
 		<DATA_BLOCK>
 			<FILES>
-				<FILE filename="V10_CKI_N_14_5_16S.1_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="1a9cc989420e1c90f585c56036ebadd5"/>
-				<FILE filename="V10_CKI_N_14_5_16S.2_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="bc322b2ff8f67940d1a66b85ac7502cc"/>
+				<FILE filename="V10_CKI_N_14_5_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="3a99d9b8f6a912d45a6c5e48d18c5f5f"/>
+				<FILE filename="V10_CKI_N_14_5_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="e1a5e865ef6084695229a32aa99f90b5"/>
 			</FILES>
 		</DATA_BLOCK>
 	</RUN>
@@ -1114,10 +1114,10 @@
 		<EXPERIMENT_REF refname="16S_V10_CKI_N_14_DI"/>
 		<DATA_BLOCK>
 			<FILES>
-				<FILE filename="V10_CKI_N_14_DI_16S.1_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="3f32a62ba0eb4cb3b2be50a5ff884f26"/>
-				<FILE filename="V10_CKI_N_14_DI_16S.2_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="4e7135c729d8b21f2215b41d90472d25"/>
+				<FILE filename="V10_CKI_N_14_DI_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="9846902c42805fa55cd40c54036b9966"/>
+				<FILE filename="V10_CKI_N_14_DI_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="1d8c4af5f70a053ee31a018a120c56eb"/>
 			</FILES>
 		</DATA_BLOCK>
 	</RUN>
@@ -1136,10 +1136,10 @@
 		<EXPERIMENT_REF refname="16S_V10_CKI_N_14_WC"/>
 		<DATA_BLOCK>
 			<FILES>
-				<FILE filename="V10_CKI_N_14_WC_16S.1_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="62997025b5790510a5079a88229b0664"/>
-				<FILE filename="V10_CKI_N_14_WC_16S.2_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="aa4614bb732ce5fc6456520aa3f7e4ae"/>
+				<FILE filename="V10_CKI_N_14_WC_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="dc8aef11d623712c821399ea212052ae"/>
+				<FILE filename="V10_CKI_N_14_WC_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="5340e6b4dfdb3d2ae443c4d195814286"/>
 			</FILES>
 		</DATA_BLOCK>
 	</RUN>
@@ -1158,10 +1158,10 @@
 		<EXPERIMENT_REF refname="16S_V10_CKI_N_2_1"/>
 		<DATA_BLOCK>
 			<FILES>
-				<FILE filename="V10_CKI_N_2_1_16S.1_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="ab5a57c44d69fb67dd0a233b59c2b1ed"/>
-				<FILE filename="V10_CKI_N_2_1_16S.2_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="eb68a51020ab04831bd6b469c2159de3"/>
+				<FILE filename="V10_CKI_N_2_1_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="bcd5eff8bcfff5bb42334ad909f98b47"/>
+				<FILE filename="V10_CKI_N_2_1_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="06444c04c033769af81f760e2c3f89ff"/>
 			</FILES>
 		</DATA_BLOCK>
 	</RUN>
@@ -1180,10 +1180,10 @@
 		<EXPERIMENT_REF refname="16S_V10_CKI_N_2_2"/>
 		<DATA_BLOCK>
 			<FILES>
-				<FILE filename="V10_CKI_N_2_2_16S.1_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="974f13c432202fe97b14824a72f0bae9"/>
-				<FILE filename="V10_CKI_N_2_2_16S.2_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="ec9b3f322bd71d46596ba61a34202265"/>
+				<FILE filename="V10_CKI_N_2_2_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="e0d95c94fd4a2b934899ca0b5def8268"/>
+				<FILE filename="V10_CKI_N_2_2_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="23d1e239ad5982c97a1e275d6924e274"/>
 			</FILES>
 		</DATA_BLOCK>
 	</RUN>
@@ -1202,10 +1202,10 @@
 		<EXPERIMENT_REF refname="16S_V10_CKI_N_2_3"/>
 		<DATA_BLOCK>
 			<FILES>
-				<FILE filename="V10_CKI_N_2_3_16S.1_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="e155d79e395ed088a52c544704e9cd61"/>
-				<FILE filename="V10_CKI_N_2_3_16S.2_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="60256722583f7f1c967483158ff033fb"/>
+				<FILE filename="V10_CKI_N_2_3_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="737d9a68343fdcaee319566b0fb4de5b"/>
+				<FILE filename="V10_CKI_N_2_3_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="e560b6444447caabbb9b3329774b8ea8"/>
 			</FILES>
 		</DATA_BLOCK>
 	</RUN>
@@ -1224,10 +1224,10 @@
 		<EXPERIMENT_REF refname="16S_V10_CKI_N_2_4"/>
 		<DATA_BLOCK>
 			<FILES>
-				<FILE filename="V10_CKI_N_2_4_16S.1_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="89f01e7ee6f26396e3dc39506f778da0"/>
-				<FILE filename="V10_CKI_N_2_4_16S.2_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="3da7e29c98983ce6202d9039e2f00c8e"/>
+				<FILE filename="V10_CKI_N_2_4_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="ec74f3af213a6aa4aad017d71a154f33"/>
+				<FILE filename="V10_CKI_N_2_4_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="d4692edf807238b36e124597bc9b5e06"/>
 			</FILES>
 		</DATA_BLOCK>
 	</RUN>
@@ -1246,10 +1246,10 @@
 		<EXPERIMENT_REF refname="16S_V10_CKI_N_2_5"/>
 		<DATA_BLOCK>
 			<FILES>
-				<FILE filename="V10_CKI_N_2_5_16S.1_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="104c2cd39787b95699f4ba85c72a4c1e"/>
-				<FILE filename="V10_CKI_N_2_5_16S.2_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="096d1174abe0089ac0ea6379a74cadb1"/>
+				<FILE filename="V10_CKI_N_2_5_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="fdeef3fab70427d3b61bbf07508f088d"/>
+				<FILE filename="V10_CKI_N_2_5_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="38f00f526ad4f714733a0ffe20f5f466"/>
 			</FILES>
 		</DATA_BLOCK>
 	</RUN>
@@ -1268,10 +1268,10 @@
 		<EXPERIMENT_REF refname="16S_V10_CKI_N_2_DI"/>
 		<DATA_BLOCK>
 			<FILES>
-				<FILE filename="V10_CKI_N_2_DI_16S.1_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="ad6a9d79fa4c41b8b512aaf71b4c6970"/>
-				<FILE filename="V10_CKI_N_2_DI_16S.2_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="4ffcc78ecf70bc70eb6eff7e598169f8"/>
+				<FILE filename="V10_CKI_N_2_DI_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="5edf4ae949147c7114a694dee2729987"/>
+				<FILE filename="V10_CKI_N_2_DI_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="4a99f9182d4be48b73124b005f10363c"/>
 			</FILES>
 		</DATA_BLOCK>
 	</RUN>
@@ -1290,10 +1290,10 @@
 		<EXPERIMENT_REF refname="16S_V10_CKI_N_2_WC"/>
 		<DATA_BLOCK>
 			<FILES>
-				<FILE filename="V10_CKI_N_2_WC_16S.1_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="f422cc3fbb5e78dd3926465e5fcac00b"/>
-				<FILE filename="V10_CKI_N_2_WC_16S.2_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="f51c951d03887dd0ce7ffe3e7d791890"/>
+				<FILE filename="V10_CKI_N_2_WC_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="a2f4e3f5045faa8804aa20cbddd0c3f2"/>
+				<FILE filename="V10_CKI_N_2_WC_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="0e1e315dc4aff8ac10a1c43955b4b6d0"/>
 			</FILES>
 		</DATA_BLOCK>
 	</RUN>
@@ -1312,10 +1312,10 @@
 		<EXPERIMENT_REF refname="16S_V10_CKI_N_3_1"/>
 		<DATA_BLOCK>
 			<FILES>
-				<FILE filename="V10_CKI_N_3_1_16S.1_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="465c296c1f145d83434110b52c28c790"/>
-				<FILE filename="V10_CKI_N_3_1_16S.2_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="63641e0f570fdc92c91781f37cc3cebd"/>
+				<FILE filename="V10_CKI_N_3_1_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="b854bd153b5be557a8e8ea62262eff1e"/>
+				<FILE filename="V10_CKI_N_3_1_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="e3d7ca892c06d36c6cb0a07102b3bc1a"/>
 			</FILES>
 		</DATA_BLOCK>
 	</RUN>
@@ -1334,10 +1334,10 @@
 		<EXPERIMENT_REF refname="16S_V10_CKI_N_3_2"/>
 		<DATA_BLOCK>
 			<FILES>
-				<FILE filename="V10_CKI_N_3_2_16S.1_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="7fc76c333974103c41dab0ca20abc383"/>
-				<FILE filename="V10_CKI_N_3_2_16S.2_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="d1c432f12fec88aa69a090f0b974a83c"/>
+				<FILE filename="V10_CKI_N_3_2_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="0a0a248261140290813260573236ca61"/>
+				<FILE filename="V10_CKI_N_3_2_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="f914d347fbcc061fa45c16e505bd2fb8"/>
 			</FILES>
 		</DATA_BLOCK>
 	</RUN>
@@ -1356,10 +1356,10 @@
 		<EXPERIMENT_REF refname="16S_V10_CKI_N_3_3"/>
 		<DATA_BLOCK>
 			<FILES>
-				<FILE filename="V10_CKI_N_3_3_16S.1_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="155f28dc6a77689cfc25a6b9acbbec86"/>
-				<FILE filename="V10_CKI_N_3_3_16S.2_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="06c4ecb21ca4d7b1dfc14a6ca7872e67"/>
+				<FILE filename="V10_CKI_N_3_3_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="623fb61a41a5d7b4a0117bd10ebbda63"/>
+				<FILE filename="V10_CKI_N_3_3_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="f7fb349ae83ab22428341b4115f285ad"/>
 			</FILES>
 		</DATA_BLOCK>
 	</RUN>
@@ -1378,10 +1378,10 @@
 		<EXPERIMENT_REF refname="16S_V10_CKI_N_3_4"/>
 		<DATA_BLOCK>
 			<FILES>
-				<FILE filename="V10_CKI_N_3_4_16S.1_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="01271dcac8400c9716fc427983af86c3"/>
-				<FILE filename="V10_CKI_N_3_4_16S.2_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="bbbb9b00eee69479e2164821dc5be84c"/>
+				<FILE filename="V10_CKI_N_3_4_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="93ef629eeea9e2e37e04145ef3fd25f2"/>
+				<FILE filename="V10_CKI_N_3_4_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="87c4f2038b31a22421aafd70dc9db912"/>
 			</FILES>
 		</DATA_BLOCK>
 	</RUN>
@@ -1400,10 +1400,10 @@
 		<EXPERIMENT_REF refname="16S_V10_CKI_N_3_5"/>
 		<DATA_BLOCK>
 			<FILES>
-				<FILE filename="V10_CKI_N_3_5_16S.1_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="b7081dfa97ab9b2d386053dba2151b92"/>
-				<FILE filename="V10_CKI_N_3_5_16S.2_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="0478cd4e7cc2129ed992f3398f1c801e"/>
+				<FILE filename="V10_CKI_N_3_5_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="46aa9e0fc64154bce6a4a641966aa179"/>
+				<FILE filename="V10_CKI_N_3_5_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="ae4a22cb1daf1a959019ab8029a258fb"/>
 			</FILES>
 		</DATA_BLOCK>
 	</RUN>
@@ -1422,10 +1422,10 @@
 		<EXPERIMENT_REF refname="16S_V10_CKI_N_3_DI"/>
 		<DATA_BLOCK>
 			<FILES>
-				<FILE filename="V10_CKI_N_3_DI_16S.1_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="19aba92d62eb58e73d45386ebf79081b"/>
-				<FILE filename="V10_CKI_N_3_DI_16S.2_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="1ff68a8bc2830480e67028493057ca0d"/>
+				<FILE filename="V10_CKI_N_3_DI_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="7060afac4084f26b5ecfc3bbd1455b7a"/>
+				<FILE filename="V10_CKI_N_3_DI_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="5a5938893afa97181a0308442f19dc22"/>
 			</FILES>
 		</DATA_BLOCK>
 	</RUN>
@@ -1444,10 +1444,10 @@
 		<EXPERIMENT_REF refname="16S_V10_CKI_N_3_WC"/>
 		<DATA_BLOCK>
 			<FILES>
-				<FILE filename="V10_CKI_N_3_WC_16S.1_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="903f85587ffa205294a39d3604f56b0c"/>
-				<FILE filename="V10_CKI_N_3_WC_16S.2_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="61090c05dd410326ce151fb899c99d8b"/>
+				<FILE filename="V10_CKI_N_3_WC_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="0d05f911858369424cea1d00fbc591ae"/>
+				<FILE filename="V10_CKI_N_3_WC_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="459e1b050016e0c8c4cf9dcedad8958c"/>
 			</FILES>
 		</DATA_BLOCK>
 	</RUN>
@@ -1466,10 +1466,10 @@
 		<EXPERIMENT_REF refname="16S_V10_CKI_N_4_1"/>
 		<DATA_BLOCK>
 			<FILES>
-				<FILE filename="V10_CKI_N_4_1_16S.1_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="c4b798884034d878894d2a06bc8bbf28"/>
-				<FILE filename="V10_CKI_N_4_1_16S.2_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="5ffeb39727eeabff0de3f0057aa00193"/>
+				<FILE filename="V10_CKI_N_4_1_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="ace1804e920f17614b6c2bba29243428"/>
+				<FILE filename="V10_CKI_N_4_1_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="0e409beb84888f3c45523cc08f5b37ed"/>
 			</FILES>
 		</DATA_BLOCK>
 	</RUN>
@@ -1488,10 +1488,10 @@
 		<EXPERIMENT_REF refname="16S_V10_CKI_N_4_2"/>
 		<DATA_BLOCK>
 			<FILES>
-				<FILE filename="V10_CKI_N_4_2_16S.1_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="2c6f9e968eec04ef24413d26dcc5c8ed"/>
-				<FILE filename="V10_CKI_N_4_2_16S.2_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="1da379f20f7492d2e82df83cfb434b24"/>
+				<FILE filename="V10_CKI_N_4_2_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="4d74b83594c6e110c379250c509f6663"/>
+				<FILE filename="V10_CKI_N_4_2_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="c9a1fc613412c0a1bcef3a0a7b6ed361"/>
 			</FILES>
 		</DATA_BLOCK>
 	</RUN>
@@ -1510,10 +1510,10 @@
 		<EXPERIMENT_REF refname="16S_V10_CKI_N_4_3"/>
 		<DATA_BLOCK>
 			<FILES>
-				<FILE filename="V10_CKI_N_4_3_16S.1_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="f6e4b778ef28911fa637996e354b7ec4"/>
-				<FILE filename="V10_CKI_N_4_3_16S.2_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="50e478eff29bcc3f69aac6b63d4aff63"/>
+				<FILE filename="V10_CKI_N_4_3_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="d9bc298d2e3854fca605fa7934ba0adb"/>
+				<FILE filename="V10_CKI_N_4_3_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="8ba05a0291d7f7ab31ffcf165959f040"/>
 			</FILES>
 		</DATA_BLOCK>
 	</RUN>
@@ -1532,10 +1532,10 @@
 		<EXPERIMENT_REF refname="16S_V10_CKI_N_4_4"/>
 		<DATA_BLOCK>
 			<FILES>
-				<FILE filename="V10_CKI_N_4_4_16S.1_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="037bb0400e20f813827a906b7097f382"/>
-				<FILE filename="V10_CKI_N_4_4_16S.2_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="29599a14ed130972c23b6185266e0684"/>
+				<FILE filename="V10_CKI_N_4_4_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="b1226bd0384350ff9ac4d5cc75d87e90"/>
+				<FILE filename="V10_CKI_N_4_4_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="623f5015210900c347f8b5f33755c411"/>
 			</FILES>
 		</DATA_BLOCK>
 	</RUN>
@@ -1554,10 +1554,10 @@
 		<EXPERIMENT_REF refname="16S_V10_CKI_N_4_5"/>
 		<DATA_BLOCK>
 			<FILES>
-				<FILE filename="V10_CKI_N_4_5_16S.1_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="c9426efc5ad9cb09ee1027589f720e44"/>
-				<FILE filename="V10_CKI_N_4_5_16S.2_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="56479c9f1b9e893fb0f7edb09f6ece91"/>
+				<FILE filename="V10_CKI_N_4_5_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="02238e5ddf01c179537a8f2b3680e7e1"/>
+				<FILE filename="V10_CKI_N_4_5_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="329bed6aece188221ccb77c8513407df"/>
 			</FILES>
 		</DATA_BLOCK>
 	</RUN>
@@ -1576,10 +1576,10 @@
 		<EXPERIMENT_REF refname="16S_V10_CKI_N_4_DI"/>
 		<DATA_BLOCK>
 			<FILES>
-				<FILE filename="V10_CKI_N_4_DI_16S.1_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="61cc4b77b361ffe7e3cabd8f74e43776"/>
-				<FILE filename="V10_CKI_N_4_DI_16S.2_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="6b3c06a7cac86efdf97df763b7a9e084"/>
+				<FILE filename="V10_CKI_N_4_DI_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="ae8265dcd8f4e44c7ba8bc509bb6d62f"/>
+				<FILE filename="V10_CKI_N_4_DI_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="976046490a656cdfa037cd6bc770ef3a"/>
 			</FILES>
 		</DATA_BLOCK>
 	</RUN>
@@ -1598,10 +1598,10 @@
 		<EXPERIMENT_REF refname="16S_V10_CKI_N_4_WC"/>
 		<DATA_BLOCK>
 			<FILES>
-				<FILE filename="V10_CKI_N_4_WC_16S.1_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="2f53b2f0bf5451a0935bec0f2d36d36e"/>
-				<FILE filename="V10_CKI_N_4_WC_16S.2_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="d947f931884ca078dd37ef2df61250ac"/>
+				<FILE filename="V10_CKI_N_4_WC_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="13ecba5121be9c89fd4ee0109b4d2c24"/>
+				<FILE filename="V10_CKI_N_4_WC_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="01ed293409431d08d212dd78372fbd1d"/>
 			</FILES>
 		</DATA_BLOCK>
 	</RUN>
@@ -1620,10 +1620,10 @@
 		<EXPERIMENT_REF refname="16S_V10_CKI_N_5_1"/>
 		<DATA_BLOCK>
 			<FILES>
-				<FILE filename="V10_CKI_N_5_1_16S.1_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="c23ebe41ae20639dc37575f54514242c"/>
-				<FILE filename="V10_CKI_N_5_1_16S.2_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="e4d902c5147a021b6ae6e396cabff806"/>
+				<FILE filename="V10_CKI_N_5_1_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="073bae26ed76c001e4fd3784bd18555f"/>
+				<FILE filename="V10_CKI_N_5_1_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="23f830b85058d90182104a47559cd593"/>
 			</FILES>
 		</DATA_BLOCK>
 	</RUN>
@@ -1642,10 +1642,10 @@
 		<EXPERIMENT_REF refname="16S_V10_CKI_N_5_2"/>
 		<DATA_BLOCK>
 			<FILES>
-				<FILE filename="V10_CKI_N_5_2_16S.1_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="25a7adb33a707285bdfac353a8579dd9"/>
-				<FILE filename="V10_CKI_N_5_2_16S.2_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="77bc4727e15cd88239bde3dbfe401ea2"/>
+				<FILE filename="V10_CKI_N_5_2_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="1be99ed40078795f1ebdac7c551a5cf5"/>
+				<FILE filename="V10_CKI_N_5_2_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="35e641aea462fc6310b2d55c98540254"/>
 			</FILES>
 		</DATA_BLOCK>
 	</RUN>
@@ -1664,10 +1664,10 @@
 		<EXPERIMENT_REF refname="16S_V10_CKI_N_5_3"/>
 		<DATA_BLOCK>
 			<FILES>
-				<FILE filename="V10_CKI_N_5_3_16S.1_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="a131673f8ae47352945fee6ccab53c14"/>
-				<FILE filename="V10_CKI_N_5_3_16S.2_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="f4c3bebf67a657437456642f5695e89a"/>
+				<FILE filename="V10_CKI_N_5_3_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="e018afc684f168b3dbb006115da555e7"/>
+				<FILE filename="V10_CKI_N_5_3_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="08e1477f1e2a57dd1f00cb3606bf27b3"/>
 			</FILES>
 		</DATA_BLOCK>
 	</RUN>
@@ -1686,10 +1686,10 @@
 		<EXPERIMENT_REF refname="16S_V10_CKI_N_5_4"/>
 		<DATA_BLOCK>
 			<FILES>
-				<FILE filename="V10_CKI_N_5_4_16S.1_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="1a753c341fd86b823d1616153f3c0254"/>
-				<FILE filename="V10_CKI_N_5_4_16S.2_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="40c95cbb4c45121cfcbd2c618c3f9c72"/>
+				<FILE filename="V10_CKI_N_5_4_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="d42f0ce8bade0de24527cde5a5901be2"/>
+				<FILE filename="V10_CKI_N_5_4_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="349b92911428412d10195232002fa9c8"/>
 			</FILES>
 		</DATA_BLOCK>
 	</RUN>
@@ -1708,10 +1708,10 @@
 		<EXPERIMENT_REF refname="16S_V10_CKI_N_5_5"/>
 		<DATA_BLOCK>
 			<FILES>
-				<FILE filename="V10_CKI_N_5_5_16S.1_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="1726d86dc67f5555e45b599a6f316d89"/>
-				<FILE filename="V10_CKI_N_5_5_16S.2_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="34e04a218c3058495c67ab1c3b3f0459"/>
+				<FILE filename="V10_CKI_N_5_5_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="abc427a4233704a306810683192d2461"/>
+				<FILE filename="V10_CKI_N_5_5_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="0094b30433e4e94b266d8805be5d8e9b"/>
 			</FILES>
 		</DATA_BLOCK>
 	</RUN>
@@ -1730,10 +1730,10 @@
 		<EXPERIMENT_REF refname="16S_V10_CKI_N_5_DI"/>
 		<DATA_BLOCK>
 			<FILES>
-				<FILE filename="V10_CKI_N_5_DI_16S.1_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="3901dbde5d4bc5a7a2bdcb73ccddb40b"/>
-				<FILE filename="V10_CKI_N_5_DI_16S.2_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="8e803f21dafb2ac17acc82266bb8e6a9"/>
+				<FILE filename="V10_CKI_N_5_DI_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="463e6c05d7f4947cb667c79a3d993873"/>
+				<FILE filename="V10_CKI_N_5_DI_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="dee3d8edb87f27cee2fa6feb52cba70f"/>
 			</FILES>
 		</DATA_BLOCK>
 	</RUN>
@@ -1752,10 +1752,10 @@
 		<EXPERIMENT_REF refname="16S_V10_CKI_N_5_WC"/>
 		<DATA_BLOCK>
 			<FILES>
-				<FILE filename="V10_CKI_N_5_WC_16S.1_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="16a0ea12b78db3e13299a079d1fafd01"/>
-				<FILE filename="V10_CKI_N_5_WC_16S.2_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="56e11cd140de6568901a0146293d1a6b"/>
+				<FILE filename="V10_CKI_N_5_WC_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="92b0a378a3ec835c9cdccbeff47ca645"/>
+				<FILE filename="V10_CKI_N_5_WC_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="ad6e5b85266388c598843e36b9e40b27"/>
 			</FILES>
 		</DATA_BLOCK>
 	</RUN>
@@ -1774,10 +1774,10 @@
 		<EXPERIMENT_REF refname="16S_V10_CKI_N_6_1"/>
 		<DATA_BLOCK>
 			<FILES>
-				<FILE filename="V10_CKI_N_6_1_16S.1_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="d46a837dba24007d7e5e5a6bdfdc3ed0"/>
-				<FILE filename="V10_CKI_N_6_1_16S.2_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="502983b80fd271066a6cda6199b22dcb"/>
+				<FILE filename="V10_CKI_N_6_1_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="33fd46ef1ef0ff2ffff4d4077292dd2a"/>
+				<FILE filename="V10_CKI_N_6_1_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="c51fcde713516538e749d48778a34075"/>
 			</FILES>
 		</DATA_BLOCK>
 	</RUN>
@@ -1796,10 +1796,10 @@
 		<EXPERIMENT_REF refname="16S_V10_CKI_N_6_2"/>
 		<DATA_BLOCK>
 			<FILES>
-				<FILE filename="V10_CKI_N_6_2_16S.1_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="6a5b18b61857ecb43618979746fa3a00"/>
-				<FILE filename="V10_CKI_N_6_2_16S.2_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="a470e418ae1be6d0bb1039ffedfffd98"/>
+				<FILE filename="V10_CKI_N_6_2_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="e303c734b5bca92c750f9fc6dbb4b8c1"/>
+				<FILE filename="V10_CKI_N_6_2_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="8c7ff86fdb786df8b758093c3816cbd2"/>
 			</FILES>
 		</DATA_BLOCK>
 	</RUN>
@@ -1818,10 +1818,10 @@
 		<EXPERIMENT_REF refname="16S_V10_CKI_N_6_3"/>
 		<DATA_BLOCK>
 			<FILES>
-				<FILE filename="V10_CKI_N_6_3_16S.1_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="6d6272b49bc1ce390ff107921fc4414a"/>
-				<FILE filename="V10_CKI_N_6_3_16S.2_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="be6b52295f4c93e1c3953679f966ea45"/>
+				<FILE filename="V10_CKI_N_6_3_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="25484b51ed25d004856212e5fc0f8405"/>
+				<FILE filename="V10_CKI_N_6_3_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="ff5557240423ea466bfdc364c7bc5570"/>
 			</FILES>
 		</DATA_BLOCK>
 	</RUN>
@@ -1840,10 +1840,10 @@
 		<EXPERIMENT_REF refname="16S_V10_CKI_N_6_4"/>
 		<DATA_BLOCK>
 			<FILES>
-				<FILE filename="V10_CKI_N_6_4_16S.1_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="b532f6fa9cd697d5015c417745acd38d"/>
-				<FILE filename="V10_CKI_N_6_4_16S.2_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="b5b90851498d73cb53496ff0dd695519"/>
+				<FILE filename="V10_CKI_N_6_4_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="bb0d60bdace96505895668a992b82c8b"/>
+				<FILE filename="V10_CKI_N_6_4_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="7114db79c5a294062905a39982d4fd4d"/>
 			</FILES>
 		</DATA_BLOCK>
 	</RUN>
@@ -1862,10 +1862,10 @@
 		<EXPERIMENT_REF refname="16S_V10_CKI_N_6_5"/>
 		<DATA_BLOCK>
 			<FILES>
-				<FILE filename="V10_CKI_N_6_5_16S.1_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="5851cb055cb2018d657be84119dc7d95"/>
-				<FILE filename="V10_CKI_N_6_5_16S.2_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="7da19b1d9e2c3dae84527e9b84b500d4"/>
+				<FILE filename="V10_CKI_N_6_5_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="dddffb3df00524fc906bac9bbeffb964"/>
+				<FILE filename="V10_CKI_N_6_5_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="b6d22de8648657da79748eb96d8ef760"/>
 			</FILES>
 		</DATA_BLOCK>
 	</RUN>
@@ -1884,10 +1884,10 @@
 		<EXPERIMENT_REF refname="16S_V10_CKI_N_6_DI"/>
 		<DATA_BLOCK>
 			<FILES>
-				<FILE filename="V10_CKI_N_6_DI_16S.1_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="dd46e5648a8f698f1878c1b4b7dbe2e1"/>
-				<FILE filename="V10_CKI_N_6_DI_16S.2_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="08559a3393f6c7208766bf62157a543d"/>
+				<FILE filename="V10_CKI_N_6_DI_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="aaf96065f7d96f1e99fd27e9340e9c1b"/>
+				<FILE filename="V10_CKI_N_6_DI_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="a98837ef02fe341e4fbc2c34a5cf6ada"/>
 			</FILES>
 		</DATA_BLOCK>
 	</RUN>
@@ -1906,10 +1906,10 @@
 		<EXPERIMENT_REF refname="16S_V10_CKI_N_6_WC"/>
 		<DATA_BLOCK>
 			<FILES>
-				<FILE filename="V10_CKI_N_6_WC_16S.1_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="108b011088802725a89080362ae23ae2"/>
-				<FILE filename="V10_CKI_N_6_WC_16S.2_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="2f335ad18752e65cc030425f755ac814"/>
+				<FILE filename="V10_CKI_N_6_WC_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="48627da901156f9166b451649216aa18"/>
+				<FILE filename="V10_CKI_N_6_WC_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="5a0ff9a47c3f663ba9f8947d916e43b0"/>
 			</FILES>
 		</DATA_BLOCK>
 	</RUN>
@@ -1928,10 +1928,10 @@
 		<EXPERIMENT_REF refname="16S_V10_CKI_N_7_1"/>
 		<DATA_BLOCK>
 			<FILES>
-				<FILE filename="V10_CKI_N_7_1_16S.1_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="ca194366631c58975bb67601e1d92245"/>
-				<FILE filename="V10_CKI_N_7_1_16S.2_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="33b917a41dccd3c71a2df2661965cc8a"/>
+				<FILE filename="V10_CKI_N_7_1_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="0affbf7eca1d242dd7e7790d9c919652"/>
+				<FILE filename="V10_CKI_N_7_1_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="27b511b1c223adb5dcf734576f05aa08"/>
 			</FILES>
 		</DATA_BLOCK>
 	</RUN>
@@ -1950,10 +1950,10 @@
 		<EXPERIMENT_REF refname="16S_V10_CKI_N_7_2"/>
 		<DATA_BLOCK>
 			<FILES>
-				<FILE filename="V10_CKI_N_7_2_16S.1_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="7820bf385db290c4ce4541e88fea7ad9"/>
-				<FILE filename="V10_CKI_N_7_2_16S.2_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="bdd6fe5b75dfa8198b925b60d0ff9c82"/>
+				<FILE filename="V10_CKI_N_7_2_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="649a36566b730c5ffa0256aa0d27f5f1"/>
+				<FILE filename="V10_CKI_N_7_2_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="93a7433589168d23bb01e91691d60c42"/>
 			</FILES>
 		</DATA_BLOCK>
 	</RUN>
@@ -1972,10 +1972,10 @@
 		<EXPERIMENT_REF refname="16S_V10_CKI_N_7_3"/>
 		<DATA_BLOCK>
 			<FILES>
-				<FILE filename="V10_CKI_N_7_3_16S.1_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="490b1195c0b0d4406baf20f6dcb9383b"/>
-				<FILE filename="V10_CKI_N_7_3_16S.2_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="01fbfb8d00205ec8e1fb04903f3e2d3c"/>
+				<FILE filename="V10_CKI_N_7_3_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="b57e24ce28499c860875815e984def76"/>
+				<FILE filename="V10_CKI_N_7_3_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="de40b794e015bad3ecf276588680a496"/>
 			</FILES>
 		</DATA_BLOCK>
 	</RUN>
@@ -1994,10 +1994,10 @@
 		<EXPERIMENT_REF refname="16S_V10_CKI_N_7_4"/>
 		<DATA_BLOCK>
 			<FILES>
-				<FILE filename="V10_CKI_N_7_4_16S.1_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="96c688d0099556d548251e532fb6c851"/>
-				<FILE filename="V10_CKI_N_7_4_16S.2_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="53836f6bc8d024a79862f3fd9089fcc6"/>
+				<FILE filename="V10_CKI_N_7_4_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="b9ff6374434bdcd75f0271bcbce50670"/>
+				<FILE filename="V10_CKI_N_7_4_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="bce695861b8907f727b98f9efe27ac9d"/>
 			</FILES>
 		</DATA_BLOCK>
 	</RUN>
@@ -2016,10 +2016,10 @@
 		<EXPERIMENT_REF refname="16S_V10_CKI_N_7_5"/>
 		<DATA_BLOCK>
 			<FILES>
-				<FILE filename="V10_CKI_N_7_5_16S.1_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="65605c3dedf558d42a69f66993fdb054"/>
-				<FILE filename="V10_CKI_N_7_5_16S.2_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="3dcc980db5b6c509a37464e4e8766f32"/>
+				<FILE filename="V10_CKI_N_7_5_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="77c59a3897ae4a927493b82867716f14"/>
+				<FILE filename="V10_CKI_N_7_5_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="483aa9d98b70beb9606557fadb432352"/>
 			</FILES>
 		</DATA_BLOCK>
 	</RUN>
@@ -2038,10 +2038,10 @@
 		<EXPERIMENT_REF refname="16S_V10_CKI_N_7_DI"/>
 		<DATA_BLOCK>
 			<FILES>
-				<FILE filename="V10_CKI_N_7_DI_16S.1_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="905c515ada4c7e082e2397a7e6e03ba3"/>
-				<FILE filename="V10_CKI_N_7_DI_16S.2_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="b1fb433689c266a5b3b403e802ee26bc"/>
+				<FILE filename="V10_CKI_N_7_DI_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="09fc12c33470dd65a376ef737acb61c1"/>
+				<FILE filename="V10_CKI_N_7_DI_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="13848ed723e99bce474a7745aa49da7e"/>
 			</FILES>
 		</DATA_BLOCK>
 	</RUN>
@@ -2060,10 +2060,10 @@
 		<EXPERIMENT_REF refname="16S_V10_CKI_N_7_WC"/>
 		<DATA_BLOCK>
 			<FILES>
-				<FILE filename="V10_CKI_N_7_WC_16S.1_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="832d2ebe438c39cca493f7c20f48685f"/>
-				<FILE filename="V10_CKI_N_7_WC_16S.2_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="43cfd62b9ee85b2ddf1eb14b7e352cb5"/>
+				<FILE filename="V10_CKI_N_7_WC_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="2f2146a98f0e30a38f20970038156926"/>
+				<FILE filename="V10_CKI_N_7_WC_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="10649f5e93d87cf7a6831c4dc8574e97"/>
 			</FILES>
 		</DATA_BLOCK>
 	</RUN>
@@ -2082,10 +2082,10 @@
 		<EXPERIMENT_REF refname="16S_V10_CKI_N_8_1"/>
 		<DATA_BLOCK>
 			<FILES>
-				<FILE filename="V10_CKI_N_8_1_16S.1_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="05a31a19c5a02f8cbc21a62eaf95f17d"/>
-				<FILE filename="V10_CKI_N_8_1_16S.2_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="89a80da89ec218f2fb172d054a24b773"/>
+				<FILE filename="V10_CKI_N_8_1_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="978aeb54b77d653b9804a68789daee3f"/>
+				<FILE filename="V10_CKI_N_8_1_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="04e90976a972ff5c689e11b8bd0e9a1c"/>
 			</FILES>
 		</DATA_BLOCK>
 	</RUN>
@@ -2104,10 +2104,10 @@
 		<EXPERIMENT_REF refname="16S_V10_CKI_N_8_2"/>
 		<DATA_BLOCK>
 			<FILES>
-				<FILE filename="V10_CKI_N_8_2_16S.1_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="b19c5e630515b1fd7529161479eaf13c"/>
-				<FILE filename="V10_CKI_N_8_2_16S.2_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="ea4e70ab84c8e25ac1ce7421a7da9ecc"/>
+				<FILE filename="V10_CKI_N_8_2_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="54e9068720078a8bb93846e9bfa4d557"/>
+				<FILE filename="V10_CKI_N_8_2_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="cabe6003d95e2df66e5ad2f96866fefc"/>
 			</FILES>
 		</DATA_BLOCK>
 	</RUN>
@@ -2126,10 +2126,10 @@
 		<EXPERIMENT_REF refname="16S_V10_CKI_N_8_3"/>
 		<DATA_BLOCK>
 			<FILES>
-				<FILE filename="V10_CKI_N_8_3_16S.1_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="abf62adc3e7d653f9396b107bad7d6b0"/>
-				<FILE filename="V10_CKI_N_8_3_16S.2_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="bcf014e6d639e5800657607d1e32da22"/>
+				<FILE filename="V10_CKI_N_8_3_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="4b8949c0d46d77f5b20ce380a9f8f264"/>
+				<FILE filename="V10_CKI_N_8_3_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="cf73240534104650848370e4c9f3d68c"/>
 			</FILES>
 		</DATA_BLOCK>
 	</RUN>
@@ -2148,10 +2148,10 @@
 		<EXPERIMENT_REF refname="16S_V10_CKI_N_8_4"/>
 		<DATA_BLOCK>
 			<FILES>
-				<FILE filename="V10_CKI_N_8_4_16S.1_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="40f7fc17d812c37939fc3befa0905445"/>
-				<FILE filename="V10_CKI_N_8_4_16S.2_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="15016255e6427a78c6b3342e4ff5fd7a"/>
+				<FILE filename="V10_CKI_N_8_4_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="b9f79a9116ffcebca4809b74535fae86"/>
+				<FILE filename="V10_CKI_N_8_4_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="efe2549acc1fb9543db5958be5db0f50"/>
 			</FILES>
 		</DATA_BLOCK>
 	</RUN>
@@ -2170,10 +2170,10 @@
 		<EXPERIMENT_REF refname="16S_V10_CKI_N_8_5"/>
 		<DATA_BLOCK>
 			<FILES>
-				<FILE filename="V10_CKI_N_8_5_16S.1_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="a6b9713f020b7e94df0acbee0b7195de"/>
-				<FILE filename="V10_CKI_N_8_5_16S.2_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="742ac4861510b7bbb2af65d1383a2334"/>
+				<FILE filename="V10_CKI_N_8_5_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="609e1d8b7710b64dd334541b950441f3"/>
+				<FILE filename="V10_CKI_N_8_5_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="21e94ca2af0b0776d974e89a1754aa32"/>
 			</FILES>
 		</DATA_BLOCK>
 	</RUN>
@@ -2192,10 +2192,10 @@
 		<EXPERIMENT_REF refname="16S_V10_CKI_N_8_DI"/>
 		<DATA_BLOCK>
 			<FILES>
-				<FILE filename="V10_CKI_N_8_DI_16S.1_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="1c10bc76d666ede36362d3274b640361"/>
-				<FILE filename="V10_CKI_N_8_DI_16S.2_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="9d3f8cbcd3593e11aa7541cb4caa9f42"/>
+				<FILE filename="V10_CKI_N_8_DI_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="4f78c18b84abc94e66c7c70844240e4d"/>
+				<FILE filename="V10_CKI_N_8_DI_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="27d425279e95f4d104c8065a9b732808"/>
 			</FILES>
 		</DATA_BLOCK>
 	</RUN>
@@ -2214,10 +2214,10 @@
 		<EXPERIMENT_REF refname="16S_V10_CKI_N_8_WC"/>
 		<DATA_BLOCK>
 			<FILES>
-				<FILE filename="V10_CKI_N_8_WC_16S.1_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="396ebaca17b1b9ac0303f0953630e77f"/>
-				<FILE filename="V10_CKI_N_8_WC_16S.2_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="a562c9a3ca9693bde79c61add354139e"/>
+				<FILE filename="V10_CKI_N_8_WC_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="6f0c93a865bfc9e3a9265a6f2464a2c5"/>
+				<FILE filename="V10_CKI_N_8_WC_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="dafc578cedb91491e6a717b3e077df8d"/>
 			</FILES>
 		</DATA_BLOCK>
 	</RUN>
@@ -2236,10 +2236,10 @@
 		<EXPERIMENT_REF refname="16S_V10_CKI_N_9_1"/>
 		<DATA_BLOCK>
 			<FILES>
-				<FILE filename="V10_CKI_N_9_1_16S.1_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="fcc8bc7681d522b94146a8d01ad9a17e"/>
-				<FILE filename="V10_CKI_N_9_1_16S.2_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="775795e52a406fe56e6f8b808fbc896f"/>
+				<FILE filename="V10_CKI_N_9_1_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="f57c03b72203ae99353b4d806ac42fcf"/>
+				<FILE filename="V10_CKI_N_9_1_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="a8f5baff1169f00e988c502f6c72cfa9"/>
 			</FILES>
 		</DATA_BLOCK>
 	</RUN>
@@ -2258,10 +2258,10 @@
 		<EXPERIMENT_REF refname="16S_V10_CKI_N_9_2"/>
 		<DATA_BLOCK>
 			<FILES>
-				<FILE filename="V10_CKI_N_9_2_16S.1_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="0a83fa4ac7c5b17aa671f45aaad9266c"/>
-				<FILE filename="V10_CKI_N_9_2_16S.2_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="40c7dcefd6ff71a7398ed65ec26ad850"/>
+				<FILE filename="V10_CKI_N_9_2_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="84a67dbff149df70364c4a0e76e9307e"/>
+				<FILE filename="V10_CKI_N_9_2_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="c82d80e52c045a9d562ca2d63bfdfba4"/>
 			</FILES>
 		</DATA_BLOCK>
 	</RUN>
@@ -2280,10 +2280,10 @@
 		<EXPERIMENT_REF refname="16S_V10_CKI_N_9_3"/>
 		<DATA_BLOCK>
 			<FILES>
-				<FILE filename="V10_CKI_N_9_3_16S.1_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="1d9870c8dc18f4aee2f440d2cdd90611"/>
-				<FILE filename="V10_CKI_N_9_3_16S.2_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="c2e74201a4931f71fbade55538158a29"/>
+				<FILE filename="V10_CKI_N_9_3_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="c176fea5c64763cde9465e6eef214187"/>
+				<FILE filename="V10_CKI_N_9_3_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="e3d645a62779b8b9b5d3f1b7d91bbb6d"/>
 			</FILES>
 		</DATA_BLOCK>
 	</RUN>
@@ -2302,10 +2302,10 @@
 		<EXPERIMENT_REF refname="16S_V10_CKI_N_9_4"/>
 		<DATA_BLOCK>
 			<FILES>
-				<FILE filename="V10_CKI_N_9_4_16S.1_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="1d4cb2776785badae8e56900f1578da3"/>
-				<FILE filename="V10_CKI_N_9_4_16S.2_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="48e8263d87e647d22b90afefb153110b"/>
+				<FILE filename="V10_CKI_N_9_4_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="855017c23e68aed82cc3d5d289bfd2e9"/>
+				<FILE filename="V10_CKI_N_9_4_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="33e0784def8aab7f6665c4335c4a48d3"/>
 			</FILES>
 		</DATA_BLOCK>
 	</RUN>
@@ -2324,10 +2324,10 @@
 		<EXPERIMENT_REF refname="16S_V10_CKI_N_9_5"/>
 		<DATA_BLOCK>
 			<FILES>
-				<FILE filename="V10_CKI_N_9_5_16S.1_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="abed75336cb388bf1a1650b243f57d5e"/>
-				<FILE filename="V10_CKI_N_9_5_16S.2_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="8e0e2d83c8ea7e31e6ddfa67a6313dba"/>
+				<FILE filename="V10_CKI_N_9_5_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="a65d7e5dc016ec4ac4c06a3834bb0420"/>
+				<FILE filename="V10_CKI_N_9_5_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="8727fd3eb9ddf20359f0262b5529fd8a"/>
 			</FILES>
 		</DATA_BLOCK>
 	</RUN>
@@ -2346,10 +2346,10 @@
 		<EXPERIMENT_REF refname="16S_V10_CKI_N_9_DI"/>
 		<DATA_BLOCK>
 			<FILES>
-				<FILE filename="V10_CKI_N_9_DI_16S.1_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="0dc0bd4f845f9c2b53db85b270775a99"/>
-				<FILE filename="V10_CKI_N_9_DI_16S.2_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="39334e88e7d085f81c3c6b72260949e9"/>
+				<FILE filename="V10_CKI_N_9_DI_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="76f1992cb8605337d59c5e627c88e40a"/>
+				<FILE filename="V10_CKI_N_9_DI_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="04d815dcde1e67cbc9a447cdbbe0910a"/>
 			</FILES>
 		</DATA_BLOCK>
 	</RUN>
@@ -2368,10 +2368,10 @@
 		<EXPERIMENT_REF refname="16S_V10_CKI_N_9_WC"/>
 		<DATA_BLOCK>
 			<FILES>
-				<FILE filename="V10_CKI_N_9_WC_16S.1_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="055b917b5da65280d6390d9761f6b3b9"/>
-				<FILE filename="V10_CKI_N_9_WC_16S.2_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="d10644115fc78a27d07f8a9e09701c39"/>
+				<FILE filename="V10_CKI_N_9_WC_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="8efb5eb2f7c3fe9656d62c07f448879f"/>
+				<FILE filename="V10_CKI_N_9_WC_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="d76de27e7f838481fe9dff72b800b514"/>
 			</FILES>
 		</DATA_BLOCK>
 	</RUN>
@@ -2390,10 +2390,10 @@
 		<EXPERIMENT_REF refname="16S_V10_CKI_N_H_12_DI"/>
 		<DATA_BLOCK>
 			<FILES>
-				<FILE filename="V10_CKI_N_H_12_DI_16S.1_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="0bdd726d1b5d8139f652957a0e2575b1"/>
-				<FILE filename="V10_CKI_N_H_12_DI_16S.2_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="9c52142fa44b6247697530f5a7589939"/>
+				<FILE filename="V10_CKI_N_H_12_DI_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="f32249225a4caa58d5ba0ec4d58c2533"/>
+				<FILE filename="V10_CKI_N_H_12_DI_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="e6596e03c5b350ee7f926225a4f33f59"/>
 			</FILES>
 		</DATA_BLOCK>
 	</RUN>
@@ -2412,10 +2412,10 @@
 		<EXPERIMENT_REF refname="16S_V10_CKI_N_H_12_WC"/>
 		<DATA_BLOCK>
 			<FILES>
-				<FILE filename="V10_CKI_N_H_12_WC_16S.1_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="5d61060ead1527d2ff1145a773834dd1"/>
-				<FILE filename="V10_CKI_N_H_12_WC_16S.2_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="8e8667704f916a364a1d311195fe1809"/>
+				<FILE filename="V10_CKI_N_H_12_WC_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="938e22f0e0c8168d1d48c481846b5b26"/>
+				<FILE filename="V10_CKI_N_H_12_WC_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="2e344cb8b61b9ef37b9f28d93d53e22f"/>
 			</FILES>
 		</DATA_BLOCK>
 	</RUN>
@@ -2434,10 +2434,10 @@
 		<EXPERIMENT_REF refname="16S_V10_CKI_N_H_2_12_1"/>
 		<DATA_BLOCK>
 			<FILES>
-				<FILE filename="V10_CKI_N_H_2_12_1_16S.1_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="39f214713f3f79d4a6ceb6bfc0edb107"/>
-				<FILE filename="V10_CKI_N_H_2_12_1_16S.2_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="7224aeca0ff98ea1d6f9b8f3f33b33b6"/>
+				<FILE filename="V10_CKI_N_H_2_12_1_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="531e49ce49b782cb68ede08e2f92425d"/>
+				<FILE filename="V10_CKI_N_H_2_12_1_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="1d1c02a299bebd85bc17055492d4d336"/>
 			</FILES>
 		</DATA_BLOCK>
 	</RUN>
@@ -2456,10 +2456,10 @@
 		<EXPERIMENT_REF refname="16S_V10_CKI_N_H_2_12_2"/>
 		<DATA_BLOCK>
 			<FILES>
-				<FILE filename="V10_CKI_N_H_2_12_2_16S.1_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="0641ad3b6e192423f582eba2307ba5f6"/>
-				<FILE filename="V10_CKI_N_H_2_12_2_16S.2_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="63a47dd280da42f40a6bd892d844be66"/>
+				<FILE filename="V10_CKI_N_H_2_12_2_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="b70a02934e01f88734b06e9e3b8bfcaa"/>
+				<FILE filename="V10_CKI_N_H_2_12_2_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="554ba66dd9ac380713bf1641f9efa3ea"/>
 			</FILES>
 		</DATA_BLOCK>
 	</RUN>
@@ -2478,10 +2478,10 @@
 		<EXPERIMENT_REF refname="16S_V10_CKI_N_H_2_12_3"/>
 		<DATA_BLOCK>
 			<FILES>
-				<FILE filename="V10_CKI_N_H_2_12_3_16S.1_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="adf6b5aed0fac1c1b65a205583c75feb"/>
-				<FILE filename="V10_CKI_N_H_2_12_3_16S.2_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="0dbb351d99266fbf51f4af375f3d9703"/>
+				<FILE filename="V10_CKI_N_H_2_12_3_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="ac0ea4a4f7fa46ff8ab9864edcea7b9e"/>
+				<FILE filename="V10_CKI_N_H_2_12_3_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="aa39d890b45f3719311327fae9bab04f"/>
 			</FILES>
 		</DATA_BLOCK>
 	</RUN>
@@ -2500,10 +2500,10 @@
 		<EXPERIMENT_REF refname="16S_V10_CKI_N_H_2_3_1"/>
 		<DATA_BLOCK>
 			<FILES>
-				<FILE filename="V10_CKI_N_H_2_3_1_16S.1_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="267a298b78ba97200d41bac71e2c5bcf"/>
-				<FILE filename="V10_CKI_N_H_2_3_1_16S.2_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="1e389f87f23ecdd93ce5036aa9d3e403"/>
+				<FILE filename="V10_CKI_N_H_2_3_1_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="7c5a374e949e2167dfaa7371078b44e5"/>
+				<FILE filename="V10_CKI_N_H_2_3_1_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="401669b79c07c735af3c2467feba7d02"/>
 			</FILES>
 		</DATA_BLOCK>
 	</RUN>
@@ -2522,10 +2522,10 @@
 		<EXPERIMENT_REF refname="16S_V10_CKI_N_H_2_3_2"/>
 		<DATA_BLOCK>
 			<FILES>
-				<FILE filename="V10_CKI_N_H_2_3_2_16S.1_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="6313cf668efc2a4e9f0285b30a606412"/>
-				<FILE filename="V10_CKI_N_H_2_3_2_16S.2_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="4b885234b5f98ada9f53cb47ded7631a"/>
+				<FILE filename="V10_CKI_N_H_2_3_2_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="96cc47987d9e66a52a4a9341a8066b2b"/>
+				<FILE filename="V10_CKI_N_H_2_3_2_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="b3b79cfc065819e2c7852b6b50914bf4"/>
 			</FILES>
 		</DATA_BLOCK>
 	</RUN>
@@ -2544,10 +2544,10 @@
 		<EXPERIMENT_REF refname="16S_V10_CKI_N_H_2_3_3"/>
 		<DATA_BLOCK>
 			<FILES>
-				<FILE filename="V10_CKI_N_H_2_3_3_16S.1_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="fd63b37aa7fb3e3fc0e3319188f42004"/>
-				<FILE filename="V10_CKI_N_H_2_3_3_16S.2_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="6383a5bc3d1850b7fdd2db66ac7db6b1"/>
+				<FILE filename="V10_CKI_N_H_2_3_3_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="04c590d2a48e2fefa255e6f58c31fce9"/>
+				<FILE filename="V10_CKI_N_H_2_3_3_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="31a67bcf67aef09301fc4df0360c64ed"/>
 			</FILES>
 		</DATA_BLOCK>
 	</RUN>
@@ -2566,10 +2566,10 @@
 		<EXPERIMENT_REF refname="16S_V10_CKI_N_H_3_DI"/>
 		<DATA_BLOCK>
 			<FILES>
-				<FILE filename="V10_CKI_N_H_3_DI_16S.1_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="10ef81f2f6793d27afcf0885711e33ce"/>
-				<FILE filename="V10_CKI_N_H_3_DI_16S.2_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="e1124c5d39cd92870e35c110f30e4999"/>
+				<FILE filename="V10_CKI_N_H_3_DI_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="3e7af7afc2636afc3164279f61b3387e"/>
+				<FILE filename="V10_CKI_N_H_3_DI_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="f07e74b23110a07e7a8b1a603636db25"/>
 			</FILES>
 		</DATA_BLOCK>
 	</RUN>
@@ -2588,10 +2588,10 @@
 		<EXPERIMENT_REF refname="16S_V10_CKI_N_H_3_WC"/>
 		<DATA_BLOCK>
 			<FILES>
-				<FILE filename="V10_CKI_N_H_3_WC_16S.1_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="82cb79f714ee537de1ff622e123fee82"/>
-				<FILE filename="V10_CKI_N_H_3_WC_16S.2_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="a6cbc7848000d5c8e1101d4e5d375fbb"/>
+				<FILE filename="V10_CKI_N_H_3_WC_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="8abd5db917eb0f49b363adf6c279e738"/>
+				<FILE filename="V10_CKI_N_H_3_WC_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="7d680d2be0dc404f20a6be658bcd1467"/>
 			</FILES>
 		</DATA_BLOCK>
 	</RUN>
@@ -2610,10 +2610,10 @@
 		<EXPERIMENT_REF refname="16S_V10_CKI_N_H_4_3_1"/>
 		<DATA_BLOCK>
 			<FILES>
-				<FILE filename="V10_CKI_N_H_4_3_1_16S.1_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="e59412daa4e26598e1b98aa8acfc4139"/>
-				<FILE filename="V10_CKI_N_H_4_3_1_16S.2_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="e6d620a7a18a85f55c713737e6b92c52"/>
+				<FILE filename="V10_CKI_N_H_4_3_1_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="63707b5cf20757b8f862c7d61ca9f0a3"/>
+				<FILE filename="V10_CKI_N_H_4_3_1_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="37b155f1a6d010ea438074cd834794ac"/>
 			</FILES>
 		</DATA_BLOCK>
 	</RUN>
@@ -2632,10 +2632,10 @@
 		<EXPERIMENT_REF refname="16S_V10_CKI_N_H_4_3_2"/>
 		<DATA_BLOCK>
 			<FILES>
-				<FILE filename="V10_CKI_N_H_4_3_2_16S.1_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="0e5e671a3ed85879dd1f4ba6a5e8fabb"/>
-				<FILE filename="V10_CKI_N_H_4_3_2_16S.2_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="7ef535cfa0725bd375f0fbea3cafe936"/>
+				<FILE filename="V10_CKI_N_H_4_3_2_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="50028a8c83a1ebb6d3494fd9435f797d"/>
+				<FILE filename="V10_CKI_N_H_4_3_2_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="2835cad1e5bd66888fb799fb98b43280"/>
 			</FILES>
 		</DATA_BLOCK>
 	</RUN>
@@ -2654,10 +2654,10 @@
 		<EXPERIMENT_REF refname="16S_V10_CKI_N_H_4_3_3"/>
 		<DATA_BLOCK>
 			<FILES>
-				<FILE filename="V10_CKI_N_H_4_3_3_16S.1_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="cb8bb47d852141c2e88c96882ac79dfc"/>
-				<FILE filename="V10_CKI_N_H_4_3_3_16S.2_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="c9c28aea0c69b7cb4b8febf91b2c807e"/>
+				<FILE filename="V10_CKI_N_H_4_3_3_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="1a9f1048d01b0ca7283c0ffd8433a315"/>
+				<FILE filename="V10_CKI_N_H_4_3_3_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="5551933b3f288f74ad40ddfda86ceffa"/>
 			</FILES>
 		</DATA_BLOCK>
 	</RUN>
@@ -2676,10 +2676,10 @@
 		<EXPERIMENT_REF refname="16S_V10_CKI_N_H_5_12_1"/>
 		<DATA_BLOCK>
 			<FILES>
-				<FILE filename="V10_CKI_N_H_5_12_1_16S.1_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="3ed987f3e4abcd2d2a08a596e511eee0"/>
-				<FILE filename="V10_CKI_N_H_5_12_1_16S.2_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="a514ec1ee8a3cdc466892c3fa7197321"/>
+				<FILE filename="V10_CKI_N_H_5_12_1_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="18ec3d6be56a2a5e0a3d37db2f7076a2"/>
+				<FILE filename="V10_CKI_N_H_5_12_1_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="376eedc64de8a77394a087af5fe77d32"/>
 			</FILES>
 		</DATA_BLOCK>
 	</RUN>
@@ -2698,10 +2698,10 @@
 		<EXPERIMENT_REF refname="16S_V10_CKI_N_H_5_12_2"/>
 		<DATA_BLOCK>
 			<FILES>
-				<FILE filename="V10_CKI_N_H_5_12_2_16S.1_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="74484aff3a37012cc2583e10b75759b6"/>
-				<FILE filename="V10_CKI_N_H_5_12_2_16S.2_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="45de8237bcf08297231f1237e8819091"/>
+				<FILE filename="V10_CKI_N_H_5_12_2_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="f497ee32c88f3587483871283f703a18"/>
+				<FILE filename="V10_CKI_N_H_5_12_2_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="e40f1ccef410229b61e16ea7e659a8d7"/>
 			</FILES>
 		</DATA_BLOCK>
 	</RUN>
@@ -2720,10 +2720,10 @@
 		<EXPERIMENT_REF refname="16S_V10_CKI_N_H_5_12_3"/>
 		<DATA_BLOCK>
 			<FILES>
-				<FILE filename="V10_CKI_N_H_5_12_3_16S.1_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="34a50108b33816a85c7a6e191caac61a"/>
-				<FILE filename="V10_CKI_N_H_5_12_3_16S.2_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="6bceddc3e3ec34b469d5e36019972331"/>
+				<FILE filename="V10_CKI_N_H_5_12_3_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="dd2feacfb5bee00706cf6fcef378824b"/>
+				<FILE filename="V10_CKI_N_H_5_12_3_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="f57ac11905d8f4bc9d5c7bd0fc38c4d0"/>
 			</FILES>
 		</DATA_BLOCK>
 	</RUN>
@@ -2742,10 +2742,10 @@
 		<EXPERIMENT_REF refname="16S_V10_CKI_U_1_1"/>
 		<DATA_BLOCK>
 			<FILES>
-				<FILE filename="V10_CKI_U_1_1_16S.1_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="42f6a52a8124b4f0fd33712f09f2b2e7"/>
-				<FILE filename="V10_CKI_U_1_1_16S.2_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="877b3b26584a31e7b97bc8c7980b40ca"/>
+				<FILE filename="V10_CKI_U_1_1_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="893f4aa2ad4c3d2f9fb1d8567c597a19"/>
+				<FILE filename="V10_CKI_U_1_1_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="7fabc14b1eb80343a09c537cf4929cef"/>
 			</FILES>
 		</DATA_BLOCK>
 	</RUN>
@@ -2764,10 +2764,10 @@
 		<EXPERIMENT_REF refname="16S_V10_CKI_U_1_2"/>
 		<DATA_BLOCK>
 			<FILES>
-				<FILE filename="V10_CKI_U_1_2_16S.1_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="9bbd378f22513d59a9409c2f50ec68e8"/>
-				<FILE filename="V10_CKI_U_1_2_16S.2_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="8cab858d40e6432dd3a516baa392926d"/>
+				<FILE filename="V10_CKI_U_1_2_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="3c5df98a205844cf6c78c4195fb9a855"/>
+				<FILE filename="V10_CKI_U_1_2_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="0aa5d22d7879c231acb890659f32076e"/>
 			</FILES>
 		</DATA_BLOCK>
 	</RUN>
@@ -2786,10 +2786,10 @@
 		<EXPERIMENT_REF refname="16S_V10_CKI_U_1_3"/>
 		<DATA_BLOCK>
 			<FILES>
-				<FILE filename="V10_CKI_U_1_3_16S.1_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="67347e4434fc46f136a5f818ae3583d8"/>
-				<FILE filename="V10_CKI_U_1_3_16S.2_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="49e6b86018495b50ff295217844f269b"/>
+				<FILE filename="V10_CKI_U_1_3_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="5fbfc81a15fa66bbd0e53c3fc5028429"/>
+				<FILE filename="V10_CKI_U_1_3_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="a9c4b475426fe589fddb66f2d44ef8be"/>
 			</FILES>
 		</DATA_BLOCK>
 	</RUN>
@@ -2808,10 +2808,10 @@
 		<EXPERIMENT_REF refname="16S_V10_CKI_U_1_4"/>
 		<DATA_BLOCK>
 			<FILES>
-				<FILE filename="V10_CKI_U_1_4_16S.1_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="fe2ff24c9bec89ab5cde9d0ba8e97dc9"/>
-				<FILE filename="V10_CKI_U_1_4_16S.2_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="a9c194c662ee88789e8f83f7907babb4"/>
+				<FILE filename="V10_CKI_U_1_4_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="0f856ec55a16a2ea4be0d20f4a8e350f"/>
+				<FILE filename="V10_CKI_U_1_4_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="a418ab2312414f00b43caa498e0d01a8"/>
 			</FILES>
 		</DATA_BLOCK>
 	</RUN>
@@ -2830,10 +2830,10 @@
 		<EXPERIMENT_REF refname="16S_V10_CKI_U_1_5"/>
 		<DATA_BLOCK>
 			<FILES>
-				<FILE filename="V10_CKI_U_1_5_16S.1_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="5257acbca0708dc332aedc1c41a092f4"/>
-				<FILE filename="V10_CKI_U_1_5_16S.2_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="6dbbc79b781d51245733ba7fa1d25446"/>
+				<FILE filename="V10_CKI_U_1_5_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="9b0044aa558cce395efbed91271b5c9c"/>
+				<FILE filename="V10_CKI_U_1_5_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="60ee8f35bb4d109b12387517250d85e9"/>
 			</FILES>
 		</DATA_BLOCK>
 	</RUN>
@@ -2852,10 +2852,10 @@
 		<EXPERIMENT_REF refname="16S_V10_CKI_U_1_DI"/>
 		<DATA_BLOCK>
 			<FILES>
-				<FILE filename="V10_CKI_U_1_DI_16S.1_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="8894ff189d7bc599fd70d145f363b727"/>
-				<FILE filename="V10_CKI_U_1_DI_16S.2_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="03540752234c8007cbb2afd3cb28d672"/>
+				<FILE filename="V10_CKI_U_1_DI_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="35a55b4f728a6b55792a16f2b7c3ba88"/>
+				<FILE filename="V10_CKI_U_1_DI_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="a730e2be64c151df2ecbd8564f33b6e7"/>
 			</FILES>
 		</DATA_BLOCK>
 	</RUN>
@@ -2874,10 +2874,10 @@
 		<EXPERIMENT_REF refname="16S_V10_CKI_U_1_WC"/>
 		<DATA_BLOCK>
 			<FILES>
-				<FILE filename="V10_CKI_U_1_WC_16S.1_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="aeb4fbe8869c2528da92f76ace898153"/>
-				<FILE filename="V10_CKI_U_1_WC_16S.2_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="28dbbc439e178904fc1dbde1a81d51db"/>
+				<FILE filename="V10_CKI_U_1_WC_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="52d15d9b2f471063a2d85a54195b22c1"/>
+				<FILE filename="V10_CKI_U_1_WC_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="d3c178dcc79baa783e0c09c2eed422b4"/>
 			</FILES>
 		</DATA_BLOCK>
 	</RUN>
@@ -2896,10 +2896,10 @@
 		<EXPERIMENT_REF refname="16S_V10_CKI_U_10_1"/>
 		<DATA_BLOCK>
 			<FILES>
-				<FILE filename="V10_CKI_U_10_1_16S.1_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="d75f4fa7b8483dcb56776b8a6c1c7669"/>
-				<FILE filename="V10_CKI_U_10_1_16S.2_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="f0140bfc2e7d3808334ac0b24a13b5bd"/>
+				<FILE filename="V10_CKI_U_10_1_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="ba0f1eec0afd0403ec2aa2a87fdcbabe"/>
+				<FILE filename="V10_CKI_U_10_1_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="469eb5ea59c06509f8af1fd6bb268eca"/>
 			</FILES>
 		</DATA_BLOCK>
 	</RUN>
@@ -2918,10 +2918,10 @@
 		<EXPERIMENT_REF refname="16S_V10_CKI_U_10_2"/>
 		<DATA_BLOCK>
 			<FILES>
-				<FILE filename="V10_CKI_U_10_2_16S.1_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="e77897b3a8a2376ffb8b24fd074541cf"/>
-				<FILE filename="V10_CKI_U_10_2_16S.2_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="0346185fe4251d19ebb7a17db47128b5"/>
+				<FILE filename="V10_CKI_U_10_2_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="a0bfbad409ed42daa7ea007dc1aed7fe"/>
+				<FILE filename="V10_CKI_U_10_2_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="61b0866e4e9989ed0d2afe0e042c8c1a"/>
 			</FILES>
 		</DATA_BLOCK>
 	</RUN>
@@ -2940,10 +2940,10 @@
 		<EXPERIMENT_REF refname="16S_V10_CKI_U_10_3"/>
 		<DATA_BLOCK>
 			<FILES>
-				<FILE filename="V10_CKI_U_10_3_16S.1_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="f9badb7cc609c67b54048bec4317c9fb"/>
-				<FILE filename="V10_CKI_U_10_3_16S.2_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="6dec2cfdf4daf13fd5b4df399663f65e"/>
+				<FILE filename="V10_CKI_U_10_3_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="0620a93014d0ecc6aca744cd66412558"/>
+				<FILE filename="V10_CKI_U_10_3_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="3308dbfb1b37802d6a1fed9172822508"/>
 			</FILES>
 		</DATA_BLOCK>
 	</RUN>
@@ -2962,10 +2962,10 @@
 		<EXPERIMENT_REF refname="16S_V10_CKI_U_10_4"/>
 		<DATA_BLOCK>
 			<FILES>
-				<FILE filename="V10_CKI_U_10_4_16S.1_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="46b779042b207b7415c613bbb4bea4d8"/>
-				<FILE filename="V10_CKI_U_10_4_16S.2_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="faef448073c06572579f82be22b2e3f9"/>
+				<FILE filename="V10_CKI_U_10_4_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="ad96db865b9c166153de14029c0a11bc"/>
+				<FILE filename="V10_CKI_U_10_4_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="39f254151f1753d2e4a8059274eb5cd6"/>
 			</FILES>
 		</DATA_BLOCK>
 	</RUN>
@@ -2984,10 +2984,10 @@
 		<EXPERIMENT_REF refname="16S_V10_CKI_U_10_5"/>
 		<DATA_BLOCK>
 			<FILES>
-				<FILE filename="V10_CKI_U_10_5_16S.1_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="5884c10af42811443c93cc4e6e559970"/>
-				<FILE filename="V10_CKI_U_10_5_16S.2_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="92995ca67b6dac5ebbcb11e5bf7f4776"/>
+				<FILE filename="V10_CKI_U_10_5_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="42dc136d7b3b8e2753d413217ea05f2e"/>
+				<FILE filename="V10_CKI_U_10_5_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="b9554f70a845ff96edc5fdd2f2ead9b1"/>
 			</FILES>
 		</DATA_BLOCK>
 	</RUN>
@@ -3006,10 +3006,10 @@
 		<EXPERIMENT_REF refname="16S_V10_CKI_U_10_DI"/>
 		<DATA_BLOCK>
 			<FILES>
-				<FILE filename="V10_CKI_U_10_DI_16S.1_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="c3ea2bc95fd3a8b8b6a2f2da414d6bc5"/>
-				<FILE filename="V10_CKI_U_10_DI_16S.2_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="83be5fda0fcee0e87bccf02d01047847"/>
+				<FILE filename="V10_CKI_U_10_DI_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="2bff6b810142fa85dfe2279e851f1187"/>
+				<FILE filename="V10_CKI_U_10_DI_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="eb64b01519403652ebb2aaad49ad6e1b"/>
 			</FILES>
 		</DATA_BLOCK>
 	</RUN>
@@ -3028,10 +3028,10 @@
 		<EXPERIMENT_REF refname="16S_V10_CKI_U_10_WC"/>
 		<DATA_BLOCK>
 			<FILES>
-				<FILE filename="V10_CKI_U_10_WC_16S.1_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="a7ce50cecbc83cd83781f48dbda8785f"/>
-				<FILE filename="V10_CKI_U_10_WC_16S.2_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="0c40f5feeace716b4d3e1672b543f63a"/>
+				<FILE filename="V10_CKI_U_10_WC_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="649d74fc60ffcfb2089716128eb24e6c"/>
+				<FILE filename="V10_CKI_U_10_WC_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="46107bf5e2b08e25bcbd1be93ab28c2b"/>
 			</FILES>
 		</DATA_BLOCK>
 	</RUN>
@@ -3050,10 +3050,10 @@
 		<EXPERIMENT_REF refname="16S_V10_CKI_U_11_1"/>
 		<DATA_BLOCK>
 			<FILES>
-				<FILE filename="V10_CKI_U_11_1_16S.1_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="154890d9f5aba60b056041ced3f1af0f"/>
-				<FILE filename="V10_CKI_U_11_1_16S.2_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="05bee8665eb0e8df2fae17d59a4f67a5"/>
+				<FILE filename="V10_CKI_U_11_1_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="9a7df0297d61317d47c2bc448b533342"/>
+				<FILE filename="V10_CKI_U_11_1_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="f62f7c90e1421e84b228c9ee6361a6eb"/>
 			</FILES>
 		</DATA_BLOCK>
 	</RUN>
@@ -3072,10 +3072,10 @@
 		<EXPERIMENT_REF refname="16S_V10_CKI_U_11_2"/>
 		<DATA_BLOCK>
 			<FILES>
-				<FILE filename="V10_CKI_U_11_2_16S.1_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="7d758ab44af4291e70b26e9ed9204b4c"/>
-				<FILE filename="V10_CKI_U_11_2_16S.2_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="b9597c742204946e11b0dc7bb9cb3272"/>
+				<FILE filename="V10_CKI_U_11_2_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="29da84db9ca647d2b6b5d9aeee5a2e33"/>
+				<FILE filename="V10_CKI_U_11_2_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="24420db67b458ed7d01ccd5bcff64ae6"/>
 			</FILES>
 		</DATA_BLOCK>
 	</RUN>
@@ -3094,10 +3094,10 @@
 		<EXPERIMENT_REF refname="16S_V10_CKI_U_11_3"/>
 		<DATA_BLOCK>
 			<FILES>
-				<FILE filename="V10_CKI_U_11_3_16S.1_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="1e17cc71ccb3d927edce043c0e536ff1"/>
-				<FILE filename="V10_CKI_U_11_3_16S.2_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="0e50f0ee762c8606d5728d26183ef305"/>
+				<FILE filename="V10_CKI_U_11_3_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="bd637ceb6737eb7a9a5c413e5b95fde7"/>
+				<FILE filename="V10_CKI_U_11_3_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="e29f295e2c57188dc65aec7458d0ea2d"/>
 			</FILES>
 		</DATA_BLOCK>
 	</RUN>
@@ -3116,10 +3116,10 @@
 		<EXPERIMENT_REF refname="16S_V10_CKI_U_11_4"/>
 		<DATA_BLOCK>
 			<FILES>
-				<FILE filename="V10_CKI_U_11_4_16S.1_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="7c094a5130336182f500af571caa5748"/>
-				<FILE filename="V10_CKI_U_11_4_16S.2_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="505deff2a49f7f379e231a3c730e1622"/>
+				<FILE filename="V10_CKI_U_11_4_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="360999f840c25d489b572834ee967ab2"/>
+				<FILE filename="V10_CKI_U_11_4_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="9c9af63149dfc379a9b3b00da12511fe"/>
 			</FILES>
 		</DATA_BLOCK>
 	</RUN>
@@ -3138,10 +3138,10 @@
 		<EXPERIMENT_REF refname="16S_V10_CKI_U_11_5"/>
 		<DATA_BLOCK>
 			<FILES>
-				<FILE filename="V10_CKI_U_11_5_16S.1_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="3487ac98e5930b46270e33da1690ed93"/>
-				<FILE filename="V10_CKI_U_11_5_16S.2_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="75a5bce8aa2bf59a4fd759d928c1fe12"/>
+				<FILE filename="V10_CKI_U_11_5_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="ad0044da862a51c568d159b5cabc5941"/>
+				<FILE filename="V10_CKI_U_11_5_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="98b43e88acd85c31df0f792b049170d9"/>
 			</FILES>
 		</DATA_BLOCK>
 	</RUN>
@@ -3160,10 +3160,10 @@
 		<EXPERIMENT_REF refname="16S_V10_CKI_U_11_DI"/>
 		<DATA_BLOCK>
 			<FILES>
-				<FILE filename="V10_CKI_U_11_DI_16S.1_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="0673c46907c51788824f8dc5d58725a0"/>
-				<FILE filename="V10_CKI_U_11_DI_16S.2_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="c8a242e7a68643275f6a1dd68e5cbf31"/>
+				<FILE filename="V10_CKI_U_11_DI_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="8d62deb747189b246cf2b7356b8bdb9b"/>
+				<FILE filename="V10_CKI_U_11_DI_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="df104296911c48c095dfb7b5ba6fecf9"/>
 			</FILES>
 		</DATA_BLOCK>
 	</RUN>
@@ -3182,10 +3182,10 @@
 		<EXPERIMENT_REF refname="16S_V10_CKI_U_11_WC"/>
 		<DATA_BLOCK>
 			<FILES>
-				<FILE filename="V10_CKI_U_11_WC_16S.1_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="96e17634bff6db9d05291eb23f74175f"/>
-				<FILE filename="V10_CKI_U_11_WC_16S.2_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="0655a8c11f75f03e5f3b83bc2155e21d"/>
+				<FILE filename="V10_CKI_U_11_WC_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="9c8e729a1af50b7673104d7214b0dfb9"/>
+				<FILE filename="V10_CKI_U_11_WC_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="9a2dedb2b83688031e77d9beddfc18c7"/>
 			</FILES>
 		</DATA_BLOCK>
 	</RUN>
@@ -3204,10 +3204,10 @@
 		<EXPERIMENT_REF refname="16S_V10_CKI_U_13_1"/>
 		<DATA_BLOCK>
 			<FILES>
-				<FILE filename="V10_CKI_U_13_1_16S.1_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="d2a19de926468d05c2f110fc2571b6fe"/>
-				<FILE filename="V10_CKI_U_13_1_16S.2_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="8bb432ae8bf92425b4544b697380e4d6"/>
+				<FILE filename="V10_CKI_U_13_1_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="8d485f94a9f3d258bee1215914a307f6"/>
+				<FILE filename="V10_CKI_U_13_1_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="620cdb32005c246dbe1af83d420a5230"/>
 			</FILES>
 		</DATA_BLOCK>
 	</RUN>
@@ -3226,10 +3226,10 @@
 		<EXPERIMENT_REF refname="16S_V10_CKI_U_13_2"/>
 		<DATA_BLOCK>
 			<FILES>
-				<FILE filename="V10_CKI_U_13_2_16S.1_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="8274d842be7a27e42f64f1dead82114b"/>
-				<FILE filename="V10_CKI_U_13_2_16S.2_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="68e45e7a6102ccbcad38bfe09cbbe5d1"/>
+				<FILE filename="V10_CKI_U_13_2_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="22ed885aa6c39df1105aa0e67040834f"/>
+				<FILE filename="V10_CKI_U_13_2_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="521edc0ca8250bbc9005483b6b7777ea"/>
 			</FILES>
 		</DATA_BLOCK>
 	</RUN>
@@ -3248,10 +3248,10 @@
 		<EXPERIMENT_REF refname="16S_V10_CKI_U_13_3"/>
 		<DATA_BLOCK>
 			<FILES>
-				<FILE filename="V10_CKI_U_13_3_16S.1_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="45c1429e258d763b15c53998710c84c6"/>
-				<FILE filename="V10_CKI_U_13_3_16S.2_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="68b72ad1e3fcd65ae13ffa77efb13ab0"/>
+				<FILE filename="V10_CKI_U_13_3_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="30d2ece84aab3118035499f3cc4526c1"/>
+				<FILE filename="V10_CKI_U_13_3_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="f93ea2fe213f479953990c5f324df553"/>
 			</FILES>
 		</DATA_BLOCK>
 	</RUN>
@@ -3270,10 +3270,10 @@
 		<EXPERIMENT_REF refname="16S_V10_CKI_U_13_4"/>
 		<DATA_BLOCK>
 			<FILES>
-				<FILE filename="V10_CKI_U_13_4_16S.1_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="de11a0296f1234163cb6205f751a0aa4"/>
-				<FILE filename="V10_CKI_U_13_4_16S.2_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="3f6f4186f6b0abd149a22084cfb073a9"/>
+				<FILE filename="V10_CKI_U_13_4_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="7d176346f10b3158ae24fae794f52ca8"/>
+				<FILE filename="V10_CKI_U_13_4_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="9787aa7aca0495c0352a16459b02ec7d"/>
 			</FILES>
 		</DATA_BLOCK>
 	</RUN>
@@ -3292,10 +3292,10 @@
 		<EXPERIMENT_REF refname="16S_V10_CKI_U_13_5"/>
 		<DATA_BLOCK>
 			<FILES>
-				<FILE filename="V10_CKI_U_13_5_16S.1_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="208da02ab6213a40caf49a2af24d746c"/>
-				<FILE filename="V10_CKI_U_13_5_16S.2_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="5df664685793e07f4743591966a668bb"/>
+				<FILE filename="V10_CKI_U_13_5_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="9c4b253d03c59f06ba26c1aebbea35a1"/>
+				<FILE filename="V10_CKI_U_13_5_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="0c49fc4c049216dec4acc194542c9ca2"/>
 			</FILES>
 		</DATA_BLOCK>
 	</RUN>
@@ -3314,10 +3314,10 @@
 		<EXPERIMENT_REF refname="16S_V10_CKI_U_13_DI"/>
 		<DATA_BLOCK>
 			<FILES>
-				<FILE filename="V10_CKI_U_13_DI_16S.1_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="dac2a341c1b202abcf4152a6b84e77ad"/>
-				<FILE filename="V10_CKI_U_13_DI_16S.2_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="03d200bcb392b223bdb27195b6bdb72a"/>
+				<FILE filename="V10_CKI_U_13_DI_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="2a3912110cf075606f5c1d48cc08240b"/>
+				<FILE filename="V10_CKI_U_13_DI_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="a4f81b025e8f7589a19568ed8dce09b1"/>
 			</FILES>
 		</DATA_BLOCK>
 	</RUN>
@@ -3336,10 +3336,10 @@
 		<EXPERIMENT_REF refname="16S_V10_CKI_U_13_WC"/>
 		<DATA_BLOCK>
 			<FILES>
-				<FILE filename="V10_CKI_U_13_WC_16S.1_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="a635fb907b14d6365f1618575b8fb41a"/>
-				<FILE filename="V10_CKI_U_13_WC_16S.2_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="5fd39da46e6e2b87502083c212915b3c"/>
+				<FILE filename="V10_CKI_U_13_WC_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="3f892afd9c8a22a295c993f0713330ec"/>
+				<FILE filename="V10_CKI_U_13_WC_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="230071b302fedba1e200976f337e90ff"/>
 			</FILES>
 		</DATA_BLOCK>
 	</RUN>
@@ -3358,10 +3358,10 @@
 		<EXPERIMENT_REF refname="16S_V10_CKI_U_14_1"/>
 		<DATA_BLOCK>
 			<FILES>
-				<FILE filename="V10_CKI_U_14_1_16S.1_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="2bc454f7b58e5a5c29a8807481348e38"/>
-				<FILE filename="V10_CKI_U_14_1_16S.2_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="67abe4f3e37612c46c06128798c4cb15"/>
+				<FILE filename="V10_CKI_U_14_1_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="e5725f2d80c1b20d516e8c8c6b6fae91"/>
+				<FILE filename="V10_CKI_U_14_1_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="73f3c78200f33c2ae09d603a2795b605"/>
 			</FILES>
 		</DATA_BLOCK>
 	</RUN>
@@ -3380,10 +3380,10 @@
 		<EXPERIMENT_REF refname="16S_V10_CKI_U_14_2"/>
 		<DATA_BLOCK>
 			<FILES>
-				<FILE filename="V10_CKI_U_14_2_16S.1_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="912049af121f4ecc01057fc1713e04e5"/>
-				<FILE filename="V10_CKI_U_14_2_16S.2_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="fc9af5bb5f814e0abdbb7531ac03713b"/>
+				<FILE filename="V10_CKI_U_14_2_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="cbe88d7f3263a83f1e60bd549cc4f774"/>
+				<FILE filename="V10_CKI_U_14_2_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="a216e81557eb3dc28fbf96158a92bd28"/>
 			</FILES>
 		</DATA_BLOCK>
 	</RUN>
@@ -3402,10 +3402,10 @@
 		<EXPERIMENT_REF refname="16S_V10_CKI_U_14_3"/>
 		<DATA_BLOCK>
 			<FILES>
-				<FILE filename="V10_CKI_U_14_3_16S.1_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="365c7f1a7a18e5542a07a827ea9ba5d1"/>
-				<FILE filename="V10_CKI_U_14_3_16S.2_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="157c8ec01191497334ea73f824e59a40"/>
+				<FILE filename="V10_CKI_U_14_3_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="b418c0588d7aa6fd7c9a5c93d79be243"/>
+				<FILE filename="V10_CKI_U_14_3_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="7331e0f5797d35b19d49a10a896d341b"/>
 			</FILES>
 		</DATA_BLOCK>
 	</RUN>
@@ -3424,10 +3424,10 @@
 		<EXPERIMENT_REF refname="16S_V10_CKI_U_14_4"/>
 		<DATA_BLOCK>
 			<FILES>
-				<FILE filename="V10_CKI_U_14_4_16S.1_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="f2c8811dac0bcbb4546509e669854a08"/>
-				<FILE filename="V10_CKI_U_14_4_16S.2_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="8ed5363a1a08cbe37b8903042f99bbd1"/>
+				<FILE filename="V10_CKI_U_14_4_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="3638354c76e959dac5ce58a32ebf49d6"/>
+				<FILE filename="V10_CKI_U_14_4_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="0dfba19b098cd3d99bacebf377a463be"/>
 			</FILES>
 		</DATA_BLOCK>
 	</RUN>
@@ -3446,10 +3446,10 @@
 		<EXPERIMENT_REF refname="16S_V10_CKI_U_14_5"/>
 		<DATA_BLOCK>
 			<FILES>
-				<FILE filename="V10_CKI_U_14_5_16S.1_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="1e7dcd4e6b497afc6c4c18c998ef1577"/>
-				<FILE filename="V10_CKI_U_14_5_16S.2_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="1acba31b29214e05eb82711d2f255552"/>
+				<FILE filename="V10_CKI_U_14_5_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="926fa5cbb4246dad920e037d99583505"/>
+				<FILE filename="V10_CKI_U_14_5_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="7a6725092dc4e0aafcb60bc7aaebf8f2"/>
 			</FILES>
 		</DATA_BLOCK>
 	</RUN>
@@ -3468,10 +3468,10 @@
 		<EXPERIMENT_REF refname="16S_V10_CKI_U_14_DI"/>
 		<DATA_BLOCK>
 			<FILES>
-				<FILE filename="V10_CKI_U_14_DI_16S.1_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="d1b32ef5dfc6bf00de83d51daf32f7fb"/>
-				<FILE filename="V10_CKI_U_14_DI_16S.2_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="52134f5455b2fc2274a6521c012b13a6"/>
+				<FILE filename="V10_CKI_U_14_DI_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="c37e0829b16f002151b0c07fbb161b1e"/>
+				<FILE filename="V10_CKI_U_14_DI_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="122b260d7a1c636277b8005027bf0815"/>
 			</FILES>
 		</DATA_BLOCK>
 	</RUN>
@@ -3490,10 +3490,10 @@
 		<EXPERIMENT_REF refname="16S_V10_CKI_U_14_WC"/>
 		<DATA_BLOCK>
 			<FILES>
-				<FILE filename="V10_CKI_U_14_WC_16S.1_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="6b5b4e0ea63fba4a73a76f503e718c8e"/>
-				<FILE filename="V10_CKI_U_14_WC_16S.2_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="4693d6bc4a3982a41b5b2686a5e8577e"/>
+				<FILE filename="V10_CKI_U_14_WC_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="54e25081482bf3f56eb1d51661c3c7de"/>
+				<FILE filename="V10_CKI_U_14_WC_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="de32183845884147f9ae3832911388c3"/>
 			</FILES>
 		</DATA_BLOCK>
 	</RUN>
@@ -3512,10 +3512,10 @@
 		<EXPERIMENT_REF refname="16S_V10_CKI_U_2_1"/>
 		<DATA_BLOCK>
 			<FILES>
-				<FILE filename="V10_CKI_U_2_1_16S.1_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="d433230b831d5b79b0437fa867433ead"/>
-				<FILE filename="V10_CKI_U_2_1_16S.2_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="c5ca7e26241f6e19810a7523301b98bc"/>
+				<FILE filename="V10_CKI_U_2_1_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="896c9db2e8cdba0cb6cd4f5936757822"/>
+				<FILE filename="V10_CKI_U_2_1_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="9739fda5a284e2777dbf433d85cc5dc0"/>
 			</FILES>
 		</DATA_BLOCK>
 	</RUN>
@@ -3534,10 +3534,10 @@
 		<EXPERIMENT_REF refname="16S_V10_CKI_U_2_2"/>
 		<DATA_BLOCK>
 			<FILES>
-				<FILE filename="V10_CKI_U_2_2_16S.1_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="01082f5056d19930275c54102810417d"/>
-				<FILE filename="V10_CKI_U_2_2_16S.2_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="c5a3dcb05f9c5406c5fe9d6349e951d1"/>
+				<FILE filename="V10_CKI_U_2_2_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="25e820e9f1762ff9687c4657ff7d7f76"/>
+				<FILE filename="V10_CKI_U_2_2_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="d2c5b9eb07cb92d71d1043b1e548bdb9"/>
 			</FILES>
 		</DATA_BLOCK>
 	</RUN>
@@ -3556,10 +3556,10 @@
 		<EXPERIMENT_REF refname="16S_V10_CKI_U_2_3"/>
 		<DATA_BLOCK>
 			<FILES>
-				<FILE filename="V10_CKI_U_2_3_16S.1_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="c9486dc0658a5f7ef57acfb89041fda2"/>
-				<FILE filename="V10_CKI_U_2_3_16S.2_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="4a4d6dbb192d1c89aa112ecbfd25d249"/>
+				<FILE filename="V10_CKI_U_2_3_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="79d315bd7e1f17d3a04e0671c04b1a35"/>
+				<FILE filename="V10_CKI_U_2_3_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="a1d0f9da6991e6273a39e207a7097f5a"/>
 			</FILES>
 		</DATA_BLOCK>
 	</RUN>
@@ -3578,10 +3578,10 @@
 		<EXPERIMENT_REF refname="16S_V10_CKI_U_2_4"/>
 		<DATA_BLOCK>
 			<FILES>
-				<FILE filename="V10_CKI_U_2_4_16S.1_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="3634d1a6f7b0053a96212569fe95940d"/>
-				<FILE filename="V10_CKI_U_2_4_16S.2_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="ba3c70080950a26fb2a875436609d741"/>
+				<FILE filename="V10_CKI_U_2_4_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="fc72eda0a62957e3131f0f64f09e1eed"/>
+				<FILE filename="V10_CKI_U_2_4_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="c185ac01413e6c54692a9a3f07922ae3"/>
 			</FILES>
 		</DATA_BLOCK>
 	</RUN>
@@ -3600,10 +3600,10 @@
 		<EXPERIMENT_REF refname="16S_V10_CKI_U_2_5"/>
 		<DATA_BLOCK>
 			<FILES>
-				<FILE filename="V10_CKI_U_2_5_16S.1_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="a7aa809f7d4efb510140f291f788dc5a"/>
-				<FILE filename="V10_CKI_U_2_5_16S.2_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="10f52945f90ccbc29f84550df12711e9"/>
+				<FILE filename="V10_CKI_U_2_5_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="02eee2babe4b208326b589b9c0e0bdc0"/>
+				<FILE filename="V10_CKI_U_2_5_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="96d62726dfcc379ebd60e45de5001428"/>
 			</FILES>
 		</DATA_BLOCK>
 	</RUN>
@@ -3622,10 +3622,10 @@
 		<EXPERIMENT_REF refname="16S_V10_CKI_U_2_DI"/>
 		<DATA_BLOCK>
 			<FILES>
-				<FILE filename="V10_CKI_U_2_DI_16S.1_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="c3106931a006317564c38ca6d16290b9"/>
-				<FILE filename="V10_CKI_U_2_DI_16S.2_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="915e763f66b4a49b5122ba1f9c2e2cef"/>
+				<FILE filename="V10_CKI_U_2_DI_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="ce2a8cec57b736caa557eecb16e617e5"/>
+				<FILE filename="V10_CKI_U_2_DI_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="cef0c61ebbd006314bf922c82a95c265"/>
 			</FILES>
 		</DATA_BLOCK>
 	</RUN>
@@ -3644,10 +3644,10 @@
 		<EXPERIMENT_REF refname="16S_V10_CKI_U_2_WC"/>
 		<DATA_BLOCK>
 			<FILES>
-				<FILE filename="V10_CKI_U_2_WC_16S.1_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="0680135d2af0353e3230e4f258069775"/>
-				<FILE filename="V10_CKI_U_2_WC_16S.2_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="afcfdfc3ce853b86ffa4e045bcc0966e"/>
+				<FILE filename="V10_CKI_U_2_WC_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="f200a12379405b12867e2ac8673ad9c4"/>
+				<FILE filename="V10_CKI_U_2_WC_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="024acc6b954a25aa889918cabc0c1962"/>
 			</FILES>
 		</DATA_BLOCK>
 	</RUN>
@@ -3666,10 +3666,10 @@
 		<EXPERIMENT_REF refname="16S_V10_CKI_U_4_1"/>
 		<DATA_BLOCK>
 			<FILES>
-				<FILE filename="V10_CKI_U_4_1_16S.1_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="bcb60ecac5e63bb3a5a34c6444dc5417"/>
-				<FILE filename="V10_CKI_U_4_1_16S.2_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="65a3e5567608b919dae6530a88196766"/>
+				<FILE filename="V10_CKI_U_4_1_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="2371aaf613b8cd7bd82deff29e1e1825"/>
+				<FILE filename="V10_CKI_U_4_1_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="1940adb79ee1448f9e16fb33a246e079"/>
 			</FILES>
 		</DATA_BLOCK>
 	</RUN>
@@ -3688,10 +3688,10 @@
 		<EXPERIMENT_REF refname="16S_V10_CKI_U_4_2"/>
 		<DATA_BLOCK>
 			<FILES>
-				<FILE filename="V10_CKI_U_4_2_16S.1_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="4534ae1b15245db777d9beaf1e800475"/>
-				<FILE filename="V10_CKI_U_4_2_16S.2_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="696eca5b9674777e4ece81f2cc18a75b"/>
+				<FILE filename="V10_CKI_U_4_2_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="179e3b2486598a4a68773af751b3f5df"/>
+				<FILE filename="V10_CKI_U_4_2_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="35b37588b15fdccbea55016f809a01c5"/>
 			</FILES>
 		</DATA_BLOCK>
 	</RUN>
@@ -3710,10 +3710,10 @@
 		<EXPERIMENT_REF refname="16S_V10_CKI_U_4_3"/>
 		<DATA_BLOCK>
 			<FILES>
-				<FILE filename="V10_CKI_U_4_3_16S.1_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="86ec5c2105d79424300b2cc61c7e392b"/>
-				<FILE filename="V10_CKI_U_4_3_16S.2_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="5935d133502d18ae6567eba0a90829cc"/>
+				<FILE filename="V10_CKI_U_4_3_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="7d551e7560e6f65466d70532a4a59940"/>
+				<FILE filename="V10_CKI_U_4_3_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="756c63e96e4779b70764d168b5383980"/>
 			</FILES>
 		</DATA_BLOCK>
 	</RUN>
@@ -3732,10 +3732,10 @@
 		<EXPERIMENT_REF refname="16S_V10_CKI_U_4_4"/>
 		<DATA_BLOCK>
 			<FILES>
-				<FILE filename="V10_CKI_U_4_4_16S.1_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="b07d2154de4b04535bbc217ba77e1210"/>
-				<FILE filename="V10_CKI_U_4_4_16S.2_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="de29241b28fd5ec2873e1af20bd96024"/>
+				<FILE filename="V10_CKI_U_4_4_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="731930983dcaeea8461d6f76b484f324"/>
+				<FILE filename="V10_CKI_U_4_4_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="e213ab7f71108ce4be93af736bd5b5fe"/>
 			</FILES>
 		</DATA_BLOCK>
 	</RUN>
@@ -3754,10 +3754,10 @@
 		<EXPERIMENT_REF refname="16S_V10_CKI_U_4_5"/>
 		<DATA_BLOCK>
 			<FILES>
-				<FILE filename="V10_CKI_U_4_5_16S.1_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="64f358d21c6cb4abeadf1d9fcd154fac"/>
-				<FILE filename="V10_CKI_U_4_5_16S.2_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="7381c36654235d1a3f603bf4e10fa83d"/>
+				<FILE filename="V10_CKI_U_4_5_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="50f0f84a4c23d10f1fe10bc3c9d117d4"/>
+				<FILE filename="V10_CKI_U_4_5_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="74828a96baa71d911f0c36190ea45b4f"/>
 			</FILES>
 		</DATA_BLOCK>
 	</RUN>
@@ -3776,10 +3776,10 @@
 		<EXPERIMENT_REF refname="16S_V10_CKI_U_4_DI"/>
 		<DATA_BLOCK>
 			<FILES>
-				<FILE filename="V10_CKI_U_4_DI_16S.1_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="503c190a03c4cd5812e4bf0312446f27"/>
-				<FILE filename="V10_CKI_U_4_DI_16S.2_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="ce0cb1503013e2cb64b1ad47acfdefc0"/>
+				<FILE filename="V10_CKI_U_4_DI_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="a4a60ee9c5f30326e7c40f29eda3939a"/>
+				<FILE filename="V10_CKI_U_4_DI_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="76b570a4d62c0fa72d3483c9bd25f56e"/>
 			</FILES>
 		</DATA_BLOCK>
 	</RUN>
@@ -3798,10 +3798,10 @@
 		<EXPERIMENT_REF refname="16S_V10_CKI_U_4_WC"/>
 		<DATA_BLOCK>
 			<FILES>
-				<FILE filename="V10_CKI_U_4_WC_16S.1_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="98eaf51ecc6a0287341ae15402cab5c1"/>
-				<FILE filename="V10_CKI_U_4_WC_16S.2_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="a271136f16ca049730910c927047c0ca"/>
+				<FILE filename="V10_CKI_U_4_WC_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="d581407a8f1075a5e9a03a9edd3feaa6"/>
+				<FILE filename="V10_CKI_U_4_WC_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="2e47c4ddcfbe4aafb8ad9d1c4455bc9c"/>
 			</FILES>
 		</DATA_BLOCK>
 	</RUN>
@@ -3820,10 +3820,10 @@
 		<EXPERIMENT_REF refname="16S_V10_CKI_U_5_1"/>
 		<DATA_BLOCK>
 			<FILES>
-				<FILE filename="V10_CKI_U_5_1_16S.1_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="decc0e0319a960cf6b45c1100a646ca1"/>
-				<FILE filename="V10_CKI_U_5_1_16S.2_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="9aa88d8c97268ea328d5d175505aa6da"/>
+				<FILE filename="V10_CKI_U_5_1_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="62196eea0eeb5c0b08693312b34f0dfe"/>
+				<FILE filename="V10_CKI_U_5_1_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="b18fd4736464d4a3b6eeca00d8980211"/>
 			</FILES>
 		</DATA_BLOCK>
 	</RUN>
@@ -3842,10 +3842,10 @@
 		<EXPERIMENT_REF refname="16S_V10_CKI_U_5_2"/>
 		<DATA_BLOCK>
 			<FILES>
-				<FILE filename="V10_CKI_U_5_2_16S.1_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="864d1614d3b8fc80bfe8d465b77f4afd"/>
-				<FILE filename="V10_CKI_U_5_2_16S.2_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="f03bc87d16019bdcb996a17966125953"/>
+				<FILE filename="V10_CKI_U_5_2_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="21e32b4554c846fafd9489a09d103159"/>
+				<FILE filename="V10_CKI_U_5_2_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="fc47816a69bbf908566ec49fc9fe88e7"/>
 			</FILES>
 		</DATA_BLOCK>
 	</RUN>
@@ -3864,10 +3864,10 @@
 		<EXPERIMENT_REF refname="16S_V10_CKI_U_5_3"/>
 		<DATA_BLOCK>
 			<FILES>
-				<FILE filename="V10_CKI_U_5_3_16S.1_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="9d3afc6ccca0a7a8d787ac9e88bf918f"/>
-				<FILE filename="V10_CKI_U_5_3_16S.2_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="a56a3c8a6e5a1d0463dd501de577c0c1"/>
+				<FILE filename="V10_CKI_U_5_3_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="6088042dd0fbbebcb81fde24eed8ee97"/>
+				<FILE filename="V10_CKI_U_5_3_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="6c149e4185d233e8538032ba1496b19a"/>
 			</FILES>
 		</DATA_BLOCK>
 	</RUN>
@@ -3886,10 +3886,10 @@
 		<EXPERIMENT_REF refname="16S_V10_CKI_U_5_4"/>
 		<DATA_BLOCK>
 			<FILES>
-				<FILE filename="V10_CKI_U_5_4_16S.1_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="3e667c9951fcc02cff867eb7f3a49049"/>
-				<FILE filename="V10_CKI_U_5_4_16S.2_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="0a22f22c772532b7b91e5a07990b3f17"/>
+				<FILE filename="V10_CKI_U_5_4_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="459255a687a9366e6fa65e9e49aca343"/>
+				<FILE filename="V10_CKI_U_5_4_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="e3b6070a593e59ab6baab62e4661b56c"/>
 			</FILES>
 		</DATA_BLOCK>
 	</RUN>
@@ -3908,10 +3908,10 @@
 		<EXPERIMENT_REF refname="16S_V10_CKI_U_5_5"/>
 		<DATA_BLOCK>
 			<FILES>
-				<FILE filename="V10_CKI_U_5_5_16S.1_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="cdda33664fde17fe76ef4efa8ee6a9a8"/>
-				<FILE filename="V10_CKI_U_5_5_16S.2_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="cf9f0a7a323162ff8544e7a995b11519"/>
+				<FILE filename="V10_CKI_U_5_5_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="9334844df2b5e6ef097013918793d5d4"/>
+				<FILE filename="V10_CKI_U_5_5_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="627a609fc8b508379097bc2a11f7e760"/>
 			</FILES>
 		</DATA_BLOCK>
 	</RUN>
@@ -3930,10 +3930,10 @@
 		<EXPERIMENT_REF refname="16S_V10_CKI_U_5_DI"/>
 		<DATA_BLOCK>
 			<FILES>
-				<FILE filename="V10_CKI_U_5_DI_16S.1_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="47ea465d12203a4d4ef6e181f1a3f659"/>
-				<FILE filename="V10_CKI_U_5_DI_16S.2_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="3de423b9da0a86115a281121d8a795ca"/>
+				<FILE filename="V10_CKI_U_5_DI_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="648ce4b265f9176687fe2805e62db042"/>
+				<FILE filename="V10_CKI_U_5_DI_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="68cbcab0ee5e60745c5929e23e7f5922"/>
 			</FILES>
 		</DATA_BLOCK>
 	</RUN>
@@ -3952,10 +3952,10 @@
 		<EXPERIMENT_REF refname="16S_V10_CKI_U_5_WC"/>
 		<DATA_BLOCK>
 			<FILES>
-				<FILE filename="V10_CKI_U_5_WC_16S.1_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="0e7839ceffcf4b19a94eb82976d59d35"/>
-				<FILE filename="V10_CKI_U_5_WC_16S.2_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="23454a76e1a8ef3b252b6b2df676f944"/>
+				<FILE filename="V10_CKI_U_5_WC_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="eb016cfea9cacfb6ac70134a3274b23f"/>
+				<FILE filename="V10_CKI_U_5_WC_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="f126110b8c7f25d5415d0cc2766aa3a1"/>
 			</FILES>
 		</DATA_BLOCK>
 	</RUN>
@@ -3974,10 +3974,10 @@
 		<EXPERIMENT_REF refname="16S_V10_CKI_U_7_1"/>
 		<DATA_BLOCK>
 			<FILES>
-				<FILE filename="V10_CKI_U_7_1_16S.1_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="40373f441b3d4d9db54eaab8496d2c90"/>
-				<FILE filename="V10_CKI_U_7_1_16S.2_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="7134fa6ae542265f5fab194e10bfa7e3"/>
+				<FILE filename="V10_CKI_U_7_1_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="51c5dc837c53d320b23e9296f40ef1e9"/>
+				<FILE filename="V10_CKI_U_7_1_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="ce8ba18ca9f45b8cac010356e15eae7c"/>
 			</FILES>
 		</DATA_BLOCK>
 	</RUN>
@@ -3996,10 +3996,10 @@
 		<EXPERIMENT_REF refname="16S_V10_CKI_U_7_2"/>
 		<DATA_BLOCK>
 			<FILES>
-				<FILE filename="V10_CKI_U_7_2_16S.1_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="e696d0519b4efda96999bef9c91798b2"/>
-				<FILE filename="V10_CKI_U_7_2_16S.2_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="855fcd3d122bab047d2ccb67bb75f954"/>
+				<FILE filename="V10_CKI_U_7_2_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="9c5500d5b7c6e6ec8aee3e09753a699c"/>
+				<FILE filename="V10_CKI_U_7_2_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="e40a9135a0eb5438e8999eb7a31294ca"/>
 			</FILES>
 		</DATA_BLOCK>
 	</RUN>
@@ -4018,10 +4018,10 @@
 		<EXPERIMENT_REF refname="16S_V10_CKI_U_7_3"/>
 		<DATA_BLOCK>
 			<FILES>
-				<FILE filename="V10_CKI_U_7_3_16S.1_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="6e32d5af5e80142f49daa1c192baecb0"/>
-				<FILE filename="V10_CKI_U_7_3_16S.2_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="168d2f2ce5f15cc1eb29174ac40eebf1"/>
+				<FILE filename="V10_CKI_U_7_3_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="ca3bd2c3484fe82bbf2a00ef92b44d33"/>
+				<FILE filename="V10_CKI_U_7_3_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="561e091eb6dc15be43ba71930425828c"/>
 			</FILES>
 		</DATA_BLOCK>
 	</RUN>
@@ -4040,10 +4040,10 @@
 		<EXPERIMENT_REF refname="16S_V10_CKI_U_7_4"/>
 		<DATA_BLOCK>
 			<FILES>
-				<FILE filename="V10_CKI_U_7_4_16S.1_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="e0af4096a26886f8b0b18e2936b3ff91"/>
-				<FILE filename="V10_CKI_U_7_4_16S.2_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="65986300fbaaf005d4e6d191fdec283f"/>
+				<FILE filename="V10_CKI_U_7_4_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="c97d3a26c7416c15ccf04358b6a42316"/>
+				<FILE filename="V10_CKI_U_7_4_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="2cb17ab8394a832132df58eefc06efec"/>
 			</FILES>
 		</DATA_BLOCK>
 	</RUN>
@@ -4062,10 +4062,10 @@
 		<EXPERIMENT_REF refname="16S_V10_CKI_U_7_5"/>
 		<DATA_BLOCK>
 			<FILES>
-				<FILE filename="V10_CKI_U_7_5_16S.1_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="28540ddff45ac2bc25ff74ed759171fa"/>
-				<FILE filename="V10_CKI_U_7_5_16S.2_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="024925f5cc9bb8c393e8d8a088c694c8"/>
+				<FILE filename="V10_CKI_U_7_5_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="60bb7838fcb0ec85acc170a67112c939"/>
+				<FILE filename="V10_CKI_U_7_5_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="0c8d93384ac48182b321ca6d722f8e9d"/>
 			</FILES>
 		</DATA_BLOCK>
 	</RUN>
@@ -4084,10 +4084,10 @@
 		<EXPERIMENT_REF refname="16S_V10_CKI_U_7_DI"/>
 		<DATA_BLOCK>
 			<FILES>
-				<FILE filename="V10_CKI_U_7_DI_16S.1_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="0d963461b60aad25eab2273d41c0ec17"/>
-				<FILE filename="V10_CKI_U_7_DI_16S.2_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="e334a7aa6effeba317934197d6fd3e0c"/>
+				<FILE filename="V10_CKI_U_7_DI_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="5cb97c96ad9ee24b699192fbb4b82a3e"/>
+				<FILE filename="V10_CKI_U_7_DI_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="b2d560db9f46dde2f1b9575429221d19"/>
 			</FILES>
 		</DATA_BLOCK>
 	</RUN>
@@ -4106,10 +4106,10 @@
 		<EXPERIMENT_REF refname="16S_V10_CKI_U_7_WC"/>
 		<DATA_BLOCK>
 			<FILES>
-				<FILE filename="V10_CKI_U_7_WC_16S.1_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="e1202d7481a047832e996654e672a7e9"/>
-				<FILE filename="V10_CKI_U_7_WC_16S.2_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="54b2a400f02bcf93ef4e026a61acbfa8"/>
+				<FILE filename="V10_CKI_U_7_WC_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="2481daa22a15e82d9f07c6d62bc8c115"/>
+				<FILE filename="V10_CKI_U_7_WC_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="1ba8871684787892db2b2061ba58721f"/>
 			</FILES>
 		</DATA_BLOCK>
 	</RUN>
@@ -4128,10 +4128,10 @@
 		<EXPERIMENT_REF refname="16S_V10_CKI_U_8_1"/>
 		<DATA_BLOCK>
 			<FILES>
-				<FILE filename="V10_CKI_U_8_1_16S.1_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="f73e4fa3a458320c068bbdc5cbf2045d"/>
-				<FILE filename="V10_CKI_U_8_1_16S.2_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="3d4699a878c969a15d2850bedfa21c02"/>
+				<FILE filename="V10_CKI_U_8_1_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="f632f0e30db76a9a0dd30740b6c377dd"/>
+				<FILE filename="V10_CKI_U_8_1_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="987885639e7ad5e8d7e5d9d4507c0f6a"/>
 			</FILES>
 		</DATA_BLOCK>
 	</RUN>
@@ -4150,10 +4150,10 @@
 		<EXPERIMENT_REF refname="16S_V10_CKI_U_8_2"/>
 		<DATA_BLOCK>
 			<FILES>
-				<FILE filename="V10_CKI_U_8_2_16S.1_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="e67ac133b921ac24aec4a36be7386351"/>
-				<FILE filename="V10_CKI_U_8_2_16S.2_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="4e0a3c7bffd51a262817ab249aee2227"/>
+				<FILE filename="V10_CKI_U_8_2_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="ee61d195c7e6449e3b5ca74ff94f3660"/>
+				<FILE filename="V10_CKI_U_8_2_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="69d4d183aba669e10864d8a51f7c42fc"/>
 			</FILES>
 		</DATA_BLOCK>
 	</RUN>
@@ -4172,10 +4172,10 @@
 		<EXPERIMENT_REF refname="16S_V10_CKI_U_8_3"/>
 		<DATA_BLOCK>
 			<FILES>
-				<FILE filename="V10_CKI_U_8_3_16S.1_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="b77bffba9d2d521f7edceba73bf8d7d1"/>
-				<FILE filename="V10_CKI_U_8_3_16S.2_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="f926654b116846b09065658278a8b551"/>
+				<FILE filename="V10_CKI_U_8_3_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="2dd81f803f3df0d54d92d0a11434af83"/>
+				<FILE filename="V10_CKI_U_8_3_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="6cf89c2919d853f5a35beb6fe6f060c2"/>
 			</FILES>
 		</DATA_BLOCK>
 	</RUN>
@@ -4194,10 +4194,10 @@
 		<EXPERIMENT_REF refname="16S_V10_CKI_U_8_4"/>
 		<DATA_BLOCK>
 			<FILES>
-				<FILE filename="V10_CKI_U_8_4_16S.1_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="171558926737ae2da4e8890fab14ee4f"/>
-				<FILE filename="V10_CKI_U_8_4_16S.2_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="65f4cd863872b737ccf0e2bdcfa9687b"/>
+				<FILE filename="V10_CKI_U_8_4_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="772ee02c705e4237e4314d5937f400e1"/>
+				<FILE filename="V10_CKI_U_8_4_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="5fe5d34f9166bb7ccfd54cf245d961b6"/>
 			</FILES>
 		</DATA_BLOCK>
 	</RUN>
@@ -4216,10 +4216,10 @@
 		<EXPERIMENT_REF refname="16S_V10_CKI_U_8_5"/>
 		<DATA_BLOCK>
 			<FILES>
-				<FILE filename="V10_CKI_U_8_5_16S.1_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="a4f9e3c77aad41eae44179912e2e5ab0"/>
-				<FILE filename="V10_CKI_U_8_5_16S.2_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="03d3e0dfcb439ccc32c8979151b14e73"/>
+				<FILE filename="V10_CKI_U_8_5_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="d69154bca39a46d0e3643544e6156b04"/>
+				<FILE filename="V10_CKI_U_8_5_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="5d7db3772667346693fd015f8bc8a0b8"/>
 			</FILES>
 		</DATA_BLOCK>
 	</RUN>
@@ -4238,10 +4238,10 @@
 		<EXPERIMENT_REF refname="16S_V10_CKI_U_8_DI"/>
 		<DATA_BLOCK>
 			<FILES>
-				<FILE filename="V10_CKI_U_8_DI_16S.1_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="1a6ba476d394ccb539f9aa5651da860c"/>
-				<FILE filename="V10_CKI_U_8_DI_16S.2_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="2a4979a1caaee9f4f5fa15132e5eefbd"/>
+				<FILE filename="V10_CKI_U_8_DI_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="d0a3584df8c6a92f6eaaebfe0cd82ec6"/>
+				<FILE filename="V10_CKI_U_8_DI_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="0e83f818edb1f90690e1061693cb50c7"/>
 			</FILES>
 		</DATA_BLOCK>
 	</RUN>
@@ -4260,10 +4260,10 @@
 		<EXPERIMENT_REF refname="16S_V10_CKI_U_8_WC"/>
 		<DATA_BLOCK>
 			<FILES>
-				<FILE filename="V10_CKI_U_8_WC_16S.1_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="b188e90c077d24ec437a87b1108060ab"/>
-				<FILE filename="V10_CKI_U_8_WC_16S.2_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="f15ec0dc34b58634bf7959bc50943848"/>
+				<FILE filename="V10_CKI_U_8_WC_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="07fce4dfd77594ce6d6eff35e41906b3"/>
+				<FILE filename="V10_CKI_U_8_WC_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="f90814bd7e81b358930d3819c79d5c2c"/>
 			</FILES>
 		</DATA_BLOCK>
 	</RUN>
@@ -4282,10 +4282,10 @@
 		<EXPERIMENT_REF refname="16S_V10_CKI_V_6_1"/>
 		<DATA_BLOCK>
 			<FILES>
-				<FILE filename="V10_CKI_V_6_1_16S.1_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="51bd6ad9034a30960ab9e3eddbb147ff"/>
-				<FILE filename="V10_CKI_V_6_1_16S.2_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="fc560e9d70ec09a7629a95b4d5182937"/>
+				<FILE filename="V10_CKI_V_6_1_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="4e2ad9ce5a130ba6a0b6a62191af8ebd"/>
+				<FILE filename="V10_CKI_V_6_1_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="4347d83773a0a321dc4f472a89a17330"/>
 			</FILES>
 		</DATA_BLOCK>
 	</RUN>
@@ -4304,10 +4304,10 @@
 		<EXPERIMENT_REF refname="16S_V10_CKI_V_6_2"/>
 		<DATA_BLOCK>
 			<FILES>
-				<FILE filename="V10_CKI_V_6_2_16S.1_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="d510802cc8381332d1e2130c6d962b99"/>
-				<FILE filename="V10_CKI_V_6_2_16S.2_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="33e0eb5c6c735a84455c7ae95fa5fc2d"/>
+				<FILE filename="V10_CKI_V_6_2_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="89cbbc1000319dec5dbdb46d730647ee"/>
+				<FILE filename="V10_CKI_V_6_2_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="2185ed81c3efcc9ae2bef4fc6e80db81"/>
 			</FILES>
 		</DATA_BLOCK>
 	</RUN>
@@ -4326,10 +4326,10 @@
 		<EXPERIMENT_REF refname="16S_V10_CKI_V_6_3"/>
 		<DATA_BLOCK>
 			<FILES>
-				<FILE filename="V10_CKI_V_6_3_16S.1_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="327717f8ef073ef92f8f050991c417a7"/>
-				<FILE filename="V10_CKI_V_6_3_16S.2_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="65e1ab9563e3a9eaa9b5c1632316e6fa"/>
+				<FILE filename="V10_CKI_V_6_3_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="9d3af06f74c859f2570dd0afe9f25763"/>
+				<FILE filename="V10_CKI_V_6_3_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="5de25638001270f27ea279c262bcc994"/>
 			</FILES>
 		</DATA_BLOCK>
 	</RUN>
@@ -4348,10 +4348,10 @@
 		<EXPERIMENT_REF refname="16S_V10_CKI_V_6_4"/>
 		<DATA_BLOCK>
 			<FILES>
-				<FILE filename="V10_CKI_V_6_4_16S.1_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="f6cdc910689c0c3e85453aa111595cba"/>
-				<FILE filename="V10_CKI_V_6_4_16S.2_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="5951985890ac845852c870a372b1d9ce"/>
+				<FILE filename="V10_CKI_V_6_4_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="a027eeac5dfcf359e851fc9d631f6fff"/>
+				<FILE filename="V10_CKI_V_6_4_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="1be3d1260203b1f7c23c18a40062c249"/>
 			</FILES>
 		</DATA_BLOCK>
 	</RUN>
@@ -4370,10 +4370,10 @@
 		<EXPERIMENT_REF refname="16S_V10_CKI_V_6_5"/>
 		<DATA_BLOCK>
 			<FILES>
-				<FILE filename="V10_CKI_V_6_5_16S.1_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="51041960ad3a73f279ffcf3c62f1ceca"/>
-				<FILE filename="V10_CKI_V_6_5_16S.2_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="8bea4a54a96e5c55781b5acd5859345e"/>
+				<FILE filename="V10_CKI_V_6_5_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="3fc61d652cfd6712a55c453fb9c1b26d"/>
+				<FILE filename="V10_CKI_V_6_5_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="a88b6dbca12457792c1997b54f8c8389"/>
 			</FILES>
 		</DATA_BLOCK>
 	</RUN>
@@ -4392,10 +4392,10 @@
 		<EXPERIMENT_REF refname="16S_V10_CKI_V_6_DI"/>
 		<DATA_BLOCK>
 			<FILES>
-				<FILE filename="V10_CKI_V_6_DI_16S.1_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="3119facafabbc876400c711448a53847"/>
-				<FILE filename="V10_CKI_V_6_DI_16S.2_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="bff988cb155364ccc33fe933dd0121f9"/>
+				<FILE filename="V10_CKI_V_6_DI_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="f068aa961f70d3a3923f5c1816e42b68"/>
+				<FILE filename="V10_CKI_V_6_DI_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="ff9fcc78f7d2a18509be1a74881830cb"/>
 			</FILES>
 		</DATA_BLOCK>
 	</RUN>
@@ -4414,10 +4414,10 @@
 		<EXPERIMENT_REF refname="16S_V10_CKI_V_6_WC"/>
 		<DATA_BLOCK>
 			<FILES>
-				<FILE filename="V10_CKI_V_6_WC_16S.1_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="7ffbf8ebf8669228e87a4aa4d56922f5"/>
-				<FILE filename="V10_CKI_V_6_WC_16S.2_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="a2d910822797b57667a74939218cf554"/>
+				<FILE filename="V10_CKI_V_6_WC_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="d2c9ded61711379a0650af57e6fd10ac"/>
+				<FILE filename="V10_CKI_V_6_WC_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="63e4dd2114abb02d09e2f74abbab74f1"/>
 			</FILES>
 		</DATA_BLOCK>
 	</RUN>
@@ -4436,10 +4436,10 @@
 		<EXPERIMENT_REF refname="16S_V10_CKI_V_9_1"/>
 		<DATA_BLOCK>
 			<FILES>
-				<FILE filename="V10_CKI_V_9_1_16S.1_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="7c35a2dc43f1479789c2f2b72abec15b"/>
-				<FILE filename="V10_CKI_V_9_1_16S.2_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="d4b323ac7f2b31d56eb1a072c11227b3"/>
+				<FILE filename="V10_CKI_V_9_1_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="16cb392504edc91293a1ab52d8b5b0f1"/>
+				<FILE filename="V10_CKI_V_9_1_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="5850c6502b4e6c514aba611e7710f3ab"/>
 			</FILES>
 		</DATA_BLOCK>
 	</RUN>
@@ -4458,10 +4458,10 @@
 		<EXPERIMENT_REF refname="16S_V10_CKI_V_9_2"/>
 		<DATA_BLOCK>
 			<FILES>
-				<FILE filename="V10_CKI_V_9_2_16S.1_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="9c7fafee78725b9b8079f12cf05302a6"/>
-				<FILE filename="V10_CKI_V_9_2_16S.2_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="42017fb65eb4f5c66ff4759fddbb5a1c"/>
+				<FILE filename="V10_CKI_V_9_2_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="fde0e6d1a08744fed68bd69d173d593e"/>
+				<FILE filename="V10_CKI_V_9_2_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="2ec01ec70e2065f2739054ee344321b6"/>
 			</FILES>
 		</DATA_BLOCK>
 	</RUN>
@@ -4480,10 +4480,10 @@
 		<EXPERIMENT_REF refname="16S_V10_CKI_V_9_3"/>
 		<DATA_BLOCK>
 			<FILES>
-				<FILE filename="V10_CKI_V_9_3_16S.1_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="14817c38444b962e7710b18d53258262"/>
-				<FILE filename="V10_CKI_V_9_3_16S.2_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="7e03106fdd5c68b87f13e8782f8d4201"/>
+				<FILE filename="V10_CKI_V_9_3_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="0e971cecef41d61ec9ad25a4c6eac985"/>
+				<FILE filename="V10_CKI_V_9_3_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="549f35e8f62ddee5878f53b0198610d9"/>
 			</FILES>
 		</DATA_BLOCK>
 	</RUN>
@@ -4502,10 +4502,10 @@
 		<EXPERIMENT_REF refname="16S_V10_CKI_V_9_4"/>
 		<DATA_BLOCK>
 			<FILES>
-				<FILE filename="V10_CKI_V_9_4_16S.1_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="67bd7f5e807856ac64bdf948c62ae8d9"/>
-				<FILE filename="V10_CKI_V_9_4_16S.2_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="f5e99b9c3a5bf9a85e034f46fe5300dc"/>
+				<FILE filename="V10_CKI_V_9_4_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="afba6e9f06dc824fcec8eddc1ce39ab4"/>
+				<FILE filename="V10_CKI_V_9_4_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="8cc4339b792d35a1762a7f9a95b955e8"/>
 			</FILES>
 		</DATA_BLOCK>
 	</RUN>
@@ -4524,10 +4524,10 @@
 		<EXPERIMENT_REF refname="16S_V10_CKI_V_9_5"/>
 		<DATA_BLOCK>
 			<FILES>
-				<FILE filename="V10_CKI_V_9_5_16S.1_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="a2c2daa29773d2a853ea1fb6ecd00380"/>
-				<FILE filename="V10_CKI_V_9_5_16S.2_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="bc216a3666d591c9959ae196daa0854f"/>
+				<FILE filename="V10_CKI_V_9_5_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="bda8e9ce643f7a1829ae99f8b1c60f46"/>
+				<FILE filename="V10_CKI_V_9_5_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="bc47d030cd34b959b03d01498709efb7"/>
 			</FILES>
 		</DATA_BLOCK>
 	</RUN>
@@ -4546,10 +4546,10 @@
 		<EXPERIMENT_REF refname="16S_V10_CKI_V_9_DI"/>
 		<DATA_BLOCK>
 			<FILES>
-				<FILE filename="V10_CKI_V_9_DI_16S.1_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="837f081c82e46be9d202fa29ca1620fc"/>
-				<FILE filename="V10_CKI_V_9_DI_16S.2_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="857ca8de601bfb72e6ab91288f687bc8"/>
+				<FILE filename="V10_CKI_V_9_DI_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="699c83e0340149dece45dec45c4b7245"/>
+				<FILE filename="V10_CKI_V_9_DI_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="052530344b238651a9e5053456fdb771"/>
 			</FILES>
 		</DATA_BLOCK>
 	</RUN>
@@ -4568,10 +4568,10 @@
 		<EXPERIMENT_REF refname="16S_V10_CKI_V_9_WC"/>
 		<DATA_BLOCK>
 			<FILES>
-				<FILE filename="V10_CKI_V_9_WC_16S.1_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="2d7607e2540a344736f7a1fb9bc6f07d"/>
-				<FILE filename="V10_CKI_V_9_WC_16S.2_fastqc.zip" filetype="fastq"
-				 checksum_method="MD5" checksum="6192963529ed215f488db9c8660dba5d"/>
+				<FILE filename="V10_CKI_V_9_WC_16S.1.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="cc4f92a09c399ec8051038d53310cd06"/>
+				<FILE filename="V10_CKI_V_9_WC_16S.2.fq.gz" filetype="fastq"
+				 checksum_method="MD5" checksum="1dcffc16bd1318e32fadf884512d9e78"/>
 			</FILES>
 		</DATA_BLOCK>
 	</RUN>

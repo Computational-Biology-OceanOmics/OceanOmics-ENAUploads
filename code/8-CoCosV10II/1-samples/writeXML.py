@@ -6,7 +6,7 @@ import os
 
 #checklist https://www.ebi.ac.uk/ena/browser/view/ERC000011
 # CHANGEME
-for l in glob('../../../CoCosV10II_amplicon_analysis_TRUE/06-report/*rds'):
+for l in glob('../../../../CoCosV10II_amplicon_analysis_TRUE/06-report/*rds'):
     # in this case, the csv files are identical - parse only the first one
      os.popen(f'Rscript -e \'library("phyloseq"); write.csv(as.data.frame(sample_data(readRDS("{l}"))@.Data, col.names=sample_data(readRDS("{l}"))@names, row.names=sample_data(readRDS("{l}"))@row.names), "{os.path.basename(l)}.csv")\'').read()
      break
