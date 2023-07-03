@@ -1,2 +1,3 @@
 GBRV2: fix weird private sample issue. perhaps just later rerun.
 RS19: check if samples in correct BioProject. Fix NTC issue with overlapping filenames once processed.
+RS21FEB: run 2-samples
