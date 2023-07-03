@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="receipt.xsl"?>
+<RECEIPT receiptDate="2023-07-03T02:36:43.508+01:00" submissionFile="submission.xml" success="false">
+     <EXPERIMENT alias="12S_DAY4_BC" status="PRIVATE"/>
+     <EXPERIMENT alias="16S_DAY4_BC" status="PRIVATE"/>
+     <EXPERIMENT alias="12S_DAY4_FC" status="PRIVATE"/>
+     <EXPERIMENT alias="16S_DAY4_FC" status="PRIVATE"/>
+     <EXPERIMENT alias="12S_DAY5_FC" status="PRIVATE"/>
+     <EXPERIMENT alias="16S_DAY5_FC" status="PRIVATE"/>
+     <EXPERIMENT alias="12S_RS21FEB_EB1_2021_" status="PRIVATE"/>
+     <EXPERIMENT alias="16S_RS21FEB_EB1_2021_" status="PRIVATE"/>
+     <EXPERIMENT alias="12S_RS21FEB_EB2_2021_" status="PRIVATE"/>
+     <EXPERIMENT alias="16S_RS21FEB_EB2_2021_" status="PRIVATE"/>
+     <EXPERIMENT alias="12S_RS21FEB_EB3_2021_" status="PRIVATE"/>
+     <EXPERIMENT alias="16S_RS21FEB_EB3_2021_" status="PRIVATE"/>
+     <EXPERIMENT alias="12S_RS_CL_BL_1" status="PRIVATE"/>
+     <EXPERIMENT alias="16S_RS_CL_BL_1" status="PRIVATE"/>
+     <EXPERIMENT alias="12S_RS_CL_BL_2" status="PRIVATE"/>
+     <EXPERIMENT alias="16S_RS_CL_BL_2" status="PRIVATE"/>
+     <EXPERIMENT alias="12S_RS_CL_BL_3_1" status="PRIVATE"/>
+     <EXPERIMENT alias="16S_RS_CL_BL_3_1" status="PRIVATE"/>
+     <EXPERIMENT alias="12S_RS_CL_BL_3_2" status="PRIVATE"/>
+     <EXPERIMENT alias="16S_RS_CL_BL_3_2" status="PRIVATE"/>
+     <EXPERIMENT alias="12S_RS_CL_BL_4" status="PRIVATE"/>
+     <EXPERIMENT alias="16S_RS_CL_BL_4" status="PRIVATE"/>
+     <EXPERIMENT alias="12S_RS_CL_BL_5" status="PRIVATE"/>
+     <EXPERIMENT alias="16S_RS_CL_BL_5" status="PRIVATE"/>
+     <EXPERIMENT alias="12S_RS_CL_BS_1" status="PRIVATE"/>
+     <EXPERIMENT alias="16S_RS_CL_BS_1" status="PRIVATE"/>
+     <EXPERIMENT alias="12S_RS_CL_BS_2" status="PRIVATE"/>
+     <EXPERIMENT alias="16S_RS_CL_BS_2" status="PRIVATE"/>
+     <EXPERIMENT alias="12S_RS_CL_BS_3" status="PRIVATE"/>
+     <EXPERIMENT alias="16S_RS_CL_BS_3" status="PRIVATE"/>
+     <EXPERIMENT alias="12S_RS_CL_BS_4" status="PRIVATE"/>
+     <EXPERIMENT alias="16S_RS_CL_BS_4" status="PRIVATE"/>
+     <EXPERIMENT alias="12S_RS_CL_BS_5" status="PRIVATE"/>
+     <EXPERIMENT alias="16S_RS_CL_BS_5" status="PRIVATE"/>
+     <EXPERIMENT alias="12S_RS_CL_L1_1" status="PRIVATE"/>
+     <EXPERIMENT alias="16S_RS_CL_L1_1" status="PRIVATE"/>
+     <EXPERIMENT alias="12S_RS_CL_L1_2" status="PRIVATE"/>
+     <EXPERIMENT alias="16S_RS_CL_L1_2" status="PRIVATE"/>
+     <EXPERIMENT alias="12S_RS_CL_L1_3" status="PRIVATE"/>
+     <EXPERIMENT alias="16S_RS_CL_L1_3" status="PRIVATE"/>
+     <EXPERIMENT alias="12S_RS_CL_L1_4" status="PRIVATE"/>
+     <EXPERIMENT alias="16S_RS_CL_L1_4" status="PRIVATE"/>
+     <EXPERIMENT alias="12S_RS_CL_L1_5" status="PRIVATE"/>
+     <EXPERIMENT alias="16S_RS_CL_L1_5" status="PRIVATE"/>
+     <EXPERIMENT alias="12S_RS_CL_L2_1" status="PRIVATE"/>
+     <EXPERIMENT alias="16S_RS_CL_L2_1" status="PRIVATE"/>
+     <EXPERIMENT alias="12S_RS_CL_L2_2" status="PRIVATE"/>
+     <EXPERIMENT alias="16S_RS_CL_L2_2" status="PRIVATE"/>
+     <EXPERIMENT alias="12S_RS_CL_L2_3" status="PRIVATE"/>
+     <EXPERIMENT alias="16S_RS_CL_L2_3" status="PRIVATE"/>
+     <EXPERIMENT alias="12S_RS_CL_L2_4" status="PRIVATE"/>
+     <EXPERIMENT alias="16S_RS_CL_L2_4" status="PRIVATE"/>
+     <EXPERIMENT alias="12S_RS_CL_S1_1" status="PRIVATE"/>
+     <EXPERIMENT alias="16S_RS_CL_S1_1" status="PRIVATE"/>
+     <EXPERIMENT alias="12S_RS_CL_S1_2" status="PRIVATE"/>
+     <EXPERIMENT alias="16S_RS_CL_S1_2" status="PRIVATE"/>
+     <EXPERIMENT alias="12S_RS_CL_S1_3" status="PRIVATE"/>
+     <EXPERIMENT alias="16S_RS_CL_S1_3" status="PRIVATE"/>
+     <EXPERIMENT alias="12S_RS_CL_S1_4" status="PRIVATE"/>
+     <EXPERIMENT alias="16S_RS_CL_S1_4" status="PRIVATE"/>
+     <EXPERIMENT alias="12S_RS_CL_S1_5" status="PRIVATE"/>
+     <EXPERIMENT alias="16S_RS_CL_S1_5" status="PRIVATE"/>
+     <EXPERIMENT alias="12S_RS_CL_S2_1" status="PRIVATE"/>
+     <EXPERIMENT alias="16S_RS_CL_S2_1" status="PRIVATE"/>
+     <EXPERIMENT alias="12S_RS_CL_S2_2" status="PRIVATE"/>
+     <EXPERIMENT alias="16S_RS_CL_S2_2" status="PRIVATE"/>
+     <EXPERIMENT alias="12S_RS_CL_S2_3" status="PRIVATE"/>
+     <EXPERIMENT alias="16S_RS_CL_S2_3" status="PRIVATE"/>
+     <EXPERIMENT alias="12S_RS_CL_S2_4" status="PRIVATE"/>
+     <EXPERIMENT alias="16S_RS_CL_S2_4" status="PRIVATE"/>
+     <EXPERIMENT alias="12S_RS_CL_S2_5" status="PRIVATE"/>
+     <EXPERIMENT alias="16S_RS_CL_S2_5" status="PRIVATE"/>
+     <EXPERIMENT alias="12S_RS_IMP_S1_1" status="PRIVATE"/>
+     <EXPERIMENT alias="16S_RS_IMP_S1_1" status="PRIVATE"/>
+     <EXPERIMENT alias="12S_RS_IMP_S1_2" status="PRIVATE"/>
+     <EXPERIMENT alias="16S_RS_IMP_S1_2" status="PRIVATE"/>
+     <EXPERIMENT alias="12S_RS_IMP_S1_3" status="PRIVATE"/>
+     <EXPERIMENT alias="16S_RS_IMP_S1_3" status="PRIVATE"/>
+     <EXPERIMENT alias="12S_RS_IMP_S1_4" status="PRIVATE"/>
+     <EXPERIMENT alias="16S_RS_IMP_S1_4" status="PRIVATE"/>
+     <EXPERIMENT alias="12S_RS_IMP_S1_5" status="PRIVATE"/>
+     <EXPERIMENT alias="16S_RS_IMP_S1_5" status="PRIVATE"/>
+     <EXPERIMENT alias="12S_RS_MER_B1" status="PRIVATE"/>
+     <EXPERIMENT alias="16S_RS_MER_B1" status="PRIVATE"/>
+     <EXPERIMENT alias="12S_RS_MER_B2" status="PRIVATE"/>
+     <EXPERIMENT alias="16S_RS_MER_B2" status="PRIVATE"/>
+     <EXPERIMENT alias="12S_RS_MER_B3" status="PRIVATE"/>
+     <EXPERIMENT alias="16S_RS_MER_B3" status="PRIVATE"/>
+     <EXPERIMENT alias="12S_RS_MER_B4" status="PRIVATE"/>
+     <EXPERIMENT alias="16S_RS_MER_B4" status="PRIVATE"/>
+     <EXPERIMENT alias="12S_RS_MER_B5" status="PRIVATE"/>
+     <EXPERIMENT alias="16S_RS_MER_B5" status="PRIVATE"/>
+     <EXPERIMENT alias="12S_RS_MER_L1_1" status="PRIVATE"/>
+     <EXPERIMENT alias="16S_RS_MER_L1_1" status="PRIVATE"/>
+     <EXPERIMENT alias="12S_RS_MER_L1_2" status="PRIVATE"/>
+     <EXPERIMENT alias="16S_RS_MER_L1_2" status="PRIVATE"/>
+     <EXPERIMENT alias="12S_RS_MER_L1_3" status="PRIVATE"/>
+     <EXPERIMENT alias="16S_RS_MER_L1_3" status="PRIVATE"/>
+     <EXPERIMENT alias="12S_RS_MER_L1_4" status="PRIVATE"/>
+     <EXPERIMENT alias="16S_RS_MER_L1_4" status="PRIVATE"/>
+     <EXPERIMENT alias="12S_RS_MER_L1_5" status="PRIVATE"/>
+     <EXPERIMENT alias="16S_RS_MER_L1_5" status="PRIVATE"/>
+     <EXPERIMENT alias="12S_RS_MER_L2_1" status="PRIVATE"/>
+     <EXPERIMENT alias="16S_RS_MER_L2_1" status="PRIVATE"/>
+     <EXPERIMENT alias="12S_RS_MER_L2_2" status="PRIVATE"/>
+     <EXPERIMENT alias="16S_RS_MER_L2_2" status="PRIVATE"/>
+     <EXPERIMENT alias="12S_RS_MER_L2_3" status="PRIVATE"/>
+     <EXPERIMENT alias="16S_RS_MER_L2_3" status="PRIVATE"/>
+     <EXPERIMENT alias="12S_RS_MER_L2_4" status="PRIVATE"/>
+     <EXPERIMENT alias="16S_RS_MER_L2_4" status="PRIVATE"/>
+     <EXPERIMENT alias="12S_RS_MER_L2_5" status="PRIVATE"/>
+     <EXPERIMENT alias="16S_RS_MER_L2_5" status="PRIVATE"/>
+     <EXPERIMENT alias="12S_RS_MER_S1_1" status="PRIVATE"/>
+     <EXPERIMENT alias="16S_RS_MER_S1_1" status="PRIVATE"/>
+     <EXPERIMENT alias="12S_RS_MER_S1_2" status="PRIVATE"/>
+     <EXPERIMENT alias="16S_RS_MER_S1_2" status="PRIVATE"/>
+     <EXPERIMENT alias="12S_RS_MER_S1_3" status="PRIVATE"/>
+     <EXPERIMENT alias="16S_RS_MER_S1_3" status="PRIVATE"/>
+     <EXPERIMENT alias="12S_RS_MER_S1_4" status="PRIVATE"/>
+     <EXPERIMENT alias="16S_RS_MER_S1_4" status="PRIVATE"/>
+     <EXPERIMENT alias="12S_RS_MER_S1_5" status="PRIVATE"/>
+     <EXPERIMENT alias="16S_RS_MER_S1_5" status="PRIVATE"/>
+     <EXPERIMENT alias="12S_RS_MER_S2_1" status="PRIVATE"/>
+     <EXPERIMENT alias="16S_RS_MER_S2_1" status="PRIVATE"/>
+     <EXPERIMENT alias="12S_RS_MER_S2_2" status="PRIVATE"/>
+     <EXPERIMENT alias="16S_RS_MER_S2_2" status="PRIVATE"/>
+     <EXPERIMENT alias="12S_RS_MER_S2_3" status="PRIVATE"/>
+     <EXPERIMENT alias="16S_RS_MER_S2_3" status="PRIVATE"/>
+     <EXPERIMENT alias="12S_RS_MER_S2_4" status="PRIVATE"/>
+     <EXPERIMENT alias="16S_RS_MER_S2_4" status="PRIVATE"/>
+     <EXPERIMENT alias="12S_RS_MER_S2_5" status="PRIVATE"/>
+     <EXPERIMENT alias="16S_RS_MER_S2_5" status="PRIVATE"/>
+     <SUBMISSION alias="SUBMISSION-03-07-2023-02:36:43:160"/>
+     <MESSAGES>
+          <ERROR>In experiment, alias: "12S_DAY4_BC", In study reference, accession: "PRJEB63987". Failed to find referenced study, accession "PRJEB63987".</ERROR>
+          <ERROR>In sample_descriptor reference, accession: "ERS15962270". Failed to find referenced sample, accession "ERS15962270".</ERROR>
+          <ERROR>Sample in experiment is null</ERROR>
+          <ERROR>Sample in experiment is null</ERROR>
+          <ERROR>In sample_descriptor reference, accession: "ERS15962271". Failed to find referenced sample, accession "ERS15962271".</ERROR>
+          <ERROR>Sample in experiment is null</ERROR>
+          <ERROR>Sample in experiment is null</ERROR>
+          <ERROR>In sample_descriptor reference, accession: "ERS15962272". Failed to find referenced sample, accession "ERS15962272".</ERROR>
+          <ERROR>Sample in experiment is null</ERROR>
+          <ERROR>Sample in experiment is null</ERROR>
+          <ERROR>In sample_descriptor reference, accession: "ERS15962273". Failed to find referenced sample, accession "ERS15962273".</ERROR>
+          <ERROR>Sample in experiment is null</ERROR>
+          <ERROR>Sample in experiment is null</ERROR>
+          <ERROR>In sample_descriptor reference, accession: "ERS15962274". Failed to find referenced sample, accession "ERS15962274".</ERROR>
+          <ERROR>Sample in experiment is null</ERROR>
+          <ERROR>Sample in experiment is null</ERROR>
+          <ERROR>In sample_descriptor reference, accession: "ERS15962275". Failed to find referenced sample, accession "ERS15962275".</ERROR>
+          <ERROR>Sample in experiment is null</ERROR>
+          <ERROR>Sample in experiment is null</ERROR>
+          <ERROR>In sample_descriptor reference, accession: "ERS15962276". Failed to find referenced sample, accession "ERS15962276".</ERROR>
+          <ERROR>Sample in experiment is null</ERROR>
+          <ERROR>Sample in experiment is null</ERROR>
+          <INFO>This submission is a TEST submission and will be discarded within 24 hours</INFO>
+     </MESSAGES>
+     <ACTIONS>ADD</ACTIONS>
+</RECEIPT>

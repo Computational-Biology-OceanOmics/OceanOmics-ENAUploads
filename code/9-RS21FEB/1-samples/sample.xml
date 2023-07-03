@@ -1,0 +1,4557 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SAMPLE_SET>
+	<SAMPLE alias="DAY4_BC" center_name="Minderoo Foundation">
+	<TITLE>Metagenome or environmental sample from marine metagenome</TITLE>
+	<SAMPLE_NAME>
+		<TAXON_ID>408172</TAXON_ID>
+		<SCIENTIFIC_NAME>marine metagenome</SCIENTIFIC_NAME>
+		<COMMON_NAME></COMMON_NAME>
+	</SAMPLE_NAME>
+	<DESCRIPTION>NA</DESCRIPTION>
+	<SAMPLE_ATTRIBUTES>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>collection date</TAG>
+			<VALUE>2021-02-01</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>filtration_device</TAG>
+			<VALUE>Grover pump</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environmental package</TAG>
+			<VALUE>water</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>rel_to_oxygen</TAG>
+			<VALUE>aerobe</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>replicate_id</TAG>
+			<VALUE>BC</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>organism</TAG>
+			<VALUE>marine metagenome</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (country and/or sea)</TAG>
+			<VALUE>Indian Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geo_loc_name</TAG>
+			<VALUE>Australia: Indian Ocean, Rowley Shoals Islands, Mermaid</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>control_sample</TAG>
+			<VALUE>TRUE</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>isolation_source</TAG>
+			<VALUE>Ocean water sample</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (latitude)</TAG>
+			<VALUE>NA</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (longitude)</TAG>
+			<VALUE>NA</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environment (biome)</TAG>
+			<VALUE>NA</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>ENA-CHECKLIST</TAG>
+			<VALUE>ERC000011</VALUE>
+		</SAMPLE_ATTRIBUTE>
+	</SAMPLE_ATTRIBUTES>
+	</SAMPLE>
+	<SAMPLE alias="DAY4_FC" center_name="Minderoo Foundation">
+	<TITLE>Metagenome or environmental sample from marine metagenome</TITLE>
+	<SAMPLE_NAME>
+		<TAXON_ID>408172</TAXON_ID>
+		<SCIENTIFIC_NAME>marine metagenome</SCIENTIFIC_NAME>
+		<COMMON_NAME></COMMON_NAME>
+	</SAMPLE_NAME>
+	<DESCRIPTION>NA</DESCRIPTION>
+	<SAMPLE_ATTRIBUTES>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>collection date</TAG>
+			<VALUE>2021-02-01</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>filtration_device</TAG>
+			<VALUE>Grover pump</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environmental package</TAG>
+			<VALUE>water</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>rel_to_oxygen</TAG>
+			<VALUE>aerobe</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>replicate_id</TAG>
+			<VALUE>FC</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>organism</TAG>
+			<VALUE>marine metagenome</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (country and/or sea)</TAG>
+			<VALUE>Indian Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geo_loc_name</TAG>
+			<VALUE>Australia: Indian Ocean, Rowley Shoals Islands, Mermaid</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>control_sample</TAG>
+			<VALUE>TRUE</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>isolation_source</TAG>
+			<VALUE>Ocean water sample</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (latitude)</TAG>
+			<VALUE>NA</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (longitude)</TAG>
+			<VALUE>NA</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environment (biome)</TAG>
+			<VALUE>NA</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>ENA-CHECKLIST</TAG>
+			<VALUE>ERC000011</VALUE>
+		</SAMPLE_ATTRIBUTE>
+	</SAMPLE_ATTRIBUTES>
+	</SAMPLE>
+	<SAMPLE alias="DAY5_FC" center_name="Minderoo Foundation">
+	<TITLE>Metagenome or environmental sample from marine metagenome</TITLE>
+	<SAMPLE_NAME>
+		<TAXON_ID>408172</TAXON_ID>
+		<SCIENTIFIC_NAME>marine metagenome</SCIENTIFIC_NAME>
+		<COMMON_NAME></COMMON_NAME>
+	</SAMPLE_NAME>
+	<DESCRIPTION>NA</DESCRIPTION>
+	<SAMPLE_ATTRIBUTES>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>collection date</TAG>
+			<VALUE>2021-02-01</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>filtration_device</TAG>
+			<VALUE>Grover pump</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environmental package</TAG>
+			<VALUE>water</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>rel_to_oxygen</TAG>
+			<VALUE>aerobe</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>replicate_id</TAG>
+			<VALUE>FC</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>organism</TAG>
+			<VALUE>marine metagenome</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (country and/or sea)</TAG>
+			<VALUE>Indian Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geo_loc_name</TAG>
+			<VALUE>Australia: Indian Ocean, Rowley Shoals Islands, Imperieuse</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>control_sample</TAG>
+			<VALUE>TRUE</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>isolation_source</TAG>
+			<VALUE>Ocean water sample</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (latitude)</TAG>
+			<VALUE>NA</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (longitude)</TAG>
+			<VALUE>NA</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environment (biome)</TAG>
+			<VALUE>NA</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>ENA-CHECKLIST</TAG>
+			<VALUE>ERC000011</VALUE>
+		</SAMPLE_ATTRIBUTE>
+	</SAMPLE_ATTRIBUTES>
+	</SAMPLE>
+	<SAMPLE alias="RS21FEB_EB1_2021_" center_name="Minderoo Foundation">
+	<TITLE>Metagenome or environmental sample from marine metagenome</TITLE>
+	<SAMPLE_NAME>
+		<TAXON_ID>408172</TAXON_ID>
+		<SCIENTIFIC_NAME>marine metagenome</SCIENTIFIC_NAME>
+		<COMMON_NAME></COMMON_NAME>
+	</SAMPLE_NAME>
+	<DESCRIPTION>NA</DESCRIPTION>
+	<SAMPLE_ATTRIBUTES>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>collection date</TAG>
+			<VALUE>missing: control sample</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>filtration_device</TAG>
+			<VALUE>Grover pump</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environmental package</TAG>
+			<VALUE>water</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>rel_to_oxygen</TAG>
+			<VALUE>aerobe</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>replicate_id</TAG>
+			<VALUE>NA</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>organism</TAG>
+			<VALUE>marine metagenome</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (country and/or sea)</TAG>
+			<VALUE>Indian Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geo_loc_name</TAG>
+			<VALUE>Australia: Indian Ocean, Rowley Shoals Islands, NA</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>control_sample</TAG>
+			<VALUE>TRUE</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>isolation_source</TAG>
+			<VALUE>Ocean water sample</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (latitude)</TAG>
+			<VALUE>NA</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (longitude)</TAG>
+			<VALUE>NA</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environment (biome)</TAG>
+			<VALUE>NA</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>ENA-CHECKLIST</TAG>
+			<VALUE>ERC000011</VALUE>
+		</SAMPLE_ATTRIBUTE>
+	</SAMPLE_ATTRIBUTES>
+	</SAMPLE>
+	<SAMPLE alias="RS21FEB_EB2_2021_" center_name="Minderoo Foundation">
+	<TITLE>Metagenome or environmental sample from marine metagenome</TITLE>
+	<SAMPLE_NAME>
+		<TAXON_ID>408172</TAXON_ID>
+		<SCIENTIFIC_NAME>marine metagenome</SCIENTIFIC_NAME>
+		<COMMON_NAME></COMMON_NAME>
+	</SAMPLE_NAME>
+	<DESCRIPTION>NA</DESCRIPTION>
+	<SAMPLE_ATTRIBUTES>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>collection date</TAG>
+			<VALUE>missing: control sample</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>filtration_device</TAG>
+			<VALUE>Grover pump</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environmental package</TAG>
+			<VALUE>water</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>rel_to_oxygen</TAG>
+			<VALUE>aerobe</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>replicate_id</TAG>
+			<VALUE>NA</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>organism</TAG>
+			<VALUE>marine metagenome</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (country and/or sea)</TAG>
+			<VALUE>Indian Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geo_loc_name</TAG>
+			<VALUE>Australia: Indian Ocean, Rowley Shoals Islands, NA</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>control_sample</TAG>
+			<VALUE>TRUE</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>isolation_source</TAG>
+			<VALUE>Ocean water sample</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (latitude)</TAG>
+			<VALUE>NA</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (longitude)</TAG>
+			<VALUE>NA</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environment (biome)</TAG>
+			<VALUE>NA</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>ENA-CHECKLIST</TAG>
+			<VALUE>ERC000011</VALUE>
+		</SAMPLE_ATTRIBUTE>
+	</SAMPLE_ATTRIBUTES>
+	</SAMPLE>
+	<SAMPLE alias="RS21FEB_EB3_2021_" center_name="Minderoo Foundation">
+	<TITLE>Metagenome or environmental sample from marine metagenome</TITLE>
+	<SAMPLE_NAME>
+		<TAXON_ID>408172</TAXON_ID>
+		<SCIENTIFIC_NAME>marine metagenome</SCIENTIFIC_NAME>
+		<COMMON_NAME></COMMON_NAME>
+	</SAMPLE_NAME>
+	<DESCRIPTION>NA</DESCRIPTION>
+	<SAMPLE_ATTRIBUTES>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>collection date</TAG>
+			<VALUE>missing: control sample</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>filtration_device</TAG>
+			<VALUE>Grover pump</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environmental package</TAG>
+			<VALUE>water</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>rel_to_oxygen</TAG>
+			<VALUE>aerobe</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>replicate_id</TAG>
+			<VALUE>NA</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>organism</TAG>
+			<VALUE>marine metagenome</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (country and/or sea)</TAG>
+			<VALUE>Indian Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geo_loc_name</TAG>
+			<VALUE>Australia: Indian Ocean, Rowley Shoals Islands, NA</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>control_sample</TAG>
+			<VALUE>TRUE</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>isolation_source</TAG>
+			<VALUE>Ocean water sample</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (latitude)</TAG>
+			<VALUE>NA</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (longitude)</TAG>
+			<VALUE>NA</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environment (biome)</TAG>
+			<VALUE>NA</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>ENA-CHECKLIST</TAG>
+			<VALUE>ERC000011</VALUE>
+		</SAMPLE_ATTRIBUTE>
+	</SAMPLE_ATTRIBUTES>
+	</SAMPLE>
+	<SAMPLE alias="RS_CL_BL_1" center_name="Minderoo Foundation">
+	<TITLE>Metagenome or environmental sample from marine metagenome</TITLE>
+	<SAMPLE_NAME>
+		<TAXON_ID>408172</TAXON_ID>
+		<SCIENTIFIC_NAME>marine metagenome</SCIENTIFIC_NAME>
+		<COMMON_NAME></COMMON_NAME>
+	</SAMPLE_NAME>
+	<DESCRIPTION>Clerke Lagoon Buoy</DESCRIPTION>
+	<SAMPLE_ATTRIBUTES>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>collection date</TAG>
+			<VALUE>2021-02-01</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>filtration_device</TAG>
+			<VALUE>Grover pump</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environmental package</TAG>
+			<VALUE>water</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>rel_to_oxygen</TAG>
+			<VALUE>aerobe</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>replicate_id</TAG>
+			<VALUE>1</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>organism</TAG>
+			<VALUE>marine metagenome</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (country and/or sea)</TAG>
+			<VALUE>Indian Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geo_loc_name</TAG>
+			<VALUE>Australia: Indian Ocean, Rowley Shoals Islands, Clerke</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>control_sample</TAG>
+			<VALUE>FALSE</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>isolation_source</TAG>
+			<VALUE>Ocean water sample</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (latitude)</TAG>
+			<VALUE>-17.2902</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (longitude)</TAG>
+			<VALUE>119.36061</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environment (biome)</TAG>
+			<VALUE>Lagoon</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>ENA-CHECKLIST</TAG>
+			<VALUE>ERC000011</VALUE>
+		</SAMPLE_ATTRIBUTE>
+	</SAMPLE_ATTRIBUTES>
+	</SAMPLE>
+	<SAMPLE alias="RS_CL_BL_2" center_name="Minderoo Foundation">
+	<TITLE>Metagenome or environmental sample from marine metagenome</TITLE>
+	<SAMPLE_NAME>
+		<TAXON_ID>408172</TAXON_ID>
+		<SCIENTIFIC_NAME>marine metagenome</SCIENTIFIC_NAME>
+		<COMMON_NAME></COMMON_NAME>
+	</SAMPLE_NAME>
+	<DESCRIPTION>Clerke Lagoon Buoy</DESCRIPTION>
+	<SAMPLE_ATTRIBUTES>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>collection date</TAG>
+			<VALUE>2021-02-01</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>filtration_device</TAG>
+			<VALUE>Grover pump</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environmental package</TAG>
+			<VALUE>water</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>rel_to_oxygen</TAG>
+			<VALUE>aerobe</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>replicate_id</TAG>
+			<VALUE>2</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>organism</TAG>
+			<VALUE>marine metagenome</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (country and/or sea)</TAG>
+			<VALUE>Indian Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geo_loc_name</TAG>
+			<VALUE>Australia: Indian Ocean, Rowley Shoals Islands, Clerke</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>control_sample</TAG>
+			<VALUE>FALSE</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>isolation_source</TAG>
+			<VALUE>Ocean water sample</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (latitude)</TAG>
+			<VALUE>-17.2902</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (longitude)</TAG>
+			<VALUE>119.36061</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environment (biome)</TAG>
+			<VALUE>Lagoon</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>ENA-CHECKLIST</TAG>
+			<VALUE>ERC000011</VALUE>
+		</SAMPLE_ATTRIBUTE>
+	</SAMPLE_ATTRIBUTES>
+	</SAMPLE>
+	<SAMPLE alias="RS_CL_BL_3_1" center_name="Minderoo Foundation">
+	<TITLE>Metagenome or environmental sample from marine metagenome</TITLE>
+	<SAMPLE_NAME>
+		<TAXON_ID>408172</TAXON_ID>
+		<SCIENTIFIC_NAME>marine metagenome</SCIENTIFIC_NAME>
+		<COMMON_NAME></COMMON_NAME>
+	</SAMPLE_NAME>
+	<DESCRIPTION>Clerke Lagoon Buoy</DESCRIPTION>
+	<SAMPLE_ATTRIBUTES>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>collection date</TAG>
+			<VALUE>2021-02-01</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>filtration_device</TAG>
+			<VALUE>Grover pump</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environmental package</TAG>
+			<VALUE>water</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>rel_to_oxygen</TAG>
+			<VALUE>aerobe</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>replicate_id</TAG>
+			<VALUE>3</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>organism</TAG>
+			<VALUE>marine metagenome</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (country and/or sea)</TAG>
+			<VALUE>Indian Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geo_loc_name</TAG>
+			<VALUE>Australia: Indian Ocean, Rowley Shoals Islands, Clerke</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>control_sample</TAG>
+			<VALUE>FALSE</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>isolation_source</TAG>
+			<VALUE>Ocean water sample</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (latitude)</TAG>
+			<VALUE>-17.2902</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (longitude)</TAG>
+			<VALUE>119.36061</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environment (biome)</TAG>
+			<VALUE>Lagoon</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>ENA-CHECKLIST</TAG>
+			<VALUE>ERC000011</VALUE>
+		</SAMPLE_ATTRIBUTE>
+	</SAMPLE_ATTRIBUTES>
+	</SAMPLE>
+	<SAMPLE alias="RS_CL_BL_3_2" center_name="Minderoo Foundation">
+	<TITLE>Metagenome or environmental sample from marine metagenome</TITLE>
+	<SAMPLE_NAME>
+		<TAXON_ID>408172</TAXON_ID>
+		<SCIENTIFIC_NAME>marine metagenome</SCIENTIFIC_NAME>
+		<COMMON_NAME></COMMON_NAME>
+	</SAMPLE_NAME>
+	<DESCRIPTION>Clerke Lagoon Buoy</DESCRIPTION>
+	<SAMPLE_ATTRIBUTES>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>collection date</TAG>
+			<VALUE>2021-02-01</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>filtration_device</TAG>
+			<VALUE>Grover pump</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environmental package</TAG>
+			<VALUE>water</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>rel_to_oxygen</TAG>
+			<VALUE>aerobe</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>replicate_id</TAG>
+			<VALUE>3</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>organism</TAG>
+			<VALUE>marine metagenome</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (country and/or sea)</TAG>
+			<VALUE>Indian Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geo_loc_name</TAG>
+			<VALUE>Australia: Indian Ocean, Rowley Shoals Islands, Clerke</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>control_sample</TAG>
+			<VALUE>FALSE</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>isolation_source</TAG>
+			<VALUE>Ocean water sample</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (latitude)</TAG>
+			<VALUE>-17.2902</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (longitude)</TAG>
+			<VALUE>119.36061</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environment (biome)</TAG>
+			<VALUE>Lagoon</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>ENA-CHECKLIST</TAG>
+			<VALUE>ERC000011</VALUE>
+		</SAMPLE_ATTRIBUTE>
+	</SAMPLE_ATTRIBUTES>
+	</SAMPLE>
+	<SAMPLE alias="RS_CL_BL_4" center_name="Minderoo Foundation">
+	<TITLE>Metagenome or environmental sample from marine metagenome</TITLE>
+	<SAMPLE_NAME>
+		<TAXON_ID>408172</TAXON_ID>
+		<SCIENTIFIC_NAME>marine metagenome</SCIENTIFIC_NAME>
+		<COMMON_NAME></COMMON_NAME>
+	</SAMPLE_NAME>
+	<DESCRIPTION>Clerke Lagoon Buoy</DESCRIPTION>
+	<SAMPLE_ATTRIBUTES>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>collection date</TAG>
+			<VALUE>2021-02-01</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>filtration_device</TAG>
+			<VALUE>Grover pump</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environmental package</TAG>
+			<VALUE>water</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>rel_to_oxygen</TAG>
+			<VALUE>aerobe</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>replicate_id</TAG>
+			<VALUE>4</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>organism</TAG>
+			<VALUE>marine metagenome</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (country and/or sea)</TAG>
+			<VALUE>Indian Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geo_loc_name</TAG>
+			<VALUE>Australia: Indian Ocean, Rowley Shoals Islands, Clerke</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>control_sample</TAG>
+			<VALUE>FALSE</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>isolation_source</TAG>
+			<VALUE>Ocean water sample</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (latitude)</TAG>
+			<VALUE>-17.2902</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (longitude)</TAG>
+			<VALUE>119.36061</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environment (biome)</TAG>
+			<VALUE>Lagoon</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>ENA-CHECKLIST</TAG>
+			<VALUE>ERC000011</VALUE>
+		</SAMPLE_ATTRIBUTE>
+	</SAMPLE_ATTRIBUTES>
+	</SAMPLE>
+	<SAMPLE alias="RS_CL_BL_5" center_name="Minderoo Foundation">
+	<TITLE>Metagenome or environmental sample from marine metagenome</TITLE>
+	<SAMPLE_NAME>
+		<TAXON_ID>408172</TAXON_ID>
+		<SCIENTIFIC_NAME>marine metagenome</SCIENTIFIC_NAME>
+		<COMMON_NAME></COMMON_NAME>
+	</SAMPLE_NAME>
+	<DESCRIPTION>Clerke Lagoon Buoy</DESCRIPTION>
+	<SAMPLE_ATTRIBUTES>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>collection date</TAG>
+			<VALUE>2021-02-01</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>filtration_device</TAG>
+			<VALUE>Grover pump</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environmental package</TAG>
+			<VALUE>water</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>rel_to_oxygen</TAG>
+			<VALUE>aerobe</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>replicate_id</TAG>
+			<VALUE>5</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>organism</TAG>
+			<VALUE>marine metagenome</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (country and/or sea)</TAG>
+			<VALUE>Indian Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geo_loc_name</TAG>
+			<VALUE>Australia: Indian Ocean, Rowley Shoals Islands, Clerke</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>control_sample</TAG>
+			<VALUE>FALSE</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>isolation_source</TAG>
+			<VALUE>Ocean water sample</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (latitude)</TAG>
+			<VALUE>-17.2902</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (longitude)</TAG>
+			<VALUE>119.36061</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environment (biome)</TAG>
+			<VALUE>Lagoon</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>ENA-CHECKLIST</TAG>
+			<VALUE>ERC000011</VALUE>
+		</SAMPLE_ATTRIBUTE>
+	</SAMPLE_ATTRIBUTES>
+	</SAMPLE>
+	<SAMPLE alias="RS_CL_BS_1" center_name="Minderoo Foundation">
+	<TITLE>Metagenome or environmental sample from marine metagenome</TITLE>
+	<SAMPLE_NAME>
+		<TAXON_ID>408172</TAXON_ID>
+		<SCIENTIFIC_NAME>marine metagenome</SCIENTIFIC_NAME>
+		<COMMON_NAME></COMMON_NAME>
+	</SAMPLE_NAME>
+	<DESCRIPTION>Clerke Outer Buoy</DESCRIPTION>
+	<SAMPLE_ATTRIBUTES>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>collection date</TAG>
+			<VALUE>2021-02-01</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>filtration_device</TAG>
+			<VALUE>Grover pump</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environmental package</TAG>
+			<VALUE>water</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>rel_to_oxygen</TAG>
+			<VALUE>aerobe</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>replicate_id</TAG>
+			<VALUE>1</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>organism</TAG>
+			<VALUE>marine metagenome</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (country and/or sea)</TAG>
+			<VALUE>Indian Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geo_loc_name</TAG>
+			<VALUE>Australia: Indian Ocean, Rowley Shoals Islands, Clerke</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>control_sample</TAG>
+			<VALUE>FALSE</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>isolation_source</TAG>
+			<VALUE>Ocean water sample</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (latitude)</TAG>
+			<VALUE>-17.30585</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (longitude)</TAG>
+			<VALUE>119.31218</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environment (biome)</TAG>
+			<VALUE>Slope</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>ENA-CHECKLIST</TAG>
+			<VALUE>ERC000011</VALUE>
+		</SAMPLE_ATTRIBUTE>
+	</SAMPLE_ATTRIBUTES>
+	</SAMPLE>
+	<SAMPLE alias="RS_CL_BS_2" center_name="Minderoo Foundation">
+	<TITLE>Metagenome or environmental sample from marine metagenome</TITLE>
+	<SAMPLE_NAME>
+		<TAXON_ID>408172</TAXON_ID>
+		<SCIENTIFIC_NAME>marine metagenome</SCIENTIFIC_NAME>
+		<COMMON_NAME></COMMON_NAME>
+	</SAMPLE_NAME>
+	<DESCRIPTION>Clerke Outer Buoy</DESCRIPTION>
+	<SAMPLE_ATTRIBUTES>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>collection date</TAG>
+			<VALUE>2021-02-01</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>filtration_device</TAG>
+			<VALUE>Grover pump</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environmental package</TAG>
+			<VALUE>water</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>rel_to_oxygen</TAG>
+			<VALUE>aerobe</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>replicate_id</TAG>
+			<VALUE>2</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>organism</TAG>
+			<VALUE>marine metagenome</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (country and/or sea)</TAG>
+			<VALUE>Indian Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geo_loc_name</TAG>
+			<VALUE>Australia: Indian Ocean, Rowley Shoals Islands, Clerke</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>control_sample</TAG>
+			<VALUE>FALSE</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>isolation_source</TAG>
+			<VALUE>Ocean water sample</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (latitude)</TAG>
+			<VALUE>-17.30585</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (longitude)</TAG>
+			<VALUE>119.31218</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environment (biome)</TAG>
+			<VALUE>Slope</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>ENA-CHECKLIST</TAG>
+			<VALUE>ERC000011</VALUE>
+		</SAMPLE_ATTRIBUTE>
+	</SAMPLE_ATTRIBUTES>
+	</SAMPLE>
+	<SAMPLE alias="RS_CL_BS_3" center_name="Minderoo Foundation">
+	<TITLE>Metagenome or environmental sample from marine metagenome</TITLE>
+	<SAMPLE_NAME>
+		<TAXON_ID>408172</TAXON_ID>
+		<SCIENTIFIC_NAME>marine metagenome</SCIENTIFIC_NAME>
+		<COMMON_NAME></COMMON_NAME>
+	</SAMPLE_NAME>
+	<DESCRIPTION>Clerke Outer Buoy</DESCRIPTION>
+	<SAMPLE_ATTRIBUTES>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>collection date</TAG>
+			<VALUE>2021-02-01</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>filtration_device</TAG>
+			<VALUE>Grover pump</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environmental package</TAG>
+			<VALUE>water</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>rel_to_oxygen</TAG>
+			<VALUE>aerobe</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>replicate_id</TAG>
+			<VALUE>3</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>organism</TAG>
+			<VALUE>marine metagenome</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (country and/or sea)</TAG>
+			<VALUE>Indian Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geo_loc_name</TAG>
+			<VALUE>Australia: Indian Ocean, Rowley Shoals Islands, Clerke</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>control_sample</TAG>
+			<VALUE>FALSE</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>isolation_source</TAG>
+			<VALUE>Ocean water sample</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (latitude)</TAG>
+			<VALUE>-17.30585</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (longitude)</TAG>
+			<VALUE>119.31218</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environment (biome)</TAG>
+			<VALUE>Slope</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>ENA-CHECKLIST</TAG>
+			<VALUE>ERC000011</VALUE>
+		</SAMPLE_ATTRIBUTE>
+	</SAMPLE_ATTRIBUTES>
+	</SAMPLE>
+	<SAMPLE alias="RS_CL_BS_4" center_name="Minderoo Foundation">
+	<TITLE>Metagenome or environmental sample from marine metagenome</TITLE>
+	<SAMPLE_NAME>
+		<TAXON_ID>408172</TAXON_ID>
+		<SCIENTIFIC_NAME>marine metagenome</SCIENTIFIC_NAME>
+		<COMMON_NAME></COMMON_NAME>
+	</SAMPLE_NAME>
+	<DESCRIPTION>Clerke Outer Buoy</DESCRIPTION>
+	<SAMPLE_ATTRIBUTES>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>collection date</TAG>
+			<VALUE>2021-02-01</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>filtration_device</TAG>
+			<VALUE>Grover pump</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environmental package</TAG>
+			<VALUE>water</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>rel_to_oxygen</TAG>
+			<VALUE>aerobe</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>replicate_id</TAG>
+			<VALUE>4</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>organism</TAG>
+			<VALUE>marine metagenome</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (country and/or sea)</TAG>
+			<VALUE>Indian Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geo_loc_name</TAG>
+			<VALUE>Australia: Indian Ocean, Rowley Shoals Islands, Clerke</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>control_sample</TAG>
+			<VALUE>FALSE</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>isolation_source</TAG>
+			<VALUE>Ocean water sample</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (latitude)</TAG>
+			<VALUE>-17.30585</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (longitude)</TAG>
+			<VALUE>119.31218</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environment (biome)</TAG>
+			<VALUE>Slope</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>ENA-CHECKLIST</TAG>
+			<VALUE>ERC000011</VALUE>
+		</SAMPLE_ATTRIBUTE>
+	</SAMPLE_ATTRIBUTES>
+	</SAMPLE>
+	<SAMPLE alias="RS_CL_BS_5" center_name="Minderoo Foundation">
+	<TITLE>Metagenome or environmental sample from marine metagenome</TITLE>
+	<SAMPLE_NAME>
+		<TAXON_ID>408172</TAXON_ID>
+		<SCIENTIFIC_NAME>marine metagenome</SCIENTIFIC_NAME>
+		<COMMON_NAME></COMMON_NAME>
+	</SAMPLE_NAME>
+	<DESCRIPTION>Clerke Outer Buoy</DESCRIPTION>
+	<SAMPLE_ATTRIBUTES>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>collection date</TAG>
+			<VALUE>2021-02-01</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>filtration_device</TAG>
+			<VALUE>Grover pump</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environmental package</TAG>
+			<VALUE>water</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>rel_to_oxygen</TAG>
+			<VALUE>aerobe</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>replicate_id</TAG>
+			<VALUE>5</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>organism</TAG>
+			<VALUE>marine metagenome</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (country and/or sea)</TAG>
+			<VALUE>Indian Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geo_loc_name</TAG>
+			<VALUE>Australia: Indian Ocean, Rowley Shoals Islands, Clerke</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>control_sample</TAG>
+			<VALUE>FALSE</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>isolation_source</TAG>
+			<VALUE>Ocean water sample</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (latitude)</TAG>
+			<VALUE>-17.30585</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (longitude)</TAG>
+			<VALUE>119.31218</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environment (biome)</TAG>
+			<VALUE>Slope</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>ENA-CHECKLIST</TAG>
+			<VALUE>ERC000011</VALUE>
+		</SAMPLE_ATTRIBUTE>
+	</SAMPLE_ATTRIBUTES>
+	</SAMPLE>
+	<SAMPLE alias="RS_CL_L1_1" center_name="Minderoo Foundation">
+	<TITLE>Metagenome or environmental sample from marine metagenome</TITLE>
+	<SAMPLE_NAME>
+		<TAXON_ID>408172</TAXON_ID>
+		<SCIENTIFIC_NAME>marine metagenome</SCIENTIFIC_NAME>
+		<COMMON_NAME></COMMON_NAME>
+	</SAMPLE_NAME>
+	<DESCRIPTION>C20-BT</DESCRIPTION>
+	<SAMPLE_ATTRIBUTES>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>collection date</TAG>
+			<VALUE>2021-02-01</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>filtration_device</TAG>
+			<VALUE>Grover pump</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environmental package</TAG>
+			<VALUE>water</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>rel_to_oxygen</TAG>
+			<VALUE>aerobe</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>replicate_id</TAG>
+			<VALUE>1</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>organism</TAG>
+			<VALUE>marine metagenome</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (country and/or sea)</TAG>
+			<VALUE>Indian Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geo_loc_name</TAG>
+			<VALUE>Australia: Indian Ocean, Rowley Shoals Islands, Clerke</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>control_sample</TAG>
+			<VALUE>FALSE</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>isolation_source</TAG>
+			<VALUE>Ocean water sample</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (latitude)</TAG>
+			<VALUE>-17.306649</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (longitude)</TAG>
+			<VALUE>119.370403</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environment (biome)</TAG>
+			<VALUE>Lagoon</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>ENA-CHECKLIST</TAG>
+			<VALUE>ERC000011</VALUE>
+		</SAMPLE_ATTRIBUTE>
+	</SAMPLE_ATTRIBUTES>
+	</SAMPLE>
+	<SAMPLE alias="RS_CL_L1_2" center_name="Minderoo Foundation">
+	<TITLE>Metagenome or environmental sample from marine metagenome</TITLE>
+	<SAMPLE_NAME>
+		<TAXON_ID>408172</TAXON_ID>
+		<SCIENTIFIC_NAME>marine metagenome</SCIENTIFIC_NAME>
+		<COMMON_NAME></COMMON_NAME>
+	</SAMPLE_NAME>
+	<DESCRIPTION>C20-BT</DESCRIPTION>
+	<SAMPLE_ATTRIBUTES>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>collection date</TAG>
+			<VALUE>2021-02-01</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>filtration_device</TAG>
+			<VALUE>Grover pump</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environmental package</TAG>
+			<VALUE>water</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>rel_to_oxygen</TAG>
+			<VALUE>aerobe</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>replicate_id</TAG>
+			<VALUE>2</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>organism</TAG>
+			<VALUE>marine metagenome</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (country and/or sea)</TAG>
+			<VALUE>Indian Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geo_loc_name</TAG>
+			<VALUE>Australia: Indian Ocean, Rowley Shoals Islands, Clerke</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>control_sample</TAG>
+			<VALUE>FALSE</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>isolation_source</TAG>
+			<VALUE>Ocean water sample</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (latitude)</TAG>
+			<VALUE>-17.306649</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (longitude)</TAG>
+			<VALUE>119.370403</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environment (biome)</TAG>
+			<VALUE>Lagoon</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>ENA-CHECKLIST</TAG>
+			<VALUE>ERC000011</VALUE>
+		</SAMPLE_ATTRIBUTE>
+	</SAMPLE_ATTRIBUTES>
+	</SAMPLE>
+	<SAMPLE alias="RS_CL_L1_3" center_name="Minderoo Foundation">
+	<TITLE>Metagenome or environmental sample from marine metagenome</TITLE>
+	<SAMPLE_NAME>
+		<TAXON_ID>408172</TAXON_ID>
+		<SCIENTIFIC_NAME>marine metagenome</SCIENTIFIC_NAME>
+		<COMMON_NAME></COMMON_NAME>
+	</SAMPLE_NAME>
+	<DESCRIPTION>C20-BT</DESCRIPTION>
+	<SAMPLE_ATTRIBUTES>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>collection date</TAG>
+			<VALUE>2021-02-01</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>filtration_device</TAG>
+			<VALUE>Grover pump</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environmental package</TAG>
+			<VALUE>water</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>rel_to_oxygen</TAG>
+			<VALUE>aerobe</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>replicate_id</TAG>
+			<VALUE>3</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>organism</TAG>
+			<VALUE>marine metagenome</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (country and/or sea)</TAG>
+			<VALUE>Indian Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geo_loc_name</TAG>
+			<VALUE>Australia: Indian Ocean, Rowley Shoals Islands, Clerke</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>control_sample</TAG>
+			<VALUE>FALSE</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>isolation_source</TAG>
+			<VALUE>Ocean water sample</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (latitude)</TAG>
+			<VALUE>-17.306649</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (longitude)</TAG>
+			<VALUE>119.370403</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environment (biome)</TAG>
+			<VALUE>Lagoon</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>ENA-CHECKLIST</TAG>
+			<VALUE>ERC000011</VALUE>
+		</SAMPLE_ATTRIBUTE>
+	</SAMPLE_ATTRIBUTES>
+	</SAMPLE>
+	<SAMPLE alias="RS_CL_L1_4" center_name="Minderoo Foundation">
+	<TITLE>Metagenome or environmental sample from marine metagenome</TITLE>
+	<SAMPLE_NAME>
+		<TAXON_ID>408172</TAXON_ID>
+		<SCIENTIFIC_NAME>marine metagenome</SCIENTIFIC_NAME>
+		<COMMON_NAME></COMMON_NAME>
+	</SAMPLE_NAME>
+	<DESCRIPTION>C20-BT</DESCRIPTION>
+	<SAMPLE_ATTRIBUTES>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>collection date</TAG>
+			<VALUE>2021-02-01</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>filtration_device</TAG>
+			<VALUE>Grover pump</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environmental package</TAG>
+			<VALUE>water</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>rel_to_oxygen</TAG>
+			<VALUE>aerobe</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>replicate_id</TAG>
+			<VALUE>4</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>organism</TAG>
+			<VALUE>marine metagenome</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (country and/or sea)</TAG>
+			<VALUE>Indian Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geo_loc_name</TAG>
+			<VALUE>Australia: Indian Ocean, Rowley Shoals Islands, Clerke</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>control_sample</TAG>
+			<VALUE>FALSE</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>isolation_source</TAG>
+			<VALUE>Ocean water sample</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (latitude)</TAG>
+			<VALUE>-17.306649</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (longitude)</TAG>
+			<VALUE>119.370403</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environment (biome)</TAG>
+			<VALUE>Lagoon</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>ENA-CHECKLIST</TAG>
+			<VALUE>ERC000011</VALUE>
+		</SAMPLE_ATTRIBUTE>
+	</SAMPLE_ATTRIBUTES>
+	</SAMPLE>
+	<SAMPLE alias="RS_CL_L1_5" center_name="Minderoo Foundation">
+	<TITLE>Metagenome or environmental sample from marine metagenome</TITLE>
+	<SAMPLE_NAME>
+		<TAXON_ID>408172</TAXON_ID>
+		<SCIENTIFIC_NAME>marine metagenome</SCIENTIFIC_NAME>
+		<COMMON_NAME></COMMON_NAME>
+	</SAMPLE_NAME>
+	<DESCRIPTION>C20-BT</DESCRIPTION>
+	<SAMPLE_ATTRIBUTES>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>collection date</TAG>
+			<VALUE>2021-02-01</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>filtration_device</TAG>
+			<VALUE>Grover pump</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environmental package</TAG>
+			<VALUE>water</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>rel_to_oxygen</TAG>
+			<VALUE>aerobe</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>replicate_id</TAG>
+			<VALUE>5</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>organism</TAG>
+			<VALUE>marine metagenome</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (country and/or sea)</TAG>
+			<VALUE>Indian Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geo_loc_name</TAG>
+			<VALUE>Australia: Indian Ocean, Rowley Shoals Islands, Clerke</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>control_sample</TAG>
+			<VALUE>FALSE</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>isolation_source</TAG>
+			<VALUE>Ocean water sample</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (latitude)</TAG>
+			<VALUE>-17.306649</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (longitude)</TAG>
+			<VALUE>119.370403</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environment (biome)</TAG>
+			<VALUE>Lagoon</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>ENA-CHECKLIST</TAG>
+			<VALUE>ERC000011</VALUE>
+		</SAMPLE_ATTRIBUTE>
+	</SAMPLE_ATTRIBUTES>
+	</SAMPLE>
+	<SAMPLE alias="RS_CL_L2_1" center_name="Minderoo Foundation">
+	<TITLE>Metagenome or environmental sample from marine metagenome</TITLE>
+	<SAMPLE_NAME>
+		<TAXON_ID>408172</TAXON_ID>
+		<SCIENTIFIC_NAME>marine metagenome</SCIENTIFIC_NAME>
+		<COMMON_NAME></COMMON_NAME>
+	</SAMPLE_NAME>
+	<DESCRIPTION>C13-BT</DESCRIPTION>
+	<SAMPLE_ATTRIBUTES>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>collection date</TAG>
+			<VALUE>2021-02-01</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>filtration_device</TAG>
+			<VALUE>Grover pump</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environmental package</TAG>
+			<VALUE>water</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>rel_to_oxygen</TAG>
+			<VALUE>aerobe</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>replicate_id</TAG>
+			<VALUE>1</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>organism</TAG>
+			<VALUE>marine metagenome</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (country and/or sea)</TAG>
+			<VALUE>Indian Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geo_loc_name</TAG>
+			<VALUE>Australia: Indian Ocean, Rowley Shoals Islands, Clerke</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>control_sample</TAG>
+			<VALUE>FALSE</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>isolation_source</TAG>
+			<VALUE>Ocean water sample</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (latitude)</TAG>
+			<VALUE>-17.312342</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (longitude)</TAG>
+			<VALUE>119.36798</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environment (biome)</TAG>
+			<VALUE>Lagoon</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>ENA-CHECKLIST</TAG>
+			<VALUE>ERC000011</VALUE>
+		</SAMPLE_ATTRIBUTE>
+	</SAMPLE_ATTRIBUTES>
+	</SAMPLE>
+	<SAMPLE alias="RS_CL_L2_2" center_name="Minderoo Foundation">
+	<TITLE>Metagenome or environmental sample from marine metagenome</TITLE>
+	<SAMPLE_NAME>
+		<TAXON_ID>408172</TAXON_ID>
+		<SCIENTIFIC_NAME>marine metagenome</SCIENTIFIC_NAME>
+		<COMMON_NAME></COMMON_NAME>
+	</SAMPLE_NAME>
+	<DESCRIPTION>C13-BT</DESCRIPTION>
+	<SAMPLE_ATTRIBUTES>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>collection date</TAG>
+			<VALUE>2021-02-01</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>filtration_device</TAG>
+			<VALUE>Grover pump</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environmental package</TAG>
+			<VALUE>water</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>rel_to_oxygen</TAG>
+			<VALUE>aerobe</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>replicate_id</TAG>
+			<VALUE>2</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>organism</TAG>
+			<VALUE>marine metagenome</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (country and/or sea)</TAG>
+			<VALUE>Indian Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geo_loc_name</TAG>
+			<VALUE>Australia: Indian Ocean, Rowley Shoals Islands, Clerke</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>control_sample</TAG>
+			<VALUE>FALSE</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>isolation_source</TAG>
+			<VALUE>Ocean water sample</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (latitude)</TAG>
+			<VALUE>-17.312342</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (longitude)</TAG>
+			<VALUE>119.36798</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environment (biome)</TAG>
+			<VALUE>Lagoon</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>ENA-CHECKLIST</TAG>
+			<VALUE>ERC000011</VALUE>
+		</SAMPLE_ATTRIBUTE>
+	</SAMPLE_ATTRIBUTES>
+	</SAMPLE>
+	<SAMPLE alias="RS_CL_L2_3" center_name="Minderoo Foundation">
+	<TITLE>Metagenome or environmental sample from marine metagenome</TITLE>
+	<SAMPLE_NAME>
+		<TAXON_ID>408172</TAXON_ID>
+		<SCIENTIFIC_NAME>marine metagenome</SCIENTIFIC_NAME>
+		<COMMON_NAME></COMMON_NAME>
+	</SAMPLE_NAME>
+	<DESCRIPTION>C13-BT</DESCRIPTION>
+	<SAMPLE_ATTRIBUTES>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>collection date</TAG>
+			<VALUE>2021-02-01</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>filtration_device</TAG>
+			<VALUE>Grover pump</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environmental package</TAG>
+			<VALUE>water</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>rel_to_oxygen</TAG>
+			<VALUE>aerobe</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>replicate_id</TAG>
+			<VALUE>3</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>organism</TAG>
+			<VALUE>marine metagenome</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (country and/or sea)</TAG>
+			<VALUE>Indian Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geo_loc_name</TAG>
+			<VALUE>Australia: Indian Ocean, Rowley Shoals Islands, Clerke</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>control_sample</TAG>
+			<VALUE>FALSE</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>isolation_source</TAG>
+			<VALUE>Ocean water sample</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (latitude)</TAG>
+			<VALUE>-17.312342</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (longitude)</TAG>
+			<VALUE>119.36798</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environment (biome)</TAG>
+			<VALUE>Lagoon</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>ENA-CHECKLIST</TAG>
+			<VALUE>ERC000011</VALUE>
+		</SAMPLE_ATTRIBUTE>
+	</SAMPLE_ATTRIBUTES>
+	</SAMPLE>
+	<SAMPLE alias="RS_CL_L2_4" center_name="Minderoo Foundation">
+	<TITLE>Metagenome or environmental sample from marine metagenome</TITLE>
+	<SAMPLE_NAME>
+		<TAXON_ID>408172</TAXON_ID>
+		<SCIENTIFIC_NAME>marine metagenome</SCIENTIFIC_NAME>
+		<COMMON_NAME></COMMON_NAME>
+	</SAMPLE_NAME>
+	<DESCRIPTION>C13-BT</DESCRIPTION>
+	<SAMPLE_ATTRIBUTES>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>collection date</TAG>
+			<VALUE>2021-02-01</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>filtration_device</TAG>
+			<VALUE>Grover pump</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environmental package</TAG>
+			<VALUE>water</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>rel_to_oxygen</TAG>
+			<VALUE>aerobe</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>replicate_id</TAG>
+			<VALUE>4</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>organism</TAG>
+			<VALUE>marine metagenome</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (country and/or sea)</TAG>
+			<VALUE>Indian Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geo_loc_name</TAG>
+			<VALUE>Australia: Indian Ocean, Rowley Shoals Islands, Clerke</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>control_sample</TAG>
+			<VALUE>FALSE</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>isolation_source</TAG>
+			<VALUE>Ocean water sample</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (latitude)</TAG>
+			<VALUE>-17.312342</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (longitude)</TAG>
+			<VALUE>119.36798</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environment (biome)</TAG>
+			<VALUE>Lagoon</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>ENA-CHECKLIST</TAG>
+			<VALUE>ERC000011</VALUE>
+		</SAMPLE_ATTRIBUTE>
+	</SAMPLE_ATTRIBUTES>
+	</SAMPLE>
+	<SAMPLE alias="RS_CL_S1_1" center_name="Minderoo Foundation">
+	<TITLE>Metagenome or environmental sample from marine metagenome</TITLE>
+	<SAMPLE_NAME>
+		<TAXON_ID>408172</TAXON_ID>
+		<SCIENTIFIC_NAME>marine metagenome</SCIENTIFIC_NAME>
+		<COMMON_NAME></COMMON_NAME>
+	</SAMPLE_NAME>
+	<DESCRIPTION>RS2-1</DESCRIPTION>
+	<SAMPLE_ATTRIBUTES>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>collection date</TAG>
+			<VALUE>2021-02-01</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>filtration_device</TAG>
+			<VALUE>Grover pump</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environmental package</TAG>
+			<VALUE>water</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>rel_to_oxygen</TAG>
+			<VALUE>aerobe</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>replicate_id</TAG>
+			<VALUE>1</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>organism</TAG>
+			<VALUE>marine metagenome</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (country and/or sea)</TAG>
+			<VALUE>Indian Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geo_loc_name</TAG>
+			<VALUE>Australia: Indian Ocean, Rowley Shoals Islands, Clerke</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>control_sample</TAG>
+			<VALUE>FALSE</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>isolation_source</TAG>
+			<VALUE>Ocean water sample</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (latitude)</TAG>
+			<VALUE>-17.284397</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (longitude)</TAG>
+			<VALUE>119.376966</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environment (biome)</TAG>
+			<VALUE>Slope</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>ENA-CHECKLIST</TAG>
+			<VALUE>ERC000011</VALUE>
+		</SAMPLE_ATTRIBUTE>
+	</SAMPLE_ATTRIBUTES>
+	</SAMPLE>
+	<SAMPLE alias="RS_CL_S1_2" center_name="Minderoo Foundation">
+	<TITLE>Metagenome or environmental sample from marine metagenome</TITLE>
+	<SAMPLE_NAME>
+		<TAXON_ID>408172</TAXON_ID>
+		<SCIENTIFIC_NAME>marine metagenome</SCIENTIFIC_NAME>
+		<COMMON_NAME></COMMON_NAME>
+	</SAMPLE_NAME>
+	<DESCRIPTION>RS2-1</DESCRIPTION>
+	<SAMPLE_ATTRIBUTES>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>collection date</TAG>
+			<VALUE>2021-02-01</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>filtration_device</TAG>
+			<VALUE>Grover pump</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environmental package</TAG>
+			<VALUE>water</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>rel_to_oxygen</TAG>
+			<VALUE>aerobe</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>replicate_id</TAG>
+			<VALUE>2</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>organism</TAG>
+			<VALUE>marine metagenome</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (country and/or sea)</TAG>
+			<VALUE>Indian Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geo_loc_name</TAG>
+			<VALUE>Australia: Indian Ocean, Rowley Shoals Islands, Clerke</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>control_sample</TAG>
+			<VALUE>FALSE</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>isolation_source</TAG>
+			<VALUE>Ocean water sample</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (latitude)</TAG>
+			<VALUE>-17.284397</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (longitude)</TAG>
+			<VALUE>119.376966</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environment (biome)</TAG>
+			<VALUE>Slope</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>ENA-CHECKLIST</TAG>
+			<VALUE>ERC000011</VALUE>
+		</SAMPLE_ATTRIBUTE>
+	</SAMPLE_ATTRIBUTES>
+	</SAMPLE>
+	<SAMPLE alias="RS_CL_S1_3" center_name="Minderoo Foundation">
+	<TITLE>Metagenome or environmental sample from marine metagenome</TITLE>
+	<SAMPLE_NAME>
+		<TAXON_ID>408172</TAXON_ID>
+		<SCIENTIFIC_NAME>marine metagenome</SCIENTIFIC_NAME>
+		<COMMON_NAME></COMMON_NAME>
+	</SAMPLE_NAME>
+	<DESCRIPTION>RS2-1</DESCRIPTION>
+	<SAMPLE_ATTRIBUTES>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>collection date</TAG>
+			<VALUE>2021-02-01</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>filtration_device</TAG>
+			<VALUE>Grover pump</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environmental package</TAG>
+			<VALUE>water</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>rel_to_oxygen</TAG>
+			<VALUE>aerobe</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>replicate_id</TAG>
+			<VALUE>3</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>organism</TAG>
+			<VALUE>marine metagenome</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (country and/or sea)</TAG>
+			<VALUE>Indian Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geo_loc_name</TAG>
+			<VALUE>Australia: Indian Ocean, Rowley Shoals Islands, Clerke</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>control_sample</TAG>
+			<VALUE>FALSE</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>isolation_source</TAG>
+			<VALUE>Ocean water sample</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (latitude)</TAG>
+			<VALUE>-17.284397</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (longitude)</TAG>
+			<VALUE>119.376966</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environment (biome)</TAG>
+			<VALUE>Slope</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>ENA-CHECKLIST</TAG>
+			<VALUE>ERC000011</VALUE>
+		</SAMPLE_ATTRIBUTE>
+	</SAMPLE_ATTRIBUTES>
+	</SAMPLE>
+	<SAMPLE alias="RS_CL_S1_4" center_name="Minderoo Foundation">
+	<TITLE>Metagenome or environmental sample from marine metagenome</TITLE>
+	<SAMPLE_NAME>
+		<TAXON_ID>408172</TAXON_ID>
+		<SCIENTIFIC_NAME>marine metagenome</SCIENTIFIC_NAME>
+		<COMMON_NAME></COMMON_NAME>
+	</SAMPLE_NAME>
+	<DESCRIPTION>RS2-1</DESCRIPTION>
+	<SAMPLE_ATTRIBUTES>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>collection date</TAG>
+			<VALUE>2021-02-01</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>filtration_device</TAG>
+			<VALUE>Grover pump</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environmental package</TAG>
+			<VALUE>water</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>rel_to_oxygen</TAG>
+			<VALUE>aerobe</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>replicate_id</TAG>
+			<VALUE>4</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>organism</TAG>
+			<VALUE>marine metagenome</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (country and/or sea)</TAG>
+			<VALUE>Indian Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geo_loc_name</TAG>
+			<VALUE>Australia: Indian Ocean, Rowley Shoals Islands, Clerke</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>control_sample</TAG>
+			<VALUE>FALSE</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>isolation_source</TAG>
+			<VALUE>Ocean water sample</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (latitude)</TAG>
+			<VALUE>-17.284397</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (longitude)</TAG>
+			<VALUE>119.376966</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environment (biome)</TAG>
+			<VALUE>Slope</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>ENA-CHECKLIST</TAG>
+			<VALUE>ERC000011</VALUE>
+		</SAMPLE_ATTRIBUTE>
+	</SAMPLE_ATTRIBUTES>
+	</SAMPLE>
+	<SAMPLE alias="RS_CL_S1_5" center_name="Minderoo Foundation">
+	<TITLE>Metagenome or environmental sample from marine metagenome</TITLE>
+	<SAMPLE_NAME>
+		<TAXON_ID>408172</TAXON_ID>
+		<SCIENTIFIC_NAME>marine metagenome</SCIENTIFIC_NAME>
+		<COMMON_NAME></COMMON_NAME>
+	</SAMPLE_NAME>
+	<DESCRIPTION>RS2-1</DESCRIPTION>
+	<SAMPLE_ATTRIBUTES>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>collection date</TAG>
+			<VALUE>2021-02-01</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>filtration_device</TAG>
+			<VALUE>Grover pump</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environmental package</TAG>
+			<VALUE>water</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>rel_to_oxygen</TAG>
+			<VALUE>aerobe</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>replicate_id</TAG>
+			<VALUE>5</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>organism</TAG>
+			<VALUE>marine metagenome</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (country and/or sea)</TAG>
+			<VALUE>Indian Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geo_loc_name</TAG>
+			<VALUE>Australia: Indian Ocean, Rowley Shoals Islands, Clerke</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>control_sample</TAG>
+			<VALUE>FALSE</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>isolation_source</TAG>
+			<VALUE>Ocean water sample</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (latitude)</TAG>
+			<VALUE>-17.284397</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (longitude)</TAG>
+			<VALUE>119.376966</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environment (biome)</TAG>
+			<VALUE>Slope</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>ENA-CHECKLIST</TAG>
+			<VALUE>ERC000011</VALUE>
+		</SAMPLE_ATTRIBUTE>
+	</SAMPLE_ATTRIBUTES>
+	</SAMPLE>
+	<SAMPLE alias="RS_CL_S2_1" center_name="Minderoo Foundation">
+	<TITLE>Metagenome or environmental sample from marine metagenome</TITLE>
+	<SAMPLE_NAME>
+		<TAXON_ID>408172</TAXON_ID>
+		<SCIENTIFIC_NAME>marine metagenome</SCIENTIFIC_NAME>
+		<COMMON_NAME></COMMON_NAME>
+	</SAMPLE_NAME>
+	<DESCRIPTION>RS2-S</DESCRIPTION>
+	<SAMPLE_ATTRIBUTES>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>collection date</TAG>
+			<VALUE>2021-02-01</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>filtration_device</TAG>
+			<VALUE>Grover pump</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environmental package</TAG>
+			<VALUE>water</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>rel_to_oxygen</TAG>
+			<VALUE>aerobe</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>replicate_id</TAG>
+			<VALUE>1</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>organism</TAG>
+			<VALUE>marine metagenome</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (country and/or sea)</TAG>
+			<VALUE>Indian Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geo_loc_name</TAG>
+			<VALUE>Australia: Indian Ocean, Rowley Shoals Islands, Clerke</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>control_sample</TAG>
+			<VALUE>FALSE</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>isolation_source</TAG>
+			<VALUE>Ocean water sample</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (latitude)</TAG>
+			<VALUE>-17.3562</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (longitude)</TAG>
+			<VALUE>119.3834</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environment (biome)</TAG>
+			<VALUE>Slope</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>ENA-CHECKLIST</TAG>
+			<VALUE>ERC000011</VALUE>
+		</SAMPLE_ATTRIBUTE>
+	</SAMPLE_ATTRIBUTES>
+	</SAMPLE>
+	<SAMPLE alias="RS_CL_S2_2" center_name="Minderoo Foundation">
+	<TITLE>Metagenome or environmental sample from marine metagenome</TITLE>
+	<SAMPLE_NAME>
+		<TAXON_ID>408172</TAXON_ID>
+		<SCIENTIFIC_NAME>marine metagenome</SCIENTIFIC_NAME>
+		<COMMON_NAME></COMMON_NAME>
+	</SAMPLE_NAME>
+	<DESCRIPTION>RS2-S</DESCRIPTION>
+	<SAMPLE_ATTRIBUTES>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>collection date</TAG>
+			<VALUE>2021-02-01</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>filtration_device</TAG>
+			<VALUE>Grover pump</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environmental package</TAG>
+			<VALUE>water</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>rel_to_oxygen</TAG>
+			<VALUE>aerobe</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>replicate_id</TAG>
+			<VALUE>2</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>organism</TAG>
+			<VALUE>marine metagenome</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (country and/or sea)</TAG>
+			<VALUE>Indian Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geo_loc_name</TAG>
+			<VALUE>Australia: Indian Ocean, Rowley Shoals Islands, Clerke</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>control_sample</TAG>
+			<VALUE>FALSE</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>isolation_source</TAG>
+			<VALUE>Ocean water sample</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (latitude)</TAG>
+			<VALUE>-17.3562</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (longitude)</TAG>
+			<VALUE>119.3834</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environment (biome)</TAG>
+			<VALUE>Slope</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>ENA-CHECKLIST</TAG>
+			<VALUE>ERC000011</VALUE>
+		</SAMPLE_ATTRIBUTE>
+	</SAMPLE_ATTRIBUTES>
+	</SAMPLE>
+	<SAMPLE alias="RS_CL_S2_3" center_name="Minderoo Foundation">
+	<TITLE>Metagenome or environmental sample from marine metagenome</TITLE>
+	<SAMPLE_NAME>
+		<TAXON_ID>408172</TAXON_ID>
+		<SCIENTIFIC_NAME>marine metagenome</SCIENTIFIC_NAME>
+		<COMMON_NAME></COMMON_NAME>
+	</SAMPLE_NAME>
+	<DESCRIPTION>RS2-S</DESCRIPTION>
+	<SAMPLE_ATTRIBUTES>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>collection date</TAG>
+			<VALUE>2021-02-01</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>filtration_device</TAG>
+			<VALUE>Grover pump</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environmental package</TAG>
+			<VALUE>water</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>rel_to_oxygen</TAG>
+			<VALUE>aerobe</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>replicate_id</TAG>
+			<VALUE>3</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>organism</TAG>
+			<VALUE>marine metagenome</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (country and/or sea)</TAG>
+			<VALUE>Indian Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geo_loc_name</TAG>
+			<VALUE>Australia: Indian Ocean, Rowley Shoals Islands, Clerke</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>control_sample</TAG>
+			<VALUE>FALSE</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>isolation_source</TAG>
+			<VALUE>Ocean water sample</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (latitude)</TAG>
+			<VALUE>-17.3562</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (longitude)</TAG>
+			<VALUE>119.3834</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environment (biome)</TAG>
+			<VALUE>Slope</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>ENA-CHECKLIST</TAG>
+			<VALUE>ERC000011</VALUE>
+		</SAMPLE_ATTRIBUTE>
+	</SAMPLE_ATTRIBUTES>
+	</SAMPLE>
+	<SAMPLE alias="RS_CL_S2_4" center_name="Minderoo Foundation">
+	<TITLE>Metagenome or environmental sample from marine metagenome</TITLE>
+	<SAMPLE_NAME>
+		<TAXON_ID>408172</TAXON_ID>
+		<SCIENTIFIC_NAME>marine metagenome</SCIENTIFIC_NAME>
+		<COMMON_NAME></COMMON_NAME>
+	</SAMPLE_NAME>
+	<DESCRIPTION>RS2-S</DESCRIPTION>
+	<SAMPLE_ATTRIBUTES>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>collection date</TAG>
+			<VALUE>2021-02-01</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>filtration_device</TAG>
+			<VALUE>Grover pump</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environmental package</TAG>
+			<VALUE>water</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>rel_to_oxygen</TAG>
+			<VALUE>aerobe</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>replicate_id</TAG>
+			<VALUE>4</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>organism</TAG>
+			<VALUE>marine metagenome</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (country and/or sea)</TAG>
+			<VALUE>Indian Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geo_loc_name</TAG>
+			<VALUE>Australia: Indian Ocean, Rowley Shoals Islands, Clerke</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>control_sample</TAG>
+			<VALUE>FALSE</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>isolation_source</TAG>
+			<VALUE>Ocean water sample</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (latitude)</TAG>
+			<VALUE>-17.3562</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (longitude)</TAG>
+			<VALUE>119.3834</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environment (biome)</TAG>
+			<VALUE>Slope</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>ENA-CHECKLIST</TAG>
+			<VALUE>ERC000011</VALUE>
+		</SAMPLE_ATTRIBUTE>
+	</SAMPLE_ATTRIBUTES>
+	</SAMPLE>
+	<SAMPLE alias="RS_CL_S2_5" center_name="Minderoo Foundation">
+	<TITLE>Metagenome or environmental sample from marine metagenome</TITLE>
+	<SAMPLE_NAME>
+		<TAXON_ID>408172</TAXON_ID>
+		<SCIENTIFIC_NAME>marine metagenome</SCIENTIFIC_NAME>
+		<COMMON_NAME></COMMON_NAME>
+	</SAMPLE_NAME>
+	<DESCRIPTION>RS2-S</DESCRIPTION>
+	<SAMPLE_ATTRIBUTES>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>collection date</TAG>
+			<VALUE>2021-02-01</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>filtration_device</TAG>
+			<VALUE>Grover pump</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environmental package</TAG>
+			<VALUE>water</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>rel_to_oxygen</TAG>
+			<VALUE>aerobe</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>replicate_id</TAG>
+			<VALUE>5</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>organism</TAG>
+			<VALUE>marine metagenome</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (country and/or sea)</TAG>
+			<VALUE>Indian Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geo_loc_name</TAG>
+			<VALUE>Australia: Indian Ocean, Rowley Shoals Islands, Clerke</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>control_sample</TAG>
+			<VALUE>FALSE</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>isolation_source</TAG>
+			<VALUE>Ocean water sample</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (latitude)</TAG>
+			<VALUE>-17.3562</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (longitude)</TAG>
+			<VALUE>119.3834</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environment (biome)</TAG>
+			<VALUE>Slope</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>ENA-CHECKLIST</TAG>
+			<VALUE>ERC000011</VALUE>
+		</SAMPLE_ATTRIBUTE>
+	</SAMPLE_ATTRIBUTES>
+	</SAMPLE>
+	<SAMPLE alias="RS_IMP_S1_1" center_name="Minderoo Foundation">
+	<TITLE>Metagenome or environmental sample from marine metagenome</TITLE>
+	<SAMPLE_NAME>
+		<TAXON_ID>408172</TAXON_ID>
+		<SCIENTIFIC_NAME>marine metagenome</SCIENTIFIC_NAME>
+		<COMMON_NAME></COMMON_NAME>
+	</SAMPLE_NAME>
+	<DESCRIPTION>RS3-1</DESCRIPTION>
+	<SAMPLE_ATTRIBUTES>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>collection date</TAG>
+			<VALUE>2021-02-01</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>filtration_device</TAG>
+			<VALUE>Grover pump</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environmental package</TAG>
+			<VALUE>water</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>rel_to_oxygen</TAG>
+			<VALUE>aerobe</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>replicate_id</TAG>
+			<VALUE>1</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>organism</TAG>
+			<VALUE>marine metagenome</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (country and/or sea)</TAG>
+			<VALUE>Indian Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geo_loc_name</TAG>
+			<VALUE>Australia: Indian Ocean, Rowley Shoals Islands, Imperieuse</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>control_sample</TAG>
+			<VALUE>FALSE</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>isolation_source</TAG>
+			<VALUE>Ocean water sample</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (latitude)</TAG>
+			<VALUE>-17.547918</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (longitude)</TAG>
+			<VALUE>118.973836</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environment (biome)</TAG>
+			<VALUE>Slope</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>ENA-CHECKLIST</TAG>
+			<VALUE>ERC000011</VALUE>
+		</SAMPLE_ATTRIBUTE>
+	</SAMPLE_ATTRIBUTES>
+	</SAMPLE>
+	<SAMPLE alias="RS_IMP_S1_2" center_name="Minderoo Foundation">
+	<TITLE>Metagenome or environmental sample from marine metagenome</TITLE>
+	<SAMPLE_NAME>
+		<TAXON_ID>408172</TAXON_ID>
+		<SCIENTIFIC_NAME>marine metagenome</SCIENTIFIC_NAME>
+		<COMMON_NAME></COMMON_NAME>
+	</SAMPLE_NAME>
+	<DESCRIPTION>RS3-1</DESCRIPTION>
+	<SAMPLE_ATTRIBUTES>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>collection date</TAG>
+			<VALUE>2021-02-01</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>filtration_device</TAG>
+			<VALUE>Grover pump</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environmental package</TAG>
+			<VALUE>water</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>rel_to_oxygen</TAG>
+			<VALUE>aerobe</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>replicate_id</TAG>
+			<VALUE>2</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>organism</TAG>
+			<VALUE>marine metagenome</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (country and/or sea)</TAG>
+			<VALUE>Indian Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geo_loc_name</TAG>
+			<VALUE>Australia: Indian Ocean, Rowley Shoals Islands, Imperieuse</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>control_sample</TAG>
+			<VALUE>FALSE</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>isolation_source</TAG>
+			<VALUE>Ocean water sample</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (latitude)</TAG>
+			<VALUE>-17.547918</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (longitude)</TAG>
+			<VALUE>118.973836</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environment (biome)</TAG>
+			<VALUE>Slope</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>ENA-CHECKLIST</TAG>
+			<VALUE>ERC000011</VALUE>
+		</SAMPLE_ATTRIBUTE>
+	</SAMPLE_ATTRIBUTES>
+	</SAMPLE>
+	<SAMPLE alias="RS_IMP_S1_3" center_name="Minderoo Foundation">
+	<TITLE>Metagenome or environmental sample from marine metagenome</TITLE>
+	<SAMPLE_NAME>
+		<TAXON_ID>408172</TAXON_ID>
+		<SCIENTIFIC_NAME>marine metagenome</SCIENTIFIC_NAME>
+		<COMMON_NAME></COMMON_NAME>
+	</SAMPLE_NAME>
+	<DESCRIPTION>RS3-1</DESCRIPTION>
+	<SAMPLE_ATTRIBUTES>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>collection date</TAG>
+			<VALUE>2021-02-01</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>filtration_device</TAG>
+			<VALUE>Grover pump</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environmental package</TAG>
+			<VALUE>water</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>rel_to_oxygen</TAG>
+			<VALUE>aerobe</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>replicate_id</TAG>
+			<VALUE>3</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>organism</TAG>
+			<VALUE>marine metagenome</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (country and/or sea)</TAG>
+			<VALUE>Indian Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geo_loc_name</TAG>
+			<VALUE>Australia: Indian Ocean, Rowley Shoals Islands, Imperieuse</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>control_sample</TAG>
+			<VALUE>FALSE</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>isolation_source</TAG>
+			<VALUE>Ocean water sample</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (latitude)</TAG>
+			<VALUE>-17.547918</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (longitude)</TAG>
+			<VALUE>118.973836</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environment (biome)</TAG>
+			<VALUE>Slope</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>ENA-CHECKLIST</TAG>
+			<VALUE>ERC000011</VALUE>
+		</SAMPLE_ATTRIBUTE>
+	</SAMPLE_ATTRIBUTES>
+	</SAMPLE>
+	<SAMPLE alias="RS_IMP_S1_4" center_name="Minderoo Foundation">
+	<TITLE>Metagenome or environmental sample from marine metagenome</TITLE>
+	<SAMPLE_NAME>
+		<TAXON_ID>408172</TAXON_ID>
+		<SCIENTIFIC_NAME>marine metagenome</SCIENTIFIC_NAME>
+		<COMMON_NAME></COMMON_NAME>
+	</SAMPLE_NAME>
+	<DESCRIPTION>RS3-1</DESCRIPTION>
+	<SAMPLE_ATTRIBUTES>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>collection date</TAG>
+			<VALUE>2021-02-01</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>filtration_device</TAG>
+			<VALUE>Grover pump</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environmental package</TAG>
+			<VALUE>water</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>rel_to_oxygen</TAG>
+			<VALUE>aerobe</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>replicate_id</TAG>
+			<VALUE>4</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>organism</TAG>
+			<VALUE>marine metagenome</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (country and/or sea)</TAG>
+			<VALUE>Indian Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geo_loc_name</TAG>
+			<VALUE>Australia: Indian Ocean, Rowley Shoals Islands, Imperieuse</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>control_sample</TAG>
+			<VALUE>FALSE</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>isolation_source</TAG>
+			<VALUE>Ocean water sample</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (latitude)</TAG>
+			<VALUE>-17.547918</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (longitude)</TAG>
+			<VALUE>118.973836</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environment (biome)</TAG>
+			<VALUE>Slope</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>ENA-CHECKLIST</TAG>
+			<VALUE>ERC000011</VALUE>
+		</SAMPLE_ATTRIBUTE>
+	</SAMPLE_ATTRIBUTES>
+	</SAMPLE>
+	<SAMPLE alias="RS_IMP_S1_5" center_name="Minderoo Foundation">
+	<TITLE>Metagenome or environmental sample from marine metagenome</TITLE>
+	<SAMPLE_NAME>
+		<TAXON_ID>408172</TAXON_ID>
+		<SCIENTIFIC_NAME>marine metagenome</SCIENTIFIC_NAME>
+		<COMMON_NAME></COMMON_NAME>
+	</SAMPLE_NAME>
+	<DESCRIPTION>RS3-1</DESCRIPTION>
+	<SAMPLE_ATTRIBUTES>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>collection date</TAG>
+			<VALUE>2021-02-01</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>filtration_device</TAG>
+			<VALUE>Grover pump</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environmental package</TAG>
+			<VALUE>water</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>rel_to_oxygen</TAG>
+			<VALUE>aerobe</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>replicate_id</TAG>
+			<VALUE>5</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>organism</TAG>
+			<VALUE>marine metagenome</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (country and/or sea)</TAG>
+			<VALUE>Indian Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geo_loc_name</TAG>
+			<VALUE>Australia: Indian Ocean, Rowley Shoals Islands, Imperieuse</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>control_sample</TAG>
+			<VALUE>FALSE</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>isolation_source</TAG>
+			<VALUE>Ocean water sample</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (latitude)</TAG>
+			<VALUE>-17.547918</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (longitude)</TAG>
+			<VALUE>118.973836</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environment (biome)</TAG>
+			<VALUE>Slope</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>ENA-CHECKLIST</TAG>
+			<VALUE>ERC000011</VALUE>
+		</SAMPLE_ATTRIBUTE>
+	</SAMPLE_ATTRIBUTES>
+	</SAMPLE>
+	<SAMPLE alias="RS_MER_B1" center_name="Minderoo Foundation">
+	<TITLE>Metagenome or environmental sample from marine metagenome</TITLE>
+	<SAMPLE_NAME>
+		<TAXON_ID>408172</TAXON_ID>
+		<SCIENTIFIC_NAME>marine metagenome</SCIENTIFIC_NAME>
+		<COMMON_NAME></COMMON_NAME>
+	</SAMPLE_NAME>
+	<DESCRIPTION>Mermaid Lagoon Buoy</DESCRIPTION>
+	<SAMPLE_ATTRIBUTES>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>collection date</TAG>
+			<VALUE>2021-02-01</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>filtration_device</TAG>
+			<VALUE>Grover pump</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environmental package</TAG>
+			<VALUE>water</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>rel_to_oxygen</TAG>
+			<VALUE>aerobe</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>replicate_id</TAG>
+			<VALUE>1</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>organism</TAG>
+			<VALUE>marine metagenome</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (country and/or sea)</TAG>
+			<VALUE>Indian Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geo_loc_name</TAG>
+			<VALUE>Australia: Indian Ocean, Rowley Shoals Islands, Mermaid</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>control_sample</TAG>
+			<VALUE>FALSE</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>isolation_source</TAG>
+			<VALUE>Ocean water sample</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (latitude)</TAG>
+			<VALUE>-17.084333</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (longitude)</TAG>
+			<VALUE>119.630833</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environment (biome)</TAG>
+			<VALUE>Lagoon</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>ENA-CHECKLIST</TAG>
+			<VALUE>ERC000011</VALUE>
+		</SAMPLE_ATTRIBUTE>
+	</SAMPLE_ATTRIBUTES>
+	</SAMPLE>
+	<SAMPLE alias="RS_MER_B2" center_name="Minderoo Foundation">
+	<TITLE>Metagenome or environmental sample from marine metagenome</TITLE>
+	<SAMPLE_NAME>
+		<TAXON_ID>408172</TAXON_ID>
+		<SCIENTIFIC_NAME>marine metagenome</SCIENTIFIC_NAME>
+		<COMMON_NAME></COMMON_NAME>
+	</SAMPLE_NAME>
+	<DESCRIPTION>Mermaid Lagoon Buoy</DESCRIPTION>
+	<SAMPLE_ATTRIBUTES>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>collection date</TAG>
+			<VALUE>2021-02-01</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>filtration_device</TAG>
+			<VALUE>Grover pump</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environmental package</TAG>
+			<VALUE>water</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>rel_to_oxygen</TAG>
+			<VALUE>aerobe</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>replicate_id</TAG>
+			<VALUE>2</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>organism</TAG>
+			<VALUE>marine metagenome</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (country and/or sea)</TAG>
+			<VALUE>Indian Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geo_loc_name</TAG>
+			<VALUE>Australia: Indian Ocean, Rowley Shoals Islands, Mermaid</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>control_sample</TAG>
+			<VALUE>FALSE</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>isolation_source</TAG>
+			<VALUE>Ocean water sample</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (latitude)</TAG>
+			<VALUE>-17.084333</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (longitude)</TAG>
+			<VALUE>119.630833</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environment (biome)</TAG>
+			<VALUE>Lagoon</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>ENA-CHECKLIST</TAG>
+			<VALUE>ERC000011</VALUE>
+		</SAMPLE_ATTRIBUTE>
+	</SAMPLE_ATTRIBUTES>
+	</SAMPLE>
+	<SAMPLE alias="RS_MER_B3" center_name="Minderoo Foundation">
+	<TITLE>Metagenome or environmental sample from marine metagenome</TITLE>
+	<SAMPLE_NAME>
+		<TAXON_ID>408172</TAXON_ID>
+		<SCIENTIFIC_NAME>marine metagenome</SCIENTIFIC_NAME>
+		<COMMON_NAME></COMMON_NAME>
+	</SAMPLE_NAME>
+	<DESCRIPTION>Mermaid Lagoon Buoy</DESCRIPTION>
+	<SAMPLE_ATTRIBUTES>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>collection date</TAG>
+			<VALUE>2021-02-01</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>filtration_device</TAG>
+			<VALUE>Grover pump</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environmental package</TAG>
+			<VALUE>water</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>rel_to_oxygen</TAG>
+			<VALUE>aerobe</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>replicate_id</TAG>
+			<VALUE>3</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>organism</TAG>
+			<VALUE>marine metagenome</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (country and/or sea)</TAG>
+			<VALUE>Indian Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geo_loc_name</TAG>
+			<VALUE>Australia: Indian Ocean, Rowley Shoals Islands, Mermaid</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>control_sample</TAG>
+			<VALUE>FALSE</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>isolation_source</TAG>
+			<VALUE>Ocean water sample</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (latitude)</TAG>
+			<VALUE>-17.084333</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (longitude)</TAG>
+			<VALUE>119.630833</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environment (biome)</TAG>
+			<VALUE>Lagoon</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>ENA-CHECKLIST</TAG>
+			<VALUE>ERC000011</VALUE>
+		</SAMPLE_ATTRIBUTE>
+	</SAMPLE_ATTRIBUTES>
+	</SAMPLE>
+	<SAMPLE alias="RS_MER_B4" center_name="Minderoo Foundation">
+	<TITLE>Metagenome or environmental sample from marine metagenome</TITLE>
+	<SAMPLE_NAME>
+		<TAXON_ID>408172</TAXON_ID>
+		<SCIENTIFIC_NAME>marine metagenome</SCIENTIFIC_NAME>
+		<COMMON_NAME></COMMON_NAME>
+	</SAMPLE_NAME>
+	<DESCRIPTION>Mermaid Lagoon Buoy</DESCRIPTION>
+	<SAMPLE_ATTRIBUTES>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>collection date</TAG>
+			<VALUE>2021-02-01</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>filtration_device</TAG>
+			<VALUE>Grover pump</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environmental package</TAG>
+			<VALUE>water</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>rel_to_oxygen</TAG>
+			<VALUE>aerobe</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>replicate_id</TAG>
+			<VALUE>4</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>organism</TAG>
+			<VALUE>marine metagenome</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (country and/or sea)</TAG>
+			<VALUE>Indian Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geo_loc_name</TAG>
+			<VALUE>Australia: Indian Ocean, Rowley Shoals Islands, Mermaid</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>control_sample</TAG>
+			<VALUE>FALSE</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>isolation_source</TAG>
+			<VALUE>Ocean water sample</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (latitude)</TAG>
+			<VALUE>-17.084333</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (longitude)</TAG>
+			<VALUE>119.630833</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environment (biome)</TAG>
+			<VALUE>Lagoon</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>ENA-CHECKLIST</TAG>
+			<VALUE>ERC000011</VALUE>
+		</SAMPLE_ATTRIBUTE>
+	</SAMPLE_ATTRIBUTES>
+	</SAMPLE>
+	<SAMPLE alias="RS_MER_B5" center_name="Minderoo Foundation">
+	<TITLE>Metagenome or environmental sample from marine metagenome</TITLE>
+	<SAMPLE_NAME>
+		<TAXON_ID>408172</TAXON_ID>
+		<SCIENTIFIC_NAME>marine metagenome</SCIENTIFIC_NAME>
+		<COMMON_NAME></COMMON_NAME>
+	</SAMPLE_NAME>
+	<DESCRIPTION>Mermaid Lagoon Buoy</DESCRIPTION>
+	<SAMPLE_ATTRIBUTES>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>collection date</TAG>
+			<VALUE>2021-02-01</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>filtration_device</TAG>
+			<VALUE>Grover pump</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environmental package</TAG>
+			<VALUE>water</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>rel_to_oxygen</TAG>
+			<VALUE>aerobe</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>replicate_id</TAG>
+			<VALUE>5</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>organism</TAG>
+			<VALUE>marine metagenome</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (country and/or sea)</TAG>
+			<VALUE>Indian Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geo_loc_name</TAG>
+			<VALUE>Australia: Indian Ocean, Rowley Shoals Islands, Mermaid</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>control_sample</TAG>
+			<VALUE>FALSE</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>isolation_source</TAG>
+			<VALUE>Ocean water sample</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (latitude)</TAG>
+			<VALUE>-17.084333</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (longitude)</TAG>
+			<VALUE>119.630833</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environment (biome)</TAG>
+			<VALUE>Lagoon</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>ENA-CHECKLIST</TAG>
+			<VALUE>ERC000011</VALUE>
+		</SAMPLE_ATTRIBUTE>
+	</SAMPLE_ATTRIBUTES>
+	</SAMPLE>
+	<SAMPLE alias="RS_MER_L1_1" center_name="Minderoo Foundation">
+	<TITLE>Metagenome or environmental sample from marine metagenome</TITLE>
+	<SAMPLE_NAME>
+		<TAXON_ID>408172</TAXON_ID>
+		<SCIENTIFIC_NAME>marine metagenome</SCIENTIFIC_NAME>
+		<COMMON_NAME></COMMON_NAME>
+	</SAMPLE_NAME>
+	<DESCRIPTION>M12-BT</DESCRIPTION>
+	<SAMPLE_ATTRIBUTES>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>collection date</TAG>
+			<VALUE>2021-02-01</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>filtration_device</TAG>
+			<VALUE>Grover pump</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environmental package</TAG>
+			<VALUE>water</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>rel_to_oxygen</TAG>
+			<VALUE>aerobe</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>replicate_id</TAG>
+			<VALUE>1</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>organism</TAG>
+			<VALUE>marine metagenome</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (country and/or sea)</TAG>
+			<VALUE>Indian Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geo_loc_name</TAG>
+			<VALUE>Australia: Indian Ocean, Rowley Shoals Islands, Mermaid</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>control_sample</TAG>
+			<VALUE>FALSE</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>isolation_source</TAG>
+			<VALUE>Ocean water sample</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (latitude)</TAG>
+			<VALUE>-17.11484</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (longitude)</TAG>
+			<VALUE>119.634607</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environment (biome)</TAG>
+			<VALUE>Lagoon</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>ENA-CHECKLIST</TAG>
+			<VALUE>ERC000011</VALUE>
+		</SAMPLE_ATTRIBUTE>
+	</SAMPLE_ATTRIBUTES>
+	</SAMPLE>
+	<SAMPLE alias="RS_MER_L1_2" center_name="Minderoo Foundation">
+	<TITLE>Metagenome or environmental sample from marine metagenome</TITLE>
+	<SAMPLE_NAME>
+		<TAXON_ID>408172</TAXON_ID>
+		<SCIENTIFIC_NAME>marine metagenome</SCIENTIFIC_NAME>
+		<COMMON_NAME></COMMON_NAME>
+	</SAMPLE_NAME>
+	<DESCRIPTION>M12-BT</DESCRIPTION>
+	<SAMPLE_ATTRIBUTES>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>collection date</TAG>
+			<VALUE>2021-02-01</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>filtration_device</TAG>
+			<VALUE>Grover pump</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environmental package</TAG>
+			<VALUE>water</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>rel_to_oxygen</TAG>
+			<VALUE>aerobe</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>replicate_id</TAG>
+			<VALUE>2</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>organism</TAG>
+			<VALUE>marine metagenome</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (country and/or sea)</TAG>
+			<VALUE>Indian Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geo_loc_name</TAG>
+			<VALUE>Australia: Indian Ocean, Rowley Shoals Islands, Mermaid</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>control_sample</TAG>
+			<VALUE>FALSE</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>isolation_source</TAG>
+			<VALUE>Ocean water sample</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (latitude)</TAG>
+			<VALUE>-17.11484</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (longitude)</TAG>
+			<VALUE>119.634607</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environment (biome)</TAG>
+			<VALUE>Lagoon</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>ENA-CHECKLIST</TAG>
+			<VALUE>ERC000011</VALUE>
+		</SAMPLE_ATTRIBUTE>
+	</SAMPLE_ATTRIBUTES>
+	</SAMPLE>
+	<SAMPLE alias="RS_MER_L1_3" center_name="Minderoo Foundation">
+	<TITLE>Metagenome or environmental sample from marine metagenome</TITLE>
+	<SAMPLE_NAME>
+		<TAXON_ID>408172</TAXON_ID>
+		<SCIENTIFIC_NAME>marine metagenome</SCIENTIFIC_NAME>
+		<COMMON_NAME></COMMON_NAME>
+	</SAMPLE_NAME>
+	<DESCRIPTION>M12-BT</DESCRIPTION>
+	<SAMPLE_ATTRIBUTES>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>collection date</TAG>
+			<VALUE>2021-02-01</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>filtration_device</TAG>
+			<VALUE>Grover pump</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environmental package</TAG>
+			<VALUE>water</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>rel_to_oxygen</TAG>
+			<VALUE>aerobe</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>replicate_id</TAG>
+			<VALUE>3</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>organism</TAG>
+			<VALUE>marine metagenome</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (country and/or sea)</TAG>
+			<VALUE>Indian Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geo_loc_name</TAG>
+			<VALUE>Australia: Indian Ocean, Rowley Shoals Islands, Mermaid</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>control_sample</TAG>
+			<VALUE>FALSE</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>isolation_source</TAG>
+			<VALUE>Ocean water sample</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (latitude)</TAG>
+			<VALUE>-17.11484</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (longitude)</TAG>
+			<VALUE>119.634607</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environment (biome)</TAG>
+			<VALUE>Lagoon</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>ENA-CHECKLIST</TAG>
+			<VALUE>ERC000011</VALUE>
+		</SAMPLE_ATTRIBUTE>
+	</SAMPLE_ATTRIBUTES>
+	</SAMPLE>
+	<SAMPLE alias="RS_MER_L1_4" center_name="Minderoo Foundation">
+	<TITLE>Metagenome or environmental sample from marine metagenome</TITLE>
+	<SAMPLE_NAME>
+		<TAXON_ID>408172</TAXON_ID>
+		<SCIENTIFIC_NAME>marine metagenome</SCIENTIFIC_NAME>
+		<COMMON_NAME></COMMON_NAME>
+	</SAMPLE_NAME>
+	<DESCRIPTION>M12-BT</DESCRIPTION>
+	<SAMPLE_ATTRIBUTES>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>collection date</TAG>
+			<VALUE>2021-02-01</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>filtration_device</TAG>
+			<VALUE>Grover pump</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environmental package</TAG>
+			<VALUE>water</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>rel_to_oxygen</TAG>
+			<VALUE>aerobe</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>replicate_id</TAG>
+			<VALUE>4</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>organism</TAG>
+			<VALUE>marine metagenome</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (country and/or sea)</TAG>
+			<VALUE>Indian Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geo_loc_name</TAG>
+			<VALUE>Australia: Indian Ocean, Rowley Shoals Islands, Mermaid</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>control_sample</TAG>
+			<VALUE>FALSE</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>isolation_source</TAG>
+			<VALUE>Ocean water sample</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (latitude)</TAG>
+			<VALUE>-17.11484</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (longitude)</TAG>
+			<VALUE>119.634607</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environment (biome)</TAG>
+			<VALUE>Lagoon</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>ENA-CHECKLIST</TAG>
+			<VALUE>ERC000011</VALUE>
+		</SAMPLE_ATTRIBUTE>
+	</SAMPLE_ATTRIBUTES>
+	</SAMPLE>
+	<SAMPLE alias="RS_MER_L1_5" center_name="Minderoo Foundation">
+	<TITLE>Metagenome or environmental sample from marine metagenome</TITLE>
+	<SAMPLE_NAME>
+		<TAXON_ID>408172</TAXON_ID>
+		<SCIENTIFIC_NAME>marine metagenome</SCIENTIFIC_NAME>
+		<COMMON_NAME></COMMON_NAME>
+	</SAMPLE_NAME>
+	<DESCRIPTION>M12-BT</DESCRIPTION>
+	<SAMPLE_ATTRIBUTES>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>collection date</TAG>
+			<VALUE>2021-02-01</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>filtration_device</TAG>
+			<VALUE>Grover pump</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environmental package</TAG>
+			<VALUE>water</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>rel_to_oxygen</TAG>
+			<VALUE>aerobe</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>replicate_id</TAG>
+			<VALUE>5</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>organism</TAG>
+			<VALUE>marine metagenome</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (country and/or sea)</TAG>
+			<VALUE>Indian Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geo_loc_name</TAG>
+			<VALUE>Australia: Indian Ocean, Rowley Shoals Islands, Mermaid</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>control_sample</TAG>
+			<VALUE>FALSE</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>isolation_source</TAG>
+			<VALUE>Ocean water sample</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (latitude)</TAG>
+			<VALUE>-17.11484</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (longitude)</TAG>
+			<VALUE>119.634607</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environment (biome)</TAG>
+			<VALUE>Lagoon</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>ENA-CHECKLIST</TAG>
+			<VALUE>ERC000011</VALUE>
+		</SAMPLE_ATTRIBUTE>
+	</SAMPLE_ATTRIBUTES>
+	</SAMPLE>
+	<SAMPLE alias="RS_MER_L2_1" center_name="Minderoo Foundation">
+	<TITLE>Metagenome or environmental sample from marine metagenome</TITLE>
+	<SAMPLE_NAME>
+		<TAXON_ID>408172</TAXON_ID>
+		<SCIENTIFIC_NAME>marine metagenome</SCIENTIFIC_NAME>
+		<COMMON_NAME></COMMON_NAME>
+	</SAMPLE_NAME>
+	<DESCRIPTION>M11-BT</DESCRIPTION>
+	<SAMPLE_ATTRIBUTES>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>collection date</TAG>
+			<VALUE>2021-02-01</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>filtration_device</TAG>
+			<VALUE>Grover pump</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environmental package</TAG>
+			<VALUE>water</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>rel_to_oxygen</TAG>
+			<VALUE>aerobe</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>replicate_id</TAG>
+			<VALUE>1</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>organism</TAG>
+			<VALUE>marine metagenome</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (country and/or sea)</TAG>
+			<VALUE>Indian Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geo_loc_name</TAG>
+			<VALUE>Australia: Indian Ocean, Rowley Shoals Islands, Mermaid</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>control_sample</TAG>
+			<VALUE>FALSE</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>isolation_source</TAG>
+			<VALUE>Ocean water sample</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (latitude)</TAG>
+			<VALUE>-17.132954</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (longitude)</TAG>
+			<VALUE>119.633743</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environment (biome)</TAG>
+			<VALUE>Lagoon</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>ENA-CHECKLIST</TAG>
+			<VALUE>ERC000011</VALUE>
+		</SAMPLE_ATTRIBUTE>
+	</SAMPLE_ATTRIBUTES>
+	</SAMPLE>
+	<SAMPLE alias="RS_MER_L2_2" center_name="Minderoo Foundation">
+	<TITLE>Metagenome or environmental sample from marine metagenome</TITLE>
+	<SAMPLE_NAME>
+		<TAXON_ID>408172</TAXON_ID>
+		<SCIENTIFIC_NAME>marine metagenome</SCIENTIFIC_NAME>
+		<COMMON_NAME></COMMON_NAME>
+	</SAMPLE_NAME>
+	<DESCRIPTION>M11-BT</DESCRIPTION>
+	<SAMPLE_ATTRIBUTES>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>collection date</TAG>
+			<VALUE>2021-02-01</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>filtration_device</TAG>
+			<VALUE>Grover pump</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environmental package</TAG>
+			<VALUE>water</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>rel_to_oxygen</TAG>
+			<VALUE>aerobe</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>replicate_id</TAG>
+			<VALUE>2</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>organism</TAG>
+			<VALUE>marine metagenome</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (country and/or sea)</TAG>
+			<VALUE>Indian Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geo_loc_name</TAG>
+			<VALUE>Australia: Indian Ocean, Rowley Shoals Islands, Mermaid</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>control_sample</TAG>
+			<VALUE>FALSE</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>isolation_source</TAG>
+			<VALUE>Ocean water sample</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (latitude)</TAG>
+			<VALUE>-17.132954</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (longitude)</TAG>
+			<VALUE>119.633743</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environment (biome)</TAG>
+			<VALUE>Lagoon</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>ENA-CHECKLIST</TAG>
+			<VALUE>ERC000011</VALUE>
+		</SAMPLE_ATTRIBUTE>
+	</SAMPLE_ATTRIBUTES>
+	</SAMPLE>
+	<SAMPLE alias="RS_MER_L2_3" center_name="Minderoo Foundation">
+	<TITLE>Metagenome or environmental sample from marine metagenome</TITLE>
+	<SAMPLE_NAME>
+		<TAXON_ID>408172</TAXON_ID>
+		<SCIENTIFIC_NAME>marine metagenome</SCIENTIFIC_NAME>
+		<COMMON_NAME></COMMON_NAME>
+	</SAMPLE_NAME>
+	<DESCRIPTION>M11-BT</DESCRIPTION>
+	<SAMPLE_ATTRIBUTES>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>collection date</TAG>
+			<VALUE>2021-02-01</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>filtration_device</TAG>
+			<VALUE>Grover pump</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environmental package</TAG>
+			<VALUE>water</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>rel_to_oxygen</TAG>
+			<VALUE>aerobe</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>replicate_id</TAG>
+			<VALUE>3</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>organism</TAG>
+			<VALUE>marine metagenome</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (country and/or sea)</TAG>
+			<VALUE>Indian Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geo_loc_name</TAG>
+			<VALUE>Australia: Indian Ocean, Rowley Shoals Islands, Mermaid</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>control_sample</TAG>
+			<VALUE>FALSE</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>isolation_source</TAG>
+			<VALUE>Ocean water sample</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (latitude)</TAG>
+			<VALUE>-17.132954</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (longitude)</TAG>
+			<VALUE>119.633743</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environment (biome)</TAG>
+			<VALUE>Lagoon</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>ENA-CHECKLIST</TAG>
+			<VALUE>ERC000011</VALUE>
+		</SAMPLE_ATTRIBUTE>
+	</SAMPLE_ATTRIBUTES>
+	</SAMPLE>
+	<SAMPLE alias="RS_MER_L2_4" center_name="Minderoo Foundation">
+	<TITLE>Metagenome or environmental sample from marine metagenome</TITLE>
+	<SAMPLE_NAME>
+		<TAXON_ID>408172</TAXON_ID>
+		<SCIENTIFIC_NAME>marine metagenome</SCIENTIFIC_NAME>
+		<COMMON_NAME></COMMON_NAME>
+	</SAMPLE_NAME>
+	<DESCRIPTION>M11-BT</DESCRIPTION>
+	<SAMPLE_ATTRIBUTES>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>collection date</TAG>
+			<VALUE>2021-02-01</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>filtration_device</TAG>
+			<VALUE>Grover pump</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environmental package</TAG>
+			<VALUE>water</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>rel_to_oxygen</TAG>
+			<VALUE>aerobe</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>replicate_id</TAG>
+			<VALUE>4</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>organism</TAG>
+			<VALUE>marine metagenome</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (country and/or sea)</TAG>
+			<VALUE>Indian Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geo_loc_name</TAG>
+			<VALUE>Australia: Indian Ocean, Rowley Shoals Islands, Mermaid</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>control_sample</TAG>
+			<VALUE>FALSE</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>isolation_source</TAG>
+			<VALUE>Ocean water sample</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (latitude)</TAG>
+			<VALUE>-17.132954</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (longitude)</TAG>
+			<VALUE>119.633743</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environment (biome)</TAG>
+			<VALUE>Lagoon</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>ENA-CHECKLIST</TAG>
+			<VALUE>ERC000011</VALUE>
+		</SAMPLE_ATTRIBUTE>
+	</SAMPLE_ATTRIBUTES>
+	</SAMPLE>
+	<SAMPLE alias="RS_MER_L2_5" center_name="Minderoo Foundation">
+	<TITLE>Metagenome or environmental sample from marine metagenome</TITLE>
+	<SAMPLE_NAME>
+		<TAXON_ID>408172</TAXON_ID>
+		<SCIENTIFIC_NAME>marine metagenome</SCIENTIFIC_NAME>
+		<COMMON_NAME></COMMON_NAME>
+	</SAMPLE_NAME>
+	<DESCRIPTION>M11-BT</DESCRIPTION>
+	<SAMPLE_ATTRIBUTES>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>collection date</TAG>
+			<VALUE>2021-02-01</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>filtration_device</TAG>
+			<VALUE>Grover pump</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environmental package</TAG>
+			<VALUE>water</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>rel_to_oxygen</TAG>
+			<VALUE>aerobe</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>replicate_id</TAG>
+			<VALUE>5</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>organism</TAG>
+			<VALUE>marine metagenome</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (country and/or sea)</TAG>
+			<VALUE>Indian Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geo_loc_name</TAG>
+			<VALUE>Australia: Indian Ocean, Rowley Shoals Islands, Mermaid</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>control_sample</TAG>
+			<VALUE>FALSE</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>isolation_source</TAG>
+			<VALUE>Ocean water sample</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (latitude)</TAG>
+			<VALUE>-17.132954</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (longitude)</TAG>
+			<VALUE>119.633743</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environment (biome)</TAG>
+			<VALUE>Lagoon</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>ENA-CHECKLIST</TAG>
+			<VALUE>ERC000011</VALUE>
+		</SAMPLE_ATTRIBUTE>
+	</SAMPLE_ATTRIBUTES>
+	</SAMPLE>
+	<SAMPLE alias="RS_MER_S1_1" center_name="Minderoo Foundation">
+	<TITLE>Metagenome or environmental sample from marine metagenome</TITLE>
+	<SAMPLE_NAME>
+		<TAXON_ID>408172</TAXON_ID>
+		<SCIENTIFIC_NAME>marine metagenome</SCIENTIFIC_NAME>
+		<COMMON_NAME></COMMON_NAME>
+	</SAMPLE_NAME>
+	<DESCRIPTION>RS1-1</DESCRIPTION>
+	<SAMPLE_ATTRIBUTES>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>collection date</TAG>
+			<VALUE>2021-02-01</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>filtration_device</TAG>
+			<VALUE>Grover pump</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environmental package</TAG>
+			<VALUE>water</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>rel_to_oxygen</TAG>
+			<VALUE>aerobe</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>replicate_id</TAG>
+			<VALUE>1</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>organism</TAG>
+			<VALUE>marine metagenome</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (country and/or sea)</TAG>
+			<VALUE>Indian Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geo_loc_name</TAG>
+			<VALUE>Australia: Indian Ocean, Rowley Shoals Islands, Mermaid</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>control_sample</TAG>
+			<VALUE>FALSE</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>isolation_source</TAG>
+			<VALUE>Ocean water sample</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (latitude)</TAG>
+			<VALUE>-17.065952</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (longitude)</TAG>
+			<VALUE>119.649689</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environment (biome)</TAG>
+			<VALUE>Slope</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>ENA-CHECKLIST</TAG>
+			<VALUE>ERC000011</VALUE>
+		</SAMPLE_ATTRIBUTE>
+	</SAMPLE_ATTRIBUTES>
+	</SAMPLE>
+	<SAMPLE alias="RS_MER_S1_2" center_name="Minderoo Foundation">
+	<TITLE>Metagenome or environmental sample from marine metagenome</TITLE>
+	<SAMPLE_NAME>
+		<TAXON_ID>408172</TAXON_ID>
+		<SCIENTIFIC_NAME>marine metagenome</SCIENTIFIC_NAME>
+		<COMMON_NAME></COMMON_NAME>
+	</SAMPLE_NAME>
+	<DESCRIPTION>RS1-1</DESCRIPTION>
+	<SAMPLE_ATTRIBUTES>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>collection date</TAG>
+			<VALUE>2021-02-01</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>filtration_device</TAG>
+			<VALUE>Grover pump</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environmental package</TAG>
+			<VALUE>water</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>rel_to_oxygen</TAG>
+			<VALUE>aerobe</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>replicate_id</TAG>
+			<VALUE>2</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>organism</TAG>
+			<VALUE>marine metagenome</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (country and/or sea)</TAG>
+			<VALUE>Indian Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geo_loc_name</TAG>
+			<VALUE>Australia: Indian Ocean, Rowley Shoals Islands, Mermaid</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>control_sample</TAG>
+			<VALUE>FALSE</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>isolation_source</TAG>
+			<VALUE>Ocean water sample</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (latitude)</TAG>
+			<VALUE>-17.065952</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (longitude)</TAG>
+			<VALUE>119.649689</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environment (biome)</TAG>
+			<VALUE>Slope</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>ENA-CHECKLIST</TAG>
+			<VALUE>ERC000011</VALUE>
+		</SAMPLE_ATTRIBUTE>
+	</SAMPLE_ATTRIBUTES>
+	</SAMPLE>
+	<SAMPLE alias="RS_MER_S1_3" center_name="Minderoo Foundation">
+	<TITLE>Metagenome or environmental sample from marine metagenome</TITLE>
+	<SAMPLE_NAME>
+		<TAXON_ID>408172</TAXON_ID>
+		<SCIENTIFIC_NAME>marine metagenome</SCIENTIFIC_NAME>
+		<COMMON_NAME></COMMON_NAME>
+	</SAMPLE_NAME>
+	<DESCRIPTION>RS1-1</DESCRIPTION>
+	<SAMPLE_ATTRIBUTES>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>collection date</TAG>
+			<VALUE>2021-02-01</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>filtration_device</TAG>
+			<VALUE>Grover pump</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environmental package</TAG>
+			<VALUE>water</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>rel_to_oxygen</TAG>
+			<VALUE>aerobe</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>replicate_id</TAG>
+			<VALUE>3</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>organism</TAG>
+			<VALUE>marine metagenome</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (country and/or sea)</TAG>
+			<VALUE>Indian Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geo_loc_name</TAG>
+			<VALUE>Australia: Indian Ocean, Rowley Shoals Islands, Mermaid</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>control_sample</TAG>
+			<VALUE>FALSE</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>isolation_source</TAG>
+			<VALUE>Ocean water sample</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (latitude)</TAG>
+			<VALUE>-17.065952</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (longitude)</TAG>
+			<VALUE>119.649689</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environment (biome)</TAG>
+			<VALUE>Slope</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>ENA-CHECKLIST</TAG>
+			<VALUE>ERC000011</VALUE>
+		</SAMPLE_ATTRIBUTE>
+	</SAMPLE_ATTRIBUTES>
+	</SAMPLE>
+	<SAMPLE alias="RS_MER_S1_4" center_name="Minderoo Foundation">
+	<TITLE>Metagenome or environmental sample from marine metagenome</TITLE>
+	<SAMPLE_NAME>
+		<TAXON_ID>408172</TAXON_ID>
+		<SCIENTIFIC_NAME>marine metagenome</SCIENTIFIC_NAME>
+		<COMMON_NAME></COMMON_NAME>
+	</SAMPLE_NAME>
+	<DESCRIPTION>RS1-1</DESCRIPTION>
+	<SAMPLE_ATTRIBUTES>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>collection date</TAG>
+			<VALUE>2021-02-01</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>filtration_device</TAG>
+			<VALUE>Grover pump</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environmental package</TAG>
+			<VALUE>water</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>rel_to_oxygen</TAG>
+			<VALUE>aerobe</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>replicate_id</TAG>
+			<VALUE>4</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>organism</TAG>
+			<VALUE>marine metagenome</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (country and/or sea)</TAG>
+			<VALUE>Indian Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geo_loc_name</TAG>
+			<VALUE>Australia: Indian Ocean, Rowley Shoals Islands, Mermaid</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>control_sample</TAG>
+			<VALUE>FALSE</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>isolation_source</TAG>
+			<VALUE>Ocean water sample</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (latitude)</TAG>
+			<VALUE>-17.065952</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (longitude)</TAG>
+			<VALUE>119.649689</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environment (biome)</TAG>
+			<VALUE>Slope</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>ENA-CHECKLIST</TAG>
+			<VALUE>ERC000011</VALUE>
+		</SAMPLE_ATTRIBUTE>
+	</SAMPLE_ATTRIBUTES>
+	</SAMPLE>
+	<SAMPLE alias="RS_MER_S1_5" center_name="Minderoo Foundation">
+	<TITLE>Metagenome or environmental sample from marine metagenome</TITLE>
+	<SAMPLE_NAME>
+		<TAXON_ID>408172</TAXON_ID>
+		<SCIENTIFIC_NAME>marine metagenome</SCIENTIFIC_NAME>
+		<COMMON_NAME></COMMON_NAME>
+	</SAMPLE_NAME>
+	<DESCRIPTION>RS1-1</DESCRIPTION>
+	<SAMPLE_ATTRIBUTES>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>collection date</TAG>
+			<VALUE>2021-02-01</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>filtration_device</TAG>
+			<VALUE>Grover pump</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environmental package</TAG>
+			<VALUE>water</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>rel_to_oxygen</TAG>
+			<VALUE>aerobe</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>replicate_id</TAG>
+			<VALUE>5</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>organism</TAG>
+			<VALUE>marine metagenome</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (country and/or sea)</TAG>
+			<VALUE>Indian Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geo_loc_name</TAG>
+			<VALUE>Australia: Indian Ocean, Rowley Shoals Islands, Mermaid</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>control_sample</TAG>
+			<VALUE>FALSE</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>isolation_source</TAG>
+			<VALUE>Ocean water sample</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (latitude)</TAG>
+			<VALUE>-17.065952</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (longitude)</TAG>
+			<VALUE>119.649689</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environment (biome)</TAG>
+			<VALUE>Slope</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>ENA-CHECKLIST</TAG>
+			<VALUE>ERC000011</VALUE>
+		</SAMPLE_ATTRIBUTE>
+	</SAMPLE_ATTRIBUTES>
+	</SAMPLE>
+	<SAMPLE alias="RS_MER_S2_1" center_name="Minderoo Foundation">
+	<TITLE>Metagenome or environmental sample from marine metagenome</TITLE>
+	<SAMPLE_NAME>
+		<TAXON_ID>408172</TAXON_ID>
+		<SCIENTIFIC_NAME>marine metagenome</SCIENTIFIC_NAME>
+		<COMMON_NAME></COMMON_NAME>
+	</SAMPLE_NAME>
+	<DESCRIPTION>RS1-S</DESCRIPTION>
+	<SAMPLE_ATTRIBUTES>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>collection date</TAG>
+			<VALUE>2021-02-01</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>filtration_device</TAG>
+			<VALUE>Grover pump</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environmental package</TAG>
+			<VALUE>water</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>rel_to_oxygen</TAG>
+			<VALUE>aerobe</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>replicate_id</TAG>
+			<VALUE>1</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>organism</TAG>
+			<VALUE>marine metagenome</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (country and/or sea)</TAG>
+			<VALUE>Indian Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geo_loc_name</TAG>
+			<VALUE>Australia: Indian Ocean, Rowley Shoals Islands, Mermaid</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>control_sample</TAG>
+			<VALUE>FALSE</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>isolation_source</TAG>
+			<VALUE>Ocean water sample</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (latitude)</TAG>
+			<VALUE>-17.1309</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (longitude)</TAG>
+			<VALUE>119.6614</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environment (biome)</TAG>
+			<VALUE>Slope</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>ENA-CHECKLIST</TAG>
+			<VALUE>ERC000011</VALUE>
+		</SAMPLE_ATTRIBUTE>
+	</SAMPLE_ATTRIBUTES>
+	</SAMPLE>
+	<SAMPLE alias="RS_MER_S2_2" center_name="Minderoo Foundation">
+	<TITLE>Metagenome or environmental sample from marine metagenome</TITLE>
+	<SAMPLE_NAME>
+		<TAXON_ID>408172</TAXON_ID>
+		<SCIENTIFIC_NAME>marine metagenome</SCIENTIFIC_NAME>
+		<COMMON_NAME></COMMON_NAME>
+	</SAMPLE_NAME>
+	<DESCRIPTION>RS1-S</DESCRIPTION>
+	<SAMPLE_ATTRIBUTES>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>collection date</TAG>
+			<VALUE>2021-02-01</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>filtration_device</TAG>
+			<VALUE>Grover pump</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environmental package</TAG>
+			<VALUE>water</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>rel_to_oxygen</TAG>
+			<VALUE>aerobe</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>replicate_id</TAG>
+			<VALUE>2</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>organism</TAG>
+			<VALUE>marine metagenome</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (country and/or sea)</TAG>
+			<VALUE>Indian Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geo_loc_name</TAG>
+			<VALUE>Australia: Indian Ocean, Rowley Shoals Islands, Mermaid</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>control_sample</TAG>
+			<VALUE>FALSE</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>isolation_source</TAG>
+			<VALUE>Ocean water sample</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (latitude)</TAG>
+			<VALUE>-17.1309</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (longitude)</TAG>
+			<VALUE>119.6614</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environment (biome)</TAG>
+			<VALUE>Slope</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>ENA-CHECKLIST</TAG>
+			<VALUE>ERC000011</VALUE>
+		</SAMPLE_ATTRIBUTE>
+	</SAMPLE_ATTRIBUTES>
+	</SAMPLE>
+	<SAMPLE alias="RS_MER_S2_3" center_name="Minderoo Foundation">
+	<TITLE>Metagenome or environmental sample from marine metagenome</TITLE>
+	<SAMPLE_NAME>
+		<TAXON_ID>408172</TAXON_ID>
+		<SCIENTIFIC_NAME>marine metagenome</SCIENTIFIC_NAME>
+		<COMMON_NAME></COMMON_NAME>
+	</SAMPLE_NAME>
+	<DESCRIPTION>RS1-S</DESCRIPTION>
+	<SAMPLE_ATTRIBUTES>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>collection date</TAG>
+			<VALUE>2021-02-01</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>filtration_device</TAG>
+			<VALUE>Grover pump</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environmental package</TAG>
+			<VALUE>water</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>rel_to_oxygen</TAG>
+			<VALUE>aerobe</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>replicate_id</TAG>
+			<VALUE>3</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>organism</TAG>
+			<VALUE>marine metagenome</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (country and/or sea)</TAG>
+			<VALUE>Indian Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geo_loc_name</TAG>
+			<VALUE>Australia: Indian Ocean, Rowley Shoals Islands, Mermaid</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>control_sample</TAG>
+			<VALUE>FALSE</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>isolation_source</TAG>
+			<VALUE>Ocean water sample</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (latitude)</TAG>
+			<VALUE>-17.1309</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (longitude)</TAG>
+			<VALUE>119.6614</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environment (biome)</TAG>
+			<VALUE>Slope</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>ENA-CHECKLIST</TAG>
+			<VALUE>ERC000011</VALUE>
+		</SAMPLE_ATTRIBUTE>
+	</SAMPLE_ATTRIBUTES>
+	</SAMPLE>
+	<SAMPLE alias="RS_MER_S2_4" center_name="Minderoo Foundation">
+	<TITLE>Metagenome or environmental sample from marine metagenome</TITLE>
+	<SAMPLE_NAME>
+		<TAXON_ID>408172</TAXON_ID>
+		<SCIENTIFIC_NAME>marine metagenome</SCIENTIFIC_NAME>
+		<COMMON_NAME></COMMON_NAME>
+	</SAMPLE_NAME>
+	<DESCRIPTION>RS1-S</DESCRIPTION>
+	<SAMPLE_ATTRIBUTES>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>collection date</TAG>
+			<VALUE>2021-02-01</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>filtration_device</TAG>
+			<VALUE>Grover pump</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environmental package</TAG>
+			<VALUE>water</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>rel_to_oxygen</TAG>
+			<VALUE>aerobe</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>replicate_id</TAG>
+			<VALUE>4</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>organism</TAG>
+			<VALUE>marine metagenome</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (country and/or sea)</TAG>
+			<VALUE>Indian Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geo_loc_name</TAG>
+			<VALUE>Australia: Indian Ocean, Rowley Shoals Islands, Mermaid</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>control_sample</TAG>
+			<VALUE>FALSE</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>isolation_source</TAG>
+			<VALUE>Ocean water sample</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (latitude)</TAG>
+			<VALUE>-17.1309</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (longitude)</TAG>
+			<VALUE>119.6614</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environment (biome)</TAG>
+			<VALUE>Slope</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>ENA-CHECKLIST</TAG>
+			<VALUE>ERC000011</VALUE>
+		</SAMPLE_ATTRIBUTE>
+	</SAMPLE_ATTRIBUTES>
+	</SAMPLE>
+	<SAMPLE alias="RS_MER_S2_5" center_name="Minderoo Foundation">
+	<TITLE>Metagenome or environmental sample from marine metagenome</TITLE>
+	<SAMPLE_NAME>
+		<TAXON_ID>408172</TAXON_ID>
+		<SCIENTIFIC_NAME>marine metagenome</SCIENTIFIC_NAME>
+		<COMMON_NAME></COMMON_NAME>
+	</SAMPLE_NAME>
+	<DESCRIPTION>RS1-S</DESCRIPTION>
+	<SAMPLE_ATTRIBUTES>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>collection date</TAG>
+			<VALUE>2021-02-01</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>filtration_device</TAG>
+			<VALUE>Grover pump</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environmental package</TAG>
+			<VALUE>water</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>rel_to_oxygen</TAG>
+			<VALUE>aerobe</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>replicate_id</TAG>
+			<VALUE>5</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>organism</TAG>
+			<VALUE>marine metagenome</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (country and/or sea)</TAG>
+			<VALUE>Indian Ocean</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geo_loc_name</TAG>
+			<VALUE>Australia: Indian Ocean, Rowley Shoals Islands, Mermaid</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>control_sample</TAG>
+			<VALUE>FALSE</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>isolation_source</TAG>
+			<VALUE>Ocean water sample</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (latitude)</TAG>
+			<VALUE>-17.1309</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>geographic location (longitude)</TAG>
+			<VALUE>119.6614</VALUE>
+			<UNITS>DD</UNITS>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>environment (biome)</TAG>
+			<VALUE>Slope</VALUE>
+		</SAMPLE_ATTRIBUTE>
+		<SAMPLE_ATTRIBUTE>
+			<TAG>ENA-CHECKLIST</TAG>
+			<VALUE>ERC000011</VALUE>
+		</SAMPLE_ATTRIBUTE>
+	</SAMPLE_ATTRIBUTES>
+	</SAMPLE>
+</SAMPLE_SET>

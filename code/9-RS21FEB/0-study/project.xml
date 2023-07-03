@@ -1,0 +1,9 @@
+<PROJECT_SET>
+   <PROJECT alias="RS21FEB">
+      <TITLE>FLO-OceanOmics Rowley Shoals 2021 eDNA sequencing</TITLE>
+      <DESCRIPTION>Sequencing eDNA (partial 12S rRNA and 16S rRNA) from water samples around the Rowley Shoals Islands, sampled 2021, resequenced. The samples are identical to PRJNA930913 but the demultiplexing method is different leading to a roughly 100% increase in reads. PRJNA930913 assumes that forward primers are in R1 and reverse primers are in R2, while this project assumes that forward primers are also in R2, and reverse primers are also in R1. When using this data, please acknowledge the Minderoo Foundation using this text in your Acknowledgments section: 'We would like to thank the Minderoo Foundation for sequencing reads deposited in (Project ID)'.</DESCRIPTION>
+      <SUBMISSION_PROJECT>
+         <SEQUENCING_PROJECT/>
+      </SUBMISSION_PROJECT>
+   </PROJECT>
+</PROJECT_SET>
